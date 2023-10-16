@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuHome"
+        android:title="Trang chủ"
+        android:icon="@drawable/home_ic_bottom_nav_1">
+    </item>
+    <item
+        android:id="@+id/mnuStorage"
+        android:title="Lưu trữ"
+        android:icon="@drawable/home_ic_bottom_nav_2">
+    </item>
+    <item
+        android:id="@+id/mnuTest"
+        android:title="Kiểm tra"
+        android:icon="@drawable/home_ic_bottom_nav_3">
+    </item>
+    <item
+        android:id="@+id/mnuSettings"
+        android:title="Cài đặt"
+        android:icon="@drawable/home_ic_bottom_nav_4">
+    </item>
+</menu>

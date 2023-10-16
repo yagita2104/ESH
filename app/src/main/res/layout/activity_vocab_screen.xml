@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.home.VocabScreen">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d7f2cb">
+        <ImageView
+            android:id="@+id/btnBackStorage"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="20dip"
+            android:layout_marginTop="20dip"
+            android:layout_marginEnd="20dip"
+            android:layout_marginBottom="20dip"
+            android:src="@drawable/ic_button_back" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="20dip"
+            android:layout_marginTop="20dip"
+            android:layout_marginEnd="20dip"
+            android:layout_marginBottom="20dip"
+            android:text="Lưu trữ"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+        <ImageView
+            android:id="@+id/btnListVocab"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="20dip"
+            android:layout_marginTop="20dip"
+            android:layout_marginEnd="20dip"
+            android:layout_marginBottom="20dip"
+            android:src="@drawable/ic_button_list" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="300dip"
+        android:layout_height="400dip"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_margin="18dip"
+            android:src="@drawable/ic_volume" />
+
+        <TextView
+            android:id="@+id/txtWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dip"
+            android:layout_marginTop="20dip"
+            android:layout_marginEnd="20dip"
+            android:layout_marginBottom="10dip"
+            android:text="Blockchain"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtSpelling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtWord"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dip"
+            android:text="/blaktʃeɪn/" />
+
+        <ImageView
+            android:id="@+id/imgIllustration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtSpelling"
+            android:src="@drawable/vocab_test" />
+
+        <TextView
+            android:id="@+id/txtWordTranslate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgIllustration"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dip"
+            android:text="Chuỗi khối"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtSentences"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtWordTranslate"
+            android:layout_marginStart="5dip"
+            android:layout_marginTop="5dip"
+            android:layout_marginEnd="5dip"
+            android:layout_marginBottom="5dip"
+            android:text="Blockchain is likely to become the key technology behind many central bank digital currencies."
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="30dip"
+            android:src="@drawable/button_back" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+            <ImageView
+                android:layout_toRightOf="@+id/btnBack"
+                android:id="@+id/btnUnknown"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:layout_marginRight="60dip"
+                android:src="@drawable/ic_unknown"/>
+            <ImageView
+                android:layout_toRightOf="@+id/btnUnknown"
+                android:id="@+id/btnKnow"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:src="@drawable/ic_known"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btnNext"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="30dip"
+            android:src="@drawable/button_next" />
+    </RelativeLayout>
+</RelativeLayout>

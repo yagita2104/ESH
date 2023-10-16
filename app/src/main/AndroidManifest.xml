@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ESH"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity.settings.FeedbackScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.settings.NotificationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.settings.SpecializedScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.ContributeRankScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.ContributeVocabScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.ContributeProfileScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.storage.VocabUnknown"
+            android:exported="false" />
+        <activity
+            android:name=".activity.storage.VocabKnown"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.StatisticScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.ExerciseScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.VocabAllScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.home.VocabScreen"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

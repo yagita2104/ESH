@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottom_nav">#ececec</color>
+    <color name="home_color_button_1">#d8f2cb</color>
+    <color name="home_color_button_2">#ffd9bf</color>
+    <color name="home_color_button_3">#cfdfff</color>
+    <color name="home_color_button_4">#fff4b7</color>
+</resources>

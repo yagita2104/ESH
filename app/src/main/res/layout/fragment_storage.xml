@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.TestFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:padding="15dp"
+        android:gravity="center"
+        android:background="#ebebeb"
+        android:text="Lưu trữ"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnVocabKnow"
+            android:layout_width="250dip"
+            android:layout_height="wrap_content"
+            android:padding="60dip"
+            android:layout_margin="20dip"
+            android:text="Từ vựng đã học 24/100"
+            android:backgroundTint="@color/home_color_button_1"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnVocabUnknow"
+            android:layout_width="250dip"
+            android:layout_height="wrap_content"
+            android:padding="60dip"
+            android:layout_margin="20dip"
+            android:text="Từ vựng chưa rõ 10"
+            android:backgroundTint="@color/home_color_button_2"/>
+    </LinearLayout>
+
+</RelativeLayout>

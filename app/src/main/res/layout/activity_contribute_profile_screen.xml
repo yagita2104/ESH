@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.home.ContributeProfileScreen">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ebebeb">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp">
+            <ImageView
+                android:id="@+id/btnBackContribute"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="start|center_vertical"
+                android:src="@drawable/ic_button_back" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Đóng góp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+            <ImageView
+                android:id="@+id/imgRank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/contribute_ic_rank"
+                android:layout_gravity="end"/>
+        </FrameLayout>
+    </FrameLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="THÔNG TIN CÁ NHÂN"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:padding="10dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4"
+            android:padding="10dp"
+            android:layout_margin="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Email:"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:textColor="@color/black"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4"
+            android:padding="10dp"
+            android:layout_margin="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Tên SV:"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:textColor="@color/black"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4"
+            android:padding="10dp"
+            android:layout_margin="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Mã SV:"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:textColor="@color/black"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"/>
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnContinueVocab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tiếp theo"
+            android:layout_gravity="center"
+            android:padding="20dp"
+            android:layout_margin="40dp"
+            android:background="#fff4b7"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.SettingsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="Cài đặt"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:background="#ebebeb"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dip"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnLanguage"
+            android:backgroundTint="@color/bottom_nav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:drawableLeft="@drawable/settings_ic_button_1"
+            android:drawablePadding="20dip"
+            android:gravity="left|center_vertical"
+            android:padding="20dip"
+            android:text="Ngôn ngữ" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSpecialized"
+            android:backgroundTint="@color/bottom_nav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dip"
+            android:layout_margin="10dip"
+            android:drawableLeft="@drawable/settings_ic_button_2"
+            android:drawablePadding="20dip"
+            android:gravity="left|center_vertical"
+            android:text="Chuyên ngành"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnNotification"
+            android:backgroundTint="@color/bottom_nav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dip"
+            android:layout_margin="10dip"
+            android:drawableLeft="@drawable/settings_ic_button_3"
+            android:drawablePadding="20dip"
+            android:gravity="left|center_vertical"
+            android:text="Thông báo"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnFeedback"
+            android:backgroundTint="@color/bottom_nav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dip"
+            android:layout_margin="10dip"
+            android:drawableLeft="@drawable/settings_ic_button_4"
+            android:drawablePadding="20dip"
+            android:gravity="left|center_vertical"
+            android:text="Phản hồi"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnMoreSettings"
+            android:backgroundTint="@color/bottom_nav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dip"
+            android:layout_margin="10dip"
+            android:drawableLeft="@drawable/settings_ic_button_5"
+            android:drawablePadding="20dip"
+            android:gravity="left|center_vertical"
+            android:text="Cài đặt khác"/>
+    </LinearLayout>
+
+</RelativeLayout>
