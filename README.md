@@ -4,3 +4,4 @@
 - 27/08/2023: Update layout Từ vựng
 - 28/08/2023: Update layout Bài tập
 - 22/09/2023: Hoàn thiện tất cả phần giao diện (Trừ bài tập do chưa có dữ liệu)
+- 16/10/2023: Update layout Trắc nghiệm + Xử lý dữ liệu
