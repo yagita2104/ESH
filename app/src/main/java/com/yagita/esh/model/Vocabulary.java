@@ -1,5 +1,7 @@
 package com.yagita.esh.model;
 
+import java.io.Serializable;
+
 public class Vocabulary {
     private String word;
     private String spelling;

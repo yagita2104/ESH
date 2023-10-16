@@ -10,12 +10,12 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
+        android:background="#ebebeb"
         android:gravity="center"
+        android:padding="15dp"
         android:text="Cài đặt"
         android:textColor="@color/black"
-        android:textSize="20sp"
-        android:padding="15dp"
-        android:background="#ebebeb"/>
+        android:textSize="20sp" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

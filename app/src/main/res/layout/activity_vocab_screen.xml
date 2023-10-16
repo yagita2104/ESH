@@ -50,7 +50,10 @@
         <ImageView
             android:layout_width="30dip"
             android:layout_height="30dip"
-            android:layout_margin="18dip"
+            android:layout_marginStart="18dip"
+            android:layout_marginTop="18dip"
+            android:layout_marginEnd="18dip"
+            android:layout_marginBottom="18dip"
             android:src="@drawable/ic_volume" />
 
         <TextView

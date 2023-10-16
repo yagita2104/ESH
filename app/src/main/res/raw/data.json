@@ -1,0 +1,122 @@
+[
+  {
+    "ID": "EIT11",
+    "E": "Apple",
+    "SE": "Quả táo",
+    "EX": "An apple a day keeps the doctor away.",
+    "TA": [
+      "Trái cây",
+      "Nước",
+      "Mùa hè"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT12",
+    "E": "Banana",
+    "SE": "Quả chuối",
+    "EX": "She ate a banana for breakfast.",
+    "TA": [
+      "Điều hòa",
+      "Đèn",
+      "Xe bus"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT13",
+    "E": "Orange",
+    "SE": "Quả cam",
+    "EX": "He peeled the orange carefully.",
+    "TA": [
+      "Biển",
+      "Sách",
+      "Trường học"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT14",
+    "E": "Grapes",
+    "SE": "Nho",
+    "EX": "She enjoyed a bunch of grapes.",
+    "TA": [
+      "Điện thoại",
+      "Máy tính",
+      "Phím chuột"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT15",
+    "E": "Kiwi",
+    "SE": "Quả kiwi",
+    "EX": "The kiwi is rich in vitamin C.",
+    "TA": [
+      "Bút chì",
+      "Giáo viên",
+      "Điện thoại di động"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT16",
+    "E": "Watermelon",
+    "SE": "Dưa hấu",
+    "EX": "We enjoyed juicy watermelon on a hot day.",
+    "TA": [
+      "Nhạc",
+      "Điện ảnh",
+      "Du lịch"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT17",
+    "E": "Pineapple",
+    "SE": "Dứa",
+    "EX": "The pineapple was sweet and refreshing.",
+    "TA": [
+      "Thể thao",
+      "Nghệ thuật",
+      "Khoa học"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT18",
+    "E": "Mango",
+    "SE": "Quả xoài",
+    "EX": "She savored the delicious flavor of mango.",
+    "TA": [
+      "Trời",
+      "Sao",
+      "Đám mây"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT19",
+    "E": "Pear",
+    "SE": "Quả lê",
+    "EX": "He took a bite of the juicy pear.",
+    "TA": [
+      "Góc phòng",
+      "Cửa sổ",
+      "Đèn trần"
+    ],
+    "S": 0
+  },
+  {
+    "ID": "EIT110",
+    "E": "Strawberry",
+    "SE": "Quả dâu tây",
+    "EX": "She put fresh strawberries in her cereal.",
+    "TA": [
+      "Đường",
+      "Bánh mì",
+      "Sữa"
+    ],
+    "S": 0
+  }
+]

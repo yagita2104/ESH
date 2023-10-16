@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ESH"
         tools:targetApi="31">
         <activity
+            android:name=".activity.home.exercise.QuizScreen"
+            android:exported="false" />
+        <activity
             android:name=".activity.settings.FeedbackScreen"
             android:exported="false" />
         <activity

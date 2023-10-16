@@ -42,6 +42,7 @@
         android:layout_margin="20dip"
         android:layout_centerInParent="true">
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnQuiz"
             android:layout_width="130dp"
             android:layout_height="100dp"
             android:text="Trắc nghiệm"

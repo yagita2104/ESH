@@ -39,4 +39,5 @@ dependencies {
 
     //Các thư viện thêm khi code
     implementation("de.hdodenhof:circleimageview:3.1.0") //tạo ảnh hình tròn
+    implementation("com.google.code.gson:gson:2.9.0")
 }
