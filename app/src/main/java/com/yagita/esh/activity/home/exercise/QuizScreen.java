@@ -7,6 +7,7 @@ import androidx.core.content.ContextCompat;
 import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -30,11 +31,13 @@ import java.util.Random;
 
 public class QuizScreen extends AppCompatActivity {
     ImageView btnBackQuiz;
-    TextView txtQuizText;
+    TextView txtQuizText, txtCountDown;
     Button btnQuizAnswer0, btnQuizAnswer1, btnQuizAnswer2, btnQuizAnswer3, btnNextQuiz;
     int random_number = 0;
     List<JsonVocab> jsonVocabList;
     int index = 0;
+    private CountDownTimer countDownTimer;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,6 +58,8 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer1 = findViewById(R.id.btnQuizAnswer1);
         btnQuizAnswer2 = findViewById(R.id.btnQuizAnswer2);
         btnQuizAnswer3 = findViewById(R.id.btnQuizAnswer3);
+
+        txtCountDown = findViewById(R.id.txtCountDownQuiz);
     }
     public void getData(){
         JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
@@ -67,10 +72,10 @@ public class QuizScreen extends AppCompatActivity {
         jsonVocabList = gson.fromJson(data, listType);
     }
     public void setItem(JsonVocab jsonVocab){
-        txtQuizText.setText(jsonVocab.getE());
+        txtQuizText.setText(jsonVocab.getEnglish());
         ArrayList<Integer> listAnswer = selectNumberRandom();
-        List<String> answer = jsonVocab.getTA();
-        answer.add(jsonVocab.getSE());
+        List<String> answer = jsonVocab.getEnglish_Vocabulary_Test();
+        answer.add(jsonVocab.getSub_English());
         System.out.println(listAnswer);
         btnQuizAnswer0.setText(answer.get(listAnswer.get(0)));
         btnQuizAnswer1.setText(answer.get(listAnswer.get(1)));
@@ -94,6 +99,18 @@ public class QuizScreen extends AppCompatActivity {
         }
         return result;
     }
+    private void startCountdownTimer() {
+        countDownTimer = new CountDownTimer(5000, 1000) {
+            public void onTick(long millisUntilFinished) {
+                long seconds = millisUntilFinished / 1000;
+                txtCountDown.setText("Đang quay lại trong " + seconds + " giây...");
+            }
+
+            public void onFinish() {
+                onBackPressed();
+            }
+        }.start();
+    }
     private void addAction() {
         btnBackQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -111,9 +128,10 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
-
-                }else{
-                    Toast.makeText(QuizScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
+                    btnNextQuiz.setVisibility(View.INVISIBLE);
+                }else {
+                    btnNextQuiz.setText("Bạn đã hoàn thành bài tập hôm nay");
+                    startCountdownTimer();
                 }
             }
         });
@@ -121,13 +139,11 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer0.getText().toString();
-                if(jsonVocabList.get(index).getSE().equals(answer)){
-                    Toast.makeText(QuizScreen.this, "True", Toast.LENGTH_SHORT).show();
+                if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                 }
                 else {
-                    Toast.makeText(QuizScreen.this, "false", Toast.LENGTH_SHORT).show();
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
                 }
             }
@@ -136,13 +152,11 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer1.getText().toString();
-                if(jsonVocabList.get(index).getSE().equals(answer)){
-                    Toast.makeText(QuizScreen.this, "True", Toast.LENGTH_SHORT).show();
+                if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                 }
                 else {
-                    Toast.makeText(QuizScreen.this, "false", Toast.LENGTH_SHORT).show();
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
                 }
             }
@@ -151,13 +165,11 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer2.getText().toString();
-                if(jsonVocabList.get(index).getSE().equals(answer)){
-                    Toast.makeText(QuizScreen.this, "True", Toast.LENGTH_SHORT).show();
+                if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                 }
                 else {
-                    Toast.makeText(QuizScreen.this, "false", Toast.LENGTH_SHORT).show();
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
                 }
             }
@@ -166,16 +178,15 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer3.getText().toString();
-                if(jsonVocabList.get(index).getSE().equals(answer)){
-                    Toast.makeText(QuizScreen.this, "True", Toast.LENGTH_SHORT).show();
+                if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                 }
                 else {
-                    Toast.makeText(QuizScreen.this, "false", Toast.LENGTH_SHORT).show();
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
                 }
             }
         });
+
     }
 }

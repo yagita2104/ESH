@@ -19,7 +19,6 @@ import com.yagita.esh.adapter.ViewPagerAdapter;
 public class MainActivity extends AppCompatActivity {
     BottomNavigationView bottomNav;
     ViewPager2 viewPager2;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -50,6 +50,7 @@
             android:background="@drawable/rectangle"
             android:backgroundTint="#B3B3B3"/>
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnFill"
             android:layout_width="130dp"
             android:layout_height="100dp"
             android:text="Điền từ"

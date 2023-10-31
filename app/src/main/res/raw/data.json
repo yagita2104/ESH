@@ -1,122 +1,182 @@
 [
   {
-    "ID": "EIT11",
-    "E": "Apple",
-    "SE": "Quả táo",
-    "EX": "An apple a day keeps the doctor away.",
-    "TA": [
+    "ID":"English_Information_Technology_1_1",
+    "English":"Apple",
+    "Sub_English":"Quả táo",
+    "Example":"An apple a day keeps the doctor away.",
+    "English_Vocabulary_Test":[
       "Trái cây",
       "Nước",
       "Mùa hè"
     ],
-    "S": 0
+    "Fill_Blank":"An ______ a day keeps the doctor away.",
+    "Mistake":[
+      "Fruit",
+      "Water",
+      "Summer"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT12",
-    "E": "Banana",
-    "SE": "Quả chuối",
-    "EX": "She ate a banana for breakfast.",
-    "TA": [
+    "ID":"English_Information_Technology_1_2",
+    "English":"Banana",
+    "Sub_English":"Quả chuối",
+    "Example":"She ate a banana for breakfast.",
+    "English_Vocabulary_Test":[
       "Điều hòa",
       "Đèn",
       "Xe bus"
     ],
-    "S": 0
+    "Fill_Blank":"She ate a ______ for breakfast.",
+    "Mistake":[
+      "Air conditioner",
+      "Light",
+      "Bus"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT13",
-    "E": "Orange",
-    "SE": "Quả cam",
-    "EX": "He peeled the orange carefully.",
-    "TA": [
+    "ID":"English_Information_Technology_1_3",
+    "English":"Orange",
+    "Sub_English":"Quả cam",
+    "Example":"He peeled the orange carefully.",
+    "English_Vocabulary_Test":[
       "Biển",
       "Sách",
       "Trường học"
     ],
-    "S": 0
+    "Fill_Blank":"He peeled the ______ carefully.",
+    "Mistake":[
+      "Sea",
+      "Book",
+      "School"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT14",
-    "E": "Grapes",
-    "SE": "Nho",
-    "EX": "She enjoyed a bunch of grapes.",
-    "TA": [
+    "ID":"English_Information_Technology_1_4",
+    "English":"Grapes",
+    "Sub_English":"Nho",
+    "Example":"She enjoyed a bunch of grapes.",
+    "English_Vocabulary_Test":[
       "Điện thoại",
       "Máy tính",
       "Phím chuột"
     ],
-    "S": 0
+    "Fill_Blank":"She enjoyed a bunch of ______.",
+    "Mistake":[
+      "Phone",
+      "Computer",
+      "Mouse"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT15",
-    "E": "Kiwi",
-    "SE": "Quả kiwi",
-    "EX": "The kiwi is rich in vitamin C.",
-    "TA": [
+    "ID":"English_Information_Technology_1_5",
+    "English":"Kiwi",
+    "Sub_English":"Quả kiwi",
+    "Example":"The kiwi is rich in vitamin C.",
+    "English_Vocabulary_Test":[
       "Bút chì",
       "Giáo viên",
       "Điện thoại di động"
     ],
-    "S": 0
+    "Fill_Blank":"The ______ is rich in vitamin C.",
+    "Mistake":[
+      "Pen",
+      "Teacher",
+      "Mobile phone"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT16",
-    "E": "Watermelon",
-    "SE": "Dưa hấu",
-    "EX": "We enjoyed juicy watermelon on a hot day.",
-    "TA": [
+    "ID":"English_Information_Technology_1_6",
+    "English":"Watermelon",
+    "Sub_English":"Dưa hấu",
+    "Example":"We enjoyed juicy watermelon on a hot day.",
+    "English_Vocabulary_Test":[
       "Nhạc",
       "Điện ảnh",
       "Du lịch"
     ],
-    "S": 0
+    "Fill_Blank":"We enjoyed juicy ______ on a hot day.",
+    "Mistake":[
+      "Music",
+      "Cinema",
+      "Travel"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT17",
-    "E": "Pineapple",
-    "SE": "Dứa",
-    "EX": "The pineapple was sweet and refreshing.",
-    "TA": [
+    "ID":"English_Information_Technology_1_7",
+    "English":"Pineapple",
+    "Sub_English":"Dứa",
+    "Example":"The pineapple was sweet and refreshing.",
+    "English_Vocabulary_Test":[
       "Thể thao",
       "Nghệ thuật",
       "Khoa học"
     ],
-    "S": 0
+    "Fill_Blank":"The ______ was sweet and refreshing.",
+    "Mistake":[
+      "Sports",
+      "Art",
+      "Science"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT18",
-    "E": "Mango",
-    "SE": "Quả xoài",
-    "EX": "She savored the delicious flavor of mango.",
-    "TA": [
+    "ID":"English_Information_Technology_1_8",
+    "English":"Mango",
+    "Sub_English":"Quả xoài",
+    "Example":"She savored the delicious flavor of mango.",
+    "English_Vocabulary_Test":[
       "Trời",
       "Sao",
       "Đám mây"
     ],
-    "S": 0
+    "Fill_Blank":"She savored the delicious flavor of ______.",
+    "Mistake":[
+      "Sky",
+      "Star",
+      "Cloud"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT19",
-    "E": "Pear",
-    "SE": "Quả lê",
-    "EX": "He took a bite of the juicy pear.",
-    "TA": [
+    "ID":"English_Information_Technology_1_9",
+    "English":"Pear",
+    "Sub_English":"Quả lê",
+    "Example":"He took a bite of the juicy pear.",
+    "English_Vocabulary_Test":[
       "Góc phòng",
       "Cửa sổ",
       "Đèn trần"
     ],
-    "S": 0
+    "Fill_Blank":"He took a bite of the juicy ______.",
+    "Mistake":[
+      "Corner of the room",
+      "Window",
+      "Ceiling light"
+    ],
+    "Status":0
   },
   {
-    "ID": "EIT110",
-    "E": "Strawberry",
-    "SE": "Quả dâu tây",
-    "EX": "She put fresh strawberries in her cereal.",
-    "TA": [
+    "ID":"English_Information_Technology_1_10",
+    "English":"Strawberry",
+    "Sub_English":"Quả dâu tây",
+    "Example":"She put fresh strawberries in her cereal.",
+    "English_Vocabulary_Test":[
       "Đường",
       "Bánh mì",
       "Sữa"
     ],
-    "S": 0
+    "Fill_Blank":"She put fresh ______ in her cereal.",
+    "Mistake":[
+      "Sugar",
+      "Bread",
+      "Milk"
+    ],
+    "Status":0
   }
 ]

@@ -4,19 +4,23 @@ import java.util.List;
 
 public class JsonVocab {
     private String ID;
-    private String E;
-    private String SE;
-    private String EX;
-    private List<String> TA;
-    private int S;
+    private String English;
+    private String Sub_English;
+    private String Example;
+    private List<String> English_Vocabulary_Test;
+    private String Fill_Blank;
+    private List<String> Mistake;
+    private int Status;
 
-    public JsonVocab(String ID, String e, String SE, String EX, List<String> TA, int s) {
+    public JsonVocab(String ID, String english, String sub_English, String example, List<String> english_Vocabulary_Test, String fill_Blank, List<String> mistake, int status) {
         this.ID = ID;
-        E = e;
-        this.SE = SE;
-        this.EX = EX;
-        this.TA = TA;
-        S = s;
+        English = english;
+        Sub_English = sub_English;
+        Example = example;
+        English_Vocabulary_Test = english_Vocabulary_Test;
+        Fill_Blank = fill_Blank;
+        Mistake = mistake;
+        Status = status;
     }
 
     public String getID() {
@@ -27,43 +31,59 @@ public class JsonVocab {
         this.ID = ID;
     }
 
-    public String getE() {
-        return E;
+    public String getEnglish() {
+        return English;
     }
 
-    public void setE(String e) {
-        E = e;
+    public void setEnglish(String english) {
+        English = english;
     }
 
-    public String getSE() {
-        return SE;
+    public String getSub_English() {
+        return Sub_English;
     }
 
-    public void setSE(String SE) {
-        this.SE = SE;
+    public void setSub_English(String sub_English) {
+        Sub_English = sub_English;
     }
 
-    public String getEX() {
-        return EX;
+    public String getExample() {
+        return Example;
     }
 
-    public void setEX(String EX) {
-        this.EX = EX;
+    public void setExample(String example) {
+        Example = example;
     }
 
-    public List<String> getTA() {
-        return TA;
+    public List<String> getEnglish_Vocabulary_Test() {
+        return English_Vocabulary_Test;
     }
 
-    public void setTA(List<String> TA) {
-        this.TA = TA;
+    public void setEnglish_Vocabulary_Test(List<String> english_Vocabulary_Test) {
+        English_Vocabulary_Test = english_Vocabulary_Test;
     }
 
-    public int getS() {
-        return S;
+    public String getFill_Blank() {
+        return Fill_Blank;
     }
 
-    public void setS(int s) {
-        S = s;
+    public void setFill_Blank(String fill_Blank) {
+        Fill_Blank = fill_Blank;
+    }
+
+    public List<String> getMistake() {
+        return Mistake;
+    }
+
+    public void setMistake(List<String> mistake) {
+        Mistake = mistake;
+    }
+
+    public int getStatus() {
+        return Status;
+    }
+
+    public void setStatus(int status) {
+        Status = status;
     }
 }

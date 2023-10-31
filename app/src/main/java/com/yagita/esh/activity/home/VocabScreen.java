@@ -63,6 +63,14 @@ public class VocabScreen extends AppCompatActivity {
         txtSentences = findViewById(R.id.txtSentences);
         imgIllustration = findViewById(R.id.imgIllustration);
     }
+    private void nextVocab(){
+        if((index + 1) < jsonVocabList.size()){
+            index++;
+            setItem(jsonVocabList.get(index));
+        }else{
+            Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
+        }
+    }
     private void addAction() {
         btnBackStorage.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -79,12 +87,7 @@ public class VocabScreen extends AppCompatActivity {
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if((index + 1) < jsonVocabList.size()){
-                    index++;
-                    setItem(jsonVocabList.get(index));
-                }else{
-                    Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
-                }
+                nextVocab();
             }
         });
         btnBack.setOnClickListener(new View.OnClickListener() {
@@ -102,19 +105,25 @@ public class VocabScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(VocabScreen.this, "Đã học", Toast.LENGTH_SHORT).show();
+                jsonVocabList.get(index).setStatus(1);
+                jsonVocabList.remove(index);
+                setItem(jsonVocabList.get(index));
             }
         });
         btnUnknow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Toast.makeText(VocabScreen.this, "Chưa học", Toast.LENGTH_SHORT).show();
+                nextVocab();
             }
         });
     }
     public void setItem(JsonVocab a){
-        txtWord.setText(a.getE());
-        txtSpelling.setText(a.getE());
-        txtWordTranslate.setText(a.getSE());
-        txtSentences.setText(a.getEX());
+        if (a.getStatus() == 0){
+            txtWord.setText(a.getEnglish());
+            txtSpelling.setText(a.getEnglish());
+            txtWordTranslate.setText(a.getSub_English());
+            txtSentences.setText(a.getExample());
+        }
     }
 }

@@ -9,11 +9,12 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import com.yagita.esh.R;
+import com.yagita.esh.activity.home.exercise.FillBlankScreen;
 import com.yagita.esh.activity.home.exercise.QuizScreen;
 
 public class ExerciseScreen extends AppCompatActivity {
     ImageView btnBackExercise;
-    Button btnQuiz;
+    Button btnQuiz, btnFill;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,6 +25,8 @@ public class ExerciseScreen extends AppCompatActivity {
     private void getWidget() {
         btnBackExercise = findViewById(R.id.btnBackExercise);
         btnQuiz = findViewById(R.id.btnQuiz);
+
+        btnFill = findViewById(R.id.btnFill);
     }
     private void addAction() {
         btnBackExercise.setOnClickListener(new View.OnClickListener() {
@@ -36,6 +39,12 @@ public class ExerciseScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(ExerciseScreen.this, QuizScreen.class));
+            }
+        });
+        btnFill.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(ExerciseScreen.this, FillBlankScreen.class));
             }
         });
     }

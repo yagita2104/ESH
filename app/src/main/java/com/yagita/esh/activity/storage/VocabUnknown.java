@@ -8,8 +8,15 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
+import com.yagita.esh.json.JsonReader;
+import com.yagita.esh.json.JsonVocab;
 
+import org.json.JSONArray;
+
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,13 +25,15 @@ public class VocabUnknown extends AppCompatActivity {
     List<String> listVocabUnKnow = new ArrayList<>();
     ArrayAdapter<String> adapter;
     ImageView btnBack;
+    List<JsonVocab> jsonVocabList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocab_unknown);
         getWidget();
         addAction();
-        fakeData();
+        getData();
+        setData();
     }
     public void getWidget(){
         lvVocabUnKnow = findViewById(R.id.lvVocabUnknown);
@@ -40,12 +49,22 @@ public class VocabUnknown extends AppCompatActivity {
             }
         });
     }
-    public void fakeData(){
-        listVocabUnKnow.add("1");
-        listVocabUnKnow.add("2");
-        listVocabUnKnow.add("3");
-        listVocabUnKnow.add("4");
-        listVocabUnKnow.add("5");
+    public void getData(){
+        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
+        String data = "";
+        if(jsonArray != null){
+            data = jsonArray.toString();
+        }
+        Gson gson = new Gson();
+        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
+        jsonVocabList = gson.fromJson(data, listType);
+    }
+    public void setData(){
+        for (JsonVocab a : jsonVocabList) {
+            if(a.getStatus() == 0){
+                listVocabUnKnow.add(a.getEnglish());
+            }
+        }
         adapter.notifyDataSetChanged();
     }
 }
