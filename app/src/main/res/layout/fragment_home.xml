@@ -6,6 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="10dip"
     tools:context=".fragment.HomeFragment">
+
     <ImageView
         android:id="@+id/imgESH"
         android:layout_width="wrap_content"
@@ -14,8 +15,8 @@
         android:layout_centerInParent="true"
         android:layout_alignParentTop="true"
         android:layout_margin="20dip"
-
         />
+
     <androidx.cardview.widget.CardView
         android:id="@+id/cardViewProfile"
         android:layout_width="match_parent"
@@ -55,7 +56,14 @@
                     android:textColor="@color/black"
                     android:text="Khoa Công nghệ thông tin"/>
             </LinearLayout>
+
         </LinearLayout>
+        <ImageView
+            android:id="@+id/btnEditImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_edit"
+            android:padding="10dp"/>
     </androidx.cardview.widget.CardView>
 
     <RelativeLayout
