@@ -30,6 +30,7 @@
             android:padding="20dip"
             android:background="@color/bottom_nav">
             <ImageView
+                android:id="@+id/imgViewProfile"
                 android:layout_width="50dip"
                 android:layout_height="50dip"
                 android:layout_margin="10dip"

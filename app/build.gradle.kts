@@ -42,6 +42,4 @@ dependencies {
     //Các thư viện thêm khi code
     implementation("de.hdodenhof:circleimageview:3.1.0") //tạo ảnh hình tròn
     implementation("com.google.code.gson:gson:2.9.0")
-    implementation ("com.github.dhaval2404:imagepicker:2.1")
-    implementation ("com.github.dhaval2404:imagepicker-support:1.7.1")
 }

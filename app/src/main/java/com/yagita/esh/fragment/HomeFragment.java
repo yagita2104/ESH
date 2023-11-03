@@ -1,14 +1,29 @@
 package com.yagita.esh.fragment;
 
+import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.contract.ActivityResultContracts;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.RequiresApi;
 import androidx.fragment.app.Fragment;
 
+import android.preference.PreferenceManager;
+import android.provider.MediaStore;
+import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 
 import com.google.android.gms.cast.framework.media.ImagePicker;
 import com.yagita.esh.R;
@@ -17,8 +32,13 @@ import com.yagita.esh.activity.home.ExerciseScreen;
 import com.yagita.esh.activity.home.StatisticScreen;
 import com.yagita.esh.activity.home.VocabScreen;
 
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+
 public class HomeFragment extends Fragment {
-    Button btnVocabulary, btnExercise, btnStatistics, btnContribute, btnEditImg;
+    Button btnVocabulary, btnExercise, btnStatistics, btnContribute;
+    ImageView imgViewProfile, btnEditImg;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -33,6 +53,8 @@ public class HomeFragment extends Fragment {
         btnStatistics = view.findViewById(R.id.btnStatistics);
         btnContribute = view.findViewById(R.id.btnContribute);
         btnEditImg = view.findViewById(R.id.btnEditImg);
+
+        imgViewProfile = view.findViewById(R.id.imgViewProfile);
     }
     public void addAction(){
         btnVocabulary.setOnClickListener(new View.OnClickListener() {
@@ -60,15 +82,69 @@ public class HomeFragment extends Fragment {
             }
         });
         btnEditImg.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.TIRAMISU)
             @Override
             public void onClick(View view) {
-                ImagePicker.with(this)
-                        .crop()	    			//Crop image(Optional), Check Customization for more option
-                        .compress(1024)			//Final image size will be less than 1 MB(Optional)
-                        .maxResultSize(1080, 1080)	//Final image resolution will be less than 1080 x 1080(Optional)
-                        .start();
-
+                imageChooser();
             }
         });
+
     }
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        // Hiển thị hình ảnh đã lưu trong SharedPreferences
+        Bitmap savedImage = loadImageFromPreferences();
+        if (savedImage != null) {
+            imgViewProfile.setImageBitmap(savedImage);
+        }
+    }
+
+    private void imageChooser() {
+        Intent i = new Intent();
+        i.setType("image/*");
+        i.setAction(Intent.ACTION_GET_CONTENT);
+        launcher.launch(i);
+    }
+
+    private void saveImageToPreferences(Bitmap bitmap) {
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
+        SharedPreferences.Editor editor = preferences.edit();
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        bitmap.compress(Bitmap.CompressFormat.PNG, 100, baos);
+        String imageEncoded = Base64.encodeToString(baos.toByteArray(), Base64.DEFAULT);
+        editor.putString("profile_image", imageEncoded);
+        editor.apply();
+    }
+
+    private Bitmap loadImageFromPreferences() {
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
+        String imageEncoded = preferences.getString("profile_image", "");
+        if (!imageEncoded.isEmpty()) {
+            byte[] imageBytes = Base64.decode(imageEncoded, Base64.DEFAULT);
+            return BitmapFactory.decodeByteArray(imageBytes, 0, imageBytes.length);
+        }
+        return null;
+    }
+
+    ActivityResultLauncher<Intent> launcher = registerForActivityResult(new ActivityResultContracts.StartActivityForResult(), result -> {
+        if (result.getResultCode() == Activity.RESULT_OK) {
+            Intent data = result.getData();
+            if (data != null && data.getData() != null) {
+                Uri selectedImageUri = data.getData();
+                Bitmap selectedImageBitmap = null;
+                try {
+                    selectedImageBitmap = MediaStore.Images.Media.getBitmap(requireActivity().getContentResolver(), selectedImageUri);
+                    // Hiển thị hình ảnh đã chọn
+                    imgViewProfile.setImageBitmap(selectedImageBitmap);
+                    // Lưu hình ảnh vào SharedPreferences
+                    saveImageToPreferences(selectedImageBitmap);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    });
+
+
 }
