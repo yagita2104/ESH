@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.WelcomeScreen">
+    <ImageView
+        android:id="@+id/imgESH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/title"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="20dip"
+        />
+    <ImageView
+        android:id="@+id/title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/title2"
+        android:layout_below="@+id/imgESH"
+        android:layout_centerInParent="true"/>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:cardCornerRadius="10dip"
+        android:padding="20dip"
+        android:layout_margin="40dp"
+        android:backgroundTint="@color/bottom_nav"
+        android:layout_centerInParent="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thông tin của bạn"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:textColor="@color/black"/>
+            <EditText
+                android:id="@+id/edtName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Họ và tên"
+                android:background="#fff"
+                android:padding="10dp"
+                android:layout_margin="20dp"/>
+            <EditText
+                android:id="@+id/edtSpec"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Chuyên ngành"
+                android:background="#fff"
+                android:padding="10dp"
+                android:layout_margin="20dp"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vào học"
+        android:layout_below="@+id/cardViewWelcome"
+        android:layout_centerInParent="true"
+        android:background="@drawable/rectangle"
+        android:backgroundTint="@color/bottom_nav"/>
+</RelativeLayout>

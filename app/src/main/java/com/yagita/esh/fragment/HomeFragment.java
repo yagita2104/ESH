@@ -24,6 +24,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.google.android.gms.cast.framework.media.ImagePicker;
 import com.yagita.esh.R;
@@ -38,7 +39,7 @@ import java.io.IOException;
 public class HomeFragment extends Fragment {
     Button btnVocabulary, btnExercise, btnStatistics, btnContribute;
     ImageView imgViewProfile, btnEditImg;
-
+    TextView txtSpecialize, txtName;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -55,6 +56,20 @@ public class HomeFragment extends Fragment {
         btnEditImg = view.findViewById(R.id.btnEditImg);
 
         imgViewProfile = view.findViewById(R.id.imgViewProfile);
+        txtName = view.findViewById(R.id.txtName);
+        txtSpecialize = view.findViewById(R.id.txtSpecialize);
+
+        //Nhận dữ liệu tên và chuyên ngành
+        // Nhận dữ liệu tên và chuyên ngành từ SharedPreferences
+//        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
+        SharedPreferences preferences = getActivity().getSharedPreferences("MyPrefs", getActivity().MODE_PRIVATE);
+        String name = preferences.getString("name", "");
+        String specialize = preferences.getString("spec", "");
+        if (!name.isEmpty() && !specialize.isEmpty()) {
+            txtName.setText(name);
+            txtSpecialize.setText(specialize);
+        }
+
     }
     public void addAction(){
         btnVocabulary.setOnClickListener(new View.OnClickListener() {
