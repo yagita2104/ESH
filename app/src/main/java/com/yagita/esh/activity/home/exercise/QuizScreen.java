@@ -8,6 +8,7 @@ import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.CountDownTimer;
+import android.speech.tts.TextToSpeech;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -22,11 +23,13 @@ import com.yagita.esh.json.JsonReader;
 import com.yagita.esh.json.JsonVocab;
 
 import org.json.JSONArray;
+import org.w3c.dom.Text;
 
 import java.lang.reflect.Array;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Random;
 
 public class QuizScreen extends AppCompatActivity {
@@ -37,7 +40,7 @@ public class QuizScreen extends AppCompatActivity {
     List<JsonVocab> jsonVocabList;
     int index = 0;
     private CountDownTimer countDownTimer;
-
+    TextToSpeech textToSpeech;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -112,6 +115,15 @@ public class QuizScreen extends AppCompatActivity {
         }.start();
     }
     private void addAction() {
+        textToSpeech = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if (status != TextToSpeech.ERROR) {
+                    // Thiết lập ngôn ngữ cho Text-to-Speech (VD: English)
+                    textToSpeech.setLanguage(Locale.US);
+                }
+            }
+        });
         btnBackQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -142,9 +154,11 @@ public class QuizScreen extends AppCompatActivity {
                 if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
+                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
                 else {
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
+                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
             }
         });
@@ -155,9 +169,11 @@ public class QuizScreen extends AppCompatActivity {
                 if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
+                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
                 else {
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
+                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
             }
         });
@@ -168,9 +184,11 @@ public class QuizScreen extends AppCompatActivity {
                 if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
+                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
                 else {
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
+                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
             }
         });
@@ -181,10 +199,18 @@ public class QuizScreen extends AppCompatActivity {
                 if(jsonVocabList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
+                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
                 else {
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
+                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
                 }
+            }
+        });
+        txtQuizText.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                textToSpeech.speak(txtQuizText.getText(), TextToSpeech.QUEUE_FLUSH, null, null);
             }
         });
 

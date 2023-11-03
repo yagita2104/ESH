@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -22,12 +23,13 @@ import org.json.JSONArray;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class VocabScreen extends AppCompatActivity {
-    ImageView btnBackStorage, btnListVocab, btnBack, btnUnknow, btnKnow, btnNext, imgIllustration;
+    ImageView btnBackStorage, btnListVocab, btnBack, btnUnknow, btnKnow, btnNext, imgIllustration, imgVocabSpeech;
 //    List<Vocabulary> listVocab = new ArrayList<>();
     TextView txtWord, txtSpelling, txtWordTranslate, txtSentences;
-
+    TextToSpeech textToSpeech;
     //Xử lý json
     List<JsonVocab> jsonVocabList;
     int index = 0;
@@ -62,6 +64,8 @@ public class VocabScreen extends AppCompatActivity {
         txtWordTranslate = findViewById(R.id.txtWordTranslate);
         txtSentences = findViewById(R.id.txtSentences);
         imgIllustration = findViewById(R.id.imgIllustration);
+
+        imgVocabSpeech = findViewById(R.id.imgVocabSpeech);
     }
     private void nextVocab(){
         if((index + 1) < jsonVocabList.size()){
@@ -115,6 +119,22 @@ public class VocabScreen extends AppCompatActivity {
             public void onClick(View view) {
                 Toast.makeText(VocabScreen.this, "Chưa học", Toast.LENGTH_SHORT).show();
                 nextVocab();
+            }
+        });
+        // Text to speech
+        textToSpeech = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if (status != TextToSpeech.ERROR) {
+                    // Thiết lập ngôn ngữ cho Text-to-Speech (VD: English)
+                    textToSpeech.setLanguage(Locale.US);
+                }
+            }
+        });
+        imgVocabSpeech.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                textToSpeech.speak(txtWord.getText(), TextToSpeech.QUEUE_FLUSH, null, null);
             }
         });
     }

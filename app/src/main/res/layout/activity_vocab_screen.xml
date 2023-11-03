@@ -49,6 +49,7 @@
         android:layout_centerInParent="true">
 
         <ImageView
+            android:id="@+id/imgVocabSpeech"
             android:layout_width="30dip"
             android:layout_height="30dip"
             android:layout_marginStart="18dip"
