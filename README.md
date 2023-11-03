@@ -6,3 +6,4 @@
 - 22/09/2023: Hoàn thiện tất cả phần giao diện (Trừ bài tập do chưa có dữ liệu)
 - 16/10/2023: Update layout Trắc nghiệm + Xử lý dữ liệu
 - 31/10/2023: Fix report
+- 03/11/2023: Thêm chọn ảnh từ thư viện, màn hình đăng nhập lúc vào app
