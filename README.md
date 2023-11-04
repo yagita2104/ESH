@@ -7,3 +7,4 @@
 - 16/10/2023: Update layout Trắc nghiệm + Xử lý dữ liệu
 - 31/10/2023: Fix report
 - 03/11/2023: Thêm chọn ảnh từ thư viện, màn hình đăng nhập lúc vào app
+- 04/11/2023: Chuyển sang SQLite để lưu trữ dữ liệu
