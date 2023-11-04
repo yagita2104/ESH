@@ -1,4 +1,4 @@
-package com.yagita.esh.json;
+package com.yagita.esh.db;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -67,4 +67,3 @@ public class JsonReader {
     }
 
 }
-

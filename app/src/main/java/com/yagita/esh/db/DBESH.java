@@ -1,4 +1,4 @@
-package com.yagita.esh;
+package com.yagita.esh.db;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,12 +6,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import androidx.annotation.Nullable;
-
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.yagita.esh.json.JsonReader;
-import com.yagita.esh.json.JsonVocab;
+import com.yagita.esh.R;
+import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
 
@@ -20,7 +18,7 @@ import java.util.List;
 
 public class DBESH extends SQLiteOpenHelper {
     Context context;
-    List<JsonVocab> jsonVocabList;
+    List<Vocabulary> vocabularyList;
     public DBESH(Context context) {
         super(context, "esh.sqlite", null, 1);
         this.context = context;
@@ -42,8 +40,8 @@ public class DBESH extends SQLiteOpenHelper {
             data = jsonArray.toString();
         }
         Gson gson = new Gson();
-        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
-        jsonVocabList = gson.fromJson(data, listType);
+        Type listType = new TypeToken<List<Vocabulary>>() {}.getType();
+        vocabularyList = gson.fromJson(data, listType);
     }
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
@@ -52,21 +50,29 @@ public class DBESH extends SQLiteOpenHelper {
                 "english TEXT, " +
                 "sub_english TEXT, " +
                 "example TEXT, " +
-                "english_vocabulary_test TEXT, " +
+                "english_vocabulary_test1 TEXT, " +
+                "english_vocabulary_test2 TEXT, " +
+                "english_vocabulary_test3 TEXT, " +
                 "fill_blank TEXT, " +
-                "mistake TEXT, " +
+                "mistake1 TEXT, " +
+                "mistake2 TEXT, " +
+                "mistake3 TEXT, " +
                 "status INTEGER)";
         sqLiteDatabase.execSQL(createTableQuery);
         getData();
-        for (JsonVocab item : jsonVocabList) {
+        for (Vocabulary item : vocabularyList) {
             ContentValues values = new ContentValues();
             values.put("id", item.getID());
             values.put("english", item.getEnglish());
             values.put("sub_english", item.getSub_English());
             values.put("example", item.getExample());
-            values.put("english_vocabulary_test", new Gson().toJson(item.getEnglish_Vocabulary_Test()));
+            values.put("english_vocabulary_test1", item.getEnglish_Vocabulary_Test().get(0));
+            values.put("english_vocabulary_test2", item.getEnglish_Vocabulary_Test().get(1));
+            values.put("english_vocabulary_test3", item.getEnglish_Vocabulary_Test().get(2));
             values.put("fill_blank", item.getFill_Blank());
-            values.put("mistake", new Gson().toJson(item.getMistake()));
+            values.put("mistake1", item.getMistake().get(0));
+            values.put("mistake2", item.getMistake().get(1));
+            values.put("mistake3", item.getMistake().get(2));
             values.put("status", item.getStatus());
             sqLiteDatabase.insert("tblVocabulary", null, values);
         }

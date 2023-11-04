@@ -15,8 +15,9 @@ import android.widget.TextView;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
-import com.yagita.esh.json.JsonReader;
-import com.yagita.esh.json.JsonVocab;
+import com.yagita.esh.activity.home.VocabScreen;
+import com.yagita.esh.db.VocabDAO;
+import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
 
@@ -30,18 +31,19 @@ public class FillBlankScreen extends AppCompatActivity {
     ImageView btnBackFillBlank;
     TextView txtFillblank, txtCountDown;
     Button btnFillAnswer0, btnFillAnswer1, btnFillAnswer2, btnFillAnswer3, btnNextFill;
-    List<JsonVocab> jsonVocabList;
+    List<Vocabulary> vocabularyList;
     int index = 0;
     private CountDownTimer countDownTimer;
     TextToSpeech textToSpeech;
+    VocabDAO vocabDAO = new VocabDAO(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fill_blank_screen);
         getWidget();
-        getData();
+        vocabularyList = vocabDAO.getListVocab();
         addAction();
-        setItem(jsonVocabList.get(0));
+        setItem(vocabularyList.get(0));
     }
     private void getWidget(){
         btnBackFillBlank = findViewById(R.id.btnBackFillblank);
@@ -74,9 +76,9 @@ public class FillBlankScreen extends AppCompatActivity {
         btnNextFill.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if((index + 1) < jsonVocabList.size()){
+                if((index + 1) < vocabularyList.size()){
                     index++;
-                    setItem(jsonVocabList.get(index));
+                    setItem(vocabularyList.get(index));
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.bottom_nav)));
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.bottom_nav)));
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.bottom_nav)));
@@ -92,7 +94,7 @@ public class FillBlankScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnFillAnswer0.getText().toString();
-                if(jsonVocabList.get(index).getEnglish().equals(answer)){
+                if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -107,7 +109,7 @@ public class FillBlankScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnFillAnswer1.getText().toString();
-                if(jsonVocabList.get(index).getEnglish().equals(answer)){
+                if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -122,7 +124,7 @@ public class FillBlankScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnFillAnswer2.getText().toString();
-                if(jsonVocabList.get(index).getEnglish().equals(answer)){
+                if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -137,7 +139,7 @@ public class FillBlankScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnFillAnswer3.getText().toString();
-                if(jsonVocabList.get(index).getEnglish().equals(answer)){
+                if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -149,16 +151,6 @@ public class FillBlankScreen extends AppCompatActivity {
             }
         });
 
-    }
-    public void getData(){
-        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
-        String data = "";
-        if(jsonArray != null){
-            data = jsonArray.toString();
-        }
-        Gson gson = new Gson();
-        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
-        jsonVocabList = gson.fromJson(data, listType);
     }
     private void startCountdownTimer() {
         countDownTimer = new CountDownTimer(5000, 1000) {
@@ -189,11 +181,11 @@ public class FillBlankScreen extends AppCompatActivity {
         }
         return result;
     }
-    public void setItem(JsonVocab jsonVocab){
-        txtFillblank.setText(jsonVocab.getFill_Blank());
+    public void setItem(Vocabulary vocabulary){
+        txtFillblank.setText(vocabulary.getFill_Blank());
         ArrayList<Integer> listAnswer = selectNumberRandom();
-        List<String> answer = jsonVocab.getMistake();
-        answer.add(jsonVocab.getEnglish());
+        List<String> answer = vocabulary.getMistake();
+        answer.add(vocabulary.getEnglish());
         System.out.println(listAnswer);
         btnFillAnswer0.setText(answer.get(listAnswer.get(0)));
         btnFillAnswer1.setText(answer.get(listAnswer.get(1)));

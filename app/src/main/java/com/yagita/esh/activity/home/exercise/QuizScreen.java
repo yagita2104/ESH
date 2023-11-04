@@ -1,11 +1,9 @@
 package com.yagita.esh.activity.home.exercise;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.AppCompatButton;
 import androidx.core.content.ContextCompat;
 
 import android.content.res.ColorStateList;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.speech.tts.TextToSpeech;
@@ -13,19 +11,15 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
-import com.yagita.esh.activity.home.VocabScreen;
-import com.yagita.esh.json.JsonReader;
-import com.yagita.esh.json.JsonVocab;
+import com.yagita.esh.db.VocabDAO;
+import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
-import org.w3c.dom.Text;
 
-import java.lang.reflect.Array;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
@@ -37,18 +31,19 @@ public class QuizScreen extends AppCompatActivity {
     TextView txtQuizText, txtCountDown;
     Button btnQuizAnswer0, btnQuizAnswer1, btnQuizAnswer2, btnQuizAnswer3, btnNextQuiz;
     int random_number = 0;
-    List<JsonVocab> jsonVocabList;
+    List<Vocabulary> vocabularyList;
     int index = 0;
     private CountDownTimer countDownTimer;
     TextToSpeech textToSpeech;
+    VocabDAO vocabDAO = new VocabDAO(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz_screen);
         getWidget();
-        getData();
+        vocabularyList = vocabDAO.getListVocab();
         addAction();
-        setItem(jsonVocabList.get(0));
+        setItem(vocabularyList.get(0));
 
     }
 
@@ -64,21 +59,11 @@ public class QuizScreen extends AppCompatActivity {
 
         txtCountDown = findViewById(R.id.txtCountDownQuiz);
     }
-    public void getData(){
-        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
-        String data = "";
-        if(jsonArray != null){
-            data = jsonArray.toString();
-        }
-        Gson gson = new Gson();
-        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
-        jsonVocabList = gson.fromJson(data, listType);
-    }
-    public void setItem(JsonVocab jsonVocab){
-        txtQuizText.setText(jsonVocab.getEnglish());
+    public void setItem(Vocabulary vocabulary){
+        txtQuizText.setText(vocabulary.getEnglish());
         ArrayList<Integer> listAnswer = selectNumberRandom();
-        List<String> answer = jsonVocab.getEnglish_Vocabulary_Test();
-        answer.add(jsonVocab.getSub_English());
+        List<String> answer = vocabulary.getEnglish_Vocabulary_Test();
+        answer.add(vocabulary.getSub_English());
         System.out.println(listAnswer);
         btnQuizAnswer0.setText(answer.get(listAnswer.get(0)));
         btnQuizAnswer1.setText(answer.get(listAnswer.get(1)));
@@ -133,9 +118,9 @@ public class QuizScreen extends AppCompatActivity {
         btnNextQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if((index + 1) < jsonVocabList.size()){
+                if((index + 1) < vocabularyList.size()){
                     index++;
-                    setItem(jsonVocabList.get(index));
+                    setItem(vocabularyList.get(index));
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
@@ -151,7 +136,7 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer0.getText().toString();
-                if(jsonVocabList.get(index).getSub_English().equals(answer)){
+                if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -166,7 +151,7 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer1.getText().toString();
-                if(jsonVocabList.get(index).getSub_English().equals(answer)){
+                if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -181,7 +166,7 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer2.getText().toString();
-                if(jsonVocabList.get(index).getSub_English().equals(answer)){
+                if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
@@ -196,7 +181,7 @@ public class QuizScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String answer = btnQuizAnswer3.getText().toString();
-                if(jsonVocabList.get(index).getSub_English().equals(answer)){
+                if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);

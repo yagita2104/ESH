@@ -13,9 +13,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
-import com.yagita.esh.json.JsonReader;
-import com.yagita.esh.json.JsonVocab;
-import com.yagita.esh.json.ListJsonVocab;
+import com.yagita.esh.db.VocabDAO;
 import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
@@ -27,31 +25,24 @@ import java.util.Locale;
 
 public class VocabScreen extends AppCompatActivity {
     ImageView btnBackStorage, btnListVocab, btnBack, btnUnknow, btnKnow, btnNext, imgIllustration, imgVocabSpeech;
-//    List<Vocabulary> listVocab = new ArrayList<>();
     TextView txtWord, txtSpelling, txtWordTranslate, txtSentences;
     TextToSpeech textToSpeech;
     //Xử lý json
-    List<JsonVocab> jsonVocabList;
+    List<Vocabulary> vocabularyAllList;
+    List<Vocabulary> vocabList = new ArrayList<>();
     int index = 0;
+    VocabDAO vocabDAO = new VocabDAO(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocab_screen);
-        getData();
+        vocabularyAllList = vocabDAO.getListVocab();
+        vocabList = vocabDAO.getListVocabUnknown();
         getWidget();
-        setItem(jsonVocabList.get(0));
+        setItem(vocabList.get(0));
         addAction();
     }
-    public void getData(){
-        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
-        String data = "";
-        if(jsonArray != null){
-            data = jsonArray.toString();
-        }
-        Gson gson = new Gson();
-        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
-        jsonVocabList = gson.fromJson(data, listType);
-    }
+
     private void getWidget() {
         btnBackStorage = findViewById(R.id.btnBackStorage);
         btnListVocab = findViewById(R.id.btnListVocab);
@@ -68,9 +59,9 @@ public class VocabScreen extends AppCompatActivity {
         imgVocabSpeech = findViewById(R.id.imgVocabSpeech);
     }
     private void nextVocab(){
-        if((index + 1) < jsonVocabList.size()){
+        if((index + 1) < vocabList.size()){
             index++;
-            setItem(jsonVocabList.get(index));
+            setItem(vocabList.get(index));
         }else{
             Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
         }
@@ -99,7 +90,7 @@ public class VocabScreen extends AppCompatActivity {
             public void onClick(View view) {
                 if(index != 0){
                     index--;
-                    setItem(jsonVocabList.get(index));
+                    setItem(vocabList.get(index));
                 }else{
                     Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
                 }
@@ -109,9 +100,11 @@ public class VocabScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(VocabScreen.this, "Đã học", Toast.LENGTH_SHORT).show();
-                jsonVocabList.get(index).setStatus(1);
-                jsonVocabList.remove(index);
-                setItem(jsonVocabList.get(index));
+                vocabList.get(index).setStatus(1);
+                vocabDAO.setStatus(vocabList.get(index));
+
+                vocabList.remove(index);
+                setItem(vocabList.get(index));
             }
         });
         btnUnknow.setOnClickListener(new View.OnClickListener() {
@@ -138,7 +131,7 @@ public class VocabScreen extends AppCompatActivity {
             }
         });
     }
-    public void setItem(JsonVocab a){
+    public void setItem(Vocabulary a){
         if (a.getStatus() == 0){
             txtWord.setText(a.getEnglish());
             txtSpelling.setText(a.getEnglish());

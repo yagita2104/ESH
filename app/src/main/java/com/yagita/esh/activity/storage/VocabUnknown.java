@@ -11,8 +11,8 @@ import android.widget.ListView;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
-import com.yagita.esh.json.JsonReader;
-import com.yagita.esh.json.JsonVocab;
+import com.yagita.esh.db.VocabDAO;
+import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
 
@@ -25,14 +25,15 @@ public class VocabUnknown extends AppCompatActivity {
     List<String> listVocabUnKnow = new ArrayList<>();
     ArrayAdapter<String> adapter;
     ImageView btnBack;
-    List<JsonVocab> jsonVocabList;
+    List<Vocabulary> vocabularyList;
+    VocabDAO vocabDAO = new VocabDAO(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocab_unknown);
         getWidget();
         addAction();
-        getData();
+        vocabularyList = vocabDAO.getListVocab();
         setData();
     }
     public void getWidget(){
@@ -49,18 +50,8 @@ public class VocabUnknown extends AppCompatActivity {
             }
         });
     }
-    public void getData(){
-        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(this, R.raw.data);
-        String data = "";
-        if(jsonArray != null){
-            data = jsonArray.toString();
-        }
-        Gson gson = new Gson();
-        Type listType = new TypeToken<List<JsonVocab>>() {}.getType();
-        jsonVocabList = gson.fromJson(data, listType);
-    }
     public void setData(){
-        for (JsonVocab a : jsonVocabList) {
+        for (Vocabulary a : vocabularyList) {
             if(a.getStatus() == 0){
                 listVocabUnKnow.add(a.getEnglish());
             }

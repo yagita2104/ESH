@@ -1,59 +1,89 @@
 package com.yagita.esh.model;
 
-import java.io.Serializable;
+import java.util.List;
 
 public class Vocabulary {
-    private String word;
-    private String spelling;
-    private int illustration;
-    private String wordTranslate;
-    private String sentences;
+    private String ID;
+    private String English;
+    private String Sub_English;
+    private String Example;
+    private List<String> English_Vocabulary_Test;
+    private String Fill_Blank;
+    private List<String> Mistake;
+    private int Status;
 
-    public Vocabulary(String word, String spelling, int illustration, String wordTranslate, String sentences) {
-        this.word = word;
-        this.spelling = spelling;
-        this.illustration = illustration;
-        this.wordTranslate = wordTranslate;
-        this.sentences = sentences;
+    public Vocabulary(String ID, String english, String sub_English, String example, List<String> english_Vocabulary_Test, String fill_Blank, List<String> mistake, int status) {
+        this.ID = ID;
+        English = english;
+        Sub_English = sub_English;
+        Example = example;
+        English_Vocabulary_Test = english_Vocabulary_Test;
+        Fill_Blank = fill_Blank;
+        Mistake = mistake;
+        Status = status;
     }
 
-    public String getWord() {
-        return word;
+    public String getID() {
+        return ID;
     }
 
-    public void setWord(String word) {
-        this.word = word;
+    public void setID(String ID) {
+        this.ID = ID;
     }
 
-    public String getSpelling() {
-        return spelling;
+    public String getEnglish() {
+        return English;
     }
 
-    public void setSpelling(String spelling) {
-        this.spelling = spelling;
+    public void setEnglish(String english) {
+        English = english;
     }
 
-    public int getIllustration() {
-        return illustration;
+    public String getSub_English() {
+        return Sub_English;
     }
 
-    public void setIllustration(int illustration) {
-        this.illustration = illustration;
+    public void setSub_English(String sub_English) {
+        Sub_English = sub_English;
     }
 
-    public String getWordTranslate() {
-        return wordTranslate;
+    public String getExample() {
+        return Example;
     }
 
-    public void setWordTranslate(String wordTranslate) {
-        this.wordTranslate = wordTranslate;
+    public void setExample(String example) {
+        Example = example;
     }
 
-    public String getSentences() {
-        return sentences;
+    public List<String> getEnglish_Vocabulary_Test() {
+        return English_Vocabulary_Test;
     }
 
-    public void setSentences(String sentences) {
-        this.sentences = sentences;
+    public void setEnglish_Vocabulary_Test(List<String> english_Vocabulary_Test) {
+        English_Vocabulary_Test = english_Vocabulary_Test;
+    }
+
+    public String getFill_Blank() {
+        return Fill_Blank;
+    }
+
+    public void setFill_Blank(String fill_Blank) {
+        Fill_Blank = fill_Blank;
+    }
+
+    public List<String> getMistake() {
+        return Mistake;
+    }
+
+    public void setMistake(List<String> mistake) {
+        Mistake = mistake;
+    }
+
+    public int getStatus() {
+        return Status;
+    }
+
+    public void setStatus(int status) {
+        Status = status;
     }
 }
