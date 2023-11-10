@@ -8,3 +8,4 @@
 - 31/10/2023: Fix report
 - 03/11/2023: Thêm chọn ảnh từ thư viện, màn hình đăng nhập lúc vào app
 - 04/11/2023: Chuyển sang SQLite để lưu trữ dữ liệu
+- 10/11/2023: Cập nhật lại giao diện phần Thống kê (Chưa có dữ liệu nhiều unit nên chỉ xử lý giao diện)
