@@ -17,6 +17,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 
 import com.yagita.esh.R;
+import com.yagita.esh.fragment.HomeFragment;
 
 import java.io.IOException;
 
@@ -64,8 +65,6 @@ public class WelcomeScreen extends AppCompatActivity {
                 editor.putString("name", name);
                 editor.putString("spec", spec);
                 editor.apply();
-//                intent.putExtra("name", edtName.getText().toString());
-//                intent.putExtra("spec", edtSpec.getText().toString());
                 startActivity(intent);
             }
         });
