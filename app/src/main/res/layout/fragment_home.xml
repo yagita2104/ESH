@@ -50,7 +50,7 @@
                 <ImageView
                     android:id="@+id/imgViewProfile"
                     android:layout_width="75dp"
-                    android:layout_height="74dp"
+                    android:layout_height="75dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/img_avatar" />
             </androidx.cardview.widget.CardView>

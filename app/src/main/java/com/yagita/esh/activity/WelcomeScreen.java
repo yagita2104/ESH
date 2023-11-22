@@ -12,9 +12,12 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
+import android.widget.Toast;
 
 import com.yagita.esh.R;
 import com.yagita.esh.fragment.HomeFragment;
@@ -23,7 +26,10 @@ import java.io.IOException;
 
 public class WelcomeScreen extends AppCompatActivity {
     Button btnStart;
-    EditText edtName, edtSpec;
+    EditText edtName;
+    Spinner spnSpec;
+    String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngoại Ngữ" ,"Cơ Khí"};
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -50,7 +56,11 @@ public class WelcomeScreen extends AppCompatActivity {
     private void getWidget() {
         btnStart = findViewById(R.id.btnStart);
         edtName = findViewById(R.id.edtName);
-        edtSpec = findViewById(R.id.edtSpec);
+        spnSpec = findViewById(R.id.spnSpec);
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, khoaList);
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spnSpec.setAdapter(adapter);
     }
 
     private void addAction() {
@@ -59,15 +69,21 @@ public class WelcomeScreen extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(WelcomeScreen.this, MainActivity.class);
                 String name = edtName.getText().toString();
-                String spec = edtSpec.getText().toString();
-                SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
-                SharedPreferences.Editor editor = sharedPreferences.edit();
-                editor.putString("name", name);
-                editor.putString("spec", spec);
-                editor.apply();
-                startActivity(intent);
+                String spec = spnSpec.getSelectedItem().toString();
+
+                if (name.isEmpty()) {
+                    Toast.makeText(WelcomeScreen.this, "Vui lòng nhập tên", Toast.LENGTH_SHORT).show();
+                } else if (spec.equals("Chọn Khoa") || (spec == "Khoa")) {
+                    Toast.makeText(WelcomeScreen.this, "Vui lòng chọn khoa", Toast.LENGTH_SHORT).show();
+                } else {
+                    SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+                    SharedPreferences.Editor editor = sharedPreferences.edit();
+                    editor.putString("name", name);
+                    editor.putString("spec", spec);
+                    editor.apply();
+                    startActivity(intent);
+                }
             }
         });
     }
-
 }

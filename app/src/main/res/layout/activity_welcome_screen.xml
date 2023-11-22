@@ -57,13 +57,11 @@
                 android:background="#fff"
                 android:padding="10dp"
                 android:layout_margin="20dp"/>
-            <EditText
-                android:id="@+id/edtSpec"
+            <Spinner
+                android:id="@+id/spnSpec"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="Khoa"
+                android:layout_height="45dp"
                 android:background="#fff"
-                android:padding="10dp"
                 android:layout_margin="20dp"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>

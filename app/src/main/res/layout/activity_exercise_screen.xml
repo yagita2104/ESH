@@ -39,24 +39,29 @@
         android:id="@+id/llExercise"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="20dip"
-        android:layout_centerInParent="true">
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginEnd="20dip"
+        android:layout_marginBottom="20dip">
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnQuiz"
             android:layout_width="150dp"
             android:layout_height="100dp"
-            android:text="Trắc nghiệm"
             android:layout_margin="10dip"
             android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_1"/>
+            android:backgroundTint="@color/home_color_button_1"
+            android:text="Trắc nghiệm" />
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnFill"
             android:layout_width="150dp"
             android:layout_height="100dp"
-            android:text="Điền từ"
             android:layout_margin="10dip"
             android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_2"/>
+            android:backgroundTint="@color/home_color_button_2"
+            android:text="Điền từ" />
     </LinearLayout>
     <LinearLayout
         android:layout_below="@id/llExercise"

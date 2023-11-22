@@ -67,6 +67,7 @@ public class HomeFragment extends Fragment {
         String specialize = preferences.getString("spec", "");
         if (!name.isEmpty() && !specialize.isEmpty()) {
             txtName.setText(name);
+            specialize = "Khoa " + specialize;
             txtSpecialize.setText(specialize);
         }
 
