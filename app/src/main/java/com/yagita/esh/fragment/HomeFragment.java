@@ -1,6 +1,9 @@
 package com.yagita.esh.fragment;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -23,8 +26,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.cast.framework.media.ImagePicker;
 import com.yagita.esh.R;
@@ -101,11 +106,67 @@ public class HomeFragment extends Fragment {
             @RequiresApi(api = Build.VERSION_CODES.TIRAMISU)
             @Override
             public void onClick(View view) {
-                imageChooser();
+                showEditOptionsDialog();
+                //imageChooser();
             }
         });
-
     }
+    private void showEditOptionsDialog() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(requireContext());
+        builder.setTitle("Cập nhật")
+                .setItems(R.array.edit_options, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        switch (which) {
+                            case 0:
+                                imageChooser();
+                                break;
+                            case 1:
+                                showEditNameDialog();
+                                break;
+                        }
+                    }
+                });
+        builder.create().show();
+    }
+    private void showEditNameDialog() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(requireContext());
+        LayoutInflater inflater = requireActivity().getLayoutInflater();
+        View dialogView = inflater.inflate(R.layout.dialog_edit_name, null);
+
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"}) EditText editTextName = dialogView.findViewById(R.id.editTextName);
+        // Lấy tên hiện tại và đặt vào EditText
+        SharedPreferences preferences = getActivity().getSharedPreferences("MyPrefs", Activity.MODE_PRIVATE);
+        String name = preferences.getString("name", "");
+        editTextName.setText(name);
+
+        builder.setView(dialogView)
+                .setTitle("Cập nhật tên hiển thị")
+                .setPositiveButton("Lưu", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        // Lấy tên đã chỉnh sửa từ EditText
+                        String newName = editTextName.getText().toString().trim();
+                        if (!newName.isEmpty()) {
+                            // Lưu tên mới vào SharedPreferences
+                            SharedPreferences.Editor editor = preferences.edit();
+                            editor.putString("name", newName);
+                            editor.apply();
+                            // Hiển thị tên mới trên TextView
+                            txtName.setText(newName);
+
+                        } else {
+                            Toast.makeText(requireContext(), "Tên hiển thị không được để trống.", Toast.LENGTH_SHORT).show();
+                            showEditNameDialog();
+                        }
+                    }
+                })
+                .setNegativeButton("Hủy", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        dialog.cancel();
+                    }
+                });
+        builder.create().show();
+    }
+
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
