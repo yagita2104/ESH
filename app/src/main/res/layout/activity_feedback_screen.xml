@@ -122,7 +122,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="*Chúng tôi sẽ phản hồi sớm nhất có thể"
+        android:text="*Chúng tôi sẽ phản hồi sớm nhất có thể !"
         android:layout_margin="10dp"/>
     <Button
         android:id="@+id/btnSendFeedback"
@@ -130,5 +130,7 @@
         android:layout_height="wrap_content"
         android:text="Gửi"
         android:layout_gravity="center"
-        android:layout_margin="10dp" />
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/home_color_button_2"
+        android:textColor="@color/black"/>
 </LinearLayout>

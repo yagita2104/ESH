@@ -3,10 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     >
     <item android:drawable="@drawable/circle"
-        android:width="40dip"
-        android:height="40dip" />
+        android:width="50dip"
+        android:height="50dip" />
     <item android:drawable="@drawable/home_ic_button_3"
-        android:width="30dip"
-        android:height="30dip"
+        android:width="35dip"
+        android:height="35dip"
         android:gravity="center"/>
 </layer-list>

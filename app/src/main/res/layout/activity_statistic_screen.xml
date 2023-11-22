@@ -9,6 +9,10 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/home_color_button_3">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="20dp">
         <ImageView
             android:id="@+id/btnBackStatistic"
@@ -23,6 +27,7 @@
             android:layout_gravity="center"
             android:textColor="@color/black"
             android:textSize="20sp" />
+    </FrameLayout>
     </FrameLayout>
     <TextView
         android:layout_width="match_parent"

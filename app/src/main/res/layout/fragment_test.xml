@@ -27,19 +27,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/home_color_button_1">
+
             <TextView
                 android:id="@+id/txtTest"
                 android:layout_width="370dip"
                 android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
                 android:paddingLeft="60dip"
                 android:paddingRight="60dip"
-                android:textAlignment="center"
-                android:textSize="21sp"
-                android:textColor="@color/black"
-                android:layout_centerInParent="true"
-                android:textStyle="bold"
                 android:text="Đã học 24 từ mới. Bắt đầu kiểm tra?"
-                />
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="21sp"
+                android:textStyle="bold" />
 
             <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"

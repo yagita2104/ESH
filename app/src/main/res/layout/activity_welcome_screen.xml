@@ -6,22 +6,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.WelcomeScreen">
+
     <ImageView
         android:id="@+id/imgESH"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/title"
-        android:layout_centerInParent="true"
         android:layout_alignParentTop="true"
-        android:layout_margin="20dip"
-        />
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dip"
+        android:layout_marginTop="50dip"
+        android:layout_marginEnd="20dip"
+        android:layout_marginBottom="20dip"
+        android:src="@drawable/title" />
+
     <ImageView
         android:id="@+id/title2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/title2"
         android:layout_below="@+id/imgESH"
-        android:layout_centerInParent="true"/>
+        android:layout_centerInParent="true"
+        android:src="@drawable/title2" />
     <androidx.cardview.widget.CardView
         android:id="@+id/cardViewWelcome"
         android:layout_width="match_parent"
@@ -40,7 +44,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Thông tin của bạn"
+                android:text="Xin chào, tên bạn là gì?"
                 android:textSize="18sp"
                 android:layout_gravity="center"
                 android:layout_margin="10dp"
@@ -57,19 +61,20 @@
                 android:id="@+id/edtSpec"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Chuyên ngành"
+                android:hint="Khoa"
                 android:background="#fff"
                 android:padding="10dp"
                 android:layout_margin="20dp"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
+
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnStart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Vào học"
         android:layout_below="@+id/cardViewWelcome"
         android:layout_centerInParent="true"
         android:background="@drawable/rectangle"
-        android:backgroundTint="@color/bottom_nav"/>
+        android:backgroundTint="@color/bottom_nav"
+        android:text="Vào học" />
 </RelativeLayout>

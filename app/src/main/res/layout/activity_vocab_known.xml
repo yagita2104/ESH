@@ -31,7 +31,8 @@
         android:gravity="center"
         android:textSize="18sp"
         android:padding="10dp"
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:background="@color/home_color_button_1"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
