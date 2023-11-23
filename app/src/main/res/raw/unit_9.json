@@ -1,0 +1,218 @@
+[
+   {
+      "ID":"English_English_Language_Read_5_9_1",
+      "English":"inbound",
+      "Sub_English":"Hướng vào",
+      "Example":"The airport experienced an increase in inbound flights during the holiday season.",
+      "English_Vocabulary_Test":[
+         "Hướng ra",
+         "Hướng vào",
+         "Hướng lên"
+      ],
+      "Fill_Blank":"The airport experienced an increase in _______ flights during the holiday season.",
+      "Mistake":[
+         "Outbound",
+         "Inbound",
+         "Upward"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_2",
+      "English":"outbound",
+      "Sub_English":"Hướng ra",
+      "Example":"The outbound flights were delayed due to bad weather conditions.",
+      "English_Vocabulary_Test":[
+         "Hướng vào",
+         "Hướng ra",
+         "Hướng lên"
+      ],
+      "Fill_Blank":"The _______ flights were delayed due to bad weather conditions.",
+      "Mistake":[
+         "Inbound",
+         "Outbound",
+         "Upward"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_3",
+      "English":"holidaymaker",
+      "Sub_English":"Người đi nghỉ",
+      "Example":"The coastal town attracts many holidaymakers during the summer months.",
+      "English_Vocabulary_Test":[
+         "Người đi làm",
+         "Người đi nghỉ",
+         "Người đi học"
+      ],
+      "Fill_Blank":"The coastal town attracts many _______ during the summer months.",
+      "Mistake":[
+         "Commute",
+         "Holidaymaker",
+         "Student"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_4",
+      "English":"emporia",
+      "Sub_English":"Thị trấn thương mại",
+      "Example":"The city's historic district is filled with emporia offering unique products.",
+      "English_Vocabulary_Test":[
+         "Khu vực công nghiệp",
+         "Thị trấn thương mại",
+         "Quận nhà nghỉ"
+      ],
+      "Fill_Blank":"The city's historic district is filled with _______ offering unique products.",
+      "Mistake":[
+         "Industrial area",
+         "Emporia",
+         "Guesthouse district"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_5",
+      "English":"appetite",
+      "Sub_English":"Sự thèm ăn, Khao khát",
+      "Example":"The restaurant is known for satisfying the diverse appetites of its customers.",
+      "English_Vocabulary_Test":[
+         "Sự kiêng kỵ",
+         "Sự thèm ăn",
+         "Sự mệt mỏi"
+      ],
+      "Fill_Blank":"The restaurant is known for satisfying the diverse _______ of its customers.",
+      "Mistake":[
+         "Abstinence",
+         "Appetite",
+         "Fatigue"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_6",
+      "English":"tide",
+      "Sub_English":"Dòng nước biển",
+      "Example":"During high tide, the beach becomes narrower as the water reaches the shore.",
+      "English_Vocabulary_Test":[
+         "Dòng nước biển",
+         "Con sóng",
+         "Làn sóng"
+      ],
+      "Fill_Blank":"During high _______, the beach becomes narrower as the water reaches the shore.",
+      "Mistake":[
+         "Tide",
+         "Wave",
+         "Surge"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_7",
+      "English":"commuter",
+      "Sub_English":"Người đi làm",
+      "Example":"The train station is busy during rush hour with commuters traveling to work.",
+      "English_Vocabulary_Test":[
+         "Người đi làm",
+         "Người đi nghỉ",
+         "Người đi học"
+      ],
+      "Fill_Blank":"The train station is busy during rush hour with _______ traveling to work.",
+      "Mistake":[
+         "Commute",
+         "Holidaymaker",
+         "Student"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_8",
+      "English":"lobby group",
+      "Sub_English":"Nhóm lợi ích, Nhóm vận động",
+      "Example":"The lobby group advocated for environmental policies to combat climate change.",
+      "English_Vocabulary_Test":[
+         "Nhóm lợi ích",
+         "Nhóm nghệ sĩ",
+         "Nhóm thể thao"
+      ],
+      "Fill_Blank":"The _______ advocated for environmental policies to combat climate change.",
+      "Mistake":[
+         "Interest group",
+         "Artists' group",
+         "Sports group"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_9",
+      "English":"staycation",
+      "Sub_English":"Kỳ nghỉ tại nhà",
+      "Example":"Many people chose a staycation instead of traveling abroad during the pandemic.",
+      "English_Vocabulary_Test":[
+         "Kỳ nghỉ tại nhà",
+         "Kỳ nghỉ ở khách sạn",
+         "Kỳ nghỉ hè"
+      ],
+      "Fill_Blank":"Many people chose a _______ instead of traveling abroad during the pandemic.",
+      "Mistake":[
+         "Stay-at-home vacation",
+         "Hotel vacation",
+         "Summer vacation"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_10",
+      "English":"clientele",
+      "Sub_English":"Khách hàng",
+      "Example":"The upscale restaurant attracts a sophisticated clientele.",
+      "English_Vocabulary_Test":[
+         "Khách hàng",
+         "Nhân viên",
+         "Đối tác"
+      ],
+      "Fill_Blank":"The upscale restaurant attracts a sophisticated _______.",
+      "Mistake":[
+         "Clientele",
+         "Employee",
+         "Partner"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_11",
+      "English":"league table",
+      "Sub_English":"Bảng xếp hạng",
+      "Example":"The sports magazine publishes a league table ranking teams based on their performance.",
+      "English_Vocabulary_Test":[
+         "Bảng xếp hạng",
+         "Bảng điểm",
+         "Bảng chấm điểm"
+      ],
+      "Fill_Blank":"The sports magazine publishes a _______ ranking teams based on their performance.",
+      "Mistake":[
+         "Ranking table",
+         "Scoreboard",
+         "Scoring table"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_9_12",
+      "English":"lifeline",
+      "Sub_English":"Dây nối sống",
+      "Example":"Access to clean water is a lifeline for communities in remote areas.",
+      "English_Vocabulary_Test":[
+         "Dây nối sống",
+         "Cái cầu",
+         "Dây dẫn"
+      ],
+      "Fill_Blank":"Access to clean water is a _______ for communities in remote areas.",
+      "Mistake":[
+         "Lifeline",
+         "Bridge",
+         "Conduit"
+      ],
+      "Status":0
+   }
+]

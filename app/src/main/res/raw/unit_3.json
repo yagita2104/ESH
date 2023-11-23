@@ -1,0 +1,236 @@
+[
+   {
+      "ID":"English_English_Language_Read_5_3_1",
+      "English":"Hospitality",
+      "Sub_English":"Ngành dịch vụ",
+      "Example":"I worked in hospitality for many years, including a busy hotel in Wellington.",
+      "English_Vocabulary_Test":[
+         "Nghệ thuật ẩm thực",
+         "Bán hàng",
+         "Tuyển dụng"
+      ],
+      "Fill_Blank":"I worked in __________ for many years, including a busy hotel in Wellington",
+      "Mistake":[
+         "Can",
+         "Hospital",
+         "Computer"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_2",
+      "English":"Merchandising",
+      "Sub_English":"Quảng cáo và bán hàng",
+      "Example":"Successful merchandising requires effective display and promotion of products.",
+      "English_Vocabulary_Test":[
+         "Bất động sản",
+         "Tư vấn",
+         "Tầm nhìn"
+      ],
+      "Fill_Blank":"Successful __________ requires effective display and promotion of products.",
+      "Mistake":[
+         "Real Estate",
+         "Consultancy",
+         "Horizon"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_3",
+      "English":"Recruitment",
+      "Sub_English":"Tuyển dụng",
+      "Example":"The recruitment process involves finding and hiring the right candidates for a job.",
+      "English_Vocabulary_Test":[
+         "Đối tác",
+         "Suy thoái kinh tế",
+         "Nghỉ thai sản"
+      ],
+      "Fill_Blank":"The __________ process involves finding and hiring the right candidates for a job.",
+      "Mistake":[
+         "Counterpart",
+         "Recession",
+         "Maternity Leave"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_4",
+      "English":"Real Estate",
+      "Sub_English":"Bất động sản",
+      "Example":"Investing in real estate can be a lucrative business.",
+      "English_Vocabulary_Test":[
+         "Dịch vụ phục vụ",
+         "Dư thừa, thừa nhân",
+         "Đình công"
+      ],
+      "Fill_Blank":"Investing in __________ can be a lucrative business.",
+      "Mistake":[
+         "Catering",
+         "Redundancy",
+         "Strike"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_5",
+      "English":"Consultancy",
+      "Sub_English":"Tư vấn",
+      "Example":"Hiring a consultancy firm can provide expert advice for business decisions.",
+      "English_Vocabulary_Test":[
+         "Tầm nhìn, tầm nhìn xa",
+         "Đối tác",
+         "Suy thoái kinh tế"
+      ],
+      "Fill_Blank":"Hiring a __________ firm can provide expert advice for business decisions.",
+      "Mistake":[
+         "Horizon",
+         "Counterpart",
+         "Recession"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_6",
+      "English":"Horizon",
+      "Sub_English":"Tầm nhìn, tầm nhận thức/hiểu biết",
+      "Example":"Having a broad horizon can lead to more opportunities in life.",
+      "English_Vocabulary_Test":[
+         "Hiệu quả",
+         "Sự cần thiết",
+         "Quan trọng"
+      ],
+      "Fill_Blank":"Having a broad __________ can lead to more opportunities in life.",
+      "Mistake":[
+         "Efficiency",
+         "Necessity",
+         "Essential"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_7",
+      "English":"Counterpart",
+      "Sub_English":"Người đồng cấp, đối tác",
+      "Example":"In negotiations, understanding the needs of your counterpart is crucial.",
+      "English_Vocabulary_Test":[
+         "Dư thừa",
+         "Đình công",
+         "Nghỉ thai sản"
+      ],
+      "Fill_Blank":"In negotiations, understanding the needs of your __________ is crucial.",
+      "Mistake":[
+         "Redundancy",
+         "Strike",
+         "Maternity Leave"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_8",
+      "English":"Recession",
+      "Sub_English":"Suy thoái kinh tế",
+      "Example":"During a recession, many businesses face financial challenges.",
+      "English_Vocabulary_Test":[
+         "Sa thải ",
+         "Dịch vụ phục vụ",
+         "Nấu ăn"
+      ],
+      "Fill_Blank":"During a __________, many businesses face financial challenges.",
+      "Mistake":[
+         "Lay (sb off)",
+         "Catering",
+         "Cooking"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_9",
+      "English":"Maternity Leave",
+      "Sub_English":"Nghỉ thai sản",
+      "Example":"Companies often provide maternity leave to support employees during pregnancy.",
+      "English_Vocabulary_Test":[
+         "Hòa thuận",
+         "Xung đột",
+         "Đàm phán"
+      ],
+      "Fill_Blank":"Companies often provide __________ to support employees during pregnancy.",
+      "Mistake":[
+         "Harmony",
+         "Conflict",
+         "Negotiation"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_10",
+      "English":"Lay (sb off)",
+      "Sub_English":"Sa thải",
+      "Example":"During tough economic times, companies may need to lay off employees to cut costs.",
+      "English_Vocabulary_Test":[
+         "Dịch vụ phục vụ",
+         "Dư thừa, thừa nhân",
+         "Đình công"
+      ],
+      "Fill_Blank":"During tough economic times, companies may need to __________ employees to cut costs.",
+      "Mistake":[
+         "Catering",
+         "Redundancy",
+         "Strike"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_11",
+      "English":"Catering",
+      "Sub_English":"Dịch vụ cung cấp đồ ăn, uống",
+      "Example":"Catering services are often hired for events and special occasions.",
+      "English_Vocabulary_Test":[
+         "Nấu ăn",
+         "Lòng hiếu khách",
+         "Ẩm thực"
+      ],
+      "Fill_Blank":"__________ services are often hired for events and special occasions.",
+      "Mistake":[
+         "Cooking",
+         "Hospitality",
+         "Cuisine"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_12",
+      "English":"Redundancy",
+      "Sub_English":"Cắt giảm nhân sự",
+      "Example":"Redundancy in the workforce can occur during times of organizational change.",
+      "English_Vocabulary_Test":[
+         "Hiệu quả",
+         "Sự cần thiết",
+         "Quan trọng"
+      ],
+      "Fill_Blank":"__________ in the workforce can occur during times of organizational change.",
+      "Mistake":[
+         "Efficiency",
+         "Necessity",
+         "Essential"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_3_13",
+      "English":"Strike",
+      "Sub_English":"Đình công",
+      "Example":"Workers may go on strike to negotiate better working conditions.",
+      "English_Vocabulary_Test":[
+         "Hòa thuận",
+         "Xung đột",
+         "Đàm phán"
+      ],
+      "Fill_Blank":"Workers may go on __________ to negotiate better working conditions.",
+      "Mistake":[
+         "Harmony",
+         "Conflict",
+         "Negotiation"
+      ],
+      "Status":0
+   }
+]

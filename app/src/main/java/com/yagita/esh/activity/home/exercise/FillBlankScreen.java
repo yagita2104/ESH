@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
 import android.content.res.ColorStateList;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.speech.tts.TextToSpeech;
@@ -34,6 +35,7 @@ public class FillBlankScreen extends AppCompatActivity {
     List<Vocabulary> vocabularyList;
     int index = 0;
     private CountDownTimer countDownTimer;
+    MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
     VocabDAO vocabDAO = new VocabDAO(this);
     @Override
@@ -55,6 +57,35 @@ public class FillBlankScreen extends AppCompatActivity {
 
         btnNextFill = findViewById(R.id.btnNextFill);
         txtCountDown = findViewById(R.id.txtCountDownFillBlank);
+    }
+    private void playSound(boolean bool) {
+        // Tạo một đối tượng MediaPlayer và phát âm thanh từ tệp raw/correct_answer.mp3
+
+        if(bool){
+            mediaPlayer = MediaPlayer.create(this, R.raw.correct_sound);
+        }else {
+            mediaPlayer = MediaPlayer.create(this, R.raw.incorrect_sound);
+        }
+
+
+        // Bắt đầu phát âm thanh
+        mediaPlayer.start();
+
+        // Đặt sự kiện để giải phóng MediaPlayer khi phát xong âm thanh
+        mediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+            @Override
+            public void onCompletion(MediaPlayer mp) {
+                releaseMediaPlayer();
+            }
+        });
+    }
+
+    private void releaseMediaPlayer() {
+        // Giải phóng tài nguyên của MediaPlayer
+        if (mediaPlayer != null) {
+            mediaPlayer.release();
+            mediaPlayer = null;
+        }
     }
     private void addAction(){
         textToSpeech = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
@@ -97,11 +128,11 @@ public class FillBlankScreen extends AppCompatActivity {
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
-                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(true);
                 }
                 else {
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
-                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(false);
                 }
             }
         });
@@ -112,11 +143,11 @@ public class FillBlankScreen extends AppCompatActivity {
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
-                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(true);
                 }
                 else {
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
-                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(false);
                 }
             }
         });
@@ -127,11 +158,11 @@ public class FillBlankScreen extends AppCompatActivity {
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
-                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(true);
                 }
                 else {
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
-                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(false);
                 }
             }
         });
@@ -142,11 +173,11 @@ public class FillBlankScreen extends AppCompatActivity {
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
-                    textToSpeech.speak("Correct", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(true);
                 }
                 else {
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
-                    textToSpeech.speak("Incorrect", TextToSpeech.QUEUE_FLUSH, null, null);
+                    playSound(false);
                 }
             }
         });

@@ -2,6 +2,7 @@ package com.yagita.esh.db;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.res.Resources;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -14,14 +15,18 @@ import com.yagita.esh.model.Vocabulary;
 import org.json.JSONArray;
 
 import java.lang.reflect.Type;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.ResourceBundle;
 
 public class DBESH extends SQLiteOpenHelper {
     Context context;
     List<Vocabulary> vocabularyList;
+    List<Integer> list_unit = new ArrayList<>();
     public DBESH(Context context) {
         super(context, "esh.sqlite", null, 1);
         this.context = context;
+        getUnit();
     }
     //truy vấn không trả kết quả
     public void queryData(String sql){
@@ -33,8 +38,21 @@ public class DBESH extends SQLiteOpenHelper {
         SQLiteDatabase database = getReadableDatabase();
         return database.rawQuery(sql, null);
     }
-    public void getData(){
-        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(context, R.raw.data);
+    public void getUnit(){
+        list_unit.add(R.raw.unit_1);
+        list_unit.add(R.raw.unit_2);
+        list_unit.add(R.raw.unit_3);
+        list_unit.add(R.raw.unit_4);
+        list_unit.add(R.raw.unit_5);
+        list_unit.add(R.raw.unit_6);
+        list_unit.add(R.raw.unit_7);
+        list_unit.add(R.raw.unit_8);
+        list_unit.add(R.raw.unit_9);
+        list_unit.add(R.raw.unit_10);
+    }
+    public void getData(int file){
+        vocabularyList = new ArrayList<>();
+        JSONArray jsonArray = JsonReader.loadJSONArrayFromRaw(context, file);
         String data = "";
         if(jsonArray != null){
             data = jsonArray.toString();
@@ -59,22 +77,24 @@ public class DBESH extends SQLiteOpenHelper {
                 "mistake3 TEXT, " +
                 "status INTEGER)";
         sqLiteDatabase.execSQL(createTableQuery);
-        getData();
-        for (Vocabulary item : vocabularyList) {
-            ContentValues values = new ContentValues();
-            values.put("id", item.getID());
-            values.put("english", item.getEnglish());
-            values.put("sub_english", item.getSub_English());
-            values.put("example", item.getExample());
-            values.put("english_vocabulary_test1", item.getEnglish_Vocabulary_Test().get(0));
-            values.put("english_vocabulary_test2", item.getEnglish_Vocabulary_Test().get(1));
-            values.put("english_vocabulary_test3", item.getEnglish_Vocabulary_Test().get(2));
-            values.put("fill_blank", item.getFill_Blank());
-            values.put("mistake1", item.getMistake().get(0));
-            values.put("mistake2", item.getMistake().get(1));
-            values.put("mistake3", item.getMistake().get(2));
-            values.put("status", item.getStatus());
-            sqLiteDatabase.insert("tblVocabulary", null, values);
+        for (int i : list_unit) {
+            getData(i);
+            for (Vocabulary item : vocabularyList) {
+                ContentValues values = new ContentValues();
+                values.put("id", item.getID());
+                values.put("english", item.getEnglish());
+                values.put("sub_english", item.getSub_English());
+                values.put("example", item.getExample());
+                values.put("english_vocabulary_test1", item.getEnglish_Vocabulary_Test().get(0));
+                values.put("english_vocabulary_test2", item.getEnglish_Vocabulary_Test().get(1));
+                values.put("english_vocabulary_test3", item.getEnglish_Vocabulary_Test().get(2));
+                values.put("fill_blank", item.getFill_Blank());
+                values.put("mistake1", item.getMistake().get(0));
+                values.put("mistake2", item.getMistake().get(1));
+                values.put("mistake3", item.getMistake().get(2));
+                values.put("status", item.getStatus());
+                sqLiteDatabase.insert("tblVocabulary", null, values);
+            }
         }
     }
 

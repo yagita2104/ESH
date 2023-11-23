@@ -1,0 +1,182 @@
+[
+   {
+      "ID":"English_English_Language_Read_5_1_1",
+      "English":"Adulthood",
+      "Sub_English":"Tuổi trưởng thành",
+      "Example":"Her child will reach adulthood next year.",
+      "English_Vocabulary_Test":[
+         "Trẻ nhỏ",
+         "Tuổi già",
+         "Tuổi trẻ"
+      ],
+      "Fill_Blank":"Her child will reach ________ next year.",
+      "Mistake":[
+         "Old",
+         "Child",
+         "Young"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_2",
+      "English":"Spouse",
+      "Sub_English":"Vợ/ Chồng",
+      "Example":"Nam loves Huong so much that he’s going to ask her whether she wants to be his spouse",
+      "English_Vocabulary_Test":[
+         "Ông bà",
+         "Cô chú",
+         "Anh em"
+      ],
+      "Fill_Blank":"Nam has loved Huong for 4 years and he’s going to ask her whether she wants to be his_________",
+      "Mistake":[
+         "Roommate",
+         "Best friend",
+         "Grandparent"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_3",
+      "English":"Widower",
+      "Sub_English":"Quả phụ",
+      "Example":"They admire that widower for his faithfulness to his wife, even though she has passed away for 14 years",
+      "English_Vocabulary_Test":[
+         "Góa phụ",
+         "Độc thân",
+         "Chồng"
+      ],
+      "Fill_Blank":"They admire that _______ for his faithfulness to his wife, even though she passed away 14 years ago",
+      "Mistake":[
+         "Widow",
+         "Brother",
+         "Teenager"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_4",
+      "English":"Sibling",
+      "Sub_English":"Anh/ chị/ em ruột",
+      "Example":"My sibling is 10 years older than me.",
+      "English_Vocabulary_Test":[
+         "Chú",
+         "Bác",
+         "Dì"
+      ],
+      "Fill_Blank":"My ______ is 10 years older than me, so he often gives me some useful pieces of advice",
+      "Mistake":[
+         "Nephew",
+         "Grandpa",
+         "Niece"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_5",
+      "English":"Half-brother",
+      "Sub_English":"Anh em cùng cha hoặc cùng mẹ",
+      "Example":"Malik is Barack Obama’s half-brother.",
+      "English_Vocabulary_Test":[
+         "Anh",
+         "Ông",
+         "Cháu"
+      ],
+      "Fill_Blank":"Malik is Barack Obama’s _________.",
+      "Mistake":[
+         "Cat",
+         "Brother-in-law",
+         "Niece"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_6",
+      "English":"Stepsister",
+      "Sub_English":"Chị em kế",
+      "Example":"If your mother gets married to a man who has a daughter by another marriage, this girl becomes your stepsister",
+      "English_Vocabulary_Test":[
+         "Anh rể",
+         "Bà",
+         "Dì"
+      ],
+      "Fill_Blank":"If your mother gets married to a man who has a daughter by another marriage, this girl becomes your _______.",
+      "Mistake":[
+         "Aunt",
+         "Sister-in-law",
+         "Soulmate"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_7",
+      "English":"Life-long bond",
+      "Sub_English":"Mối liên kết cả đời",
+      "Example":"My grandparents enjoyed their time together very much, and it created a life-long bond between them.",
+      "English_Vocabulary_Test":[
+         "Sự ganh tị",
+         "Niềm hạnh phúc",
+         "Ước mơ"
+      ],
+      "Fill_Blank":"My grandparents enjoyed their time together very much, and it created a ________ between them.",
+      "Mistake":[
+         "Happiness",
+         "Fight",
+         "Conflict"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_8",
+      "English":"Inheritance",
+      "Sub_English":"Di sản",
+      "Example":"A large inheritance from his aunt meant that he could buy his own house.",
+      "English_Vocabulary_Test":[
+         "Cổ vật",
+         "Khao khát",
+         "Di chúc"
+      ],
+      "Fill_Blank":"A large ________ from his aunt meant that he could buy his own house.",
+      "Mistake":[
+         "Debt",
+         "Flower",
+         "Will"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_9",
+      "English":"Invalidate",
+      "Sub_English":"Bác bỏ",
+      "Example":"Flawed research methods may invalidate the study’s conclusions.",
+      "English_Vocabulary_Test":[
+         "Đồng tình",
+         "Trung lập",
+         "Chiếm lấy"
+      ],
+      "Fill_Blank":"Flawed research methods may invalidate the study’s conclusions.",
+      "Mistake":[
+         "Present",
+         "Hate",
+         "Destroy"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_1_10",
+      "English":"Deceased",
+      "Sub_English":"Người đã khuất",
+      "Example":"The deceased father left all his real estate to his daughter.",
+      "English_Vocabulary_Test":[
+         "Khỏe mạnh",
+         "Bệnh tật",
+         "Già"
+      ],
+      "Fill_Blank":"The ________ father left all his real estate to his daughter.",
+      "Mistake":[
+         "Healthy",
+         "Violent",
+         "Bad"
+      ],
+      "Status":0
+   }
+]

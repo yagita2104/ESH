@@ -1,0 +1,182 @@
+[
+   {
+      "ID":"English_English_Language_Read_5_10_1",
+      "English":"Stratospheric",
+      "Sub_English":"Thuộc tầng bình lưu",
+      "Example":"The athlete achieved stratospheric success with multiple world records.",
+      "English_Vocabulary_Test":[
+         "Thuộc tầng bình lưu",
+         "Thuộc tầng ôzôn",
+         "Thuộc tầng quyển"
+      ],
+      "Fill_Blank":"The athlete achieved _______ success with multiple world records.",
+      "Mistake":[
+         "Stratospheric",
+         "Ozone layer",
+         "Atmospheric layer"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_2",
+      "English":"Enthralling",
+      "Sub_English":"Hấp dẫn, Quyến rũ",
+      "Example":"The novel had an enthralling plot that captivated readers from start to finish.",
+      "English_Vocabulary_Test":[
+         "Nhàm chán",
+         "Hấp dẫn",
+         "Kịch tính"
+      ],
+      "Fill_Blank":"The novel had an _______ plot that captivated readers from start to finish.",
+      "Mistake":[
+         "Boring",
+         "Enthralling",
+         "Dramatic"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_3",
+      "English":"Plump",
+      "Sub_English":"Mũm mĩm, Bự",
+      "Example":"The baby had plump cheeks that everyone found adorable.",
+      "English_Vocabulary_Test":[
+         "Mũm mĩm",
+         "Gầy gò",
+         "Hoàn hảo"
+      ],
+      "Fill_Blank":"The baby had _______ cheeks that everyone found adorable.",
+      "Mistake":[
+         "Plump",
+         "Thin",
+         "Perfect"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_4",
+      "English":"Impeccable",
+      "Sub_English":"Hoàn hảo, Không chê vào đâu được",
+      "Example":"Her attire was impeccable, showcasing a keen sense of style.",
+      "English_Vocabulary_Test":[
+         "Hoàn hảo",
+         "Không chê vào đâu được",
+         "Quá khứ"
+      ],
+      "Fill_Blank":"Her attire was ________, showcasing a keen sense of style.",
+      "Mistake":[
+         "Impeccable",
+         "Flawless",
+         "Past"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_5",
+      "English":"Marvellous",
+      "Sub_English":"Kỳ diệu, Tuyệt vời",
+      "Example":"The sunset over the ocean was truly marvellous, painting the sky in vibrant colors.",
+      "English_Vocabulary_Test":[
+         "Tệ",
+         "Kỳ diệu",
+         "Bình thường"
+      ],
+      "Fill_Blank":"The sunset over the ocean was truly ________, painting the sky in vibrant colors.",
+      "Mistake":[
+         "Bad",
+         "Marvellous",
+         "Normal"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_6",
+      "English":"Fuzzy",
+      "Sub_English":"Mờ nhạt, Mơ hồ",
+      "Example":"The old photograph was fuzzy, making it difficult to recognize the people in it.",
+      "English_Vocabulary_Test":[
+         "Rõ ràng",
+         "Mờ nhạt",
+         "Sáng sủa"
+      ],
+      "Fill_Blank":"The old photograph was _______, making it difficult to recognize the people in it.",
+      "Mistake":[
+         "Clear",
+         "Fuzzy",
+         "Bright"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_7",
+      "English":"Discriminating",
+      "Sub_English":"Kén chọn",
+      "Example":"The chef had a discriminating taste, selecting only the finest ingredients for the dish.",
+      "English_Vocabulary_Test":[
+         "Kén chọn",
+         "Chấp nhận mọi thứ",
+         "Bồng bột"
+      ],
+      "Fill_Blank":"The chef had a _______ taste, selecting only the finest ingredients for the dish.",
+      "Mistake":[
+         "Discriminating",
+         "Accepting everything",
+         "Indiscriminate"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_8",
+      "English":"Collectivist",
+      "Sub_English":"Chủ nghĩa tập thể",
+      "Example":"The culture of the community was deeply rooted in collectivist values.",
+      "English_Vocabulary_Test":[
+         "Chủ nghĩa cá nhân",
+         "Chủ nghĩa tập thể",
+         "Chủ nghĩa lập trình"
+      ],
+      "Fill_Blank":"The culture of the community was deeply rooted in _______ values.",
+      "Mistake":[
+         "Individualism",
+         "Collectivism",
+         "Programming"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_9",
+      "English":"Demolish",
+      "Sub_English":"Phá hủy, Hủy diệt",
+      "Example":"The old building was scheduled for demolition to make way for a new development.",
+      "English_Vocabulary_Test":[
+         "Sửa chữa",
+         "Phá hủy",
+         "Xây dựng"
+      ],
+      "Fill_Blank":"The old building was scheduled for _______ to make way for a new development.",
+      "Mistake":[
+         "Repair",
+         "Demolish",
+         "Build"
+      ],
+      "Status":0
+   },
+   {
+      "ID":"English_English_Language_Read_5_10_10",
+      "English":"Spectacular",
+      "Sub_English":"Ngoạn mục, Hùng vĩ",
+      "Example":"The fireworks display on New Year's Eve was truly spectacular, lighting up the sky.",
+      "English_Vocabulary_Test":[
+         "Bình thường",
+         "Ngoạn mục",
+         "Rất tốt"
+      ],
+      "Fill_Blank":"The fireworks display on New Year's Eve was truly ________, lighting up the sky.",
+      "Mistake":[
+         "Normal",
+         "Spectacular",
+         "Very good"
+      ],
+      "Status":0
+   }
+]
