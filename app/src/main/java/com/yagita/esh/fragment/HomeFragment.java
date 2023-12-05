@@ -3,6 +3,7 @@ package com.yagita.esh.fragment;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -185,7 +186,7 @@ public class HomeFragment extends Fragment {
     }
 
     private void saveImageToPreferences(Bitmap bitmap) {
-        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
+        SharedPreferences preferences = requireActivity().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = preferences.edit();
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         bitmap.compress(Bitmap.CompressFormat.PNG, 100, baos);
@@ -195,7 +196,7 @@ public class HomeFragment extends Fragment {
     }
 
     private Bitmap loadImageFromPreferences() {
-        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
+        SharedPreferences preferences = requireActivity().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         String imageEncoded = preferences.getString("profile_image", "");
         if (!imageEncoded.isEmpty()) {
             byte[] imageBytes = Base64.decode(imageEncoded, Base64.DEFAULT);

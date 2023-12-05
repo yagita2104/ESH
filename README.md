@@ -11,3 +11,4 @@
 - 10/11/2023: Cập nhật lại giao diện phần Thống kê (Chưa có dữ liệu nhiều unit nên chỉ xử lý giao diện) (T)
 - 23/11/2023: Cập nhật toàn bộ giao diện (ThTh)
 - 24/11/2023: Cập nhật âm thanh, bottom navigation
+- 06/12/2023: Cập nhật lại Welcome, chỉnh sửa phần kiểm tra

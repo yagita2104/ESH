@@ -41,14 +41,14 @@
             android:orientation="vertical"
             android:gravity="center"
             >
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Xin chào, tên bạn là gì?"
-                android:textSize="18sp"
-                android:layout_gravity="center"
-                android:layout_margin="10dp"
-                android:textColor="@color/black"/>
+            <ImageView
+                android:id="@+id/imgSelectProfile"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="35dp"
+                android:src="@drawable/ic_select_profile"
+                android:background="@drawable/circle"
+                />
             <EditText
                 android:id="@+id/edtName"
                 android:layout_width="match_parent"

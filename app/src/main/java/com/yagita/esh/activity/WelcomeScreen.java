@@ -8,9 +8,12 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.provider.MediaStore;
+import android.util.Base64;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -22,12 +25,14 @@ import android.widget.Toast;
 import com.yagita.esh.R;
 import com.yagita.esh.fragment.HomeFragment;
 
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 public class WelcomeScreen extends AppCompatActivity {
     Button btnStart;
     EditText edtName;
     Spinner spnSpec;
+    ImageView imgSelectProfile;
     String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngoại Ngữ" ,"Cơ Khí"};
 
     @Override
@@ -57,6 +62,7 @@ public class WelcomeScreen extends AppCompatActivity {
         btnStart = findViewById(R.id.btnStart);
         edtName = findViewById(R.id.edtName);
         spnSpec = findViewById(R.id.spnSpec);
+        imgSelectProfile = findViewById(R.id.imgSelectProfile);
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, khoaList);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -73,7 +79,7 @@ public class WelcomeScreen extends AppCompatActivity {
 
                 if (name.isEmpty()) {
                     Toast.makeText(WelcomeScreen.this, "Vui lòng nhập tên", Toast.LENGTH_SHORT).show();
-                } else if (spec.equals("Chọn Khoa") || (spec == "Khoa")) {
+                } else if (spec.equals("Chọn Khoa") || (spec.equals("Khoa"))) {
                     Toast.makeText(WelcomeScreen.this, "Vui lòng chọn khoa", Toast.LENGTH_SHORT).show();
                 } else {
                     SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
@@ -85,5 +91,57 @@ public class WelcomeScreen extends AppCompatActivity {
                 }
             }
         });
+        imgSelectProfile.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                imageChooser();
+            }
+        });
     }
+
+    private void imageChooser() {
+        Intent i = new Intent();
+        i.setType("image/*");
+        i.setAction(Intent.ACTION_GET_CONTENT);
+        launcher.launch(i);
+    }
+
+    private void saveImageToPreferences(Bitmap bitmap) {
+        SharedPreferences preferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        SharedPreferences.Editor editor = preferences.edit();
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        bitmap.compress(Bitmap.CompressFormat.PNG, 100, baos);
+        String imageEncoded = Base64.encodeToString(baos.toByteArray(), Base64.DEFAULT);
+        editor.putString("profile_image", imageEncoded);
+        editor.apply();
+    }
+
+    private Bitmap loadImageFromPreferences() {
+        SharedPreferences preferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        String imageEncoded = preferences.getString("profile_image", "");
+        if (!imageEncoded.isEmpty()) {
+            byte[] imageBytes = Base64.decode(imageEncoded, Base64.DEFAULT);
+            return BitmapFactory.decodeByteArray(imageBytes, 0, imageBytes.length);
+        }
+        return null;
+    }
+
+    ActivityResultLauncher<Intent> launcher = registerForActivityResult(new ActivityResultContracts.StartActivityForResult(), result -> {
+        if (result.getResultCode() == Activity.RESULT_OK) {
+            Intent data = result.getData();
+            if (data != null && data.getData() != null) {
+                Uri selectedImageUri = data.getData();
+                Bitmap selectedImageBitmap = null;
+                try {
+                    selectedImageBitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(), selectedImageUri);
+                    // Hiển thị hình ảnh đã chọn
+                    imgSelectProfile.setImageBitmap(selectedImageBitmap);
+                    // Lưu hình ảnh vào SharedPreferences
+                    saveImageToPreferences(selectedImageBitmap);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    });
 }
