@@ -37,13 +37,13 @@ public class VocabKnown extends AppCompatActivity {
         setData();
 
     }
-    public void getWidget(){
+    private void getWidget(){
         lvVocabKnow = findViewById(R.id.lvVocabKnown);
         btnBack = findViewById(R.id.btnBackStorageKno);
         adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, listVocabKnow);
         lvVocabKnow.setAdapter(adapter);
     }
-    public void addAction(){
+    private void addAction(){
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -51,7 +51,7 @@ public class VocabKnown extends AppCompatActivity {
             }
         });
     }
-    public void setData(){
+    private void setData(){
         for (Vocabulary a : vocabularyList) {
             if(a.getStatus() == 1){
                 listVocabKnow.add(a.getEnglish());

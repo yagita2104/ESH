@@ -131,7 +131,7 @@ public class VocabScreen extends AppCompatActivity {
             }
         });
     }
-    public void setItem(Vocabulary a){
+    private void setItem(Vocabulary a){
         if (a.getStatus() == 0){
             txtWord.setText(a.getEnglish());
             txtSpelling.setText(a.getEnglish());

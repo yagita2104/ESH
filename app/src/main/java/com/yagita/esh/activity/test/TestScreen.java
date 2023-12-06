@@ -26,7 +26,7 @@ import java.util.Random;
 public class TestScreen extends AppCompatActivity {
 
     ImageView btnBackTest;
-    TextView txtTest, txtCountDown;
+    TextView txtTest, txtCountDown, txtProcess;
     Button btnTestAnswer0, btnTestAnswer1, btnTestAnswer2, btnTestAnswer3, btnNextTest;
     int random_number = 0;
     List<Vocabulary> vocabularyList;
@@ -35,20 +35,24 @@ public class TestScreen extends AppCompatActivity {
     private MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
     VocabDAO vocabDAO = new VocabDAO(this);
+    int index_process = 0;
+    List<Vocabulary> listVocabKnown = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_screen);
         getWidget();
         vocabularyList = vocabDAO.getListVocab();
+        listVocabKnown = vocabDAO.getListVocabKnown();
+        setProcess();
         addAction();
         setItem(vocabularyList.get(0));
-
     }
 
     private void getWidget() {
         btnBackTest = findViewById(R.id.btnBackTest);
         txtTest = findViewById(R.id.txtTest);
+        txtProcess = findViewById(R.id.txtProcess);
 
         btnNextTest = findViewById(R.id.btnNextTest);
         btnTestAnswer0 = findViewById(R.id.btnTestAnswer0);
@@ -56,7 +60,12 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer2 = findViewById(R.id.btnTestAnswer2);
         btnTestAnswer3 = findViewById(R.id.btnTestAnswer3);
 
-        txtCountDown = findViewById(R.id.txtCountDownQuiz);
+        txtCountDown = findViewById(R.id.txtCountDownTest);
+    }
+    private void setProcess(){
+        String process = index_process + "/" + listVocabKnown.size();
+        txtProcess.setText(process);
+        index_process++;
     }
     public void setItem(Vocabulary vocabulary){
         txtTest.setText(vocabulary.getEnglish());
@@ -69,6 +78,7 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer2.setText(answer.get(listAnswer.get(2)));
         btnTestAnswer3.setText(answer.get(listAnswer.get(3)));
     }
+
     public ArrayList<Integer> selectNumberRandom(){
         ArrayList<Integer> result = new ArrayList<>();
         ArrayList<Integer> choices = new ArrayList<>();
@@ -105,11 +115,8 @@ public class TestScreen extends AppCompatActivity {
         }else {
             mediaPlayer = MediaPlayer.create(this, R.raw.incorrect_sound);
         }
-
-
         // Bắt đầu phát âm thanh
         mediaPlayer.start();
-
         // Đặt sự kiện để giải phóng MediaPlayer khi phát xong âm thanh
         mediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
@@ -153,8 +160,10 @@ public class TestScreen extends AppCompatActivity {
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
                     btnNextTest.setVisibility(View.INVISIBLE);
+                    setProcess();
                 }else {
-                    btnNextTest.setText("Bạn đã hoàn thành bài tập hôm nay");
+                    btnNextTest.setText("Bạn đã hoàn thành việc kiểm tra của mình, xin chúc mừng.");
+                    index_process = 0;
                     startCountdownTimer();
                 }
             }
@@ -162,6 +171,7 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnTestAnswer0.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
@@ -177,6 +187,7 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnTestAnswer1.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
@@ -192,6 +203,7 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnTestAnswer2.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
@@ -207,6 +219,7 @@ public class TestScreen extends AppCompatActivity {
         btnTestAnswer3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnTestAnswer3.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));

@@ -61,7 +61,7 @@ public class QuizScreen extends AppCompatActivity {
 
         txtCountDown = findViewById(R.id.txtCountDownQuiz);
     }
-    public void setItem(Vocabulary vocabulary){
+    private void setItem(Vocabulary vocabulary){
         txtQuizText.setText(vocabulary.getEnglish());
         ArrayList<Integer> listAnswer = selectNumberRandom();
         List<String> answer = vocabulary.getEnglish_Vocabulary_Test();
@@ -72,7 +72,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer2.setText(answer.get(listAnswer.get(2)));
         btnQuizAnswer3.setText(answer.get(listAnswer.get(3)));
     }
-    public ArrayList<Integer> selectNumberRandom(){
+    private ArrayList<Integer> selectNumberRandom(){
         ArrayList<Integer> result = new ArrayList<>();
         ArrayList<Integer> choices = new ArrayList<>();
         for (int i = 0; i <= 3; i++) {
@@ -165,6 +165,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnQuizAnswer0.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
@@ -180,6 +181,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnQuizAnswer1.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
@@ -195,6 +197,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnQuizAnswer2.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
@@ -210,6 +213,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnQuizAnswer3.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));

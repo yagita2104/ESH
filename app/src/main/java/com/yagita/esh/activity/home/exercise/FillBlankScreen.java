@@ -124,6 +124,7 @@ public class FillBlankScreen extends AppCompatActivity {
         btnFillAnswer0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnFillAnswer0.getText().toString();
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
@@ -139,6 +140,7 @@ public class FillBlankScreen extends AppCompatActivity {
         btnFillAnswer1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnFillAnswer1.getText().toString();
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
@@ -154,6 +156,7 @@ public class FillBlankScreen extends AppCompatActivity {
         btnFillAnswer2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnFillAnswer2.getText().toString();
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
@@ -169,6 +172,7 @@ public class FillBlankScreen extends AppCompatActivity {
         btnFillAnswer3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                releaseMediaPlayer();
                 String answer = btnFillAnswer3.getText().toString();
                 if(vocabularyList.get(index).getEnglish().equals(answer)){
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
@@ -195,7 +199,7 @@ public class FillBlankScreen extends AppCompatActivity {
             }
         }.start();
     }
-    public ArrayList<Integer> selectNumberRandom(){
+    private ArrayList<Integer> selectNumberRandom(){
         ArrayList<Integer> result = new ArrayList<>();
         ArrayList<Integer> choices = new ArrayList<>();
         for (int i = 0; i <= 3; i++) {
@@ -212,7 +216,7 @@ public class FillBlankScreen extends AppCompatActivity {
         }
         return result;
     }
-    public void setItem(Vocabulary vocabulary){
+    private void setItem(Vocabulary vocabulary){
         txtFillblank.setText(vocabulary.getFill_Blank());
         ArrayList<Integer> listAnswer = selectNumberRandom();
         List<String> answer = vocabulary.getMistake();
