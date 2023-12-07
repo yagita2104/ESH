@@ -1,8 +1,12 @@
 package com.yagita.esh.activity.test;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import android.app.Dialog;
+import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.res.ColorStateList;
 import android.media.MediaPlayer;
 import android.os.Bundle;
@@ -16,6 +20,7 @@ import android.widget.TextView;
 import com.yagita.esh.R;
 import com.yagita.esh.activity.home.exercise.QuizScreen;
 import com.yagita.esh.db.VocabDAO;
+import com.yagita.esh.model.TestAnswer;
 import com.yagita.esh.model.Vocabulary;
 
 import java.util.ArrayList;
@@ -35,8 +40,10 @@ public class TestScreen extends AppCompatActivity {
     private MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
     VocabDAO vocabDAO = new VocabDAO(this);
-    int index_process = 0;
+    int index_process = 1;
     List<Vocabulary> listVocabKnown = new ArrayList<>();
+    int correct_answer = 0;
+    public ArrayList<TestAnswer> listTestAnswer = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -152,35 +159,29 @@ public class TestScreen extends AppCompatActivity {
         btnNextTest.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if((index + 1) < vocabularyList.size()){
-                    index++;
-                    setItem(vocabularyList.get(index));
-                    btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
-                    btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
-                    btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
-                    btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
-                    btnNextTest.setVisibility(View.INVISIBLE);
-                    setProcess();
-                }else {
-                    btnNextTest.setText("Bạn đã hoàn thành việc kiểm tra của mình, xin chúc mừng.");
-                    index_process = 0;
-                    startCountdownTimer();
-                }
+                nextTest();
             }
         });
         btnTestAnswer0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
+                if(index == vocabularyList.size() - 1){
+                    endTest();
+                }
                 String answer = btnTestAnswer0.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
+                    correct_answer++;
                 }
                 else {
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
+                    nextTest();
                 }
             }
         });
@@ -188,15 +189,22 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
+                if(index == vocabularyList.size() - 1){
+                    endTest();
+                }
                 String answer = btnTestAnswer1.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
+                    correct_answer++;
                 }
                 else {
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
+                    nextTest();
                 }
             }
         });
@@ -204,15 +212,22 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
+                if(index == vocabularyList.size() - 1){
+                    endTest();
+                }
                 String answer = btnTestAnswer2.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
+                    correct_answer++;
                 }
                 else {
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
+                    nextTest();
                 }
             }
         });
@@ -220,15 +235,22 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
+                if(index == vocabularyList.size() - 1){
+                    endTest();
+                }
                 String answer = btnTestAnswer3.getText().toString();
                 if(vocabularyList.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
+                    correct_answer++;
                 }
                 else {
+                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
+                    nextTest();
                 }
             }
         });
@@ -240,4 +262,59 @@ public class TestScreen extends AppCompatActivity {
         });
 
     }
+    private void showCustomDialog() {
+        Dialog customDialog = new Dialog(this);
+        customDialog.setContentView(R.layout.test_dialog_custom);
+
+        TextView txtTestFinish = customDialog.findViewById(R.id.txtTestFinish);
+        Button btnTestCheck = customDialog.findViewById(R.id.btnTestCheck);
+        Button btnTestEnd = customDialog.findViewById(R.id.btnTestEnd);
+
+        String content = "Bạn đã hoàn thành đúng " + correct_answer + "/" + listVocabKnown.size() +" câu.";
+        txtTestFinish.setText(content);
+        btnTestCheck.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(TestScreen.this, CheckScreen.class);
+                intent.putExtra("dataAnswer", listTestAnswer);
+                startActivity(intent);
+            }
+        });
+        btnTestEnd.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                customDialog.dismiss();
+                onBackPressed();
+            }
+        });
+        customDialog.show();
+    }
+    private void endTest(){
+        btnNextTest.setText("End");
+        btnNextTest.setVisibility(View.VISIBLE);
+        index_process = 0;
+        btnNextTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                showCustomDialog();
+            }
+        });
+    }
+    private void nextTest(){
+        if((index + 1) < vocabularyList.size()){
+            index++;
+            setItem(vocabularyList.get(index));
+            btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
+            btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
+            btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
+            btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
+            btnNextTest.setVisibility(View.INVISIBLE);
+            setProcess();
+        }else {
+            endTest();
+        }
+    }
+//    private void addTestAnswer(Vocabulary vocab, Button btn){
+//        listTestAnswer.add(new TestAnswer(index, btn.getText().toString(), vocab.getSub_English()));
+//    }
 }

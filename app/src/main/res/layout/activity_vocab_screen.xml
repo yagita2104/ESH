@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".activity.home.VocabScreen">
     <RelativeLayout
+        android:id="@+id/rltVocab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#d7f2cb">
@@ -43,19 +44,47 @@
             android:layout_marginBottom="20dip"
             android:src="@drawable/ic_button_list" />
     </RelativeLayout>
+    <TextView
+        android:id="@+id/txtAmountVocabUnknow"
+        android:layout_below="@+id/rltVocab"
+        android:layout_marginTop="100dp"
+        android:padding="20dp"
+        android:text="0"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/home_color_button_2"
+        android:background="@drawable/rectangle"/>
+    <TextView
+        android:id="@+id/txtAmountVocabKnow"
+        android:layout_below="@+id/rltVocab"
+        android:layout_marginTop="100dp"
+        android:padding="20dp"
+        android:text="0"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/home_color_button_1"
+        android:background="@drawable/rectangle"
+        android:layout_alignParentRight="true"/>
+
     <RelativeLayout
         android:layout_width="300dip"
-        android:layout_height="400dip"
-        android:layout_centerInParent="true">
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/rectangle"
+        android:backgroundTint="@color/bottom_nav"
+        android:padding="20dp">
 
         <ImageView
             android:id="@+id/imgVocabSpeech"
             android:layout_width="30dip"
             android:layout_height="30dip"
-            android:layout_marginStart="18dip"
-            android:layout_marginTop="18dip"
-            android:layout_marginEnd="18dip"
-            android:layout_marginBottom="18dip"
+            android:layout_marginTop="10dp"
             android:src="@drawable/ic_volume" />
 
         <TextView
@@ -63,38 +92,35 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_marginStart="20dip"
-            android:layout_marginTop="20dip"
-            android:layout_marginEnd="20dip"
-            android:layout_marginBottom="10dip"
+            android:padding="10dp"
             android:text="Blockchain"
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold" />
 
-        <TextView
-            android:id="@+id/txtSpelling"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/txtWord"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="20dip"
-            android:text="/blaktʃeɪn/" />
+        <!--        <TextView-->
+        <!--            android:id="@+id/txtSpelling"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_below="@id/txtWord"-->
+        <!--            android:layout_centerHorizontal="true"-->
+        <!--            android:layout_marginBottom="20dip"-->
+        <!--            android:text="/blaktʃeɪn/" />-->
 
-        <ImageView
-            android:id="@+id/imgIllustration"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/txtSpelling"
-            android:src="@drawable/vocab_test" />
+        <!--        <ImageView-->
+        <!--            android:id="@+id/imgIllustration"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_below="@id/txtSpelling"-->
+        <!--            android:src="@drawable/vocab_test" />-->
 
         <TextView
             android:id="@+id/txtWordTranslate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/imgIllustration"
+            android:layout_below="@id/txtWord"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="5dip"
+            android:padding="10dp"
             android:text="Chuỗi khối"
             android:textColor="@color/black"
             android:textStyle="bold" />
@@ -104,10 +130,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/txtWordTranslate"
-            android:layout_marginStart="5dip"
-            android:layout_marginTop="5dip"
-            android:layout_marginEnd="5dip"
-            android:layout_marginBottom="5dip"
+            android:padding="10dp"
             android:text="Blockchain is likely to become the key technology behind many central bank digital currencies."
             android:textAlignment="center"
             android:textColor="@color/black" />

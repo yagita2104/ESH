@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.yagita.esh.R;
@@ -26,14 +27,17 @@ public class TestFragment extends Fragment {
     Button btnStartTest;
     List<Vocabulary> list = new ArrayList<>();
     VocabDAO vocabDAO;
+    TextView txtTest;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_test, container, false);
         btnStartTest = view.findViewById(R.id.btnStartTest);
+        txtTest = view.findViewById(R.id.txtTest);
+
         vocabDAO = new VocabDAO(view.getContext());
-        list = vocabDAO.getListVocabKnown();
+        updateContent();
         btnStartTest.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -61,5 +65,17 @@ public class TestFragment extends Fragment {
         });
 
         return view;
+    }
+    @Override
+    public void onResume() {
+        super.onResume();
+        // Cập nhật lại nội dung khi fragment được hiển thị lại
+        updateContent();
+    }
+
+    private void updateContent() {
+        list = vocabDAO.getListVocabKnown();
+        String content = "Đã học " + list.size() + " từ mới. Bắt đầu kiểm tra?";
+        txtTest.setText(content);
     }
 }

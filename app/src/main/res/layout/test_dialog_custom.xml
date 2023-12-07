@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangle"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        app:cardCornerRadius="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="Hoàn thành"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="18sp"/>
+            <TextView
+                android:id="@+id/txtTestFinish"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="Bạn đã hoàn thành đúng 22/24 câu"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="@color/black"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:weightSum="2"
+                android:gravity="center"
+                android:padding="10dp">
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnTestCheck"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="Xem lại"
+                    android:background="@drawable/rectangle"
+                    android:backgroundTint="@color/home_color_button_1"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnTestEnd"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="Kết thúc"
+                    android:background="@drawable/rectangle"
+                    android:backgroundTint="@color/home_color_button_2"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

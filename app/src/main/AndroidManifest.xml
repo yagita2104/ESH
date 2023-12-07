@@ -15,6 +15,9 @@
         android:theme="@style/Theme.ESH"
         tools:targetApi="31">
         <activity
+            android:name=".activity.test.CheckScreen"
+            android:exported="false" />
+        <activity
             android:name=".activity.test.TestScreen"
             android:exported="false" />
         <activity
@@ -70,7 +73,7 @@
             android:exported="false" />
         <activity
             android:name=".activity.MainActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
     </application>
 
 </manifest>
