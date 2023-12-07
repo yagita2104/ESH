@@ -29,12 +29,11 @@ import java.util.Locale;
 import java.util.Random;
 
 public class TestScreen extends AppCompatActivity {
-
+    private boolean isButtonSelected = false;
     ImageView btnBackTest;
     TextView txtTest, txtCountDown, txtProcess;
     Button btnTestAnswer0, btnTestAnswer1, btnTestAnswer2, btnTestAnswer3, btnNextTest;
     int random_number = 0;
-    List<Vocabulary> vocabularyList;
     int index = 0;
     private CountDownTimer countDownTimer;
     private MediaPlayer mediaPlayer;
@@ -44,30 +43,33 @@ public class TestScreen extends AppCompatActivity {
     List<Vocabulary> listVocabKnown = new ArrayList<>();
     int correct_answer = 0;
     public ArrayList<TestAnswer> listTestAnswer = new ArrayList<>();
+    List<Button> listButton = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_screen);
         getWidget();
-        vocabularyList = vocabDAO.getListVocab();
         listVocabKnown = vocabDAO.getListVocabKnown();
         setProcess();
         addAction();
-        setItem(vocabularyList.get(0));
+        setItem(listVocabKnown.get(0));
     }
 
     private void getWidget() {
         btnBackTest = findViewById(R.id.btnBackTest);
         txtTest = findViewById(R.id.txtTest);
         txtProcess = findViewById(R.id.txtProcess);
-
         btnNextTest = findViewById(R.id.btnNextTest);
         btnTestAnswer0 = findViewById(R.id.btnTestAnswer0);
         btnTestAnswer1 = findViewById(R.id.btnTestAnswer1);
         btnTestAnswer2 = findViewById(R.id.btnTestAnswer2);
         btnTestAnswer3 = findViewById(R.id.btnTestAnswer3);
-
         txtCountDown = findViewById(R.id.txtCountDownTest);
+
+        listButton.add(btnTestAnswer0);
+        listButton.add(btnTestAnswer1);
+        listButton.add(btnTestAnswer2);
+        listButton.add(btnTestAnswer3);
     }
     private void setProcess(){
         String process = index_process + "/" + listVocabKnown.size();
@@ -166,22 +168,31 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
-                if(index == vocabularyList.size() - 1){
+                if(index == listVocabKnown.size() - 1){
                     endTest();
                 }
                 String answer = btnTestAnswer0.getText().toString();
-                if(vocabularyList.get(index).getSub_English().equals(answer)){
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                if(listVocabKnown.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
                     correct_answer++;
+
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
                 }
                 else {
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
-                    nextTest();
+
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
+                    btnNextTest.setVisibility(View.VISIBLE);
+                    //nextTest();
                 }
             }
         });
@@ -189,22 +200,30 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
-                if(index == vocabularyList.size() - 1){
+                if(index == listVocabKnown.size() - 1){
                     endTest();
                 }
                 String answer = btnTestAnswer1.getText().toString();
-                if(vocabularyList.get(index).getSub_English().equals(answer)){
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                if(listVocabKnown.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
                     correct_answer++;
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
                 }
                 else {
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
-                    nextTest();
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
+                    btnNextTest.setVisibility(View.VISIBLE);
                 }
             }
         });
@@ -212,22 +231,30 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
-                if(index == vocabularyList.size() - 1){
+                if(index == listVocabKnown.size() - 1){
                     endTest();
                 }
                 String answer = btnTestAnswer2.getText().toString();
-                if(vocabularyList.get(index).getSub_English().equals(answer)){
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                if(listVocabKnown.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
                     correct_answer++;
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
                 }
                 else {
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
-                    nextTest();
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer3.setEnabled(false);
+                    btnNextTest.setVisibility(View.VISIBLE);
                 }
             }
         });
@@ -235,22 +262,30 @@ public class TestScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 releaseMediaPlayer();
-                if(index == vocabularyList.size() - 1){
+                if(index == listVocabKnown.size() - 1){
                     endTest();
                 }
                 String answer = btnTestAnswer3.getText().toString();
-                if(vocabularyList.get(index).getSub_English().equals(answer)){
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                if(listVocabKnown.get(index).getSub_English().equals(answer)){
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_1)));
                     btnNextTest.setVisibility(View.VISIBLE);
                     playSound(true);
                     correct_answer++;
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
                 }
                 else {
-                    listTestAnswer.add(new TestAnswer(index, answer, vocabularyList.get(index).getSub_English()));
+                    listTestAnswer.add(new TestAnswer(index, answer, listVocabKnown.get(index).getSub_English()));
                     btnTestAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.home_color_button_2)));
                     playSound(false);
-                    nextTest();
+
+                    btnTestAnswer0.setEnabled(false);
+                    btnTestAnswer1.setEnabled(false);
+                    btnTestAnswer2.setEnabled(false);
+                    btnNextTest.setVisibility(View.VISIBLE);
                 }
             }
         });
@@ -301,9 +336,14 @@ public class TestScreen extends AppCompatActivity {
         });
     }
     private void nextTest(){
-        if((index + 1) < vocabularyList.size()){
+        btnTestAnswer0.setEnabled(true);
+        btnTestAnswer1.setEnabled(true);
+        btnTestAnswer2.setEnabled(true);
+        btnTestAnswer3.setEnabled(true);
+        btnNextTest.setVisibility(View.VISIBLE);
+        if((index + 1) < listVocabKnown.size()){
             index++;
-            setItem(vocabularyList.get(index));
+            setItem(listVocabKnown.get(index));
             btnTestAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
             btnTestAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
             btnTestAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(TestScreen.this, R.color.bottom_nav)));
@@ -317,4 +357,5 @@ public class TestScreen extends AppCompatActivity {
 //    private void addTestAnswer(Vocabulary vocab, Button btn){
 //        listTestAnswer.add(new TestAnswer(index, btn.getText().toString(), vocab.getSub_English()));
 //    }
+
 }

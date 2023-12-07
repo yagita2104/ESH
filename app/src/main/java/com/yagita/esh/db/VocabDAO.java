@@ -11,7 +11,6 @@ import java.util.List;
 public class VocabDAO {
     Context context;
     DBESH database;
-    List<Vocabulary> vocabularyList = new ArrayList<>();
 
     public VocabDAO(Context context) {
         this.context = context;
@@ -19,8 +18,8 @@ public class VocabDAO {
     }
 
     public List<Vocabulary> getListVocab() {
+        List<Vocabulary> vocabularyList = new ArrayList<>();
         String sql = "select * from tblVocabulary";
-        vocabularyList.clear();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
             String id = cs.getString(0);
@@ -55,7 +54,7 @@ public class VocabDAO {
 
     public List<Vocabulary> getListVocabUnknown() {
         String sql = "select * from tblVocabulary WHERE status = 0";
-        vocabularyList.clear();
+        List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
             String id = cs.getString(0);
@@ -85,7 +84,7 @@ public class VocabDAO {
     }
     public List<Vocabulary> getListVocabKnown() {
         String sql = "select * from tblVocabulary WHERE status = 1";
-        vocabularyList.clear();
+        List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
             String id = cs.getString(0);

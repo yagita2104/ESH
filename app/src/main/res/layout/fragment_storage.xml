@@ -28,6 +28,7 @@
             android:layout_width="280dip"
             android:layout_height="wrap_content"
             android:layout_margin="20dip"
+            android:background="@drawable/rectangle"
             android:backgroundTint="@color/home_color_button_1"
             android:padding="60dip"
             android:text="Từ vựng đã học" />
@@ -37,6 +38,7 @@
             android:layout_width="280dip"
             android:layout_height="wrap_content"
             android:layout_margin="20dip"
+            android:background="@drawable/rectangle"
             android:backgroundTint="@color/home_color_button_2"
             android:padding="60dip"
             android:text="Từ vựng chưa rõ" />

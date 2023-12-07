@@ -34,7 +34,7 @@ public class VocabScreen extends AppCompatActivity {
     List<Vocabulary> vocabListKnown;
     int index = 0;
     VocabDAO vocabDAO;
-
+    int know = 0, unknown = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,12 +43,11 @@ public class VocabScreen extends AppCompatActivity {
         vocabularyAllList = vocabDAO.getListVocab();
         vocabListKnown = vocabDAO.getListVocabKnown();
         vocabListUnknown = vocabDAO.getListVocabUnknown();
-        System.out.println(vocabListKnown.size());
+
+        know = vocabListKnown.size();
+        unknown = vocabListUnknown.size();
+
         getWidget();
-
-        txtAmountVocabKnow.setText(vocabListKnown.size()+"");
-        txtAmountVocabUnknow.setText(vocabListUnknown.size()+"");
-
         setItem(vocabListUnknown.get(0));
         addAction();
     }
@@ -66,6 +65,8 @@ public class VocabScreen extends AppCompatActivity {
 
         txtAmountVocabUnknow = findViewById(R.id.txtAmountVocabUnknow);
         txtAmountVocabKnow = findViewById(R.id.txtAmountVocabKnow);
+        txtAmountVocabKnow.setText(know+"");
+        txtAmountVocabUnknow.setText(unknown+"");
 //        imgIllustration = findViewById(R.id.imgIllustration);
 //        txtSpelling = findViewById(R.id.txtSpelling);
         imgVocabSpeech = findViewById(R.id.imgVocabSpeech);
@@ -116,7 +117,10 @@ public class VocabScreen extends AppCompatActivity {
                 vocabDAO.setStatus(vocabListUnknown.get(index));
                 vocabListUnknown.remove(index);
                 setItem(vocabListUnknown.get(index));
-
+                know++;
+                unknown--;
+                txtAmountVocabKnow.setText(know+"");
+                txtAmountVocabUnknow.setText(unknown+"");
             }
         });
         btnUnknow.setOnClickListener(new View.OnClickListener() {
@@ -144,14 +148,11 @@ public class VocabScreen extends AppCompatActivity {
         });
     }
     private void setItem(Vocabulary a){
-        txtAmountVocabKnow.setText(vocabListKnown.size()+"");
-        txtAmountVocabUnknow.setText(vocabListUnknown.size()+"");
         if (a.getStatus() == 0){
             txtWord.setText(a.getEnglish());
 //            txtSpelling.setText(a.getEnglish());
             txtWordTranslate.setText(a.getSub_English());
             txtSentences.setText(a.getExample());
-
         }
     }
 }

@@ -43,7 +43,7 @@
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/btnStartTest"
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/txtTest"
                 android:layout_alignParentBottom="true"
@@ -52,7 +52,8 @@
                 android:layout_marginTop="20dip"
                 android:layout_marginEnd="20dip"
                 android:layout_marginBottom="20dip"
-                android:backgroundTint="@color/bottom_nav"
+                android:background="@drawable/rectangle"
+                android:backgroundTint="@color/home_color_button_2"
                 android:padding="20dip"
                 android:text="Bắt đầu" />
         </RelativeLayout>
