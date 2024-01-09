@@ -1,0 +1,2486 @@
+[
+  {
+    "ID":"English_English_Language_Speak_5_1_1",
+    "English":"Perspective",
+    "Sub_English":"Quan điểm",
+    "Example":"The artist's painting offers a unique perspective on the beauty of nature.",
+    "English_Vocabulary_Test":[
+      "Nhân quả",
+      "Điểm quan trọng",
+      "Kết quả"
+    ],
+    "Fill_Blank":"The artist's painting offers a unique ________ on the beauty of nature.",
+    "Mistake":[
+      "Mistake",
+      "Present",
+      "Outcome"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_2",
+    "English":"Reflect",
+    "Sub_English":"Phản ánh, phản chiếu",
+    "Example":"The calm lake surface reflects the surrounding mountains and trees.",
+    "English_Vocabulary_Test":[
+      "Phân tách",
+      "Dấu hiệu",
+      "Thách thức"
+    ],
+    "Fill_Blank":"The calm lake surface ________ the surrounding mountains and trees.",
+    "Mistake":[
+      "Decrease",
+      "Sign",
+      "Challenge"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_3",
+    "English":"Convey",
+    "Sub_English":"Truyền đạt",
+    "Example":"The author uses vivid language to convey the emotions of the characters.",
+    "English_Vocabulary_Test":[
+      "Thực hành",
+      "Di chuyển",
+      "Hiểu biết"
+    ],
+    "Fill_Blank":"The author uses vivid language to ________ the emotions of the characters.",
+    "Mistake":[
+      "Practise",
+      "Move",
+      "Understand"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_4",
+    "English":"Capture",
+    "Sub_English":"Bắt lấy",
+    "Example":"The photographer managed to capture the fleeting moment of the sunrise.",
+    "English_Vocabulary_Test":[
+      "Thả",
+      "Ném",
+      "Xóa"
+    ],
+    "Fill_Blank":"The photographer managed to ________ the fleeting moment of the sunrise.",
+    "Mistake":[
+      "Burn",
+      "Sleep",
+      "Skip"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_5",
+    "English":"Artistic",
+    "Sub_English":"Nghệ thuật; mang tính nghệ thuật",
+    "Example":"The gallery features a diverse collection of artistic expressions from various cultures.",
+    "English_Vocabulary_Test":[
+      "Văn nghệ",
+      "Thể hiện",
+      "Hiện thực"
+    ],
+    "Fill_Blank":"The gallery features a diverse collection of ________ expressions from various cultures.",
+    "Mistake":[
+      "Temporary",
+      "Ugly",
+      "Realism"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_6",
+    "English":"Harmony",
+    "Sub_English":"Sự hài hòa, hòa hợp",
+    "Example":"The music orchestra created a beautiful harmony of sounds during the performance.",
+    "English_Vocabulary_Test":[
+      "Giai điệu",
+      "Xung đột",
+      "Sự hiểu biết"
+    ],
+    "Fill_Blank":"The music orchestra created a beautiful ________ of sounds during the performance.",
+    "Mistake":[
+      "Bass",
+      "Conflict",
+      "Understanding"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_7",
+    "English":"Captivating",
+    "Sub_English":"Hấp dẫn",
+    "Example":"The novel has a captivating storyline that keeps readers engaged from start to finish.",
+    "English_Vocabulary_Test":[
+      "Vui vẻ",
+      "Buồn chán",
+      "Kỳ diệu"
+    ],
+    "Fill_Blank":"The novel has a ________ storyline that keeps readers engaged from start to finish.",
+    "Mistake":[
+      "Traumatic",
+      "Boring",
+      "Magical"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_8",
+    "English":"Artwork",
+    "Sub_English":"Tác phẩm nghệ thuật",
+    "Example":"The art exhibition showcased a variety of impressive artworks created by talented artists.",
+    "English_Vocabulary_Test":[
+      "Đồ cổ",
+      "Sự sáng tạo",
+      "Hiệu suất"
+    ],
+    "Fill_Blank":"The art exhibition showcased a variety of impressive ________ created by talented artists.",
+    "Mistake":[
+      "Artifact",
+      "Meal",
+      "Course"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_9",
+    "English":"Symbolism",
+    "Sub_English":"Tượng trưng",
+    "Example":"In literature, the use of symbolism adds depth and layers of meaning to a story.",
+    "English_Vocabulary_Test":[
+      "Hiện thực",
+      "Khái niệm",
+      "Nguyên tắc"
+    ],
+    "Fill_Blank":"In literature, the use of ________ adds depth and layers of meaning to a story.",
+    "Mistake":[
+      "Realism",
+      "Concept",
+      "Principle"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_10",
+    "English":"Thought-provoking",
+    "Sub_English":"Gợi suy nghĩ",
+    "Example":"The documentary presented a thought-provoking exploration of environmental issues.",
+    "English_Vocabulary_Test":[
+      "Nhẹ nhàng",
+      "Giải trí",
+      "Khám phá"
+    ],
+    "Fill_Blank":"The documentary presented a ________ exploration of environmental issues.",
+    "Mistake":[
+      "Gentle",
+      "Entertainment",
+      "Discovery"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_11",
+    "English":"Expressive",
+    "Sub_English":"Biểu cảm",
+    "Example":"The dancer's performance was highly expressive, conveying a range of emotions.",
+    "English_Vocabulary_Test":[
+      "Thời gian",
+      "Khả năng",
+      "Chân thành"
+    ],
+    "Fill_Blank":"The dancer's performance was highly ________, conveying a range of emotions.",
+    "Mistake":[
+      "Time",
+      "Ability",
+      "Heartfelt"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_12",
+    "English":"Uplifting",
+    "Sub_English":"Động viên",
+    "Example":"The motivational speaker delivered an uplifting message to inspire the audience.",
+    "English_Vocabulary_Test":[
+      "Khoảnh khắc",
+      "Thách thức",
+      "Chán chường"
+    ],
+    "Fill_Blank":"The motivational speaker delivered an ________ message to inspire the audience.",
+    "Mistake":[
+      "Moment",
+      "Challenge",
+      "Discouraging"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_13",
+    "English":"Heartfelt",
+    "Sub_English":"Chân thành",
+    "Example":"Her heartfelt apology touched the hearts of those who had been affected.",
+    "English_Vocabulary_Test":[
+      "Kết quả",
+      "Sự kiện",
+      "Giản dị"
+    ],
+    "Fill_Blank":"Her ________ apology touched the hearts of those who had been affected.",
+    "Mistake":[
+      "Result",
+      "Event",
+      "Simple"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_14",
+    "English":"Abstract",
+    "Sub_English":"Trừu tượng",
+    "Example":"The artist created an abstract painting that invited viewers to interpret its meaning.",
+    "English_Vocabulary_Test":[
+      "Hiện thực",
+      "Cụ thể",
+      "Rõ ràng"
+    ],
+    "Fill_Blank":"The artist created an ________ painting that invited viewers to interpret its meaning.",
+    "Mistake":[
+      "Reality",
+      "Concrete",
+      "Clear"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_15",
+    "English":"Intricate",
+    "Sub_English":"Phức tạp",
+    "Example":"The design featured intricate details that showcased the artisan's skill.",
+    "English_Vocabulary_Test":[
+      "Đơn giản",
+      "Nguyên tắc",
+      "Khéo léo"
+    ],
+    "Fill_Blank":"The design featured ________ details that showcased the artisan's skill.",
+    "Mistake":[
+      "Simple",
+      "Principle",
+      "Clever"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_1_16",
+    "English":"Evoke",
+    "Sub_English":"Gợi lên",
+    "Example":"The painting had the power to evoke strong emotions and memories in the viewers.",
+    "English_Vocabulary_Test":[
+      "Chìm đắm",
+      "Kiến thức",
+      "Lạc quan"
+    ],
+    "Fill_Blank":"The painting had the power to ________ strong emotions and memories in the viewers.",
+    "Mistake":[
+      "Immerse",
+      "Knowledge",
+      "Optimistic"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_1",
+    "English":"Install",
+    "Sub_English":"Cài đặt",
+    "Example":"Please follow the instructions to install the software on your computer.",
+    "English_Vocabulary_Test":[
+      "Gỡ cài đặt",
+      "Khởi động lại",
+      "Sử dụng"
+    ],
+    "Fill_Blank":"Please follow the instructions to ________ the software on your computer.",
+    "Mistake":[
+      "Uninstall",
+      "Restart",
+      "Utilize"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_2",
+    "English":"Identity",
+    "Sub_English":"Nhận diện",
+    "Example":"Protecting your online identity is crucial for maintaining privacy and security.",
+    "English_Vocabulary_Test":[
+      "Dấu vết",
+      "Sự bí mật",
+      "Đặc điểm"
+    ],
+    "Fill_Blank":"Protecting your online ________ is crucial for maintaining privacy and security.",
+    "Mistake":[
+      "Trace",
+      "Secrecy",
+      "Characteristic"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_3",
+    "English":"Offensive",
+    "Sub_English":"Xúc phạm",
+    "Example":"Using offensive language can harm relationships and create a negative atmosphere.",
+    "English_Vocabulary_Test":[
+      "Lễ phép",
+      "Chính xác",
+      "Dễ chịu"
+    ],
+    "Fill_Blank":"Using ________ language can harm relationships and create a negative atmosphere.",
+    "Mistake":[
+      "Politeness",
+      "Accurate",
+      "Comfortable"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_4",
+    "English":"Sculpture",
+    "Sub_English":"Điêu khắc",
+    "Example":"The museum features a collection of modern and classical sculptures.",
+    "English_Vocabulary_Test":[
+      "Kiến trúc",
+      "Nghệ thuật",
+      "Trang trí"
+    ],
+    "Fill_Blank":"The museum features a collection of modern and classical ________.",
+    "Mistake":[
+      "Architecture",
+      "Art",
+      "Decoration"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_5",
+    "English":"Conflict",
+    "Sub_English":"Xung đột",
+    "Example":"Effective communication is essential for resolving conflicts in the workplace.",
+    "English_Vocabulary_Test":[
+      "Hài hòa",
+      "Sự đồng thuận",
+      "Thảo luận"
+    ],
+    "Fill_Blank":"Effective communication is essential for resolving ________ in the workplace.",
+    "Mistake":[
+      "Harmony",
+      "Consensus",
+      "Discussion"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_6",
+    "English":"Aesthetic",
+    "Sub_English":"Thẩm mỹ",
+    "Example":"The designer focused on creating an aesthetic and visually pleasing website.",
+    "English_Vocabulary_Test":[
+      "Khả năng sáng tạo",
+      "Chất lượng",
+      "Phong cách"
+    ],
+    "Fill_Blank":"The designer focused on creating an ________ and visually pleasing website.",
+    "Mistake":[
+      "Creativity",
+      "Quality",
+      "Style"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_7",
+    "English":"Empower",
+    "Sub_English":"Trao quyền",
+    "Example":"They empower the courts to impose the death sentence for certain crimes.",
+    "English_Vocabulary_Test":[
+      "Giáo dục",
+      "Cảm hứng",
+      "Phát triển"
+    ],
+    "Fill_Blank":"They _______ the courts to impose the death sentence for certain crimes.",
+    "Mistake":[
+      "Education",
+      "Inspiration",
+      "Development"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_8",
+    "English":"Iconic",
+    "Sub_English":"Nổi tiếng, mang tính biểu tượng",
+    "Example":"The Eiffel Tower is an iconic symbol of Paris.",
+    "English_Vocabulary_Test":[
+      "Điển hình",
+      "Bình thường",
+      "Phổ biến"
+    ],
+    "Fill_Blank":"The Eiffel Tower is an ________ symbol of Paris.",
+    "Mistake":[
+      "Typical",
+      "Ordinary",
+      "Common"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_9",
+    "English":"Mural",
+    "Sub_English":"Bức tranh tường",
+    "Example":"The artist painted a beautiful mural on the side of the building.",
+    "English_Vocabulary_Test":[
+      "Nghệ sĩ",
+      "Trang trí",
+      "Kiến trúc"
+    ],
+    "Fill_Blank":"The artist painted a beautiful ________ on the side of the building.",
+    "Mistake":[
+      "Artist",
+      "Decoration",
+      "Architecture"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_10",
+    "English":"Graffiti",
+    "Sub_English":"Tranh phun sơn đường phố",
+    "Example":"Some cities embrace graffiti as a form of street art.",
+    "English_Vocabulary_Test":[
+      "Phố",
+      "Tranh nghệ thuật",
+      "Biểu tượng"
+    ],
+    "Fill_Blank":"Some cities embrace ________ as a form of street art.",
+    "Mistake":[
+      "Street",
+      "Artwork",
+      "Icon"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_11",
+    "English":"Locale",
+    "Sub_English":"Địa điểm",
+    "Example":"The wedding was held in a charming locale with a beautiful view.",
+    "English_Vocabulary_Test":[
+      "Quốc gia",
+      "Nguyên nhân",
+      "Ngày nghỉ"
+    ],
+    "Fill_Blank":"The wedding was held in a charming ________ with a beautiful view.",
+    "Mistake":[
+      "Country",
+      "Cause",
+      "Holiday"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_12",
+    "English":"Consensus",
+    "Sub_English":"Sự đồng thuận",
+    "Example":"Reaching a consensus is essential for making important decisions as a group.",
+    "English_Vocabulary_Test":[
+      "Tranh cãi",
+      "Chủ quan",
+      "Phản đối"
+    ],
+    "Fill_Blank":"Reaching a ________ is essential for making important decisions as a group.",
+    "Mistake":[
+      "Disagreement",
+      "Subjective",
+      "Opposition"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_13",
+    "English":"Nostalgia",
+    "Sub_English":"Hoài niệm",
+    "Example":"The old photograph filled her with a sense of nostalgia for her childhood home.",
+    "English_Vocabulary_Test":[
+      "Hạnh phúc",
+      "Tưởng tượng",
+      "Người nổi tiếng"
+    ],
+    "Fill_Blank":"The old photograph filled her with a sense of ________ for her childhood home.",
+    "Mistake":[
+      "Happiness",
+      "Imagination",
+      "Famous person"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_14",
+    "English":"Injustice",
+    "Sub_English":"Bất công",
+    "Example":"The activist fought against social injustice and inequality.",
+    "English_Vocabulary_Test":[
+      "Công bằng",
+      "Sự đồng thuận",
+      "Quyết định"
+    ],
+    "Fill_Blank":"The activist fought against social ________ and inequality.",
+    "Mistake":[
+      "Justice",
+      "Consensus",
+      "Decision"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_15",
+    "English":"Expense",
+    "Sub_English":"Chi phí",
+    "Example":"The company carefully tracks every expense to manage its budget effectively.",
+    "English_Vocabulary_Test":[
+      "Thu nhập",
+      "Tài chính",
+      "Lợi nhuận"
+    ],
+    "Fill_Blank":"The company carefully tracks every ________ to manage its budget effectively.",
+    "Mistake":[
+      "Income",
+      "Financial",
+      "Profit"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_16",
+    "English":"Taxpayer",
+    "Sub_English":"Người đóng thuế",
+    "Example":"Government services are funded by the taxes paid by each taxpayer.",
+    "English_Vocabulary_Test":[
+      "Ngân sách",
+      "Trách nhiệm",
+      "Thuế suất"
+    ],
+    "Fill_Blank":"Government services are funded by the taxes paid by each ________.",
+    "Mistake":[
+      "Budget",
+      "Responsibility",
+      "Tax rate"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_17",
+    "English":"Depict",
+    "Sub_English":"Miêu tả",
+    "Example":"The artist used vivid colors to depict the beauty of the landscape.",
+    "English_Vocabulary_Test":[
+      "Mô tả",
+      "Chỉ đạo",
+      "Thực hiện"
+    ],
+    "Fill_Blank":"The artist used vivid colors to ________ the beauty of the landscape.",
+    "Mistake":[
+      "Description",
+      "Direct",
+      "Execute"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_18",
+    "English":"Insensitive",
+    "Sub_English":"Vô cảm",
+    "Example":"Making jokes about sensitive topics can be perceived as insensitive to others' feelings.",
+    "English_Vocabulary_Test":[
+      "Tôn trọng",
+      "Chân thành",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank":"Making jokes about sensitive topics can be perceived as ________ to others' feelings.",
+    "Mistake":[
+      "Respectful",
+      "Sincere",
+      "Trustworthy"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_19",
+    "English":"Subjective",
+    "Sub_English":"Chủ quan",
+    "Example":"Artistic preferences are subjective and vary from person to person.",
+    "English_Vocabulary_Test":[
+      "Khách quan",
+      "Tích cực",
+      "Thụ động"
+    ],
+    "Fill_Blank":"Artistic preferences are ________ and vary from person to person.",
+    "Mistake":[
+      "Objective",
+      "Positive",
+      "Passive"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_1",
+    "English":"Ratio",
+    "Sub_English":"Tỷ lệ",
+    "Example":"The ratio of students to teachers in the classroom is 20:1.",
+    "English_Vocabulary_Test":[
+      "Phần trăm",
+      "Chênh lệch",
+      "Bậc thang"
+    ],
+    "Fill_Blank":"The ________ of students to teachers in the classroom is 20:1.",
+    "Mistake":[
+      "Percentage",
+      "Discrepancy",
+      "Scale"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_2",
+    "English":"Aging process",
+    "Sub_English":"Quá trình lão hóa",
+    "Example":"The aging process is a natural part of life, and it affects everyone differently.",
+    "English_Vocabulary_Test":[
+      "Sức khỏe",
+      "Thanh xuân",
+      "Tuổi già"
+    ],
+    "Fill_Blank":"The ________ is a natural part of life, and it affects everyone differently.",
+    "Mistake":[
+      "Health",
+      "Youth",
+      "Old age"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_3",
+    "English":"Stereotype",
+    "Sub_English":"Định kiến",
+    "Example":"It's important to challenge and break free from societal stereotypes.",
+    "English_Vocabulary_Test":[
+      "Tự do",
+      "Nhóm",
+      "Phê phán"
+    ],
+    "Fill_Blank":"It's important to challenge and break free from societal ________.",
+    "Mistake":[
+      "Freedom",
+      "Group of people",
+      "Criticism"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_4",
+    "English":"Standard",
+    "Sub_English":"Tiêu chuẩn",
+    "Example":"The company strives to maintain high-quality standards for its products.",
+    "English_Vocabulary_Test":[
+      "Nâng cao",
+      "Chất lượng",
+      "Hiệu suất"
+    ],
+    "Fill_Blank":"The company strives to maintain high-quality ________ for its products.",
+    "Mistake":[
+      "Improvement",
+      "Quality",
+      "Performance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_5",
+    "English":"Perception",
+    "Sub_English":"Quan điểm",
+    "Example":"People's perception of beauty varies based on cultural influences.",
+    "English_Vocabulary_Test":[
+      "Thị giác",
+      "Tâm lý",
+      "Quảng cáo"
+    ],
+    "Fill_Blank":"People's ________ of beauty varies based on cultural influences.",
+    "Mistake":[
+      "Vision",
+      "Psychology",
+      "Advertising"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_6",
+    "English":"Minimalism",
+    "Sub_English":"Chủ nghĩa tối giản",
+    "Example":"Minimalism in design focuses on simplicity and functionality.",
+    "English_Vocabulary_Test":[
+      "Phức tạp",
+      "Kiểu dáng",
+      "Sáng tạo"
+    ],
+    "Fill_Blank":"________ in design focuses on simplicity and functionality.",
+    "Mistake":[
+      "Complexity",
+      "Style",
+      "Creativity"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_7",
+    "English":"Envision",
+    "Sub_English":"Hình dung",
+    "Example":"Successful leaders often have the ability to envision a positive future.",
+    "English_Vocabulary_Test":[
+      "Thực tế",
+      "Tương lai",
+      "Cơ hội"
+    ],
+    "Fill_Blank":"Successful leaders often have the ability to ________ a positive ________.",
+    "Mistake":[
+      "Reality",
+      "Future",
+      "Opportunity"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_8",
+    "English":"Evolve",
+    "Sub_English":"Phát triển, tiến hóa",
+    "Example":"Technology continues to evolve rapidly, changing the way we live.",
+    "English_Vocabulary_Test":[
+      "Thay đổi",
+      "Tiến triển",
+      "Đa dạng"
+    ],
+    "Fill_Blank":"Technology continues to ________ rapidly, changing the way we live.",
+    "Mistake":[
+      "Change",
+      "Progress",
+      "Diversity"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_9",
+    "English":"Enhance",
+    "Sub_English":"Phát triển, cải thiện",
+    "Example":"Regular exercise can enhance physical and mental well-being.",
+    "English_Vocabulary_Test":[
+      "Điều chỉnh",
+      "Thay đổi",
+      "Duy trì"
+    ],
+    "Fill_Blank":"Regular exercise can ________ physical and mental well-being.",
+    "Mistake":[
+      "Adjust",
+      "Change",
+      "Maintain"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_10",
+    "English":"Symmetrical",
+    "Sub_English":"Đối xứng",
+    "Example":"The butterfly's wings exhibited a beautiful and symmetrical pattern.",
+    "English_Vocabulary_Test":[
+      "Phiến",
+      "Không đối xứng",
+      "Mô hình"
+    ],
+    "Fill_Blank":"The butterfly's wings exhibited a beautiful and ________ pattern.",
+    "Mistake":[
+      "Petal",
+      "Asymmetrical",
+      "Model"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_11",
+    "English":"Well-built",
+    "Sub_English":"Lực lưỡng",
+    "Example":"He looks well-built. He must have been done lots of exercises.",
+    "English_Vocabulary_Test":[
+      "Thiết kế",
+      "Dễ hỏng",
+      "Chịu được"
+    ],
+    "Fill_Blank":"He looks __________. He must have been done lots of exercises.",
+    "Mistake":[
+      "Weak",
+      "Vulnerable",
+      "Addicted"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_12",
+    "English":"Striking",
+    "Sub_English":"Nổi bật",
+    "Example":"The artwork featured striking colors that immediately captured the viewer's attention.",
+    "English_Vocabulary_Test":[
+      "Tích phân",
+      "Nhạt nhòa",
+      "Phản ánh"
+    ],
+    "Fill_Blank":"The artwork featured ________ colors that immediately captured the viewer's attention.",
+    "Mistake":[
+      "Integral",
+      "Faded",
+      "Reflect"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_13",
+    "English":"Sophisticated",
+    "Sub_English":"Phức tạp, tinh tế",
+    "Example":"The new software has a sophisticated interface that caters to advanced users.",
+    "English_Vocabulary_Test":[
+      "Giao diện",
+      "Đơn giản",
+      "Hiệu suất"
+    ],
+    "Fill_Blank":"The new software has a ________ interface that caters to advanced users.",
+    "Mistake":[
+      "Interface",
+      "Simple",
+      "Performance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_14",
+    "English":"Aesthetic",
+    "Sub_English":"Thẩm mỹ",
+    "Example":"The design of the garden focused on both functionality and aesthetic appeal.",
+    "English_Vocabulary_Test":[
+      "Chức năng",
+      "Xấu",
+      "Người hâm mộ"
+    ],
+    "Fill_Blank":"The design of the garden focused on both functionality and ________ appeal.",
+    "Mistake":[
+      "Functionality",
+      "Urge",
+      "Fan"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_15",
+    "English":"Beauty pageant",
+    "Sub_English":"Cuộc thi sắc đẹp",
+    "Example":"She participated in the beauty pageant and won the title of Miss Universe.",
+    "English_Vocabulary_Test":[
+      "Tham gia",
+      "Chương trình truyền hình",
+      "Vương miện"
+    ],
+    "Fill_Blank":"She participated in the ________ and won the title of Miss Universe.",
+    "Mistake":[
+      "Participate",
+      "TV program",
+      "Crown"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_16",
+    "English":"Aura",
+    "Sub_English":"Hào quang",
+    "Example":"The singer had a captivating aura that mesmerized the audience.",
+    "English_Vocabulary_Test":[
+      "Ca sĩ",
+      "Cuốn hút",
+      "Đối tượng"
+    ],
+    "Fill_Blank":"The singer had a captivating ________ that mesmerized the audience.",
+    "Mistake":[
+      "Singer",
+      "Enchanting",
+      "Audience"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_17",
+    "English":"Charisma",
+    "Sub_English":"Sự quyến rũ",
+    "Example":"Contestants in beauty pageants often captivate the audience with their charisma, adding an extra dimension to their beauty.",
+    "English_Vocabulary_Test":[
+      "Nhân phẩm",
+      "Trang phục",
+      "Người theo đuổi"
+    ],
+    "Fill_Blank":"Contestants in beauty pageants often captivate the audience with their _______, adding an extra dimension to their beauty.",
+    "Mistake":[
+      "Hair",
+      "Weaknesses",
+      "Fans"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_18",
+    "English":"Self-image",
+    "Sub_English":"Hình tượng",
+    "Example":"It's very easy to get a negative self-image and lose confidence.",
+    "English_Vocabulary_Test":[
+      "Ảnh cá nhân",
+      "Thân thể",
+      "Tinh thần"
+    ],
+    "Fill_Blank":"It's very easy to get a negative ______ and lose confidence.",
+    "Mistake":[
+      "House",
+      "Story",
+      "Impact"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_3_19",
+    "English":"Radiant",
+    "Sub_English":"Rạng rỡ",
+    "Example":"The bride looked radiant in her wedding gown on the special day.",
+    "English_Vocabulary_Test":[
+      "Đáng yêu",
+      "Đặc biệt",
+      "Nhí nhảnh"
+    ],
+    "Fill_Blank":"The bride looked _________ in her wedding gown on the special day.",
+    "Mistake":[
+      "Awful",
+      "Crazy",
+      "Terrible"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_1",
+    "English":"Acute",
+    "Sub_English":"Nhanh chóng, cấp tính",
+    "Example":"She felt an acute pain in her shoulder after the accident.",
+    "English_Vocabulary_Test":[
+      "Đau đớn",
+      "Trầm cảm",
+      "Tăng cường"
+    ],
+    "Fill_Blank":"She felt an ______ pain in her shoulder after the accident.",
+    "Mistake":[
+      "Painful",
+      "Depression",
+      "Enhance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_2",
+    "English":"Chronic",
+    "Sub_English":"Mãn tính",
+    "Example":"The patient has been suffering from chronic back pain for years.",
+    "English_Vocabulary_Test":[
+      "Nhức đầu",
+      "Mệt mỏi",
+      "Đau lưng"
+    ],
+    "Fill_Blank":"The patient has been suffering from ______ back pain for years.",
+    "Mistake":[
+      "Headache",
+      "Fatigue",
+      "Backache"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_3",
+    "English":"Cognitive",
+    "Sub_English":"Nhận thức",
+    "Example":"Regular exercise is beneficial for cognitive function and brain health.",
+    "English_Vocabulary_Test":[
+      "Thể chất",
+      "Tâm thần",
+      "Khéo léo"
+    ],
+    "Fill_Blank":"Regular exercise is beneficial for ______ function and brain health.",
+    "Mistake":[
+      "Communicative",
+      "Digestive",
+      "Clever"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_4",
+    "English":"Cope with",
+    "Sub_English":"Đối mặt với, giải quyết",
+    "Example":"She learned to cope with stress by practicing mindfulness.",
+    "English_Vocabulary_Test":[
+      "Từ bỏ",
+      "Nhấn mạnh",
+      "Giúp đỡ"
+    ],
+    "Fill_Blank":"She learned to ______ stress by practicing mindfulness.",
+    "Mistake":[
+      "Art",
+      "Emphasize",
+      "Delicate"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_5",
+    "English":"Detrimental",
+    "Sub_English":"Có hại, bất lợi",
+    "Example":"Lack of sleep can have a detrimental effect on your overall health.",
+    "English_Vocabulary_Test":[
+      "Lợi ích",
+      "Hiệu quả",
+      "Nguy hại"
+    ],
+    "Fill_Blank":"Lack of sleep can have a ______ effect on your overall health.",
+    "Mistake":[
+      "Benefits",
+      "Effectiveness",
+      "Advantageous"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_6",
+    "English":"Intense",
+    "Sub_English":"Mạnh mẽ, mãnh liệt",
+    "Example":"The workout was so intense that she was exhausted afterward.",
+    "English_Vocabulary_Test":[
+      "Nhẹ nhàng",
+      "Trung bình",
+      "Mạnh mẽ"
+    ],
+    "Fill_Blank":"The workout was so ______ that she was exhausted afterward.",
+    "Mistake":[
+      "Gentle",
+      "Moderate",
+      "Strong"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_7",
+    "English":"Moderate",
+    "Sub_English":"Trung bình, vừa phải",
+    "Example":"It's essential to have a moderate amount of exercise for a healthy lifestyle.",
+    "English_Vocabulary_Test":[
+      "Nhẹ nhàng",
+      "Mạnh mẽ",
+      "Khắc nghiệt"
+    ],
+    "Fill_Blank":"It's essential to have a ______ amount of exercise for a healthy lifestyle.",
+    "Mistake":[
+      "Gentle",
+      "Strong",
+      "Extreme"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_8",
+    "English":"Life Expectancy",
+    "Sub_English":"Tuổi thọ",
+    "Example":"Improved healthcare has contributed to an increase in life expectancy worldwide.",
+    "English_Vocabulary_Test":[
+      "Dự kiến",
+      "Đảm bảo",
+      "Đặc biệt"
+    ],
+    "Fill_Blank":"Improved healthcare has contributed to an increase in ______ worldwide.",
+    "Mistake":[
+      "Expected",
+      "Assure",
+      "Special"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_9",
+    "English":"Overwhelm",
+    "Sub_English":"Áp đảo, quá tải",
+    "Example":"The amount of work can sometimes overwhelm even the most organized individuals.",
+    "English_Vocabulary_Test":[
+      "Đơn giản",
+      "Chấp nhận",
+      "Khó thở"
+    ],
+    "Fill_Blank":"The amount of work can sometimes ______ even the most organized individuals.",
+    "Mistake":[
+      "Easy",
+      "Accept",
+      "Challenging"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_10",
+    "English":"Pressure",
+    "Sub_English":"Áp lực",
+    "Example":"Students often experience a lot of pressure during exam periods.",
+    "English_Vocabulary_Test":[
+      "Sự đề xuất",
+      "Sự kiện",
+      "Thư giãn"
+    ],
+    "Fill_Blank":"Students often experience a lot of ______ during exam periods.",
+    "Mistake":[
+      "Proposal",
+      "Event",
+      "Relax"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_11",
+    "English":"Relieve",
+    "Sub_English":"Giảm nhẹ, làm dịu",
+    "Example":"A warm bath can help relieve muscle tension and stress.",
+    "English_Vocabulary_Test":[
+      "Giảm căng thẳng",
+      "Khôi phục",
+      "Tránh"
+    ],
+    "Fill_Blank":"A warm bath can help ______ muscle tension and stress.",
+    "Mistake":[
+      "Increase",
+      "Recreate",
+      "Avoid"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_12",
+    "English":"Resilience",
+    "Sub_English":"Khả năng phục hồi",
+    "Example":"Cultivating resilience is important for facing life's challenges.",
+    "English_Vocabulary_Test":[
+      "Nhạy cảm",
+      "Nguy cơ",
+      "Giải pháp"
+    ],
+    "Fill_Blank":"Cultivating ______ is important for facing life's challenges.",
+    "Mistake":[
+      "Stress",
+      "Risk",
+      "Discovery"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_13",
+    "English":"Tension",
+    "Sub_English":"Sự căng thẳng",
+    "Example":"Yoga and meditation can help release tension in both the body and mind.",
+    "English_Vocabulary_Test":[
+      "Sự thoải mái",
+      "Sự thư giãn",
+      "Sự giải tỏa"
+    ],
+    "Fill_Blank":"Yoga and meditation can help release ______ in both the body and mind.",
+    "Mistake":[
+      "Comfort",
+      "Relaxation",
+      "Gases"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_14",
+    "English":"Respite",
+    "Sub_English":"Thời gian nghỉ ngơi, giải lao",
+    "Example":"Taking short breaks during work provides a respite for the mind.",
+    "English_Vocabulary_Test":[
+      "Thời gian làm việc",
+      "Giờ tan tầm",
+      "Giờ ăn"
+    ],
+    "Fill_Blank":"Taking short breaks during work provides a ______ for the mind.",
+    "Mistake":[
+      "Working hours",
+      "World",
+      "Disadvantage"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_15",
+    "English":"Reframe",
+    "Sub_English":"Thay đổi góc nhìn, làm mới",
+    "Example":"It's important to learn how to reframe challenges as opportunities.",
+    "English_Vocabulary_Test":[
+      "Thách thức",
+      "Cơ hội",
+      "Rủi ro"
+    ],
+    "Fill_Blank":"It's important to learn how to ______ challenges as opportunities.",
+    "Mistake":[
+      "Challenge",
+      "Opportunity",
+      "Risk"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_16",
+    "English":"Stressed Out",
+    "Sub_English":"Căng thẳng, lo lắng",
+    "Example":"After a busy week, she feels completely stressed out.",
+    "English_Vocabulary_Test":[
+      "Dễ chịu",
+      "Mệt mỏi",
+      "Vui vẻ"
+    ],
+    "Fill_Blank":"When the company is in busy weeks, she feels completely ______.",
+    "Mistake":[
+      "Relaxed",
+      "Delighted",
+      "Crazy"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_17",
+    "English":"Take a Toll On",
+    "Sub_English":"Gây tổn thương, ảnh hưởng đến",
+    "Example":"Lack of sleep can take a toll on your physical and mental well-being.",
+    "English_Vocabulary_Test":[
+      "Thiếu ngủ",
+      "Có lợi",
+      "Tâm trạng"
+    ],
+    "Fill_Blank":"Lack of sleep can ______ your physical and mental well-being.",
+    "Mistake":[
+      "Benefit",
+      "Impact",
+      "Improve"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_18",
+    "English":"Immune System",
+    "Sub_English":"Hệ miễn dịch",
+    "Example":"A healthy lifestyle supports a strong immune system.",
+    "English_Vocabulary_Test":[
+      "Lối sống",
+      "Kháng thể",
+      "Sức khỏe"
+    ],
+    "Fill_Blank":"A healthy lifestyle supports a strong ______.",
+    "Mistake":[
+      "Relationship",
+      "Eyes",
+      "Health"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_4_19",
+    "English":"Insomnia",
+    "Sub_English":"Chứng mất ngủ",
+    "Example":"Persistent insomnia can have a negative impact on overall health.",
+    "English_Vocabulary_Test":[
+      "Trầm cảm",
+      "Tiểu đường",
+      "Suy thận"
+    ],
+    "Fill_Blank":"Persistent ______ can have a negative impact on overall health.",
+    "Mistake":[
+      "Brain",
+      "Impact",
+      "Happiness"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_2_20",
+    "English":"Think Outside (of) the Box",
+    "Sub_English":"Suy nghĩ sáng tạo, không giới hạn",
+    "Example":"To solve complex problems, it's important to think outside the box.",
+    "English_Vocabulary_Test":[
+      "Giải quyết",
+      "Phức tạp",
+      "Làm quá"
+    ],
+    "Fill_Blank":"To solve complex problems, it's important to ______.",
+    "Mistake":[
+      "Solve",
+      "Complex",
+      "Overthinking"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_1",
+    "English":"Age-appropriate",
+    "Sub_English":"Phù hợp với độ tuổi",
+    "Example":"It's essential to choose age-appropriate books for children's reading development.",
+    "English_Vocabulary_Test":[
+      "Quan trọng",
+      "Lựa chọn",
+      "Phát triển"
+    ],
+    "Fill_Blank":"It's essential to choose ______ books for children's reading development.",
+    "Mistake":[
+      "Important",
+      "Wrong",
+      "Development"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_2",
+    "English":"Blockbuster",
+    "Sub_English":"Phim bom tấn",
+    "Example":"The new movie is expected to be a blockbuster with its star-studded cast.",
+    "English_Vocabulary_Test":[
+      "Phim mới",
+      "Dự kiến",
+      "Diễn viên nổi tiếng"
+    ],
+    "Fill_Blank":"The new movie is expected to be a ______ with its star-studded cast.",
+    "Mistake":[
+      "New movie",
+      "Expected",
+      "Famous actors"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_3",
+    "English":"Enlighten",
+    "Sub_English":"Khai sáng",
+    "Example":"Books have the power to enlighten minds and broaden perspectives.",
+    "English_Vocabulary_Test":[
+      "Bật đèn",
+      "Làm yếu",
+      "Phá hủy"
+    ],
+    "Fill_Blank":"Books have the power to ______ minds and broaden perspectives.",
+    "Mistake":[
+      "Break",
+      "Destroy",
+      "Impower"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_4",
+    "English":"Enrage",
+    "Sub_English":"Gây tức giận",
+    "Example":"The unfair decision could enrage the community and lead to protests.",
+    "English_Vocabulary_Test":[
+      "Làm ngơ",
+      "Làm hòa",
+      "Biểu tình"
+    ],
+    "Fill_Blank":"The unfair decision could ______ the community and lead to protests.",
+    "Mistake":[
+      "Decide",
+      "Raise",
+      "Connect"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_5",
+    "English":"Fictional",
+    "Sub_English":"Hư cấu",
+    "Example":"Many popular movies are based on fictional stories and imaginary worlds.",
+    "English_Vocabulary_Test":[
+      "Phổ biến",
+      "Kinh dị",
+      "Phiêu lưu"
+    ],
+    "Fill_Blank":"Many popular movies are based on ______ stories and imaginary worlds.",
+    "Mistake":[
+      "Game show",
+      "Inappropriate",
+      "Real"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_6",
+    "English":"Heroic",
+    "Sub_English":"Anh hùng, dũng cảm",
+    "Example":"The firefighter's actions were truly heroic as he saved people from the burning building.",
+    "English_Vocabulary_Test":[
+      "Ngang ngược",
+      "Mạnh mẽ",
+      "Khâm phục"
+    ],
+    "Fill_Blank":"The firefighter's actions were truly ______ as he saved people from the burning building.",
+    "Mistake":[
+      "Exciting",
+      "Strong",
+      "Disappointing"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_7",
+    "English":"Ideal",
+    "Sub_English":"Lý tưởng",
+    "Example":"In an ideal world, everyone would have equal opportunities and access to education.",
+    "English_Vocabulary_Test":[
+      "Định kiến",
+      "Cơ hội",
+      "Chấp niệm"
+    ],
+    "Fill_Blank":"In an ______ world, everyone would have equal opportunities and access to education.",
+    "Mistake":[
+      "Prejudice",
+      "Opinion",
+      "Offensive"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_8",
+    "English":"Inspirational",
+    "Sub_English":"Truyền cảm hứng",
+    "Example":"The speaker delivered an inspirational speech that motivated the audience to pursue their dreams.",
+    "English_Vocabulary_Test":[
+      "Bất lực",
+      "Tài năng",
+      "Tuyệt vọng"
+    ],
+    "Fill_Blank":"The speaker delivered an ______ speech that motivated the audience to pursue their dreams.",
+    "Mistake":[
+      "Powerful",
+      "International",
+      "Hopeless"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_9",
+    "English":"On the Edge of One’s Seat",
+    "Sub_English":"Phấn khích",
+    "Example":"The suspenseful thriller kept the audience on the edge of their seats until the very end.",
+    "English_Vocabulary_Test":[
+      "Ly kỳ",
+      "Kinh điển",
+      "Buồn tẻ"
+    ],
+    "Fill_Blank":"The suspenseful thriller kept the audience ______ until the very end.",
+    "Mistake":[
+      "Suspenseful",
+      "Classic",
+      "Boring"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_10",
+    "English":"Theme",
+    "Sub_English":"Chủ đề",
+    "Example":"The movie's theme revolves around the importance of friendship and loyalty.",
+    "English_Vocabulary_Test":[
+      "Phim",
+      "Màu",
+      "Chất lượng"
+    ],
+    "Fill_Blank":"The movie's ______ revolves around the importance of friendship and loyalty.",
+    "Mistake":[
+      "Movie",
+      "Color",
+      "Climax"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_11",
+    "English":"Villainous",
+    "Sub_English":"Độc ác, ác độc",
+    "Example":"The novel features a villainous character who seeks to destroy the world.",
+    "English_Vocabulary_Test":[
+      "Xấu xí",
+      "Hiền lành",
+      "Nhân hậu"
+    ],
+    "Fill_Blank":"The novel features a ______ character who seeks to destroy the world.",
+    "Mistake":[
+      "Unstoppable",
+      "Kind",
+      "Beautiful"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_12",
+    "English":"Virtual",
+    "Sub_English":"Ảo",
+    "Example":"With virtual reality technology, users can experience lifelike simulations.",
+    "English_Vocabulary_Test":[
+      "Thực tế",
+      "Hiện thực",
+      "Không thật"
+    ],
+    "Fill_Blank":"With ______ reality technology, users can experience lifelike simulations.",
+    "Mistake":[
+      "Red",
+      "Actual",
+      "Broken"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_13",
+    "English":"Empathetic",
+    "Sub_English":"Cảm thông",
+    "Example":"An empathetic person can understand and share the feelings of others.",
+    "English_Vocabulary_Test":[
+      "Tự lập",
+      "Lạnh lùng",
+      "Vô cảm"
+    ],
+    "Fill_Blank":"An ______ person can understand and share the feelings of others.",
+    "Mistake":[
+      "Independent",
+      "Cold-hearted",
+      "Unconcerned"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_14",
+    "English":"Role model",
+    "Sub_English":"Mô hình, hình mẫu",
+    "Example":"Parents often serve as role models for their children, influencing their values and behaviors.",
+    "English_Vocabulary_Test":[
+      "Gương mặt",
+      "Bản mẫu",
+      "Đối lập"
+    ],
+    "Fill_Blank":"Parents often serve as ______ for their children, influencing their values and behaviors.",
+    "Mistake":[
+      "Face",
+      "Prototype",
+      "Contrast"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_15",
+    "English":"Hostile",
+    "Sub_English":"Thù địch, đối địch",
+    "Example":"The two nations had a history of hostile relations, leading to conflicts.",
+    "English_Vocabulary_Test":[
+      "Hòa thuận",
+      "Hiếu khách",
+      "Thân thiện"
+    ],
+    "Fill_Blank":"The two nations had a history of ______ relations, leading to conflicts.",
+    "Mistake":[
+      "Harmonious",
+      "Friendly",
+      "Amicable"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_16",
+    "English":"Justice",
+    "Sub_English":"Công bằng, công lý",
+    "Example":"The legal system aims to ensure justice and fairness for all citizens.",
+    "English_Vocabulary_Test":[
+      "Phi lợi nhuận",
+      "Bất công",
+      "Ô nhiễm"
+    ],
+    "Fill_Blank":"The legal system aims to ensure ______ and fairness for all citizens.",
+    "Mistake":[
+      "Non-profit",
+      "Injustice",
+      "Pollution"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_17",
+    "English":"Imitate",
+    "Sub_English":"Bắt chước",
+    "Example":"Children often imitate the behavior and actions of their parents.",
+    "English_Vocabulary_Test":[
+      "Không giống",
+      "Chống lại",
+      "Phản đối"
+    ],
+    "Fill_Blank":"Babies often ______ the behavior and actions of their parents.",
+    "Mistake":[
+      "Dissimilar",
+      "Oppose",
+      "Contradict"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_18",
+    "English":"Unrealistic",
+    "Sub_English":"Không thực tế",
+    "Example":"Setting unrealistic goals may lead to disappointment and frustration.",
+    "English_Vocabulary_Test":[
+      "Khả thi",
+      "Chấp nhận được",
+      "Có thể đạt được"
+    ],
+    "Fill_Blank":"Setting ______ goals may lead to disappointment and frustration.",
+    "Mistake":[
+      "Feasible",
+      "Acceptable",
+      "Achievable"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_5_19",
+    "English":"Perpetuate",
+    "Sub_English":"Duy trì, làm cho lâu dài",
+    "Example":"Stereotypes can perpetuate bias and discrimination in society.",
+    "English_Vocabulary_Test":[
+      "Thay đổi",
+      "Chấm dứt",
+      "Làm mới"
+    ],
+    "Fill_Blank":"Stereotypes can ______ bias and discrimination in society.",
+    "Mistake":[
+      "Change",
+      "Terminate",
+      "Renew"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_1",
+    "English":"Milestone",
+    "Sub_English":"Cột mốc, sự kiện quan trọng",
+    "Example":"Graduating from college is a significant milestone in one's life.",
+    "English_Vocabulary_Test":[
+      "Ngưỡng cửa",
+      "Hạn mức",
+      "Lọt qua"
+    ],
+    "Fill_Blank":"Graduating from college is a significant ______ in one's life.",
+    "Mistake":[
+      "Threshold",
+      "Limit",
+      "Pass through"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_2",
+    "English":"Endurance",
+    "Sub_English":"Sức chịu đựng, sức bền",
+    "Example":"Long-distance runners need to have great endurance to complete a marathon.",
+    "English_Vocabulary_Test":[
+      "Sự yếu đuối",
+      "Sự yên bình",
+      "Sự chấp nhận"
+    ],
+    "Fill_Blank":"Long-distance runners need to have great ______ to complete a marathon.",
+    "Mistake":[
+      "Weakness",
+      "Tranquility",
+      "Acceptance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_3",
+    "English":"Determination",
+    "Sub_English":"Sự quyết tâm",
+    "Example":"His determination to succeed helped him overcome many challenges.",
+    "English_Vocabulary_Test":[
+      "Sự nản chí",
+      "Sự lạc quan",
+      "Sự bất động"
+    ],
+    "Fill_Blank":"His ______ to succeed helped him overcome many challenges.",
+    "Mistake":[
+      "Despondency",
+      "Optimism",
+      "Stagnation"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_4",
+    "English":"Perseverance",
+    "Sub_English":"Kiên trì, sự bền bỉ",
+    "Example":"Perseverance is key to achieving long-term goals.",
+    "English_Vocabulary_Test":[
+      "Sự thoái lui",
+      "Sự tàn nhẫn",
+      "Sự lười biếng"
+    ],
+    "Fill_Blank":"________ is key to achieving long-term goals.",
+    "Mistake":[
+      "Retreat",
+      "Cruelty",
+      "Laziness"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_5",
+    "English":"Popularity",
+    "Sub_English":"Sự phổ biến, nổi tiếng",
+    "Example":"The band gained popularity after their hit single was released.",
+    "English_Vocabulary_Test":[
+      "Sự tách biệt",
+      "Sự giữ lại",
+      "Sự ẩn náu"
+    ],
+    "Fill_Blank":"The band gained ______ after their hit single was released.",
+    "Mistake":[
+      "Separation",
+      "Retention",
+      "Concealment"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_6",
+    "English":"Setback",
+    "Sub_English":"Trở ngại",
+    "Example":"Experiencing a setback doesn't mean giving up on your goals.",
+    "English_Vocabulary_Test":[
+      "Sự tiến triển",
+      "Sự phát triển",
+      "Sự tiến bộ"
+    ],
+    "Fill_Blank":"Experiencing a ______ doesn't mean giving up on your goals.",
+    "Mistake":[
+      "Progress",
+      "Development",
+      "Advancement"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_7",
+    "English":"Steeplechase",
+    "Sub_English":"Chạy vượt rào",
+    "Example":"The steeplechase is a challenging track and field event.",
+    "English_Vocabulary_Test":[
+      "Trò chơi",
+      "Giải trí",
+      "Thách thức"
+    ],
+    "Fill_Blank":"The ______ is a challenging track and field event.",
+    "Mistake":[
+      "Game",
+      "Entertainment",
+      "Challenge"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_8",
+    "English":"Influential",
+    "Sub_English":"Có ảnh hưởng",
+    "Example":"Leaders are often influential in shaping the direction of a society.",
+    "English_Vocabulary_Test":[
+      "Sự lợi dụng",
+      "Sự thống trị",
+      "Sự khuất phục"
+    ],
+    "Fill_Blank":"Leaders are often ______ in shaping the direction of a society.",
+    "Mistake":[
+      "Exploited",
+      "Dominant",
+      "Submission"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_9",
+    "English":"On-the-job",
+    "Sub_English":"Trong quá trình làm việc",
+    "Example":"On-the-job training provides practical experience in the workplace.",
+    "English_Vocabulary_Test":[
+      "Sự nghiệp",
+      "Sự học vấn",
+      "Sự năng động"
+    ],
+    "Fill_Blank":"______ training provides practical experience in the workplace.",
+    "Mistake":[
+      "Career",
+      "Academic",
+      "Dynamic"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_10",
+    "English":"Hone",
+    "Sub_English":"Mài giũa",
+    "Example":"Practice helps to hone skills and improve performance.",
+    "English_Vocabulary_Test":[
+      "Sự làm chậm",
+      "Sự rối bời",
+      "Sự tồn tại"
+    ],
+    "Fill_Blank":"Practice helps to ______ skills and improve performance.",
+    "Mistake":[
+      "Delay",
+      "Confusion",
+      "Existence"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_11",
+    "English":"Persevere",
+    "Sub_English":"Kiên trì, không bao giờ từ bỏ",
+    "Example":"In the face of challenges, it's important to persevere and keep moving forward.",
+    "English_Vocabulary_Test":[
+      "Sự đau khổ",
+      "Sự khủng bố",
+      "Sự kết thúc"
+    ],
+    "Fill_Blank":"In the face of challenges, it's important to ______ and keep moving forward.",
+    "Mistake":[
+      "Suffer",
+      "Terror",
+      "End"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_12",
+    "English":"Break a record",
+    "Sub_English":"Phá kỷ lục",
+    "Example":"The athlete aimed to break a record in the upcoming competition.",
+    "English_Vocabulary_Test":[
+      "Sự duyên dáng",
+      "Sự không giữ được",
+      "Sự thất bại"
+    ],
+    "Fill_Blank":"The athlete aimed to ______ in the upcoming competition.",
+    "Mistake":[
+      "Grace",
+      "Failure",
+      "Unretainability"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_13",
+    "English":"Compete head-to-head",
+    "Sub_English":"Đối đầu trực tiếp",
+    "Example":"In a head-to-head competition, two individuals or teams directly compete against each other.",
+    "English_Vocabulary_Test":[
+      "Sự hợp nhất",
+      "Sự giả mạo",
+      "Sự chia rẽ"
+    ],
+    "Fill_Blank":"In a ______ competition, two individuals or teams directly ______ against each other.",
+    "Mistake":[
+      "Unity",
+      "Impersonation",
+      "Division"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_14",
+    "English":"Compete against yourself",
+    "Sub_English":"Cạnh tranh với bản thân",
+    "Example":"Personal growth involves setting goals and striving to compete against yourself.",
+    "English_Vocabulary_Test":[
+      "Sự đặt ra",
+      "Sự gặt hái",
+      "Sự giả định"
+    ],
+    "Fill_Blank":"Personal growth involves setting goals and striving to ______.",
+    "Mistake":[
+      "Setting",
+      "Harvesting",
+      "Assumption"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_7_15",
+    "English":"Push yourself",
+    "Sub_English":"Vượt qua giới hạn",
+    "Example":"To achieve success, it's important to push yourself beyond your comfort zone.",
+    "English_Vocabulary_Test":[
+      "Sự chìm đắm",
+      "Sự thoải mái",
+      "Sự an tâm"
+    ],
+    "Fill_Blank":"To achieve success, it's important to ______ beyond your comfort zone.",
+    "Mistake":[
+      "Immersing",
+      "Comfort",
+      "Peace of mind"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_1",
+    "English":"Gratification",
+    "Sub_English":"Sự hài lòng, sự thỏa mãn",
+    "Example":"Achieving your goals can bring a sense of gratification and fulfillment.",
+    "English_Vocabulary_Test":[
+      "Sự hạnh phúc",
+      "Sự thất vọng",
+      "Sự bất mãn"
+    ],
+    "Fill_Blank":"Achieving your goals can bring a sense of ______ and fulfillment.",
+    "Mistake":[
+      "Happiness",
+      "Disappointment",
+      "Dissatisfaction"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_2",
+    "English":"Financial Stability",
+    "Sub_English":"Sự ổn định tài chính",
+    "Example":"Having a reliable source of income contributes to financial stability.",
+    "English_Vocabulary_Test":[
+      "Sự giàu có",
+      "Sự nghèo đói",
+      "Sự không ổn định"
+    ],
+    "Fill_Blank":"Having a reliable source of income contributes to ______.",
+    "Mistake":[
+      "Wealth",
+      "Poverty",
+      "Instability"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_3",
+    "English":"Financial Security",
+    "Sub_English":"An ninh tài chính",
+    "Example":"Saving and investing wisely can lead to financial security in the future.",
+    "English_Vocabulary_Test":[
+      "Sự rủi ro",
+      "Sự không chắc chắn",
+      "Sự bảo vệ"
+    ],
+    "Fill_Blank":"Saving and investing wisely can lead to ______ in the future.",
+    "Mistake":[
+      "Risk",
+      "Uncertainty",
+      "Protection"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_4",
+    "English":"Material Possession",
+    "Sub_English":"Tài sản vật chất",
+    "Example":"Some people find happiness in material possessions, while others value experiences.",
+    "English_Vocabulary_Test":[
+      "Sự giàu có",
+      "Sự trải nghiệm",
+      "Sự đau khổ"
+    ],
+    "Fill_Blank":"Some people find happiness in ______, while others value experiences.",
+    "Mistake":[
+      "Wealth",
+      "Experience",
+      "Suffering"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_5",
+    "English":"Remorse",
+    "Sub_English":"Hối hận, ăn năn",
+    "Example":"He felt remorse for not helping his friend when he had the chance.",
+    "English_Vocabulary_Test":[
+      "Sự lạc quan",
+      "Sự tiếc nuối",
+      "Sự thất vọng"
+    ],
+    "Fill_Blank":"He felt ______ for not helping his friend when he had the chance.",
+    "Mistake":[
+      "Optimism",
+      "Regret",
+      "Disappointment"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_6",
+    "English":"Overspend",
+    "Sub_English":"Chi tiêu quá mức",
+    "Example":"It's important to budget and not overspend to maintain financial health.",
+    "English_Vocabulary_Test":[
+      "Tiết kiệm",
+      "Sự chi tiêu dè dặt",
+      "Làm giàu"
+    ],
+    "Fill_Blank":"It's important to budget and not ______ to maintain financial health.",
+    "Mistake":[
+      "Savings",
+      "Overspending",
+      "Wealth"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_7",
+    "English":"Impulsive",
+    "Sub_English":"Bốc đồng, hấp tấp",
+    "Example":"Making impulsive decisions can lead to regrets later on.",
+    "English_Vocabulary_Test":[
+      "Sự chăm chỉ",
+      "Cẩn thận",
+      "Sự kiên nhẫn"
+    ],
+    "Fill_Blank":"Making ______ decisions can lead to regrets later on.",
+    "Mistake":[
+      "Diligence",
+      "Careful",
+      "Patient"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_8",
+    "English":"Interest",
+    "Sub_English":"Lãi suất",
+    "Example":"You should put the money in a savings account where it will earn interest.",
+    "English_Vocabulary_Test":[
+      "Khoản nợ",
+      "Khoản vay",
+      "Ngân hàng"
+    ],
+    "Fill_Blank":"You should put the money in a savings account where it will earn _______.",
+    "Mistake":[
+      "Debt",
+      "Loan",
+      "Money"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_9",
+    "English":"Alleviate",
+    "Sub_English":"Giảm nhẹ, làm dịu đi",
+    "Example":"Exercise and relaxation techniques can help alleviate stress.",
+    "English_Vocabulary_Test":[
+      "Tăng cường",
+      "Tái phát",
+      "Làm mới"
+    ],
+    "Fill_Blank":"Exercise and relaxation techniques can help ______ stress.",
+    "Mistake":[
+      "Increase",
+      "Delete",
+      "Renew"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_8_10",
+    "English":"Fulfillment",
+    "Sub_English":"Sự đạt được, sự hoàn thành",
+    "Example":"Finding purpose and achieving goals can lead to a sense of fulfillment.",
+    "English_Vocabulary_Test":[
+      "Toan tính",
+      "Sự thất vọng",
+      "Thất bại"
+    ],
+    "Fill_Blank":"Finding purpose and achieving goals can lead to a sense of ______.",
+    "Mistake":[
+      "Sadness",
+      "Disappointment",
+      "Failure"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_1",
+    "English":"Abuse",
+    "Sub_English":"Lạm dụng",
+    "Example":"It is important to report any form of abuse to the authorities.",
+    "English_Vocabulary_Test":[
+      "Sử dụng",
+      "Sự đau khổ",
+      "Sự an toàn"
+    ],
+    "Fill_Blank":"It is important to report any form of ______ to the authorities.",
+    "Mistake":[
+      "Use",
+      "Suffering",
+      "Safety"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_2",
+    "English":"Critical Thinking",
+    "Sub_English":"Tư duy phản biện",
+    "Example":"Developing critical thinking skills is essential for problem-solving.",
+    "English_Vocabulary_Test":[
+      "Định kiến",
+      "Suy nghĩ phê phán",
+      "Ý nghĩ"
+    ],
+    "Fill_Blank":"Developing ______ skills is essential for problem-solving.",
+    "Mistake":[
+      "Computer",
+      "Initiative",
+      "Sleeping"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_3",
+    "English":"Customize",
+    "Sub_English":"Tùy chỉnh",
+    "Example":"You can customize your computer settings to suit your preferences.",
+    "English_Vocabulary_Test":[
+      "Giữ nguyên",
+      "Thay thế",
+      "Làm"
+    ],
+    "Fill_Blank":"You can ______ your computer settings to suit your preferences.",
+    "Mistake":[
+      "Remain",
+      "Replace",
+      "Erase"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_4",
+    "English":"Defect",
+    "Sub_English":"Khuyết điểm, lỗi",
+    "Example":"The manufacturer will replace the product if it has a defect.",
+    "English_Vocabulary_Test":[
+      "Hoàn thiện",
+      "Xuất sắc",
+      "Trung bình"
+    ],
+    "Fill_Blank":"The manufacturer will replace the product if it has a ______.",
+    "Mistake":[
+      "Perfection",
+      "Excellence",
+      "Error"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_5",
+    "English":"Dilemma",
+    "Sub_English":"Tình huống khó khăn, tiến thoái lưỡng nan",
+    "Example":"Facing a moral dilemma, she had to choose between two conflicting values.",
+    "English_Vocabulary_Test":[
+      "Sự rối bời",
+      "Giải quyết",
+      "Sự tiến bộ"
+    ],
+    "Fill_Blank":"Facing a ______, she had to choose between two conflicting values.",
+    "Mistake":[
+      "Confusion",
+      "Resolution",
+      "Progress"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_6",
+    "English":"Empathy",
+    "Sub_English":"Sự cảm thông",
+    "Example":"Empathy allows us to understand and share the feelings of others.",
+    "English_Vocabulary_Test":[
+      "Lạnh lùng",
+      "Vô cảm",
+      "Sắt đá"
+    ],
+    "Fill_Blank":"______ allows us to understand and share the feelings of others.",
+    "Mistake":[
+      "Coldness",
+      "Happiness",
+      "Uncertainty"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_7",
+    "English":"Genetic Engineering",
+    "Sub_English":"Kỹ thuật gen",
+    "Example":"Genetic engineering involves manipulating the DNA of organisms for specific purposes.",
+    "English_Vocabulary_Test":[
+      "Sự tự nhiên",
+      "Kỹ thuật cấy",
+      "Kỹ sư gen"
+    ],
+    "Fill_Blank":"______ involves manipulating the DNA of organisms for specific purposes.",
+    "Mistake":[
+      "Nature",
+      "GM food",
+      "Diversity"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_8",
+    "English":"Mimic",
+    "Sub_English":"Bắt chước, mô phỏng",
+    "Example":"Some animals mimic the appearance of others for protection.",
+    "English_Vocabulary_Test":[
+      "Sáng tạo",
+      "Phối giống",
+      "Sự kết hợp"
+    ],
+    "Fill_Blank":"Some animals ______ the appearance of others for protection.",
+    "Mistake":[
+      "Creativity",
+      "Reproduction",
+      "Combination"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_9",
+    "English":"Modify",
+    "Sub_English":"Thay đổi, sửa đổi",
+    "Example":"You can modify the settings to better suit your needs.",
+    "English_Vocabulary_Test":[
+      "Giữ nguyên",
+      "Tàn phá",
+      "Phát triển"
+    ],
+    "Fill_Blank":"You can ______ the settings to better suit your needs.",
+    "Mistake":[
+      "Maintain",
+      "Destroy",
+      "Reduce"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_9_10",
+    "English":"Moral",
+    "Sub_English":"Đạo đức, luân lý",
+    "Example":"Ethical decisions are often based on moral principles.",
+    "English_Vocabulary_Test":[
+      "Tập trung",
+      "Vô đạo đức",
+      "Sự chấp thuận"
+    ],
+    "Fill_Blank":"Ethical decisions are often based on ______ principles.",
+    "Mistake":[
+      "Concentration",
+      "Immoral",
+      "Acceptance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_11",
+    "English":"Repetitive",
+    "Sub_English":"Lặp đi lặp lại",
+    "Example":"Repetitive tasks can become monotonous over time.",
+    "English_Vocabulary_Test":[
+      "Mới mẻ",
+      "Đa dạng",
+      "Ngắt quãng"
+    ],
+    "Fill_Blank":"______ tasks can become monotonous over time.",
+    "Mistake":[
+      "Novel",
+      "Diverse",
+      "Disruptive"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_12",
+    "English":"Clone",
+    "Sub_English":"Bản sao, nhân bản",
+    "Example":"Scientists can create a clone of an organism through genetic engineering.",
+    "English_Vocabulary_Test":[
+      "Độc lập",
+      "Tương tự",
+      "Độc nhất"
+    ],
+    "Fill_Blank":"Scientists can create a ______ of an organism through genetic engineering.",
+    "Mistake":[
+      "Independence",
+      "Similarity",
+      "Uniqueness"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_13",
+    "English":"Ethical",
+    "Sub_English":"Đạo đức, chuẩn mực đạo đức",
+    "Example":"Making ethical decisions is crucial in various aspects of life.",
+    "English_Vocabulary_Test":[
+      "Kiên nhẫn",
+      "Tốt bụng",
+      "Thách thức"
+    ],
+    "Fill_Blank":"Making ______ decisions is crucial in various aspects of life.",
+    "Mistake":[
+      "Patient",
+      "Mad",
+      "Challenging"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_14",
+    "English":"Make a Difference",
+    "Sub_English":"Tạo nên sự khác biệt",
+    "Example":"Every small act of kindness can make a difference in someone's life.",
+    "English_Vocabulary_Test":[
+      "Sự giống nhau",
+      "Sự phổ biến",
+      "Sự tạo nên sự khác biệt"
+    ],
+    "Fill_Blank":"Every small act of kindness can ______ in someone's life.",
+    "Mistake":[
+      "Cruel",
+      "Reroll",
+      "Ruin"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_15",
+    "English":"Nanoparticle",
+    "Sub_English":"Siêu vi, hạt siêu nhỏ",
+    "Example":"Nanoparticles are used in various fields, including medicine and electronics.",
+    "English_Vocabulary_Test":[
+      "Phân tử",
+      "Thành phần",
+      "Nguyên tử"
+    ],
+    "Fill_Blank":"______ are used in various fields, including medicine and electronics.",
+    "Mistake":[
+      "Comprehensive",
+      "Rice",
+      "Prominent"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_16",
+    "English":"Pose",
+    "Sub_English":"Đặt ra, đưa ra",
+    "Example":"The new regulations pose a challenge for small businesses.",
+    "English_Vocabulary_Test":[
+      "Sự tồn tại",
+      "Sự đặt ra",
+      "Sự phát triển"
+    ],
+    "Fill_Blank":"The new regulations ______ a challenge for small businesses.",
+    "Mistake":[
+      "Existence",
+      "Pose",
+      "Development"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_17",
+    "English":"Prosthetic",
+    "Sub_English":"Nghệ thuật làm cơ bản",
+    "Example":"Modern prosthetic limbs can significantly improve the quality of life for amputees.",
+    "English_Vocabulary_Test":[
+      "Sự nguyên tắc",
+      "Sự nghệ thuật",
+      "Sự chăm sóc"
+    ],
+    "Fill_Blank":"Modern ______ limbs can significantly improve the quality of life for amputees.",
+    "Mistake":[
+      "Principle",
+      "Art",
+      "Care"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_18",
+    "English":"Justice",
+    "Sub_English":"Công bằng, sự công bằng",
+    "Example":"The legal system is designed to ensure justice for all citizens.",
+    "English_Vocabulary_Test":[
+      "Sự đoàn kết",
+      "Sự công bằng",
+      "Sự đổi mới"
+    ],
+    "Fill_Blank":"The legal system is designed to ensure ______ for all citizens.",
+    "Mistake":[
+      "Unity",
+      "Justice",
+      "Innovation"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_19",
+    "English":"Surgery",
+    "Sub_English":"Phẫu thuật",
+    "Example":"The patient underwent surgery to remove the tumor.",
+    "English_Vocabulary_Test":[
+      "Sự phục hồi",
+      "Sự phẫu thuật",
+      "Sự trị liệu"
+    ],
+    "Fill_Blank":"The patient underwent ______ to remove the tumor.",
+    "Mistake":[
+      "Recovery",
+      "Surgery",
+      "Therapy"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Speak_5_10_20",
+    "English":"Transplant",
+    "Sub_English":"Cấy ghép",
+    "Example":"Organ transplant is a life-saving procedure for many patients.",
+    "English_Vocabulary_Test":[
+      "Sự thay đổi",
+      "Sự cấy ghép",
+      "Sự phát triển"
+    ],
+    "Fill_Blank":"Organ ______ is a life-saving procedure for many patients.",
+    "Mistake":[
+      "Change",
+      "Transplant",
+      "Development"
+    ],
+    "Status":0
+  }
+]

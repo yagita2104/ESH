@@ -1,6 +1,7 @@
 package com.yagita.esh.db;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 
 import com.yagita.esh.model.Vocabulary;
@@ -11,15 +12,17 @@ import java.util.List;
 public class VocabDAO {
     Context context;
     DBESH database;
-
     public VocabDAO(Context context) {
         this.context = context;
         database = new DBESH(context);
     }
-
+    private String getTableName(){
+        SharedPreferences preferences = context.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+        return preferences.getString("tableName", "");
+    }
     public List<Vocabulary> getListVocab() {
         List<Vocabulary> vocabularyList = new ArrayList<>();
-        String sql = "select * from tblVocabulary";
+        String sql = "select * from "+ getTableName();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
             String id = cs.getString(0);
@@ -48,12 +51,12 @@ public class VocabDAO {
         return vocabularyList;
     }
     public void setStatus(Vocabulary vocabulary){
-        String sql = "UPDATE tblVocabulary SET status = "+vocabulary.getStatus()+" WHERE id = '"+vocabulary.getID()+"'";
+        String sql = "UPDATE "+getTableName()+" SET status = "+vocabulary.getStatus()+" WHERE id = '"+vocabulary.getID()+"'";
         database.queryData(sql);
     }
 
     public List<Vocabulary> getListVocabUnknown() {
-        String sql = "select * from tblVocabulary WHERE status = 0";
+        String sql = "select * from "+getTableName()+" WHERE status = 0";
         List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
@@ -83,7 +86,7 @@ public class VocabDAO {
         return vocabularyList;
     }
     public List<Vocabulary> getListVocabKnown() {
-        String sql = "select * from tblVocabulary WHERE status = 1";
+        String sql = "select * from "+ getTableName() +" WHERE status = 1";
         List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {

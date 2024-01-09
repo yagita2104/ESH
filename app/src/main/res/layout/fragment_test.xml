@@ -6,17 +6,25 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".fragment.TestFragment">
 
-    <TextView
-        android:layout_width="match_parent"
+    <ImageView
+        android:id="@+id/imgESH"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:background="#ebebeb"
-        android:padding="15dp"
-        android:text="Kiểm tra"
-        android:gravity="center"
-        android:textColor="@color/black"
-        android:textSize="20sp" />
+        android:layout_marginStart="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginEnd="20dip"
+        android:layout_marginBottom="20dip"
+        android:src="@drawable/title" />
+
+    <ImageView
+        android:id="@+id/title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgESH"
+        android:layout_centerInParent="true"
+        android:src="@drawable/title2" />
     <androidx.cardview.widget.CardView
         android:layout_width="300dip"
         android:layout_height="250dip"

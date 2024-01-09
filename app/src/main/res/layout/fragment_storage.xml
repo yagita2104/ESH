@@ -3,21 +3,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment.TestFragment">
-
-    <TextView
-        android:layout_width="match_parent"
+    tools:context=".fragment.StorageFragment">
+    <ImageView
+        android:id="@+id/imgESH"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:background="#ebebeb"
-        android:gravity="center"
-        android:padding="15dp"
-        android:text="Lưu trữ"
-        android:textColor="@color/black"
-        android:textSize="20sp" />
+        android:layout_marginStart="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginEnd="20dip"
+        android:layout_marginBottom="20dip"
+        android:src="@drawable/title" />
 
-    <LinearLayout
+    <ImageView
+        android:id="@+id/title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgESH"
+        android:layout_centerInParent="true"
+        android:src="@drawable/title2" />    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"

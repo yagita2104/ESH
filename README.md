@@ -13,3 +13,4 @@
 - 24/11/2023: Cập nhật âm thanh, bottom navigation (T)
 - 06/12/2023: Cập nhật lại Welcome, chỉnh sửa phần kiểm tra (T)
 - 07/12/2023: Cập nhật phần kiểm tra, chỉnh sửa 1 số lỗi nhỏ phần âm thanh (T)
+- 09/01/2024: Cập nhật, điều chỉnh lại dữ liệu và 1 số lỗi nhỏ giao diện

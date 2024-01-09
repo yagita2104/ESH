@@ -1,0 +1,1195 @@
+[
+  {
+    "ID":"English_English_Language_Writing_5_1_1",
+    "English":"Water crisis",
+    "Sub_English":"Khủng hoảng nước",
+    "Example":"The water crisis is a serious concern for many regions.",
+    "English_Vocabulary_Test":[
+      "Điện",
+      "Hóa chất",
+      "Máy tính"
+    ],
+    "Fill_Blank":"The _______ is a serious concern for many regions.",
+    "Mistake":[
+      "Electricity",
+      "Chemical",
+      "Computer"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_2",
+    "English":"Household water usage",
+    "Sub_English":"Sử dụng nước trong gia đình",
+    "Example":"Reducing household water usage is important for water conservation.",
+    "English_Vocabulary_Test":[
+      "Gia đình",
+      "Trường học",
+      "Siêu thị"
+    ],
+    "Fill_Blank":"Reducing _______ is important for water conservation.",
+    "Mistake":[
+      "Family",
+      "School",
+      "Supermarket"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_3",
+    "English":"Water reserve",
+    "Sub_English":"Dự trữ nước",
+    "Example":"Building a water reserve helps prepare for droughts.",
+    "English_Vocabulary_Test":[
+      "Bảo tàng",
+      "Nhà hàng",
+      "Nhà ga"
+    ],
+    "Fill_Blank":"Building a _______ helps prepare for droughts.",
+    "Mistake":[
+      "Museum",
+      "Restaurant",
+      "Train station"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_4",
+    "English":"Water conservation",
+    "Sub_English":"Bảo vệ và sử dụng nước có hiệu quả",
+    "Example":"Water conservation is crucial for environmental sustainability.",
+    "English_Vocabulary_Test":[
+      "Rừng",
+      "Biển",
+      "Núi"
+    ],
+    "Fill_Blank":"_______ is crucial for environmental sustainability.",
+    "Mistake":[
+      "Forest",
+      "Sea",
+      "Mountain"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_5",
+    "English":"Wastewater treatment",
+    "Sub_English":"Xử lý nước thải",
+    "Example":"Wastewater treatment plants play a vital role in environmental protection.",
+    "English_Vocabulary_Test":[
+      "Sân bay",
+      "Bến xe bus",
+      "Nhà máy nhiệt điện"
+    ],
+    "Fill_Blank":"_______ plants play a vital role in environmental protection.",
+    "Mistake":[
+      "Airport",
+      "Bus station",
+      "Power plant"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_6",
+    "English":"Chemical compound",
+    "Sub_English":"Hợp chất hóa học",
+    "Example":"Understanding the properties of a chemical compound is essential in chemistry.",
+    "English_Vocabulary_Test":[
+      "Nông trại",
+      "Phòng thí nghiệm",
+      "Nhà máy sản xuất"
+    ],
+    "Fill_Blank":"Understanding the properties of a _______ is essential in chemistry.",
+    "Mistake":[
+      "Farm",
+      "Laboratory",
+      "Factory"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_7",
+    "English":"Saline-free water",
+    "Sub_English":"Nước không chứa muối",
+    "Example":"Saline-free water is suitable for various industrial processes.",
+    "English_Vocabulary_Test":[
+      "Thủy điện",
+      "Xưởng sản xuất",
+      "Khu dân cư"
+    ],
+    "Fill_Blank":"_______ is suitable for various industrial processes.",
+    "Mistake":[
+      "Hydropower",
+      "Manufacturing workshop",
+      "Residential area"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_8",
+    "English":"Desalination",
+    "Sub_English":"Quá trình lọc muối",
+    "Example":"Desalination is a technology that converts seawater into freshwater.",
+    "English_Vocabulary_Test":[
+      "Công viên",
+      "Hồ nước",
+      "Khu công nghiệp"
+    ],
+    "Fill_Blank":"_______ is a technology that converts seawater into freshwater.",
+    "Mistake":[
+      "Park",
+      "Lake",
+      "Industrial zone"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_9",
+    "English":"Refrain",
+    "Sub_English":"Kiềm chế hoặc từ chối",
+    "Example":"It is important to refrain from wasting water in times of drought.",
+    "English_Vocabulary_Test":[
+      "Nhà thờ",
+      "Nhà hàng buffet",
+      "Bệnh viện"
+    ],
+    "Fill_Blank":"It is important to _______ from wasting water in times of drought.",
+    "Mistake":[
+      "Church",
+      "Buffet restaurant",
+      "Hospital"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_10",
+    "English":"Skyrocketing",
+    "Sub_English":"Tăng vọt",
+    "Example":"The skyrocketing prices of goods have affected many consumers.",
+    "English_Vocabulary_Test":[
+      "Siêu thị",
+      "Dự án xây dựng",
+      "Trường học"
+    ],
+    "Fill_Blank":"The _______ prices of goods have affected many consumers.",
+    "Mistake":[
+      "Supermarket",
+      "Construction project",
+      "School"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_1_11",
+    "English":"Legislation",
+    "Sub_English":"Pháp luật",
+    "Example":"Legislation is crucial in shaping and regulating a society.",
+    "English_Vocabulary_Test":[
+      "Công viên giải trí",
+      "Thư viện",
+      "Trung tâm mua sắm"
+    ],
+    "Fill_Blank":"_______ is crucial in shaping and regulating a society.",
+    "Mistake":[
+      "Amusement park",
+      "Library",
+      "Shopping center"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_1",
+    "English":"On-screen",
+    "Sub_English":"Trên màn hình",
+    "Example":"Children today spend a significant amount of time on-screen.",
+    "English_Vocabulary_Test":[
+      "Trực tuyến",
+      "Ngoại tuyến",
+      "Ở ngoại ô"
+    ],
+    "Fill_Blank":"Children today spend a significant amount of time _______.",
+    "Mistake":[
+      "Online",
+      "Offline",
+      "In the suburbs"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_2",
+    "English":"Screen time",
+    "Sub_English":"Thời gian trên màn hình",
+    "Example":"Excessive screen time can have negative effects on health.",
+    "English_Vocabulary_Test":[
+      "Thời gian nghỉ ngơi",
+      "Thời gian làm việc",
+      "Thời gian rảnh rỗi"
+    ],
+    "Fill_Blank":"Excessive _______ can have negative effects on health.",
+    "Mistake":[
+      "Leisure time",
+      "Working time",
+      "Free time"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_3",
+    "English":"Console",
+    "Sub_English":"Máy chơi game",
+    "Example":"The new gaming console offers advanced features for players.",
+    "English_Vocabulary_Test":[
+      "Bàn trang điểm",
+      "Máy phát nhạc",
+      "Máy làm tóc"
+    ],
+    "Fill_Blank":"The new gaming _______ offers advanced features for players.",
+    "Mistake":[
+      "Dressing table",
+      "Music player",
+      "Hair dryer"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_4",
+    "English":"Recreational activity",
+    "Sub_English":"Hoạt động giải trí",
+    "Example":"Outdoor sports are a popular recreational activity for many.",
+    "English_Vocabulary_Test":[
+      "Câu lạc bộ thể dục",
+      "Khóa học nấu ăn",
+      "Đi bơi"
+    ],
+    "Fill_Blank":"Outdoor sports are a popular _______ for many.",
+    "Mistake":[
+      "Fitness club",
+      "Cooking class",
+      "Swimming"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_5",
+    "English":"Hamper",
+    "Sub_English":"Cản trở, làm chậm trễ",
+    "Example":"Traffic jams can hamper daily commutes in the city.",
+    "English_Vocabulary_Test":[
+      "Thùng đựng đồ",
+      "Khay đựng thức ăn",
+      "Túi đựng quần áo"
+    ],
+    "Fill_Blank":"Traffic jams can _______ daily commutes in the city.",
+    "Mistake":[
+      "Storage box",
+      "Food tray",
+      "Clothing bag"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_6",
+    "English":"Progress",
+    "Sub_English":"Tiến triển, tiến bộ",
+    "Example":"Continuous learning is essential for personal and professional progress.",
+    "English_Vocabulary_Test":[
+      "Sự giảm béo",
+      "Sự gia tăng cân nặng",
+      "Sự giữ nguyên cân nặng"
+    ],
+    "Fill_Blank":"Continuous learning is essential for personal and professional _______.",
+    "Mistake":[
+      "Weight loss",
+      "Weight gain",
+      "Weight maintenance"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_7",
+    "English":"Sacrifice",
+    "Sub_English":"Hy sinh",
+    "Example":"Achieving success often requires sacrifice and hard work.",
+    "English_Vocabulary_Test":[
+      "Sự tự chủ",
+      "Sự tuân thủ",
+      "Sự tự giác"
+    ],
+    "Fill_Blank":"Achieving success often requires _______ and hard work.",
+    "Mistake":[
+      "Autonomy",
+      "Compliance",
+      "Consciousness"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_8",
+    "English":"Divert",
+    "Sub_English":"Chuyển hướng",
+    "Example":"The river was diverted to prevent flooding in the area.",
+    "English_Vocabulary_Test":[
+      "Sự cô lập",
+      "Sự tập trung",
+      "Sự phân tâm"
+    ],
+    "Fill_Blank":"The river was _______ to prevent flooding in the area.",
+    "Mistake":[
+      "Isolation",
+      "Concentration",
+      "Distraction"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_9",
+    "English":"Compensate (for something)",
+    "Sub_English":"Đền bù (cho điều gì)",
+    "Example":"The company will compensate employees for overtime work.",
+    "English_Vocabulary_Test":[
+      "Sự hài lòng",
+      "Sự bất mãn",
+      "Sự thanh toán"
+    ],
+    "Fill_Blank":"The company will _______ employees for overtime work.",
+    "Mistake":[
+      "Satisfaction",
+      "Dissatisfaction",
+      "Payment"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_10",
+    "English":"Familial",
+    "Sub_English":"Thuộc về gia đình",
+    "Example":"The festival has a familial atmosphere, perfect for all ages.",
+    "English_Vocabulary_Test":[
+      "Sự nhất quán",
+      "Sự đồng thuận",
+      "Sự không nhất quán"
+    ],
+    "Fill_Blank":"The festival has a _______ atmosphere, perfect for all ages.",
+    "Mistake":[
+      "Consistency",
+      "Consensus",
+      "Inconsistency"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_11",
+    "English":"Intervention",
+    "Sub_English":"Can thiệp",
+    "Example":"Early intervention can improve outcomes in education.",
+    "English_Vocabulary_Test":[
+      "Sự trung thực",
+      "Sự thẳng thắn",
+      "Sự gián tiếp"
+    ],
+    "Fill_Blank":"Early _______ can improve outcomes in education.",
+    "Mistake":[
+      "Honesty",
+      "Frankness",
+      "Indirection"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_5_1",
+    "English":"Exacerbate",
+    "Sub_English":"Làm trầm trọng thêm",
+    "Example":"Climate change can exacerbate existing environmental problems.",
+    "English_Vocabulary_Test":[
+      "Nước mắm",
+      "Sốt cà chua",
+      "Dầu ăn"
+    ],
+    "Fill_Blank":"Climate change can _______ existing environmental problems.",
+    "Mistake":[
+      "Fish sauce",
+      "Tomato sauce",
+      "Cooking oil"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_2",
+    "English":"Life-threatening",
+    "Sub_English":"Đe dọa tính mạng",
+    "Example":"Some diseases can pose a life-threatening risk to individuals.",
+    "English_Vocabulary_Test":[
+      "Bóng đá",
+      "Bóng chuyền",
+      "Bóng rổ"
+    ],
+    "Fill_Blank":"Some diseases can pose a _______ risk to individuals.",
+    "Mistake":[
+      "Football",
+      "Volleyball",
+      "Basketball"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_3",
+    "English":"Allocate resources to",
+    "Sub_English":"Phân bổ nguồn lực cho",
+    "Example":"Governments should allocate resources to improve education.",
+    "English_Vocabulary_Test":[
+      "Mỹ phẩm",
+      "Thực phẩm",
+      "Quần áo"
+    ],
+    "Fill_Blank":"Governments should _______ improve education.",
+    "Mistake":[
+      "Cosmetics",
+      "Food",
+      "Clothing"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_4",
+    "English":"Prioritize expenditure on",
+    "Sub_English":"Ưu tiên chi tiêu cho",
+    "Example":"It is essential to prioritize expenditure on healthcare and infrastructure.",
+    "English_Vocabulary_Test":[
+      "Điện thoại di động",
+      "Máy tính xách tay",
+      "Máy ảnh"
+    ],
+    "Fill_Blank":"It is essential to _______ healthcare and infrastructure.",
+    "Mistake":[
+      "Mobile phone",
+      "Laptop",
+      "Camera"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_5",
+    "English":"Subsidize",
+    "Sub_English":"Tài trợ, chi trả phần",
+    "Example":"The government may subsidize farmers to support agricultural production.",
+    "English_Vocabulary_Test":[
+      "Gia vị",
+      "Rau củ",
+      "Thịt gà"
+    ],
+    "Fill_Blank":"The government may _______ farmers to support agricultural production.",
+    "Mistake":[
+      "Spices",
+      "Vegetables",
+      "Chicken meat"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_6",
+    "English":"Provide public subsidies",
+    "Sub_English":"Cung cấp trợ cấp công cộng",
+    "Example":"Governments often provide public subsidies for public transportation.",
+    "English_Vocabulary_Test":[
+      "Du lịch biển",
+      "Du lịch núi",
+      "Du lịch thành phố"
+    ],
+    "Fill_Blank":"Governments often _______ for public transportation.",
+    "Mistake":[
+      "Beach tourism",
+      "Mountain tourism",
+      "City tourism"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_7",
+    "English":"Sanitation",
+    "Sub_English":"Vệ sinh",
+    "Example":"Improving sanitation is crucial for public health.",
+    "English_Vocabulary_Test":[
+      "Dã ngoại",
+      "Picnic",
+      "Thể thao đường phố"
+    ],
+    "Fill_Blank":"Improving _______ is crucial for public health.",
+    "Mistake":[
+      "Camping",
+      "Picnic",
+      "Street sports"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_8",
+    "English":"Primary health care",
+    "Sub_English":"Chăm sóc sức khỏe cơ bản",
+    "Example":"Access to primary health care services is essential for communities.",
+    "English_Vocabulary_Test":[
+      "Hải sản",
+      "Thực phẩm tươi",
+      "Rau củ"
+    ],
+    "Fill_Blank":"Access to _______ services is essential for communities.",
+    "Mistake":[
+      "Seafood",
+      "Fresh food",
+      "Vegetables"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_9",
+    "English":"Sedentary lifestyle",
+    "Sub_English":"Lối sống ít vận động",
+    "Example":"A sedentary lifestyle can contribute to various health problems.",
+    "English_Vocabulary_Test":[
+      "Nghệ thuật sân khấu",
+      " m nhạc",
+      "Hội họa"
+    ],
+    "Fill_Blank":"A _______ can contribute to various health problems.",
+    "Mistake":[
+      "Performing arts",
+      "Music",
+      "Painting"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_3_10",
+    "English":"Government sponsorship",
+    "Sub_English":"Tài trợ của chính phủ",
+    "Example":"Government sponsorship is crucial for cultural events and sports competitions.",
+    "English_Vocabulary_Test":[
+      "Nghệ sĩ đương đại",
+      "Nghệ thuật truyền thống",
+      "Nghệ sĩ tự do"
+    ],
+    "Fill_Blank":"_______ is crucial for cultural events and sports competitions.",
+    "Mistake":[
+      "Contemporary artists",
+      "Traditional art",
+      "Free artists"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_1",
+    "English":"A generous retirement package",
+    "Sub_English":"Gói nghỉ hưu hậu hĩnh",
+    "Example":"Companies often offer employees a generous retirement package as part of their benefits.",
+    "English_Vocabulary_Test":[
+      "Gói thưởng sinh nhật hậu hĩnh",
+      "Gói thưởng kỷ niệm hậu hĩnh",
+      "Gói thưởng kỷ luật hậu hĩnh"
+    ],
+    "Fill_Blank":"Companies often offer employees a generous _______ as part of their benefits.",
+    "Mistake":[
+      "Generous birthday bonus",
+      "Generous commemorative bonus",
+      "Generous disciplinary bonus"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_2",
+    "English":"Attributable to",
+    "Sub_English":"Có thể đổ lỗi cho",
+    "Example":"The success of the project is largely attributable to the dedicated team.",
+    "English_Vocabulary_Test":[
+      "Có thể đổ lỗi cho sự nhầm lẫn",
+      "Có thể đổ lỗi cho sự phê phán",
+      "Có thể đổ lỗi cho sự chậm trễ"
+    ],
+    "Fill_Blank":"The success of the project is largely _______ the dedicated team.",
+    "Mistake":[
+      "Attributable to confusion",
+      "Attributable to criticism",
+      "Attributable to delay"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_3",
+    "English":"Career prospects",
+    "Sub_English":"Triển vọng sự nghiệp",
+    "Example":"Further education can significantly enhance your career prospects.",
+    "English_Vocabulary_Test":[
+      "Triển vọng tình cảm",
+      "Triển vọng sức khỏe",
+      "Triển vọng tài chính"
+    ],
+    "Fill_Blank":"Further education can significantly enhance your _______.",
+    "Mistake":[
+      "Relationship prospects",
+      "Health prospects",
+      "Financial prospects"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_4",
+    "English":"Earn a lucrative income",
+    "Sub_English":"Kiếm thu nhập hấp dẫn",
+    "Example":"Some professions allow individuals to earn a lucrative income from their skills.",
+    "English_Vocabulary_Test":[
+      "Kiếm thu nhập ổn định",
+      "Kiếm thu nhập không đều",
+      "Kiếm thu nhập bất đồng"
+    ],
+    "Fill_Blank":"Some professions allow individuals to earn _______ from their skills.",
+    "Mistake":[
+      "Earn a stable income",
+      "Earn an irregular income",
+      "Earn an unequal income"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_5",
+    "English":"Engender some valid concerns",
+    "Sub_English":"Gây ra một số lo ngại hợp lý",
+    "Example":"The proposed changes may engender some valid concerns among the employees.",
+    "English_Vocabulary_Test":[
+      "Gây ra một số lo lắng không cần thiết",
+      "Gây ra một số hoài nghi vô lý",
+      "Gây ra một số quan ngại không đáng"
+    ],
+    "Fill_Blank":"The proposed changes may _______ among the employees.",
+    "Mistake":[
+      "Engender some unnecessary worries",
+      "Engender some unreasonable doubts",
+      "Engender some unwarranted concerns"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_6",
+    "English":"Holiday entitlement",
+    "Sub_English":"Quyền lợi ngày nghỉ",
+    "Example":"Employees are entitled to a certain number of days off each year as part of their holiday entitlement.",
+    "English_Vocabulary_Test":[
+      "Quyền lợi đăng ký kinh doanh",
+      "Quyền lợi thương mại điện tử",
+      "Quyền lợi sử dụng phần mềm"
+    ],
+    "Fill_Blank":"Employees are entitled to a certain number of days off each year as part of their _______.",
+    "Mistake":[
+      "Business registration entitlement",
+      "E-commerce entitlement",
+      "Software usage entitlement"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_7",
+    "English":"Move up the career ladder",
+    "Sub_English":"Thăng tiến trong sự nghiệp",
+    "Example":"Continuous learning and dedication can help you move up the career ladder.",
+    "English_Vocabulary_Test":[
+      "Di chuyển lên cấp độ mới",
+      "Chuyển đến một vị trí mới",
+      "Điều chuyển lên cấp độ cao hơn"
+    ],
+    "Fill_Blank":"Continuous learning and dedication can help you _______.",
+    "Mistake":[
+      "Move to a new level",
+      "Transfer to a new position",
+      "Transition to a higher level"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_8",
+    "English":"Promotion opportunities",
+    "Sub_English":"Cơ hội thăng tiến",
+    "Example":"Employees should actively seek and seize promotion opportunities to advance in their careers.",
+    "English_Vocabulary_Test":[
+      "Cơ hội quảng cáo",
+      "Cơ hội khám phá",
+      "Cơ hội phát triển"
+    ],
+    "Fill_Blank":"Employees should actively seek and seize _______ to advance in their careers.",
+    "Mistake":[
+      "Advertising opportunities",
+      "Exploration opportunities",
+      "Development opportunities"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_9",
+    "English":"Pursue a successful career",
+    "Sub_English":"Đi theo sự nghiệp thành công",
+    "Example":"It is important to set goals and work hard to pursue a successful career.",
+    "English_Vocabulary_Test":[
+      "Theo đuổi ước mơ",
+      "Theo đuổi đam mê",
+      "Theo đuổi hạnh phúc"
+    ],
+    "Fill_Blank":"It is important to set goals and work hard to _______.",
+    "Mistake":[
+      "Pursue dreams",
+      "Pursue passions",
+      "Pursue happiness"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_10",
+    "English":"Secure a high-paid job",
+    "Sub_English":"Đảm bảo một công việc có thu nhập cao",
+    "Example":"Acquiring advanced skills can help individuals secure high-paid jobs in competitive industries.",
+    "English_Vocabulary_Test":[
+      "Đảm bảo một công việc an toàn",
+      "Đảm bảo một công việc hạnh phúc",
+      "Đảm bảo một công việc ổn định"
+    ],
+    "Fill_Blank":"Acquiring advanced skills can help individuals _______ in competitive industries.",
+    "Mistake":[
+      "Secure a safe job",
+      "Secure a happy job",
+      "Secure a stable job"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_11",
+    "English":"Sick leave",
+    "Sub_English":"Nghỉ ốm",
+    "Example":"Employees are entitled to take sick leave when they are unwell and unable to work.",
+    "English_Vocabulary_Test":[
+      "Nghỉ phép mặt trời",
+      "Nghỉ phép lễ",
+      "Nghỉ phép làm đẹp"
+    ],
+    "Fill_Blank":"Employees are entitled to take _______ when they are unwell and unable to work.",
+    "Mistake":[
+      "Sunshine leave",
+      "Holiday leave",
+      "Beauty leave"
+    ],
+    "Status":0
+  },
+  {
+    "ID":"English_English_Language_Writing_5_7_12",
+    "English":"Take something into consideration/ account",
+    "Sub_English":"Xem xét một điều gì đó",
+    "Example":"When making decisions, it's crucial to take all relevant factors into consideration.",
+    "English_Vocabulary_Test":[
+      "Xem xét ý kiến",
+      "Xem xét khía cạnh",
+      "Xem xét quan điểm"
+    ],
+    "Fill_Blank":"When making decisions, it's crucial to _______ all relevant factors.",
+    "Mistake":[
+      "Take into account opinions",
+      "Take into account aspects",
+      "Take into account perspectives"
+    ],
+    "Status":0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_1",
+    "English": "Advantageous",
+    "Sub_English": "Thuận lợi",
+    "Example": "Having a strong network can be advantageous in the business world.",
+    "English_Vocabulary_Test": [
+      "Bất lợi",
+      "Khó khăn",
+      "Đầy thách thức"
+    ],
+    "Fill_Blank": "Having a strong network can be _______ in the business world.",
+    "Mistake": [
+      "Disadvantageous",
+      "Difficult",
+      "Challenging"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_2",
+    "English": "Boost the economy",
+    "Sub_English": "Thúc đẩy nền kinh tế",
+    "Example": "Investments in infrastructure can help boost the economy of a country.",
+    "English_Vocabulary_Test": [
+      "Giảm sức mạnh kinh tế",
+      "Bảo vệ kinh tế",
+      "Thắt chặt kinh tế"
+    ],
+    "Fill_Blank": "Investments in infrastructure can help _______ of a country.",
+    "Mistake": [
+      "Decrease economic strength",
+      "Protect the economy",
+      "Tighten the economy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_3",
+    "English": "Disappearance",
+    "Sub_English": "Sự biến mất",
+    "Example": "The rapid deforestation led to the disappearance of many wildlife species.",
+    "English_Vocabulary_Test": [
+      "Sự xuất hiện",
+      "Sự tồn tại",
+      "Sự hiện diện"
+    ],
+    "Fill_Blank": "The rapid deforestation led to the _______ of many wildlife species.",
+    "Mistake": [
+      "Appearance",
+      "Existence",
+      "Presence"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_4",
+    "English": "Economic growth",
+    "Sub_English": "Sự phát triển kinh tế",
+    "Example": "Investments in innovation and education can contribute to economic growth.",
+    "English_Vocabulary_Test": [
+      "Sụp đổ kinh tế",
+      "Phát triển kinh tế",
+      "Tăng trưởng kinh tế"
+    ],
+    "Fill_Blank": "Investments in innovation and education can contribute to _______.",
+    "Mistake": [
+      "Economic collapse",
+      "Economic development",
+      "Economic growth"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_5",
+    "English": "Existence",
+    "Sub_English": "Sự tồn tại",
+    "Example": "The preservation of natural habitats is crucial for the existence of various species.",
+    "English_Vocabulary_Test": [
+      "Sự biến đổi",
+      "Sự kết hợp",
+      "Sự phát triển"
+    ],
+    "Fill_Blank": "The preservation of natural habitats is crucial for the _______ of various species.",
+    "Mistake": [
+      "Transformation",
+      "Combination",
+      "Development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_6",
+    "English": "Gain",
+    "Sub_English": "Lợi ích",
+    "Example": "Regular exercise has various health gains, including improved cardiovascular health.",
+    "English_Vocabulary_Test": [
+      "Thất bại",
+      "Mất mát",
+      "Thiệt hại"
+    ],
+    "Fill_Blank": "Regular exercise has various health _______, including improved cardiovascular health.",
+    "Mistake": [
+      "Failure",
+      "Loss",
+      "Damage"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_7",
+    "English": "Global language",
+    "Sub_English": "Ngôn ngữ toàn cầu",
+    "Example": "English has become a global language used in international communication.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ cổ",
+      "Ngôn ngữ địa phương",
+      "Ngôn ngữ hiện đại"
+    ],
+    "Fill_Blank": "English has become a _______ used in international communication.",
+    "Mistake": [
+      "Ancient language",
+      "Local language",
+      "Modern language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_8",
+    "English": "Predominate",
+    "Sub_English": "Chiếm ưu thế",
+    "Example": "In many urban areas, high-rise buildings predominate the skyline.",
+    "English_Vocabulary_Test": [
+      "Dựa trên",
+      "Dựa vào",
+      "Dựa lên"
+    ],
+    "Fill_Blank": "In many urban areas, high-rise buildings _______ the skyline.",
+    "Mistake": [
+      "Rely on",
+      "Depend on",
+      "Lean on"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_9",
+    "English": "Popularize",
+    "Sub_English": "Phổ biến hóa",
+    "Example": "Social media platforms play a significant role in popularizing trends and ideas.",
+    "English_Vocabulary_Test": [
+      "Điên đảo",
+      "Rối loạn",
+      "Mất trí"
+    ],
+    "Fill_Blank": "Social media platforms play a significant role in _______ trends and ideas.",
+    "Mistake": [
+      "Go crazy",
+      "Disorder",
+      "Lose one's mind"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_8_10",
+    "English": "Tamper",
+    "Sub_English": "Làm thay đổi trái phép",
+    "Example": "It is illegal to tamper with official documents or evidence in a legal case.",
+    "English_Vocabulary_Test": [
+      "Thay đổi",
+      "Chạm vào",
+      "Dọa nạt"
+    ],
+    "Fill_Blank": "It is illegal to _______ with official documents or evidence in a legal case.",
+    "Mistake": [
+      "Change",
+      "Touch",
+      "Threaten"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_1",
+    "English": "Communicative competence",
+    "Sub_English": "Năng lực giao tiếp",
+    "Example": "Language learners aim to develop communicative competence in speaking, listening, reading, and writing.",
+    "English_Vocabulary_Test": [
+      "Hiểu biết về công nghệ",
+      "Năng lực sáng tạo",
+      "Kiến thức chung"
+    ],
+    "Fill_Blank": "Language learners aim to develop _______ in speaking, listening, reading, and writing.",
+    "Mistake": [
+      "Understanding of technology",
+      "Creative competence",
+      "General knowledge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_2",
+    "English": "Cognitive benefits",
+    "Sub_English": "Lợi ích về nhận thức",
+    "Example": "Regular exercise has various cognitive benefits, including improved memory and focus.",
+    "English_Vocabulary_Test": [
+      "Lợi ích về sức khỏe",
+      "Lợi ích về tinh thần",
+      "Lợi ích về năng lực"
+    ],
+    "Fill_Blank": "Regular exercise has various _______, including improved memory and focus.",
+    "Mistake": [
+      "Health benefits",
+      "Psychological benefits",
+      "Competence benefits"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_3",
+    "English": "Cognitive development",
+    "Sub_English": "Phát triển nhận thức",
+    "Example": "Educational activities play a crucial role in the cognitive development of children.",
+    "English_Vocabulary_Test": [
+      "Phát triển về kỹ năng",
+      "Phát triển về cảm xúc",
+      "Phát triển về trải nghiệm"
+    ],
+    "Fill_Blank": "Educational activities play a crucial role in the _______ of children.",
+    "Mistake": [
+      "Development of skills",
+      "Development of emotions",
+      "Development of experiences"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_4",
+    "English": "Cognitive flexibility",
+    "Sub_English": "Tính linh hoạt nhận thức",
+    "Example": "Learning multiple languages can enhance cognitive flexibility and problem-solving skills.",
+    "English_Vocabulary_Test": [
+      "Tính kiên nhẫn",
+      "Tính kiên trì",
+      "Tính thực tế"
+    ],
+    "Fill_Blank": "Learning multiple languages can enhance _______ and problem-solving skills.",
+    "Mistake": [
+      "Patience",
+      "Perseverance",
+      "Practicality"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_5",
+    "English": "Critical period",
+    "Sub_English": "Thời kỳ quan trọng",
+    "Example": "The early years of life are considered a critical period for language acquisition.",
+    "English_Vocabulary_Test": [
+      "Thời kỳ phát triển",
+      "Thời kỳ đầu tiên",
+      "Thời kỳ chuyển giao"
+    ],
+    "Fill_Blank": "The early years of life are considered a _______ for language acquisition.",
+    "Mistake": [
+      "Developmental period",
+      "Initial period",
+      "Transitional period"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_6",
+    "English": "Early exposure",
+    "Sub_English": "Tiếp xúc sớm",
+    "Example": "Early exposure to diverse cultures can promote cultural awareness and understanding.",
+    "English_Vocabulary_Test": [
+      "Tăng cường tiếp xúc",
+      "Tiếp xúc đầu tiên",
+      "Tiếp xúc đa dạng"
+    ],
+    "Fill_Blank": "_______ to diverse cultures can promote cultural awareness and understanding.",
+    "Mistake": [
+      "Enhanced exposure",
+      "Initial exposure",
+      "Diverse exposure"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_7",
+    "English": "Language acquisition",
+    "Sub_English": "Học ngôn ngữ",
+    "Example": "Language acquisition is a natural process that occurs during childhood.",
+    "English_Vocabulary_Test": [
+      "Sự học tập",
+      "Sự tích lũy",
+      "Sự đầu tư"
+    ],
+    "Fill_Blank": "_______ is a natural process that occurs during childhood.",
+    "Mistake": [
+      "Learning",
+      "Accumulation",
+      "Investment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_8",
+    "English": "Language fluency",
+    "Sub_English": "Sự lưu loát trong ngôn ngữ",
+    "Example": "Regular practice and exposure contribute to achieving language fluency.",
+    "English_Vocabulary_Test": [
+      "Sự tự tin",
+      "Sự linh hoạt",
+      "Sự chắc chắn"
+    ],
+    "Fill_Blank": "Regular practice and exposure contribute to achieving _______.",
+    "Mistake": [
+      "Confidence",
+      "Flexibility",
+      "Certainty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_9",
+    "English": "Language proficiency",
+    "Sub_English": "Khả năng sử dụng ngôn ngữ",
+    "Example": "Language proficiency is essential for effective communication in a globalized world.",
+    "English_Vocabulary_Test": [
+      "Khả năng sáng tạo",
+      "Khả năng phân tích",
+      "Khả năng thực hiện"
+    ],
+    "Fill_Blank": "_______ is essential for effective communication in a globalized world.",
+    "Mistake": [
+      "Creativity",
+      "Analysis skills",
+      "Execution skills"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_10",
+    "English": "Linguistic enrichment",
+    "Sub_English": "Bổ sung ngôn ngữ",
+    "Example": "Reading diverse literature is a valuable practice for linguistic enrichment.",
+    "English_Vocabulary_Test": [
+      "Sự đa dạng",
+      "Sự phong phú",
+      "Sự cần thiết"
+    ],
+    "Fill_Blank": "Reading diverse literature is a valuable practice for _______.",
+    "Mistake": [
+      "Diversity",
+      "Abundance",
+      "Necessity"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_11",
+    "English": "Linguistic skills",
+    "Sub_English": "Kỹ năng ngôn ngữ",
+    "Example": "Effective communication requires the development of strong linguistic skills.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng giao tiếp",
+      "Kỹ năng lãnh đạo",
+      "Kỹ năng làm việc nhóm"
+    ],
+    "Fill_Blank": "Effective communication requires the development of strong _______.",
+    "Mistake": [
+      "Communication skills",
+      "Leadership skills",
+      "Teamwork skills"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_English_Language_Writing_5_10_12",
+    "English": "Linguistic competence",
+    "Sub_English": "Năng lực ngôn ngữ",
+    "Example": "Linguistic competence involves the ability to use language effectively in various contexts.",
+    "English_Vocabulary_Test": [
+      "Năng lực quản lý",
+      "Năng lực sáng tạo",
+      "Năng lực đàm phán"
+    ],
+    "Fill_Blank": "_______ involves the ability to use language effectively in various contexts.",
+    "Mistake": [
+      "Management competence",
+      "Creativity competence",
+      "Negotiation competence"
+    ],
+    "Status": 0
+  }
+]
+
+
+
+
+

@@ -10,16 +10,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
 import com.yagita.esh.db.VocabDAO;
 import com.yagita.esh.model.Vocabulary;
 
-import org.json.JSONArray;
-
-import java.lang.reflect.Type;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
@@ -35,6 +29,7 @@ public class VocabScreen extends AppCompatActivity {
     int index = 0;
     VocabDAO vocabDAO;
     int know = 0, unknown = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -137,6 +132,8 @@ public class VocabScreen extends AppCompatActivity {
                 if (status != TextToSpeech.ERROR) {
                     // Thiết lập ngôn ngữ cho Text-to-Speech (VD: English)
                     textToSpeech.setLanguage(Locale.US);
+
+
                 }
             }
         });
@@ -144,9 +141,11 @@ public class VocabScreen extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 textToSpeech.speak(txtWord.getText(), TextToSpeech.QUEUE_FLUSH, null, null);
+
             }
         });
     }
+
     private void setItem(Vocabulary a){
         if (a.getStatus() == 0){
             txtWord.setText(a.getEnglish());
@@ -155,4 +154,5 @@ public class VocabScreen extends AppCompatActivity {
             txtSentences.setText(a.getExample());
         }
     }
+
 }

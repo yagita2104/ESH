@@ -20,7 +20,6 @@ import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.fragment.app.Fragment;
 
-import android.preference.PreferenceManager;
 import android.provider.MediaStore;
 import android.util.Base64;
 import android.view.LayoutInflater;
@@ -32,17 +31,17 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.cast.framework.media.ImagePicker;
 import com.yagita.esh.R;
 import com.yagita.esh.activity.home.ContributeProfileScreen;
 import com.yagita.esh.activity.home.ExerciseScreen;
 import com.yagita.esh.activity.home.StatisticScreen;
 import com.yagita.esh.activity.home.VocabScreen;
+import com.yagita.esh.db.VocabDAO;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-public class HomeFragment extends Fragment {
+public class HomeFragment extends Fragment{
     Button btnVocabulary, btnExercise, btnStatistics, btnContribute;
     ImageView imgViewProfile, btnEditImg;
     TextView txtSpecialize, txtName;
@@ -52,6 +51,7 @@ public class HomeFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
         getWidget(view);
         addAction();
+        VocabDAO vocabDAO = new VocabDAO(view.getContext());
         return view;
     }
     public void getWidget(View view){
@@ -68,7 +68,8 @@ public class HomeFragment extends Fragment {
         //Nhận dữ liệu tên và chuyên ngành
         // Nhận dữ liệu tên và chuyên ngành từ SharedPreferences
 //        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
-        SharedPreferences preferences = getActivity().getSharedPreferences("MyPrefs", getActivity().MODE_PRIVATE);
+//        SharedPreferences preferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+        SharedPreferences preferences = requireContext().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         String name = preferences.getString("name", "");
         String specialize = preferences.getString("spec", "");
         if (!name.isEmpty() && !specialize.isEmpty()) {
@@ -136,7 +137,7 @@ public class HomeFragment extends Fragment {
 
         @SuppressLint({"MissingInflatedId", "LocalSuppress"}) EditText editTextName = dialogView.findViewById(R.id.editTextName);
         // Lấy tên hiện tại và đặt vào EditText
-        SharedPreferences preferences = getActivity().getSharedPreferences("MyPrefs", Activity.MODE_PRIVATE);
+        SharedPreferences preferences = requireContext().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         String name = preferences.getString("name", "");
         editTextName.setText(name);
 
@@ -223,6 +224,4 @@ public class HomeFragment extends Fragment {
             }
         }
     });
-
-
 }

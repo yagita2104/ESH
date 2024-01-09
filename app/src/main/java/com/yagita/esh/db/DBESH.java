@@ -22,11 +22,11 @@ import java.util.ResourceBundle;
 public class DBESH extends SQLiteOpenHelper {
     Context context;
     List<Vocabulary> vocabularyList;
-    List<Integer> list_unit = new ArrayList<>();
+    List<Integer> list_data = new ArrayList<>();
     public DBESH(Context context) {
         super(context, "esh.sqlite", null, 1);
         this.context = context;
-        getUnit();
+        getDataEL();
     }
     //truy vấn không trả kết quả
     public void queryData(String sql){
@@ -38,17 +38,11 @@ public class DBESH extends SQLiteOpenHelper {
         SQLiteDatabase database = getReadableDatabase();
         return database.rawQuery(sql, null);
     }
-    public void getUnit(){
-        list_unit.add(R.raw.unit_1);
-        list_unit.add(R.raw.unit_2);
-        list_unit.add(R.raw.unit_3);
-        list_unit.add(R.raw.unit_4);
-        list_unit.add(R.raw.unit_5);
-        list_unit.add(R.raw.unit_6);
-        list_unit.add(R.raw.unit_7);
-        list_unit.add(R.raw.unit_8);
-        list_unit.add(R.raw.unit_9);
-        list_unit.add(R.raw.unit_10);
+    public void getDataEL(){
+        list_data.add(R.raw.vocab_read_el);
+        list_data.add(R.raw.vocab_listen_el);
+        list_data.add(R.raw.vocab_speak_el);
+        list_data.add(R.raw.vocab_write_el);
     }
     public void getData(int file){
         vocabularyList = new ArrayList<>();
@@ -61,9 +55,8 @@ public class DBESH extends SQLiteOpenHelper {
         Type listType = new TypeToken<List<Vocabulary>>() {}.getType();
         vocabularyList = gson.fromJson(data, listType);
     }
-    @Override
-    public void onCreate(SQLiteDatabase sqLiteDatabase) {
-        String createTableQuery = "CREATE TABLE IF NOT EXISTS tblVocabulary (" +
+    private void insertDB(SQLiteDatabase sqLiteDatabase, String tableName, List<Integer> list){
+        String createTableQuery = "CREATE TABLE IF NOT EXISTS "+ tableName +" (" +
                 "id TEXT PRIMARY KEY, " +
                 "english TEXT, " +
                 "sub_english TEXT, " +
@@ -77,7 +70,7 @@ public class DBESH extends SQLiteOpenHelper {
                 "mistake3 TEXT, " +
                 "status INTEGER)";
         sqLiteDatabase.execSQL(createTableQuery);
-        for (int i : list_unit) {
+        for (int i : list) {
             getData(i);
             for (Vocabulary item : vocabularyList) {
                 ContentValues values = new ContentValues();
@@ -93,9 +86,13 @@ public class DBESH extends SQLiteOpenHelper {
                 values.put("mistake2", item.getMistake().get(1));
                 values.put("mistake3", item.getMistake().get(2));
                 values.put("status", item.getStatus());
-                sqLiteDatabase.insert("tblVocabulary", null, values);
+                sqLiteDatabase.insert(tableName, null, values);
             }
         }
+    }
+    @Override
+    public void onCreate(SQLiteDatabase sqLiteDatabase) {
+        insertDB(sqLiteDatabase, "tblVocabEnglishLanguage", list_data);
     }
 
     @Override

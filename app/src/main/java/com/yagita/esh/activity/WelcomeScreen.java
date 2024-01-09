@@ -24,9 +24,12 @@ import android.widget.Toast;
 
 import com.yagita.esh.R;
 import com.yagita.esh.fragment.HomeFragment;
+import com.yagita.esh.model.Specialize;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 public class WelcomeScreen extends AppCompatActivity {
     Button btnStart;
@@ -34,11 +37,18 @@ public class WelcomeScreen extends AppCompatActivity {
     Spinner spnSpec;
     ImageView imgSelectProfile;
     String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngoại Ngữ" ,"Cơ Khí"};
-
+    Map<String, String> mapKhoa = new HashMap<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_screen);
+        mapKhoa.put("Khoa", "Tên bảng");
+        mapKhoa.put("Công nghệ thông tin", Specialize.INFORMATION_TECHNOLOGY.getTenBang());
+        mapKhoa.put("Điện-Điện tử", "Tên bảng");
+        mapKhoa.put("Ngoại Ngữ", Specialize.ENGLISH_LANGUAGE.getTenBang());
+        mapKhoa.put("Cơ khí", "Tên bảng");
+
+
         SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
         boolean isFirstTime = sharedPreferences.getBoolean("isFirstTime", true);
 
@@ -86,6 +96,12 @@ public class WelcomeScreen extends AppCompatActivity {
                     SharedPreferences.Editor editor = sharedPreferences.edit();
                     editor.putString("name", name);
                     editor.putString("spec", spec);
+                    for (String khoa : khoaList) {
+                        if (khoa.equals(spec)) {
+                            String tenBang = mapKhoa.get(spec);
+                            editor.putString("tableName", tenBang);
+                        }
+                    }
                     editor.apply();
                     startActivity(intent);
                 }
