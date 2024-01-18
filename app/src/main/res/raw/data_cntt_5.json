@@ -1,0 +1,5312 @@
+[
+  {
+    "ID": "English_Information_Technology_5.1.1",
+    "English": "Artificial brain implant",
+    "Sub_English": "Cấy ghép não nhân tạo",
+    "Example": "Artificial brain implant is expected to save human from deadly brain diseases.",
+    "English_Vocabulary_Test": [
+      "Trí tuệ nhân tạo",
+      "Điện toán đám mây",
+      "Robot cứu hỏa"
+    ],
+    "Fill_Blank": "______ is expected to save human from deadly brain diseases.",
+    "Mistake": [
+      "Blockchain",
+      "Hydraulic chair for virtual reality games",
+      "Intranets dominate over Internet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.2",
+    "English": "Artificial intelligence",
+    "Sub_English": "Trí tuệ nhân tạo",
+    "Example": "According to a report from the World Economic Forum, 85 million jobs will be replaced by machines with Artificial Intelligence by the year 2025.",
+    "English_Vocabulary_Test": [
+      "Học sinh",
+      "Bảng đen",
+      "Sách"
+    ],
+    "Fill_Blank": "according to a report from the world economic forum, 85 million jobs will be replaced by machines with ______ by the year 2025.",
+    "Mistake": [
+      "Blockchain",
+      "Cloud computing",
+      "Game development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.3",
+    "English": "Blockchain",
+    "Sub_English": "Chuỗi khối",
+    "Example": "Blockchain is likely to become the key technology behind many central bank digital currencies.",
+    "English_Vocabulary_Test": [
+      "Điện toán đám mây",
+      "Electronic Virtual Assistant",
+      "Nhận dạng qua tần số vô tuyến"
+    ],
+    "Fill_Blank": "______ is likely to become the key technology behind many central bank digital currencies.",
+    "Mistake": [
+      "Cloud computing",
+      "Electronic humans",
+      "Terabit per second on optical fibres over distance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.4",
+    "English": "Cloud computing",
+    "Sub_English": "Điện toán đám mây",
+    "Example": "Cloud computing is becoming the most popular and key service that is offered by many IT service providers including, Amazon, Google, Salesforce.com.",
+    "English_Vocabulary_Test": [
+      "Trí tuệ nhân tạo",
+      "Thiết bị theo dõi sức khỏe cá nhân",
+      "Phát triển game"
+    ],
+    "Fill_Blank": "______ is becoming the most popular and key service that is offered by many IT service providers including, Amazon, Google, Salesforce.com.",
+    "Mistake": [
+      "Artificial brain implant",
+      "Electronic humans",
+      "Firefighting robot"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.5",
+    "English": "Computer built into clothing",
+    "Sub_English": "Quần áo thông minh",
+    "Example": "Computer built into clothing is expected to become dominant technology trends within a few years.",
+    "English_Vocabulary_Test": [
+      "Thiết bị robot bơi trong mạch máu",
+      "Trợ lý ảo điện tử",
+      "Ghế thủy lực cho các trò chơi thực tế ảo"
+    ],
+    "Fill_Blank": "______ is expected to become dominant technology trends within a few years.",
+    "Mistake": [
+      "Personal wearable health monitor",
+      "Direct links between brain and computer",
+      "Robotic pets"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.6",
+    "English": "Direct links between brain and computer",
+    "Sub_English": "Kết nối trực tiếp giữa não người và máy tính",
+    "Example": "Direct links between brain and computer are created by implanting tiny electrodes into the brain.",
+    "English_Vocabulary_Test": [
+      "Người điện tử",
+      "Trợ lý ảo điện tử",
+      "Robot cứu hỏa"
+    ],
+    "Fill_Blank": "______ are created by implanting tiny electrodes into the brain.",
+    "Mistake": [
+      "Mobile application development",
+      "Radio Frequency Identification",
+      "Robotic devices within blood vessels"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.7",
+    "English": "Electronic humans",
+    "Sub_English": "Người điện tử",
+    "Example": "In the future, electronic humans can replace human being in many jobs such as selling or teaching.",
+    "English_Vocabulary_Test": [
+      "Cấy ghép não nhân tạo",
+      "Điện toán đám mây",
+      "Phát triển game"
+    ],
+    "Fill_Blank": "in the future, ______ can replace human being in many jobs such as selling or teaching.",
+    "Mistake": [
+      "Blockchain",
+      "Hydraulic chair for virtual reality games",
+      "Intranets dominate over Internet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.8",
+    "English": "EVA (Electronic Virtual Assistant)",
+    "Sub_English": "Trợ lý ảo điện tử",
+    "Example": "Electronic Virtual Assistant is a software agent that can perform tasks or services for individuals.",
+    "English_Vocabulary_Test": [
+      "Thú cưng robot",
+      "Tốc độ terabit/giây giới hạn trên cáp quang",
+      "Thiết bị theo dõi sức khỏe cá nhân"
+    ],
+    "Fill_Blank": "electronic virtual assistant is a software agent that can perform tasks or services for individuals.",
+    "Mistake": [
+      "Artificial intelligence",
+      "Direct links between brain and computer",
+      "Electronic humans"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.9",
+    "English": "Firefighting robot",
+    "Sub_English": "Robot cứu hỏa",
+    "Example": "Firefighting robots are able to go to an active fire scene that is too dangerous for firefighters.",
+    "English_Vocabulary_Test": [
+      "Quần áo thông minh",
+      "Kết nối trực tiếp giữa não người và máy tính",
+      "Phát triển game"
+    ],
+    "Fill_Blank": "______s are able to go to an active fire scene that is too dangerous for firefighters.",
+    "Mistake": [
+      "Cloud computing",
+      "Electronic humans",
+      "Hydraulic chair for virtual reality games"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.10",
+    "English": "Hydraulic chair for virtual reality games",
+    "Sub_English": "Ghế thủy lực cho các trò chơi thực tế ảo",
+    "Example": "Let's sit on this hydraulic chair for virtual reality games to play 'skiing'.",
+    "English_Vocabulary_Test": [
+      "Thiết bị theo dõi sức khỏe cá nhân",
+      "Thiết bị robot bơi trong mạch máu",
+      "Điện toán đám mây"
+    ],
+    "Fill_Blank": "let's sit on this ______ to play 'skiing'.",
+    "Mistake": [
+      "Artificial brain implant",
+      "Direct links between brain and computer",
+      "Electronic Virtual Assistant"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.11",
+    "English": "Intranets dominate over Internet",
+    "Sub_English": "Mạng nội bộ chiếm ưu thế",
+    "Example": "It is a common fact that nowadays the intranet dominates over Internet in many countries.",
+    "English_Vocabulary_Test": [
+      "Thú cưng robot",
+      "Nhận dạng qua tần số vô tuyến",
+      "Electronic Virtual Assistant"
+    ],
+    "Fill_Blank": "it is a common fact that nowadays the intranet dominates over internet in many countries.",
+    "Mistake": [
+      "Personal wearable health monitor",
+      "Terabit per second on optical fibres over distance",
+      "Cloud computing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.12",
+    "English": "Personal wearable health monitor",
+    "Sub_English": "Thiết bị theo dõi sức khỏe cá nhân",
+    "Example": "Personal wearable health monitor gives users convenience in daily health monitoring.",
+    "English_Vocabulary_Test": [
+      "Người điện tử",
+      "Kết nối trực tiếp giữa não người và máy tính",
+      "Thú cưng robot"
+    ],
+    "Fill_Blank": "______ gives users convenience in daily health monitoring.",
+    "Mistake": [
+      "Blockchain",
+      "Cloud computing",
+      "Game development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.13",
+    "English": "Terabit per second on optical fibres over distance",
+    "Sub_English": "Tốc độ terabit/giây giới hạn trên cáp quang",
+    "Example": "Terabit per second is equal to 1,000,000,000,000 bits per second.",
+    "English_Vocabulary_Test": [
+      "Nhận dạng qua tần số vô tuyến",
+      "Phát triển game",
+      "Thiết bị robot bơi trong mạch máu"
+    ],
+    "Fill_Blank": "terabit per second is equal to 1,000,000,000,000 bits per second.",
+    "Mistake": [
+      "Intranets dominate over Internet",
+      "Personal wearable health monitor",
+      "Firefighting robot"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.14",
+    "English": "Game development",
+    "Sub_English": "Phát triển game",
+    "Example": "Game development is the process of creating games by a developer or a group of developers.",
+    "English_Vocabulary_Test": [
+      "Chuỗi khối",
+      "Phát triển ứng dụng di động",
+      "Thú cưng robot"
+    ],
+    "Fill_Blank": "______ is the process of creating games by a developer or a group of developers.",
+    "Mistake": [
+      "Direct links between brain and computer",
+      "Intranets dominate over Internet",
+      "Terabit per second on optical fibres over distance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.15",
+    "English": "Mobile application development",
+    "Sub_English": "Phát triển ứng dụng di động",
+    "Example": "Mobile application development is the process of creating software applications that run on the mobile phone.",
+    "English_Vocabulary_Test": [
+      "Thiết bị robot bơi trong mạch máu",
+      "Người điện tử",
+      "Trợ lý ảo điện tử"
+    ],
+    "Fill_Blank": "______ is the process of creating software applications that run on the mobile phone.",
+    "Mistake": [
+      "Artificial intelligence",
+      "Cloud computing",
+      "Game development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.16",
+    "English": "Robotic pets",
+    "Sub_English": "Thú cưng robot",
+    "Example": "There are a variety of robotic pets such as dogs, cats or even snakes.",
+    "English_Vocabulary_Test": [
+      "Robot cứu hỏa",
+      "Chuỗi khối",
+      "Thú cưng robot"
+    ],
+    "Fill_Blank": "there are a variety of ______ such as dogs, cats or even snakes.",
+    "Mistake": [
+      "Artificial intelligence",
+      "Direct links between brain and computer",
+      "Electronic Virtual Assistant"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.17",
+    "English": "Robotic devices within blood vessels",
+    "Sub_English": "Thiết bị robot bơi trong mạch máu",
+    "Example": "Robotic devices within blood vessels are breakthroughs in science.",
+    "English_Vocabulary_Test": [
+      "Điện toán đám mây",
+      "Robot cứu hỏa",
+      "Thiết bị theo dõi sức khỏe cá nhân"
+    ],
+    "Fill_Blank": "______ are breakthroughs in science.",
+    "Mistake": [
+      "Firefighting robot",
+      "Radio Frequency Identification",
+      "Hydraulic chair for virtual reality games"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.18",
+    "English": "Radio Frequency Identification",
+    "Sub_English": "Nhận dạng qua tần số vô tuyến",
+    "Example": "Scientists can track down the trace of dolphins thanks to the Radio Frequency Identification.",
+    "English_Vocabulary_Test": [
+      "Thú cưng robot",
+      "Chuỗi khối",
+      "Học sinh"
+    ],
+    "Fill_Blank": "Scientists can track down the trace of dolphins thanks to the ______.",
+    "Mistake": [
+      "Electronic Virtual Assistant",
+      "Game development",
+      "Direct links between brain and computer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.19",
+    "English": "Barcode",
+    "Sub_English": "Mã vạch",
+    "Example": "Barcode contains the information that computers can read.",
+    "English_Vocabulary_Test": [
+      "Giống hệt con người",
+      "Tưởng tượng",
+      "Bắt chước"
+    ],
+    "Fill_Blank": "______ contains the information that computers can read.",
+    "Mistake": [
+      "Catch up with",
+      "Convergence",
+      "Humanoid"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.20",
+    "English": "Catch up with",
+    "Sub_English": "Bắt kịp với",
+    "Example": "In Vietnam, many cities and businesses have studied and sought solutions to apply blockchain to catch up with technology changes in the world.",
+    "English_Vocabulary_Test": [
+      "Tác động, ảnh hưởng",
+      "Vượt xa",
+      "Thẻ nhận dạng qua tần số vô tuyến"
+    ],
+    "Fill_Blank": "in vietnam, many cities and businesses have studied and sought solutions to apply blockchain to ______ technology changes in the world.",
+    "Mistake": [
+      "Convergence",
+      "Humanoid",
+      "Imagine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.21",
+    "English": "Convergence",
+    "Sub_English": "Sự hội tụ",
+    "Example": "The Internet has helped with the convergence of communication methods.",
+    "English_Vocabulary_Test": [
+      "Tưởng tượng",
+      "Bắt chước",
+      "Tác động, ảnh hưởng"
+    ],
+    "Fill_Blank": "the internet has helped with the ______ of communication methods.",
+    "Mistake": [
+      "Humanoid",
+      "Imitate",
+      "Impact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.22",
+    "English": "Humanoid",
+    "Sub_English": "Giống hệt con người",
+    "Example": "A humanoid robot named Sophie has been officially recognized as the first citizen in the world.",
+    "English_Vocabulary_Test": [
+      "Bắt chước",
+      "Tác động, ảnh hưởng",
+      "Thẻ nhận dạng qua tần số vô tuyến"
+    ],
+    "Fill_Blank": "a ______ robot named sophie has been officially recognized as the first citizen in the world.",
+    "Mistake": [
+      "Imagine",
+      "Imitate",
+      "Impact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.23",
+    "English": "Imagine",
+    "Sub_English": "Tưởng tượng",
+    "Example": "How can you imagine that one day humans will be taken out of space with the help of some special cable?",
+    "English_Vocabulary_Test": [
+      "Bắt chước",
+      "Tác động, ảnh hưởng",
+      "Vượt xa"
+    ],
+    "Fill_Blank": "how can you ______ that one day humans will be taken out of space with the help of some special cable?",
+    "Mistake": [
+      "Imitate",
+      "Impact",
+      "Influence on"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.24",
+    "English": "Imitate",
+    "Sub_English": "Bắt chước",
+    "Example": "Robots are able to imitate human body shapes as well as mimic human facial expressions.",
+    "English_Vocabulary_Test": [
+      "Tác động, ảnh hưởng",
+      "Vượt xa",
+      "Thẻ nhận dạng qua tần số vô tuyến"
+    ],
+    "Fill_Blank": "robots are able to ______ human body shapes as well as mimic human facial expressions.",
+    "Mistake": [
+      "Imagine",
+      "Impact",
+      "Influence on"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.25",
+    "English": "Impact",
+    "Sub_English": "Tác động, ảnh hưởng",
+    "Example": "Computers have been gaining their popularity and impacting on every area of daily life.",
+    "English_Vocabulary_Test": [
+      "Vượt xa",
+      "Thẻ nhận dạng qua tần số vô tuyến",
+      "Cách mạng hóa"
+    ],
+    "Fill_Blank": "computers have been gaining their popularity and ______ing on every area of daily life.",
+    "Mistake": [
+      "Influence on",
+      "Outstrip",
+      "Radio-frequency tag"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.26",
+    "English": "Influence on",
+    "Sub_English": "Ảnh hưởng",
+    "Example": "The emergence of new applications in medication has influenced on people’s longevity.",
+    "English_Vocabulary_Test": [
+      "Thẻ nhận dạng qua tần số vô tuyến",
+      "Cách mạng hóa",
+      "Vượt xa"
+    ],
+    "Fill_Blank": "the emergence of new applications in medication has influenced on people’s longevity.",
+    "Mistake": [
+      "Outstrip",
+      "Radio-frequency tag",
+      "Revolutionize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.27",
+    "English": "Outstrip",
+    "Sub_English": "Vượt xa",
+    "Example": "Our latest technological applications in medication have outstripped old treatments.",
+    "English_Vocabulary_Test": [
+      "Cách mạng hóa",
+      "Thẻ nhận dạng qua tần số vô tuyến",
+      "Giám sát"
+    ],
+    "Fill_Blank": "our latest technological applications in medication have ______ped old treatments.",
+    "Mistake": [
+      "Revolutionize",
+      "Surveillance",
+      "Tackle with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.28",
+    "English": "Radio-frequency tag",
+    "Sub_English": "Thẻ nhận dạng qua tần số vô tuyến",
+    "Example": "We can use radio-frequency tag to read the information on an object over a distance of a few feet.",
+    "English_Vocabulary_Test": [
+      "Chách mạng hóa",
+      "Cách mạng hóa",
+      "Giám sát"
+    ],
+    "Fill_Blank": "we can use ______ to read the information on an object over a distance of a few feet.",
+    "Mistake": [
+      "Revolutionize",
+      "Surveillance",
+      "Tackle with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.29",
+    "English": "Revolutionize",
+    "Sub_English": "Cách mạng hóa",
+    "Example": "Electronic cash systems have revolutionized the way that people around the world pay for goods and services.",
+    "English_Vocabulary_Test": [
+      "Giám sát",
+      "Giải quyết, khắc phục, xử trí",
+      "Mã vạch"
+    ],
+    "Fill_Blank": "electronic cash systems have ______d the way that people around the world pay for goods and services.",
+    "Mistake": [
+      "Surveillance",
+      "Tackle with",
+      "Barcode"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.30",
+    "English": "Surveillance",
+    "Sub_English": "Giám sát",
+    "Example": "Surveillance systems are an essential part of securing your home or business.",
+    "English_Vocabulary_Test": [
+      "Vượt xa",
+      "Cách mạng hóa",
+      "Giám sát"
+    ],
+    "Fill_Blank": "______ systems are an essential part of securing your home or business.",
+    "Mistake": [
+      "Outstrip",
+      "Revolutionize",
+      "Tackle with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.1.31",
+    "English": "Tackle with",
+    "Sub_English": "Giải quyết, khắc phục, xử trí",
+    "Example": "Firefighting robots help firefighters tackle with serious fires more effectively.",
+    "English_Vocabulary_Test": [
+      "Thẻ nhận dạng qua tần số vô tuyến",
+      "Mã vạch",
+      "Bắt kịp với"
+    ],
+    "Fill_Blank": "firefighting robots help firefighters ______ serious fires more effectively.",
+    "Mistake": [
+      "Radio-frequency tag",
+      "Barcode",
+      "Catch up with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.1",
+    "English": "Accounting software",
+    "Sub_English": "Phần mềm kế toán",
+    "Example": "Zoho Books is one of the best online accounting software for your business.",
+    "English_Vocabulary_Test": [
+      "Phần mềm hỗ trợ kỹ thuật số",
+      "Phần mềm chế bản điện tử",
+      "Phần mềm chỉnh sửa ảnh"
+    ],
+    "Fill_Blank": "zoho books is one of the best online ______ for your business.",
+    "Mistake": [
+      "Digital assistant",
+      "Desktop publishing software",
+      "Image editing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.2",
+    "English": "Adobe Reader",
+    "Sub_English": "Phần mềm đọc file PDF",
+    "Example": "You need a piece of software like Adobe Reader to open this PDF document.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉnh sửa video",
+      "Phần mềm hỗ trợ kỹ thuật số",
+      "Thiết bị hỗ trợ kỹ thuật số"
+    ],
+    "Fill_Blank": "You need a piece of software like ______ to open this PDF document.",
+    "Mistake": [
+      "Video editing software",
+      "Digital assistant",
+      "Mobile apps"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.3",
+    "English": "Bioinformatics",
+    "Sub_English": "Việc sử dụng tin học để phân tích dữ liệu sinh học",
+    "Example": "Genomics and bioinformatics are being used only by the most advanced developing countries.",
+    "English_Vocabulary_Test": [
+      "Bảng tính",
+      "Phần mềm chỉ đường",
+      "Bảng lương"
+    ],
+    "Fill_Blank": "genomics and ______ are being used only by the most advanced developing countries.",
+    "Mistake": [
+      "Spreadsheet",
+      "Route planning software",
+      "Payroll"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.4",
+    "English": "Corel Draw",
+    "Sub_English": "Phần mềm biên tập đồ họa vectơ",
+    "Example": "Corel Draw is a vector graphics editor developed and marketed by Corel Corporation.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉnh sửa ảnh",
+      "Phần mềm chế bản điện tử",
+      "Bảng tính"
+    ],
+    "Fill_Blank": "______ is a vector graphics editor developed and marketed by Corel Corporation.",
+    "Mistake": [
+      "Image editing software",
+      "Desktop publishing software",
+      "Spreadsheet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.5",
+    "English": "Cost analysis",
+    "Sub_English": "Phân tích chi phí",
+    "Example": "Cost analysis is an important first step before you engage in other types of economic evaluation.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉ đường",
+      "Việc mô phỏng",
+      "Việc quản lý dữ liệu"
+    ],
+    "Fill_Blank": "______ is an important first step before you engage in other types of economic evaluation.",
+    "Mistake": [
+      "Route planning software",
+      "Simulation",
+      "Data management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.6",
+    "English": "Data management",
+    "Sub_English": "Việc quản lý dữ liệu",
+    "Example": "Data management solutions make processing, validation, and other essential tasks much simpler.",
+    "English_Vocabulary_Test": [
+      "Kỹ thuật chế bản điện tử",
+      "Phần mềm chế bản điện tử",
+      "Bảng tính"
+    ],
+    "Fill_Blank": "______ solutions make processing, validation, and other essential tasks much simpler.",
+    "Mistake": [
+      "Desktop publishing",
+      "Desktop publishing software",
+      "Spreadsheet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.7",
+    "English": "Desktop publishing (DTP)",
+    "Sub_English": "Kỹ thuật chế bản điện tử",
+    "Example": "Desktop publishing is the process of producing printed material by using a small computer and a printer.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉ đường",
+      "Thiết bị hỗ trợ kỹ thuật số",
+      "Bảng lương"
+    ],
+    "Fill_Blank": "desktop publishing is the process of producing printed material by using a small computer and a printer.",
+    "Mistake": [
+      "Route planning software",
+      "Digital assistant",
+      "Payroll"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.8",
+    "English": "Desktop publishing software",
+    "Sub_English": "Phần mềm chế bản điện tử",
+    "Example": "Desktop Publishing software helps create and publish page designs and printed materials.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉ đường",
+      "Việc mô phỏng",
+      "Bảng lương"
+    ],
+    "Fill_Blank": "______ helps create and publish page designs and printed materials.",
+    "Mistake": [
+      "Route planning software",
+      "Simulation",
+      "Payroll"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.9",
+    "English": "Digital assistant",
+    "Sub_English": "Thiết bị hỗ trợ kỹ thuật số",
+    "Example": "Digital assistant is used to assist a user by answering questions and performing basic tasks.",
+    "English_Vocabulary_Test": [
+      "Phần mềm đọc file PDF",
+      "Phần mềm chỉnh sửa video",
+      "Phần mềm chỉnh sửa ảnh"
+    ],
+    "Fill_Blank": "______ is used to assist a user by answering questions and performing basic tasks.",
+    "Mistake": [
+      "Adobe Reader",
+      "Video editing software",
+      "Image editing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.10",
+    "English": "Dream Weaver",
+    "Sub_English": "Phần mềm soạn thảo, xây dựng trang web",
+    "Example": "Adobe Inc. created Dream Weaver, a proprietary web development tool in 1997.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉnh sửa ảnh",
+      "Phần mềm chế bản điện tử",
+      "Phần mềm xử lý từ/ bộ xử lý từ"
+    ],
+    "Fill_Blank": "Adobe Inc. created ______, a proprietary web development tool in 1997.",
+    "Mistake": [
+      "Image editing software",
+      "Desktop publishing software",
+      "Word processing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.11",
+    "English": "Editor",
+    "Sub_English": "Trình biên soạn",
+    "Example": "You will be able to use the editor to make any changes you want.",
+    "English_Vocabulary_Test": [
+      "Phần mềm chỉ đường",
+      "Phần mềm chỉnh sửa video",
+      "Thẻ nhận dạng qua tần số vô tuyến"
+    ],
+    "Fill_Blank": "you will be able to use the ______ to make any changes you want.",
+    "Mistake": [
+      "Route planning software",
+      "Video editing software",
+      "Radio-frequency tag"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.12",
+    "English": "Enterprise software",
+    "Sub_English": "Phần mềm điều hành doanh nghiệp",
+    "Example": "Today, enterprise software is one of the key factors that sets the business operational functions on and going.",
+    "English_Vocabulary_Test": [
+      "Phần mềm hỗ trợ kỹ thuật số",
+      "Phần mềm đọc file PDF",
+      "Việc mô phỏng"
+    ],
+    "Fill_Blank": "today, ______ is one of the key factors that sets the business operational functions on and going.",
+    "Mistake": [
+      "Digital assistant",
+      "Adobe Reader",
+      "Simulation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.13",
+    "English": "Graphics program",
+    "Sub_English": "Phần mềm đồ họa",
+    "Example": "Currently Adobe Photoshop is one of the most used and best-known graphics programs in America.",
+    "English_Vocabulary_Test": [
+      "Phần mềm xử lý từ/ bộ xử lý từ",
+      "Phần mềm chỉ đường",
+      "Bảng lương"
+    ],
+    "Fill_Blank": "currently adobe photoshop is one of the most used and best-known ______s in america.",
+    "Mistake": [
+      "Word processing software",
+      "Route planning software",
+      "Payroll"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.14",
+    "English": "Visual Studio",
+    "Sub_English": "phần mềm của Microsoft dùng để lập trình",
+    "Example": "Visual Studio is used to develop computer programs, as well as websites, web apps, web services, and mobile apps.",
+    "English_Vocabulary_Test": [
+      "Kỹ thuật chế bản điện tử",
+      "Phần mềm biên tập đồ họa vectơ",
+      "Thiết bị hỗ trợ kỹ thuật số"
+    ],
+    "Fill_Blank": "______ is used to develop computer programs, as well as websites, web apps, web services, and mobile apps.",
+    "Mistake": [
+      "Word processing software",
+      "Route planning software",
+      "Satellite navigation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.15",
+    "English": "Word processing software",
+    "Sub_English": "phần mềm xử lý từ/ bộ xử lý từ",
+    "Example": "This Word processing software allows you to work with two documents at the same time.",
+    "English_Vocabulary_Test": [
+      "Phần mềm soạn thảo, xây dựng trang web",
+      "Trình biên soạn",
+      "Phần mềm điều hành doanh nghiệp"
+    ],
+    "Fill_Blank": "This ______ allows you to work with two documents at the same time.",
+    "Mistake": [
+      "Payroll",
+      "Primitive",
+      "Simulation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.16",
+    "English": "accounting software",
+    "Sub_English": "phần mềm kế toán",
+    "Example": "Zoho Books is one of the best online accounting software for your business.",
+    "English_Vocabulary_Test": [
+      "Route planning software",
+      "Satellite navigation",
+      "Simulation"
+    ],
+    "Fill_Blank": "Zoho Books is one of the best online ______ for your business.",
+    "Mistake": [
+      "Cost analysis",
+      "Data management",
+      "Desktop publishing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.17",
+    "English": "Adobe Reader",
+    "Sub_English": "phần mềm đọc file pdf",
+    "Example": "You need a piece of software like Adobe Reader to open this PDF document.",
+    "English_Vocabulary_Test": [
+      "Phần mềm xử lý từ/ bộ xử lý từ",
+      "Mobile apps",
+      "Office suite (Word, Excel, PPT)"
+    ],
+    "Fill_Blank": "You need a piece of software like ______ to open this PDF document.",
+    "Mistake": [
+      "Household app",
+      "Image editing software",
+      "Imagine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.18",
+    "English": "bioinformatics",
+    "Sub_English": "việc sử dụng tin học để phân tích dữ liệu sinh học",
+    "Example": "Genomics and bioinformatics are being used only by the most advanced developing countries.",
+    "English_Vocabulary_Test": [
+      "Phân tích chi phí",
+      "Việc quản lý dữ liệu",
+      "Kỹ thuật chế bản điện tử"
+    ],
+    "Fill_Blank": "Genomics and ______ are being used only by the most advanced developing countries.",
+    "Mistake": [
+      "Digital assistant",
+      "Dream Weaver",
+      "Editor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.19",
+    "English": "Corel Draw",
+    "Sub_English": "phần mềm biên tập đồ họa vectơ",
+    "Example": "Corel Draw is a vector graphics editor developed and marketed by Corel Corporation.",
+    "English_Vocabulary_Test": [
+      "Electronic cash systems",
+      "Phần mềm đồ họa",
+      "Household app"
+    ],
+    "Fill_Blank": "______ is a vector graphics editor developed and marketed by Corel Corporation.",
+    "Mistake": [
+      "Video editing software",
+      "Visual Studio",
+      "Word processing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.20",
+    "English": "Cost analysis",
+    "Sub_English": "phân tích chi phí",
+    "Example": "Cost analysis is an important first step before you engage in other types of economic evaluation.",
+    "English_Vocabulary_Test": [
+      "Phần mềm điều hành doanh nghiệp",
+      "Phần mềm đồ họa",
+      "Household app"
+    ],
+    "Fill_Blank": "______ is an important first step before you engage in other types of economic evaluation.",
+    "Mistake": [
+      "Data management",
+      "Desktop publishing software",
+      "Digital assistant"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.21",
+    "English": "Data management",
+    "Sub_English": "việc quản lý dữ liệu",
+    "Example": "Data management solutions make processing, validation, and other essential tasks much simpler.",
+    "English_Vocabulary_Test": [
+      "Phần mềm soạn thảo, xây dựng trang web",
+      "Trình biên soạn",
+      "Electronic cash systems"
+    ],
+    "Fill_Blank": "______ solutions make processing, validation, and other essential tasks much simpler.",
+    "Mistake": [
+      "Spreadsheet",
+      "Video editing software",
+      "Visual Studio"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.22",
+    "English": "Desktop publishing (DTP)",
+    "Sub_English": "kỹ thuật chế bản điện tử",
+    "Example": "Desktop publishing is the process of producing printed material by using a small computer and a printer.",
+    "English_Vocabulary_Test": [
+      "Route planning software",
+      "Satellite navigation",
+      "Simulation"
+    ],
+    "Fill_Blank": "desktop publishing is the process of producing printed material by using a small computer and a printer.",
+    "Mistake": [
+      "Payroll",
+      "Primitive",
+      "Word processing software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.23",
+    "English": "Desktop publishing software",
+    "Sub_English": "phần mềm chế bản điện tử",
+    "Example": "Desktop Publishing software helps create and publish page designs and printed materials.",
+    "English_Vocabulary_Test": [
+      "Spreadsheet",
+      "Video editing software",
+      "Phần mềm của Microsoft dùng để lập trình"
+    ],
+    "Fill_Blank": "______ helps create and publish page designs and printed materials.",
+    "Mistake": [
+      "Route planning software",
+      "Satellite navigation",
+      "Simulation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.24",
+    "English": "simulate",
+    "Sub_English": "minh họa, mô phỏng",
+    "Example": "He tried to simulate emotions so that Ant would not become too shock.",
+    "English_Vocabulary_Test": [
+      "Retouch",
+      "Be supposed to",
+      "Benefit"
+    ],
+    "Fill_Blank": "He tried to ______ emotions so that Ant would not become too shock.",
+    "Mistake": [
+      "Preserve",
+      "Downsize",
+      "Enhance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.25",
+    "English": "be supposed to",
+    "Sub_English": "giả định là, giả sử là",
+    "Example": "These laptop batteries are supposed to last for a year.",
+    "English_Vocabulary_Test": [
+      "Own",
+      "Preserve",
+      "Retouch"
+    ],
+    "Fill_Blank": "these laptop batteries are supposed to last for a year.",
+    "Mistake": [
+      "Enhance",
+      "Keep track of",
+      "Optimize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.26",
+    "English": "benefit (v)",
+    "Sub_English": "được hưởng lợi từ",
+    "Example": "Everyone in the company has benefited from the new computer systems.",
+    "English_Vocabulary_Test": [
+      "Retouch",
+      "Simulate",
+      "Downsize"
+    ],
+    "Fill_Blank": "everyone in the company has benefited from the new computer systems.",
+    "Mistake": [
+      "Preserve",
+      "Enhance",
+      "Keep track of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.27",
+    "English": "downsize",
+    "Sub_English": "thu nhỏ lại",
+    "Example": "To downsize a PDF file, you need one of two things: a downloadable application or an online PDF compression service.",
+    "English_Vocabulary_Test": [
+      "Simulate",
+      "Optimize",
+      "Enhance"
+    ],
+    "Fill_Blank": "To ______ a PDF file, you need one of two things: a downloadable application or an online PDF compression service.",
+    "Mistake": [
+      "Preserve",
+      "Benefit",
+      "Keep track of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.28",
+    "English": "enhance",
+    "Sub_English": "(v) Nâng cao",
+    "Example": "Panasonic is trying to enhance the quality of life through innovative products.",
+    "English_Vocabulary_Test": [
+      "Downsize",
+      "Own",
+      "Preserve"
+    ],
+    "Fill_Blank": "Panasonic is trying to ______ the quality of life through innovative products.",
+    "Mistake": [
+      "Benefit",
+      "Keep track of",
+      "Optimize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.29",
+    "English": "keep track of",
+    "Sub_English": "theo dõi",
+    "Example": "This easy-to-use software keeps track of all your information and organizes it by categories and key words.",
+    "English_Vocabulary_Test": [
+      "Own",
+      "Preserve",
+      "Retouch"
+    ],
+    "Fill_Blank": "this easy-to-use software keeps track of all your information and organizes it by categories and key words.",
+    "Mistake": [
+      "Enhance",
+      "Be supposed to",
+      "Optimize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.30",
+    "English": "optimize (v)",
+    "Sub_English": "tối ưu hóa",
+    "Example": "We need to optimize our use of the existing technology.",
+    "English_Vocabulary_Test": [
+      "Retouch",
+      "Simulate",
+      "Downsize"
+    ],
+    "Fill_Blank": "we need to optimize our use of the existing technology.",
+    "Mistake": [
+      "Preserve",
+      "Enhance",
+      "Benefit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.31",
+    "English": "own",
+    "Sub_English": "sở hữu, làm chủ",
+    "Example": "This smartphone owns some new features that are very useful for users.",
+    "English_Vocabulary_Test": [
+      "Benefit",
+      "Downsize",
+      "Enhance"
+    ],
+    "Fill_Blank": "This smartphone ______s some new features that are very useful for users.",
+    "Mistake": [
+      "Keep track of",
+      "Simulate",
+      "Optimize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.32",
+    "English": "preserve",
+    "Sub_English": "(v) bảo tồn, giữ gìn",
+    "Example": "Cameras are often used to store and preserve a lot of unforgettable memories.",
+    "English_Vocabulary_Test": [
+      "Retouch",
+      "Simulate",
+      "Downsize"
+    ],
+    "Fill_Blank": "Cameras are often used to store and ______ a lot of unforgettable memories.",
+    "Mistake": [
+      "Benefit",
+      "Enhance",
+      "Keep track of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.33",
+    "English": "retouch",
+    "Sub_English": "chỉnh sửa lại",
+    "Example": "We had the wedding photos retouched to make them seem like a sunny day.",
+    "English_Vocabulary_Test": [
+      "Own",
+      "Downsize",
+      "Enhance"
+    ],
+    "Fill_Blank": "We had the wedding photos ______ed to make them seem like a sunny day.",
+    "Mistake": [
+      "Preserve",
+      "Simulate",
+      "Optimize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.34",
+    "English": "simulate",
+    "Sub_English": "minh họa, mô phỏng",
+    "Example": "He tried to simulate emotions so that Ant would not become too shocked.",
+    "English_Vocabulary_Test": [
+      "Retouch",
+      "Be supposed to",
+      "Benefit"
+    ],
+    "Fill_Blank": "He tried to ______ emotions so that Ant would not become too shocked.",
+    "Mistake": [
+      "Preserve",
+      "Downsize",
+      "Enhance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.2.35",
+    "English": "optimize (v)",
+    "Sub_English": "tối ưu hóa",
+    "Example": "We need to optimize our use of the existing technology.",
+    "English_Vocabulary_Test": [
+      "Simulate",
+      "Retouch",
+      "Own"
+    ],
+    "Fill_Blank": "we need to optimize our use of the existing technology.",
+    "Mistake": [
+      "Benefit",
+      "Keep track of",
+      "Enhance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.1",
+    "English": "Commercial website",
+    "Sub_English": "Trang mạng thương mại",
+    "Example": "Nowadays, a lot of companies develop commercial websites to sell their products or services.",
+    "English_Vocabulary_Test": [
+      "Trang mạng giáo dục",
+      "Trang mạng giải trí",
+      "Trang mạng về tin tức"
+    ],
+    "Fill_Blank": "nowadays, a lot of companies develop ______s to sell their products or services.",
+    "Mistake": [
+      "Educational website",
+      "Organizational website",
+      "Personal website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.2",
+    "English": "Educational website",
+    "Sub_English": "Trang mạng giáo dục",
+    "Example": "Educational websites aim to share knowledge and enable online learning.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giải trí",
+      "Trang mạng về tin tức"
+    ],
+    "Fill_Blank": "______s aim to share knowledge and enable online learning.",
+    "Mistake": [
+      "Commercial website",
+      "Organizational website",
+      "Personal website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.3",
+    "English": "Entertainment website",
+    "Sub_English": "Trang mạng giải trí",
+    "Example": "Entertainment websites are designed to provide fun activities which help people entertain.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giáo dục",
+      "Trang mạng về tin tức"
+    ],
+    "Fill_Blank": "______s are designed to provide fun activities which help people entertain.",
+    "Mistake": [
+      "Commercial website",
+      "Educational website",
+      "Organizational website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.4",
+    "English": "News website",
+    "Sub_English": "Trang mạng về tin tức",
+    "Example": "People visit News websites to obtain information about society, culture, education, etc.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giáo dục",
+      "Trang mạng giải trí"
+    ],
+    "Fill_Blank": "People visit ______s to obtain information about society, culture, education, etc.",
+    "Mistake": [
+      "Commercial website",
+      "Educational website",
+      "Personal website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.5",
+    "English": "Organizational website",
+    "Sub_English": "Trang mạng thuộc tổ chức",
+    "Example": "The purpose of organizational websites is to inform about an idea or event.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giáo dục",
+      "Trang mạng cá nhân"
+    ],
+    "Fill_Blank": "the purpose of ______s is to inform about an idea or event.",
+    "Mistake": [
+      "Commercial website",
+      "Educational website",
+      "Personal website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.6",
+    "English": "Personal website",
+    "Sub_English": "Trang mạng cá nhân",
+    "Example": "The purpose of a personal website is to provide information about an individual.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giáo dục",
+      "Trang mạng giải trí"
+    ],
+    "Fill_Blank": "the purpose of a ______ is to provide information about an individual.",
+    "Mistake": [
+      "Commercial website",
+      "Educational website",
+      "Organizational website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.7",
+    "English": "Social networking website",
+    "Sub_English": "Trang mạng xã hội",
+    "Example": "Some social networking websites such as Facebook, Twitter, etc help people to exchange personal information.",
+    "English_Vocabulary_Test": [
+      "Trang mạng thương mại",
+      "Trang mạng giáo dục",
+      "Trang mạng giải trí"
+    ],
+    "Fill_Blank": "some ______s such as facebook, twitter, etc help people to exchange personal information.",
+    "Mistake": [
+      "Commercial website",
+      "Educational website",
+      "Personal website"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.8",
+    "English": "Animation",
+    "Sub_English": "Hoạt hoạ, hoạt ảnh",
+    "Example": "Animations are made up of a series of independent pictures put together in sequence to look like moving pictures.",
+    "English_Vocabulary_Test": [
+      "Nền",
+      "Tập tin định kiểu theo tầng",
+      "Miền"
+    ],
+    "Fill_Blank": "______s are made up of a series of independent pictures put together in sequence to look like moving pictures.",
+    "Mistake": [
+      "Background",
+      "CSS (Cascading Style Sheets)",
+      "Domain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.9",
+    "English": "Background",
+    "Sub_English": "Nền",
+    "Example": "Today, backgrounds are one of the core features that determine how visually interesting a website is.",
+    "English_Vocabulary_Test": [
+      "Hoạt hoạ, hoạt ảnh",
+      "Tập tin định kiểu theo tầng",
+      "Miền"
+    ],
+    "Fill_Blank": "today, ______s are one of the core features that determine how visually interesting a website is.",
+    "Mistake": [
+      "Animation",
+      "CSS (Cascading Style Sheets)",
+      "FTP (File Transfer Protocol)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.10",
+    "English": "CSS (Cascading Style Sheets)",
+    "Sub_English": "Tập tin định kiểu theo tầng",
+    "Example": "CSS is a style sheet language used for describing the presentation of a document written in a markup language like HTML.",
+    "English_Vocabulary_Test": [
+      "Hoạt hoạ, hoạt ảnh",
+      "Nền",
+      "Miền"
+    ],
+    "Fill_Blank": "css is a style sheet language used for describing the presentation of a document written in a markup language like html.",
+    "Mistake": [
+      "Animation",
+      "Background",
+      "Domain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.11",
+    "English": "Domain",
+    "Sub_English": "Miền",
+    "Example": "A domain is a set of addresses that shows the category or geographical area that an internet address belongs to.",
+    "English_Vocabulary_Test": [
+      "Hoạt hoạ, hoạt ảnh",
+      "Nền",
+      "Tập tin định kiểu theo tầng"
+    ],
+    "Fill_Blank": "a ______ is a set of addresses that shows the category or geographical area that an internet address belongs to.",
+    "Mistake": [
+      "Animation",
+      "Background",
+      "FTP (File Transfer Protocol)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.12",
+    "English": "FTP (File Transfer Protocol)",
+    "Sub_English": "Giao thức truyền tập tin",
+    "Example": "Standing for 'File Transfer Protocol', FTP is a protocol designed for transferring files over the Internet.",
+    "English_Vocabulary_Test": [
+      "Hoạt hoạ, hoạt ảnh",
+      "Nền",
+      "Đồ hoạ"
+    ],
+    "Fill_Blank": "standing for 'file transfer protocol', ftp is a protocol designed for transferring files over the internet.",
+    "Mistake": [
+      "Animation",
+      "Background",
+      "Graphics"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.13",
+    "English": "Graphics",
+    "Sub_English": "Đồ hoạ",
+    "Example": "In IT, the term 'graphics' generally refers to images generated by a computer or similar tech device.",
+    "English_Vocabulary_Test": [
+      "Giao thức truyền tập tin",
+      "Siêu liên kết",
+      "Ngôn ngữ đánh dấu siêu văn bản"
+    ],
+    "Fill_Blank": "in it, the term '______' generally refers to images generated by a computer or similar tech device.",
+    "Mistake": [
+      "FTP (File Transfer Protocol)",
+      "Hyperlink",
+      "HTML (HyperText Markup Language)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.14",
+    "English": "Hyperlink",
+    "Sub_English": "Siêu liên kết",
+    "Example": "A hyperlink is a word, phrase, or image that you can click on to jump to a new document or a new section.",
+    "English_Vocabulary_Test": [
+      "Giao thức truyền tập tin",
+      "Ngôn ngữ đánh dấu siêu văn bản",
+      "Thanh điều hướng"
+    ],
+    "Fill_Blank": "a ______ is a word, phrase, or image that you can click on to jump to a new document or a new section.",
+    "Mistake": [
+      "FTP (File Transfer Protocol)",
+      "HTML (HyperText Markup Language)",
+      "HTTP (HyperText Transfer Protocol)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.15",
+    "English": "HTML (HyperText Markup Language)",
+    "Sub_English": "Ngôn ngữ đánh dấu siêu văn bản",
+    "Example": "HTML is the most widely used language on the Web to develop web pages.",
+    "English_Vocabulary_Test": [
+      "Chương trình thêm vào, phần hổ trợ",
+      "Công cụ tìm kiếm",
+      "Thẻ"
+    ],
+    "Fill_Blank": "html is the most widely used language on the web to develop web pages.",
+    "Mistake": [
+      "Plug-in",
+      "Search engine",
+      "Tag"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.16",
+    "English": "HTTP (HyperText Transfer Protocol)",
+    "Sub_English": "Giao thức truyền tải siêu văn bản",
+    "Example": "HTTP is the underlying protocol used by the World Wide Web.",
+    "English_Vocabulary_Test": [
+      "Chương trình thêm vào, phần hổ trợ",
+      "Công cụ tìm kiếm",
+      "Thanh điều hướng"
+    ],
+    "Fill_Blank": "http is the underlying protocol used by the world wide web.",
+    "Mistake": [
+      "Plug-in",
+      "Search engine",
+      "Navigation bar"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.17",
+    "English": "HTTPS (HyperText Transfer Protocol Secure)",
+    "Sub_English": "Giao thức truyền tải siêu văn bản bảo mật",
+    "Example": "HTTPS is used for secure communication over a computer network.",
+    "English_Vocabulary_Test": [
+      "Chương trình thêm vào, phần hổ trợ",
+      "Lưu lượng truy cập",
+      "Thành phần của trang web"
+    ],
+    "Fill_Blank": "https is used for secure communication over a computer network.",
+    "Mistake": [
+      "Plug-in",
+      "Web traffic",
+      "Webpage elements"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.18",
+    "English": "Navigation bar",
+    "Sub_English": "Thanh điều hướng",
+    "Example": "A navigation bar is a link to appropriate sections/pages in a website that helps readers in traversing the online document.",
+    "English_Vocabulary_Test": [
+      "Chương trình thêm vào, phần hổ trợ",
+      "Lưu lượng truy cập",
+      "Bố cục trang"
+    ],
+    "Fill_Blank": "a ______ is a link to appropriate sections/pages in a website that helps readers in traversing the online document.",
+    "Mistake": [
+      "Plug-in",
+      "Web traffic",
+      "Page layout"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.19",
+    "English": "Page layout",
+    "Sub_English": "Bố cục trang",
+    "Example": "Page layout is the part of graphic design that deals in the arrangement of visual elements on a page.",
+    "English_Vocabulary_Test": [
+      "Chương trình thêm vào, phần hổ trợ",
+      "Lưu lượng truy cập",
+      "Nội dung trang web"
+    ],
+    "Fill_Blank": "______ is the part of graphic design that deals in the arrangement of visual elements on a page.",
+    "Mistake": [
+      "Plug-in",
+      "Web traffic",
+      "Website content"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.20",
+    "English": "Plug-in",
+    "Sub_English": "Chương trình thêm vào, phần hổ trợ",
+    "Example": "In computing, a plug-in is a software component that adds a specific feature to an existing computer program.",
+    "English_Vocabulary_Test": [
+      "Công cụ tìm kiếm",
+      "Thẻ",
+      "Đường dẫn liên kết đến website"
+    ],
+    "Fill_Blank": "in computing, a ______ is a software component that adds a specific feature to an existing computer program.",
+    "Mistake": [
+      "Search engine",
+      "Tag",
+      "URL address (Uniform Resource Locator address)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.21",
+    "English": "Search engine",
+    "Sub_English": "Công cụ tìm kiếm",
+    "Example": "Google was not the first search engine on the Internet, but it has been the most successful one by far.",
+    "English_Vocabulary_Test": [
+      "Công cụ tìm kiếm",
+      "Thẻ",
+      "Trình duyệt web"
+    ],
+    "Fill_Blank": "google was not the first ______ on the internet, but it has been the most successful one by far.",
+    "Mistake": [
+      "Plug-in",
+      "Tag",
+      "Web browser"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.22",
+    "English": "Tag",
+    "Sub_English": "Thẻ",
+    "Example": "Tags are the basic formatting tool used in HTML and other markup languages, such as XML.",
+    "English_Vocabulary_Test": [
+      "Công cụ tìm kiếm",
+      "Trình duyệt web",
+      "Đường dẫn liên kết đến website"
+    ],
+    "Fill_Blank": "______s are the basic formatting tool used in HTML and other markup languages, such as XML.",
+    "Mistake": [
+      "Plug-in",
+      "Search engine",
+      "URL address (Uniform Resource Locator address)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.23",
+    "English": "URL address (Uniform Resource Locator address)",
+    "Sub_English": "Đường dẫn liên kết đến website",
+    "Example": "A URL address, also known as a website address, is the text visible in the address bar of a web browser (e.g. Chrome, Firefox, etc.).",
+    "English_Vocabulary_Test": [
+      "Công cụ tìm kiếm",
+      "Trình duyệt web",
+      "Máy chủ"
+    ],
+    "Fill_Blank": "a url address, also known as a website address, is the text visible in the address bar of a web browser (e.g. chrome, firefox, etc.).",
+    "Mistake": [
+      "Plug-in",
+      "Search engine",
+      "Web server"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.24",
+    "English": "Web browser",
+    "Sub_English": "Trình duyệt web",
+    "Example": "A web browser is a software application for accessing information on the World Wide Web.",
+    "English_Vocabulary_Test": [
+      "Thành phần của trang web",
+      "Phần mềm hỗ trợ lập trình web",
+      "Máy chủ"
+    ],
+    "Fill_Blank": "a ______ is a software application for accessing information on the world wide web.",
+    "Mistake": [
+      "Web traffic",
+      "Website content",
+      "Website specification"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.25",
+    "English": "Web editor",
+    "Sub_English": "Phần mềm hỗ trợ lập trình web",
+    "Example": "Web editor is software that is used to create and change Web pages.",
+    "English_Vocabulary_Test": [
+      "Lưu lượng truy cập",
+      "Nội dung trang web",
+      "Đặc tả yêu cầu trang web"
+    ],
+    "Fill_Blank": "______ is software that is used to create and change Web pages.",
+    "Mistake": [
+      "Webpage elements",
+      "Web server",
+      "URL address (Uniform Resource Locator address)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.26",
+    "English": "Web server",
+    "Sub_English": "Máy chủ",
+    "Example": "A web server stores and delivers the content for a website – such as text, images, video, etc – to clients that request it.",
+    "English_Vocabulary_Test": [
+      "Lưu lượng truy cập",
+      "Nội dung trang web",
+      "Đặc tả yêu cầu trang web"
+    ],
+    "Fill_Blank": "a ______ stores and delivers the content for a website – such as text, images, video, etc – to clients that request it.",
+    "Mistake": [
+      "Webpage elements",
+      "Web editor",
+      "URL address (Uniform Resource Locator address)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.27",
+    "English": "Web traffic",
+    "Sub_English": "Lưu lượng truy cập",
+    "Example": "Web traffic is the amount of data sent and received by visitors to a website.",
+    "English_Vocabulary_Test": [
+      "Thành phần của trang web",
+      "Phần mềm hỗ trợ lập trình web",
+      "Máy chủ"
+    ],
+    "Fill_Blank": "______ is the amount of data sent and received by visitors to a website.",
+    "Mistake": [
+      "URL address (Uniform Resource Locator address)",
+      "Website content",
+      "Website specification"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.28",
+    "English": "Webpage elements",
+    "Sub_English": "Thành phần của trang web",
+    "Example": "A number of different web page elements that can be found on every site are text, frames, CSS, graphics, hyperlinks, etc.",
+    "English_Vocabulary_Test": [
+      "Nội dung trang web",
+      "Đặc tả yêu cầu trang web",
+      "Mạng lưới toàn cầu"
+    ],
+    "Fill_Blank": "a number of different web page elements that can be found on every site are text, frames, css, graphics, hyperlinks, etc.",
+    "Mistake": [
+      "Web editor",
+      "Web server",
+      "Web traffic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.29",
+    "English": "Website content",
+    "Sub_English": "Nội dung trang web",
+    "Example": "Website content refers to all the information contained in a website.",
+    "English_Vocabulary_Test": [
+      "Đặc tả yêu cầu trang web",
+      "Mạng lưới toàn cầu",
+      "Hoạt hoạ, hoạt ảnh"
+    ],
+    "Fill_Blank": "______ refers to all the information contained in a website.",
+    "Mistake": [
+      "Web editor",
+      "Web server",
+      "Web traffic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.30",
+    "English": "Website specification",
+    "Sub_English": "Đặc tả yêu cầu trang web",
+    "Example": "A website specification is a document that articulates the project’s goals, objectives and tactics.",
+    "English_Vocabulary_Test": [
+      "Mạng lưới toàn cầu",
+      "Hoạt hoạ, hoạt ảnh",
+      "Nền"
+    ],
+    "Fill_Blank": "a ______ is a document that articulates the project’s goals, objectives and tactics.",
+    "Mistake": [
+      "Webpage elements",
+      "Web editor",
+      "Web traffic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.31",
+    "English": "WWW (World Wide Web)",
+    "Sub_English": "Mạng lưới toàn cầu",
+    "Example": "WWW is an information space where documents and other web resources are identified by Uniform Resource Locators.",
+    "English_Vocabulary_Test": [
+      "Hoạt hoạ, hoạt ảnh",
+      "Nền",
+      "Tập tin định kiểu theo tầng"
+    ],
+    "Fill_Blank": "www is an information space where documents and other web resources are identified by uniform resource locators.",
+    "Mistake": [
+      "Webpage elements",
+      "Web editor",
+      "Web traffic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.32",
+    "English": "Compatible (with)",
+    "Sub_English": "Tương thích",
+    "Example": "This copier is not compatible with my computer.",
+    "English_Vocabulary_Test": [
+      "Cập nhật",
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt"
+    ],
+    "Fill_Blank": "this copier is not compatible with my computer.",
+    "Mistake": [
+      "Interactive",
+      "Informative",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.33",
+    "English": "Easy-to-use",
+    "Sub_English": "Dễ sử dụng",
+    "Example": "Shopee.vn is an easy-to-use website which offers tools and information to make shopping smart and easy.",
+    "English_Vocabulary_Test": [
+      "Cập nhật",
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt"
+    ],
+    "Fill_Blank": "shopee.vn is an ______ website which offers tools and information to make shopping smart and easy.",
+    "Mistake": [
+      "Interactive",
+      "Informative",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.34",
+    "English": "Interactive",
+    "Sub_English": "Có tính tương tác",
+    "Example": "This website is interactive and can link to other relevant resources.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt",
+      "Tổ chức tốt"
+    ],
+    "Fill_Blank": "this website is ______ and can link to other relevant resources.",
+    "Mistake": [
+      "Compatible (with)",
+      "Informative",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.35",
+    "English": "Informative",
+    "Sub_English": "Nhiều thông tin",
+    "Example": "The main objective of the informative web page is to publicize its services and products.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt",
+      "Tổ chức tốt"
+    ],
+    "Fill_Blank": "the main objective of the ______ web page is to publicize its services and products.",
+    "Mistake": [
+      "Compatible (with)",
+      "Interactive",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.36",
+    "English": "Reliable",
+    "Sub_English": "Đáng tin cậy",
+    "Example": "Always look at the URL if you are not sure that the page is reliable.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt",
+      "Tổ chức tốt"
+    ],
+    "Fill_Blank": "always look at the url if you are not sure that the page is ______.",
+    "Mistake": [
+      "Compatible (with)",
+      "Interactive",
+      "Informative"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.37",
+    "English": "Up-to-date",
+    "Sub_English": "Cập nhật",
+    "Example": "You can visit the championship website for up-to-date information on the latest scores.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt",
+      "Tổ chức tốt"
+    ],
+    "Fill_Blank": "you can visit the championship website for ______ information on the latest scores.",
+    "Mistake": [
+      "Compatible (with)",
+      "Interactive",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.38",
+    "English": "User-friendly",
+    "Sub_English": "Thân thiện với người dùng",
+    "Example": "Windows is a very popular OS because it is user-friendly.",
+    "English_Vocabulary_Test": [
+      "Được thiết kế tốt",
+      "Tổ chức tốt",
+      "Tương thích"
+    ],
+    "Fill_Blank": "windows is a very popular os because it is ______.",
+    "Mistake": [
+      "Informative",
+      "Reliable",
+      "Up-to-date"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.39",
+    "English": "Well-designed",
+    "Sub_English": "Được thiết kế tốt",
+    "Example": "This page is very well-designed, contains lots of information and helps for job seekers.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Tổ chức tốt",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "this page is very ______, contains lots of information and helps for job seekers.",
+    "Mistake": [
+      "Informative",
+      "Up-to-date",
+      "Interactive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.3.40",
+    "English": "Well-organized",
+    "Sub_English": "Tổ chức tốt",
+    "Example": "This website is well-organized and updated on a regular basis.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Được thiết kế tốt",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "this website is ______ and updated on a regular basis.",
+    "Mistake": [
+      "Informative",
+      "Up-to-date",
+      "Interactive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.1",
+    "English": "Criteria",
+    "Sub_English": "Tiêu chuẩn",
+    "Example": "Criteria are standards or requirements by which you decide or deal with something.",
+    "English_Vocabulary_Test": [
+      "Mã hóa dữ liệu",
+      "Giải mã dữ liệu",
+      "Mã hóa dữ liệu"
+    ],
+    "Fill_Blank": "______ are standards or requirements by which you decide or deal with something.",
+    "Mistake": [
+      "Data collection",
+      "Data sorting",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.2",
+    "English": "Data coding",
+    "Sub_English": "Mã hóa dữ liệu",
+    "Example": "Data coding is a process of identifying a passage in the text or other data items (photograph, image), searching and identifying concepts and finding relations between them.",
+    "English_Vocabulary_Test": [
+      "Giải mã dữ liệu",
+      "Mã hóa dữ liệu",
+      "Thu thập dữ liệu"
+    ],
+    "Fill_Blank": "______ is a process of identifying a passage in the text or other data items (photograph, image), searching and identifying concepts and finding relations between them.",
+    "Mistake": [
+      "Data sorting",
+      "Data validation",
+      "Database administrator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.3",
+    "English": "Data collection",
+    "Sub_English": "Thu thập dữ liệu",
+    "Example": "Data collection is defined as the procedure of collecting, measuring, and analyzing accurate insights for research using standard validated techniques.",
+    "English_Vocabulary_Test": [
+      "Giải mã dữ liệu",
+      "Mã hóa dữ liệu",
+      "Mã hóa dữ liệu"
+    ],
+    "Fill_Blank": "______ is defined as the procedure of collecting, measuring, and analyzing accurate insights for research using standard validated techniques.",
+    "Mistake": [
+      "Data sorting",
+      "Data validation",
+      "Database administrator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.4",
+    "English": "Data decryption",
+    "Sub_English": "Giải mã dữ liệu",
+    "Example": "Data decryption is the process of transforming data that has been rendered unreadable through encryption back to its unencrypted form.",
+    "English_Vocabulary_Test": [
+      "Mã hóa dữ liệu",
+      "Mã hóa dữ liệu",
+      "Khai thác dữ liệu"
+    ],
+    "Fill_Blank": "______ is the process of transforming data that has been rendered unreadable through encryption back to its unencrypted form.",
+    "Mistake": [
+      "Data sorting",
+      "Data validation",
+      "Database administrator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.5",
+    "English": "Data encryption",
+    "Sub_English": "Mã hóa dữ liệu",
+    "Example": "Encryption is a practice of encoding data so that it is no longer in its original form and can't be read and is an important part of data security.",
+    "English_Vocabulary_Test": [
+      "Giải mã dữ liệu",
+      "Khai thác dữ liệu",
+      "Phân loại dữ liệu"
+    ],
+    "Fill_Blank": "______ is a practice of encoding data so that it is no longer in its original form and can't be read and is an important part of data security.",
+    "Mistake": [
+      "Data validation",
+      "Database administrator",
+      "Database vendor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.6",
+    "English": "Data entry",
+    "Sub_English": "Nhập dữ liệu",
+    "Example": "Data entry can be performed by an individual typing at a keyboard or by a machine entering data electronically.",
+    "English_Vocabulary_Test": [
+      "Khai thác dữ liệu",
+      "Phân loại dữ liệu",
+      "Lập bảng dữ liệu"
+    ],
+    "Fill_Blank": "______ can be performed by an individual typing at a keyboard or by a machine entering data electronically.",
+    "Mistake": [
+      "Data validation",
+      "Database administrator",
+      "Database vendor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.7",
+    "English": "Data mining",
+    "Sub_English": "Khai thác dữ liệu",
+    "Example": "Data mining is a process used by companies to turn raw data into useful information.",
+    "English_Vocabulary_Test": [
+      "Nhập dữ liệu",
+      "Phân loại dữ liệu",
+      "Lập bảng dữ liệu"
+    ],
+    "Fill_Blank": "______ is a process used by companies to turn raw data into useful information.",
+    "Mistake": [
+      "Data validation",
+      "Database administrator",
+      "Database vendor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.8",
+    "English": "Data security",
+    "Sub_English": "Bảo mật dữ liệu",
+    "Example": "Data security means protecting digital data, such as those in a database, from destructive forces and from the unwanted actions of unauthorized users.",
+    "English_Vocabulary_Test": [
+      "Lập bảng dữ liệu",
+      "Hợp lệ dữ liệu",
+      "Người quản trị dữ liệu"
+    ],
+    "Fill_Blank": "______ means protecting digital data, such as those in a database, from destructive forces and from the unwanted actions of unauthorized users.",
+    "Mistake": [
+      "Data entry",
+      "Data encryption",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.9",
+    "English": "Data sorting",
+    "Sub_English": "Phân loại dữ liệu",
+    "Example": "Data sorting is any process that involves arranging the data into some meaningful order to make it easier to understand, analyze, or visualize.",
+    "English_Vocabulary_Test": [
+      "Nhập dữ liệu",
+      "Khai thác dữ liệu",
+      "Hợp lệ dữ liệu"
+    ],
+    "Fill_Blank": "______ is any process that involves arranging the data into some meaningful order to make it easier to understand, analyze, or visualize.",
+    "Mistake": [
+      "Data tabulation",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.10",
+    "English": "Data tabulation",
+    "Sub_English": "Lập bảng dữ liệu",
+    "Example": "Data tabulation is the presentation of figures from an investigation in a table which consists of rows and columns of cells or spaces.",
+    "English_Vocabulary_Test": [
+      "Nhập dữ liệu",
+      "Khai thác dữ liệu",
+      "Hợp lệ dữ liệu"
+    ],
+    "Fill_Blank": "______ is the presentation of figures from an investigation in a table which consists of rows and columns of cells or spaces.",
+    "Mistake": [
+      "Data sorting",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.11",
+    "English": "Data validation",
+    "Sub_English": "Hợp lệ dữ liệu",
+    "Example": "You can use data validation to restrict the type of data or the values that users enter into a cell.",
+    "English_Vocabulary_Test": [
+      "Nhập dữ liệu",
+      "Khai thác dữ liệu",
+      "Phân loại dữ liệu"
+    ],
+    "Fill_Blank": "you can use ______ to restrict the type of data or the values that users enter into a cell.",
+    "Mistake": [
+      "Data tabulation",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.12",
+    "English": "Database administrator",
+    "Sub_English": "Người quản trị dữ liệu",
+    "Example": "A database administrator needs to use specialized software to store and organize data.",
+    "English_Vocabulary_Test": [
+      "Hệ quản trị CSDL",
+      "Nhà cung cấp cơ sở dữ liệu",
+      "Nhập dữ liệu"
+    ],
+    "Fill_Blank": "a ______ needs to use specialized software to store and organize data.",
+    "Mistake": [
+      "Data tabulation",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.13",
+    "English": "Database management system (DBMS)",
+    "Sub_English": "Hệ quản trị CSDL",
+    "Example": "A database management system (DBMS) is system software for creating and managing databases.",
+    "English_Vocabulary_Test": [
+      "Nhà cung cấp cơ sở dữ liệu",
+      "Công thức",
+      "Đồ thị, biểu đồ"
+    ],
+    "Fill_Blank": "a ______ is system software for creating and managing databases.",
+    "Mistake": [
+      "Data validation",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.14",
+    "English": "Database vendor",
+    "Sub_English": "Nhà cung cấp cơ sở dữ liệu",
+    "Example": "A database vendor is the company that does the setup, install and maintains the database.",
+    "English_Vocabulary_Test": [
+      "Công thức",
+      "Đồ thị, biểu đồ",
+      "Tính không nhất quán"
+    ],
+    "Fill_Blank": "a ______ is the company that does the setup, install and maintains the database.",
+    "Mistake": [
+      "Data validation",
+      "Data security",
+      "Data decryption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.15",
+    "English": "Formula",
+    "Sub_English": "Công thức",
+    "Example": "Presentation formula can come in handy sometimes, particularly if you just don’t know how to get started and proceed.",
+    "English_Vocabulary_Test": [
+      "Đồ thị, biểu đồ",
+      "Tính không nhất quán",
+      "Chỉ số"
+    ],
+    "Fill_Blank": "presentation ______ can come in handy sometimes, particularly if you just don’t know how to get started and proceed.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.16",
+    "English": "Graph",
+    "Sub_English": "(n) Đồ thị, biểu đồ",
+    "Example": "A graph is a planned drawing, consisting of lines, curves or rectangles, etc., to show the relationship between numbers.",
+    "English_Vocabulary_Test": [
+      "Tính không nhất quán",
+      "Chỉ số",
+      "Truy vấn"
+    ],
+    "Fill_Blank": "a ______ is a planned drawing, consisting of lines, curves or rectangles, etc., to show the relationship between numbers.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.17",
+    "English": "Inconsistency",
+    "Sub_English": "Tính không nhất quán",
+    "Example": "Data inconsistency is a condition that occurs between files when similar data is kept in different formats in two different files or when matching of data must be done between files.",
+    "English_Vocabulary_Test": [
+      "Chỉ số",
+      "Truy vấn",
+      "Dữ liệu thô"
+    ],
+    "Fill_Blank": "data ______ is a condition that occurs between files when similar data is kept in different formats in two different files or when matching of data must be done between files.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.18",
+    "English": "Index",
+    "Sub_English": "(n) Chỉ số",
+    "Example": "The primary index is created automatically when the table is created in the database.",
+    "English_Vocabulary_Test": [
+      "Truy vấn",
+      "Dữ liệu thô",
+      "Bản ghi dữ liệu"
+    ],
+    "Fill_Blank": "the primary ______ is created automatically when the table is created in the database.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.19",
+    "English": "Query",
+    "Sub_English": "Truy vấn",
+    "Example": "A query is a request for information from a database.",
+    "English_Vocabulary_Test": [
+      "Dữ liệu thô",
+      "Bản ghi dữ liệu",
+      "Hệ quản trị CSDL có cấu trúc"
+    ],
+    "Fill_Blank": "a ______ is a request for information from a database.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.20",
+    "English": "Raw data",
+    "Sub_English": "Dữ liệu thô",
+    "Example": "Raw data, also known as primary data, is data collected from a source.",
+    "English_Vocabulary_Test": [
+      "Bản ghi dữ liệu",
+      "Hệ quản trị CSDL có cấu trúc",
+      "Cơ sở dữ liệu tạm thời"
+    ],
+    "Fill_Blank": "______, also known as primary data, is data collected from a source.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.21",
+    "English": "Record",
+    "Sub_English": "Bản ghi dữ liệu",
+    "Example": "Records are composed of fields, each of which contains one item of information.",
+    "English_Vocabulary_Test": [
+      "Hệ quản trị CSDL có cấu trúc",
+      "Cơ sở dữ liệu tạm thời",
+      "Hệ quản trị CSDL phi cấu trúc"
+    ],
+    "Fill_Blank": "______s are composed of fields, each of which contains one item of information.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.22",
+    "English": "Structured database management system",
+    "Sub_English": "Hệ quản trị CSDL có cấu trúc",
+    "Example": "Structured database management systems have become increasingly important as they enable applications to communicate with one another with ease and without loss of information.",
+    "English_Vocabulary_Test": [
+      "Cơ sở dữ liệu tạm thời",
+      "Hệ quản trị CSDL phi cấu trúc",
+      "Bảng tính"
+    ],
+    "Fill_Blank": "______s have become increasingly important as they enable applications to communicate with one another with ease and without loss of information.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.23",
+    "English": "Temporal database",
+    "Sub_English": "Cơ sở dữ liệu tạm thời",
+    "Example": "A temporal database is a database that has certain features that support time-sensitive status for entries.",
+    "English_Vocabulary_Test": [
+      "Hệ quản trị CSDL phi cấu trúc",
+      "Bảng tính",
+      "Trường dữ liệu"
+    ],
+    "Fill_Blank": "a ______ is a database that has certain features that support time-sensitive status for entries.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.24",
+    "English": "Unstructured database management system",
+    "Sub_English": "Hệ quản trị CSDL phi cấu trúc",
+    "Example": "Unstructured data, in contrast, refers to data that doesn’t fit neatly into the traditional row and column structure of relational databases.",
+    "English_Vocabulary_Test": [
+      "Bảng tính",
+      "Trường dữ liệu",
+      "Tiêu chuẩn"
+    ],
+    "Fill_Blank": "unstructured data, in contrast, refers to data that doesn’t fit neatly into the traditional row and column structure of relational databases.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.25",
+    "English": "Worksheet",
+    "Sub_English": "Bảng tính",
+    "Example": "A worksheet, in the word's original meaning, is a sheet of paper on which one performs work.",
+    "English_Vocabulary_Test": [
+      "Trường dữ liệu",
+      "Tiêu chuẩn",
+      "Mã hóa dữ liệu"
+    ],
+    "Fill_Blank": "a ______, in the word's original meaning, is a sheet of paper on which one performs work.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.26",
+    "English": "Field",
+    "Sub_English": "Trường dữ liệu",
+    "Example": "Each record consists of several fields; the fields of all records form the columns.",
+    "English_Vocabulary_Test": [
+      "Tiêu chuẩn",
+      "Mã hóa dữ liệu",
+      "Thu thập dữ liệu"
+    ],
+    "Fill_Blank": "each record consists of several ______s; the ______s of all records form the columns.",
+    "Mistake": [
+      "Database vendor",
+      "Database management system (DBMS)",
+      "Data validation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.27",
+    "English": "Analyze",
+    "Sub_English": "Phân tích",
+    "Example": "Analyzing data is an important step to gain the final result.",
+    "English_Vocabulary_Test": [
+      "Giải mã",
+      "Loại bỏ",
+      "Mã hóa"
+    ],
+    "Fill_Blank": "analyzing data is an important step to gain the final result.",
+    "Mistake": [
+      "Gather",
+      "Refine",
+      "Scrap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.28",
+    "English": "Decrypt",
+    "Sub_English": "Giải mã",
+    "Example": "This is a very unique code decrypter tool which helps to decrypt data with different encryption algorithms.",
+    "English_Vocabulary_Test": [
+      "Loại bỏ",
+      "Mã hóa",
+      "Thu thập"
+    ],
+    "Fill_Blank": "this is a very unique code ______er tool which helps to ______ data with different encryption algorithms.",
+    "Mistake": [
+      "Analyze",
+      "Refine",
+      "Scrap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.29",
+    "English": "Discard",
+    "Sub_English": "Loại bỏ",
+    "Example": "I asked him to discard all files in the volume when the volume is deleted.",
+    "English_Vocabulary_Test": [
+      "Mã hóa",
+      "Thu thập",
+      "Lọc"
+    ],
+    "Fill_Blank": "i asked him to ______ all files in the volume when the volume is deleted.",
+    "Mistake": [
+      "Analyze",
+      "Decrypt",
+      "Scrap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.30",
+    "English": "Encrypt",
+    "Sub_English": "Mã hóa",
+    "Example": "The users are required to encrypt their private information to prevent unauthorized access.",
+    "English_Vocabulary_Test": [
+      "Thu thập",
+      "Lọc",
+      "Phân loại"
+    ],
+    "Fill_Blank": "the users are required to ______ their private information to prevent unauthorized access.",
+    "Mistake": [
+      "Analyze",
+      "Decrypt",
+      "Scrap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.31",
+    "English": "Gather",
+    "Sub_English": "Thu thập",
+    "Example": "Gathering data is the most important step in solving any supervised machine learning problem.",
+    "English_Vocabulary_Test": [
+      "Lọc",
+      "Loại bỏ",
+      "Tìm kiếm"
+    ],
+    "Fill_Blank": "______ing data is the most important step in solving any supervised machine learning problem.",
+    "Mistake": [
+      "Analyze",
+      "Decrypt",
+      "Sort"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.32",
+    "English": "Refine",
+    "Sub_English": "Lọc",
+    "Example": "Refining data consists of cleaning and shaping it.",
+    "English_Vocabulary_Test": [
+      "Loại bỏ",
+      "Tìm kiếm",
+      "Phân loại"
+    ],
+    "Fill_Blank": "refining data consists of cleaning and shaping it.",
+    "Mistake": [
+      "Analyze",
+      "Decrypt",
+      "Gather"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.33",
+    "English": "Scrap",
+    "Sub_English": "Loại bỏ",
+    "Example": "Data scraping is a technique in which a computer program extracts data from human-readable output coming from another program.",
+    "English_Vocabulary_Test": [
+      "Tìm kiếm",
+      "Phân loại",
+      "Hệ thống hóa"
+    ],
+    "Fill_Blank": "data ______ing is a technique in which a computer program extracts data from human-readable output coming from another program.",
+    "Mistake": [
+      "Analyze",
+      "Encrypt",
+      "Refine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.34",
+    "English": "Search",
+    "Sub_English": "Tìm kiếm",
+    "Example": "Google allows users to search any information they want.",
+    "English_Vocabulary_Test": [
+      "Phân loại",
+      "Hệ thống hóa",
+      "Phân tích"
+    ],
+    "Fill_Blank": "google allows users to ______ any information they want.",
+    "Mistake": [
+      "Encrypt",
+      "Refine",
+      "Scrap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.35",
+    "English": "Sort",
+    "Sub_English": "Phân loại",
+    "Example": "Sorting is the process of arranging data into meaningful order so that you can analyze it more effectively.",
+    "English_Vocabulary_Test": [
+      "Hệ thống hóa",
+      "Phân tích",
+      "Mã hóa"
+    ],
+    "Fill_Blank": "______ing is the process of arranging data into meaningful order so that you can analyze it more effectively.",
+    "Mistake": [
+      "Decrypt",
+      "Gather",
+      "Refine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.4.36",
+    "English": "Systemize",
+    "Sub_English": "Hệ thống hóa",
+    "Example": "Systemizing data and AI are considered as tools for prosperity and advancement.",
+    "English_Vocabulary_Test": [
+      "Loại bỏ",
+      "Tìm kiếm",
+      "Phân loại"
+    ],
+    "Fill_Blank": "systemizing data and ai are considered as tools for prosperity and advancement.",
+    "Mistake": [
+      "Analyze",
+      "Decrypt",
+      "Refine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.1",
+    "English": "Connection error",
+    "Sub_English": "Lỗi kết nối",
+    "Example": "When you have a connection error, you can’t connect to the internet.",
+    "English_Vocabulary_Test": [
+      "Phát hiện",
+      "Chẩn đoán",
+      "Chẩn đoán (nguyên nhân)"
+    ],
+    "Fill_Blank": "When you have a __________, you can’t connect to the internet.",
+    "Mistake": [
+      "Escalate",
+      "Escalation",
+      "Hang"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.2",
+    "English": "Detect",
+    "Sub_English": "Phát hiện",
+    "Example": "Errors in the received frames are detected by means of Parity Check and Cyclic Redundancy Check.",
+    "English_Vocabulary_Test": [
+      "Điều tra/kiểm tra",
+      "Chỉ ra, là dấu hiệu của",
+      "Sự chỉ ra, dấu hiệu"
+    ],
+    "Fill_Blank": "Errors in the received frames are __________ by means of Parity Check and Cyclic Redundancy Check.",
+    "Mistake": [
+      "Firewall",
+      "Malware",
+      "Phishing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.3",
+    "English": "Diagnose",
+    "Sub_English": "Chẩn đoán",
+    "Example": "IT support staffs in techniques investigate and diagnose the cause of the incident.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "IT support staffs in techniques __________ the cause of the incident.",
+    "Mistake": [
+      "Escalate",
+      "Escalation",
+      "Hang"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.4",
+    "English": "Diagnosis",
+    "Sub_English": "Chẩn đoán (nguyên nhân)",
+    "Example": "IT helpdesks tend to ask some more details about a problem before making a diagnosis.",
+    "English_Vocabulary_Test": [
+      "Yêu cầu hệ thống tối thiểu",
+      "Giải quyết",
+      "Phiếu hỗ trợ khách hàng"
+    ],
+    "Fill_Blank": "IT helpdesks tend to ask some more details about a problem before making a __________.",
+    "Mistake": [
+      "Data backup",
+      "Data breach",
+      "Malware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.5",
+    "English": "Error code",
+    "Sub_English": "Mã lỗi",
+    "Example": "You can search the error code on the internet to find out how to deal with the problem.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "You can search the __________ on the internet to find out how to deal with the problem.",
+    "Mistake": [
+      "Data backup",
+      "Data breach",
+      "Malware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.6",
+    "English": "Error message",
+    "Sub_English": "Thông báo lỗi",
+    "Example": "My application stops working and an error message is displayed.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "My application stops working and an __________ is displayed.",
+    "Mistake": [
+      "Data backup",
+      "Data breach",
+      "Malware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.7",
+    "English": "Escalate",
+    "Sub_English": "Chuyển lên (hỗ trợ cấp cao hơn)",
+    "Example": "I will escalate your issue to a site technician.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "I will __________ your issue to a site technician.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.8",
+    "English": "Escalation",
+    "Sub_English": "Sự chuyển lên (hỗ trợ cấp cao hơn)",
+    "Example": "In the swarming approach, there is no escalation to a higher support tier.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "In the swarming approach, there is no __________ to a higher support tier.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.9",
+    "English": "Hang",
+    "Sub_English": "Treo",
+    "Example": "My computer has been hanging for the past hour.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "My computer has been __________ for the past hour.",
+    "Mistake": [
+      "Escalate",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.10",
+    "English": "Incident report",
+    "Sub_English": "Báo cáo sự cố",
+    "Example": "Incident reporting is the process of documenting all workplace injuries, near misses and accidents.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "__________ is the process of documenting all workplace injuries, near misses and accidents.",
+    "Mistake": [
+      "Hang",
+      "Escalate",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.11",
+    "English": "Incident management",
+    "Sub_English": "Quán trị sự cố",
+    "Example": "Incident management is important for the IT system in every organization.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "__________ is important for the IT system in every organization.",
+    "Mistake": [
+      "Hang",
+      "Escalate",
+      "Incident report"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.12",
+    "English": "Investigate",
+    "Sub_English": "Điều tra/kiểm tra",
+    "Example": "The electrician should investigate tools before going to install.",
+    "English_Vocabulary_Test": [
+      "Chỉ ra, là dấu hiệu của",
+      "Sự chỉ ra, dấu hiệu",
+      "Sự điều tra"
+    ],
+    "Fill_Blank": "The electrician should __________ tools before going to install.",
+    "Mistake": [
+      "Firewall",
+      "Malware",
+      "Phishing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.13",
+    "English": "Indicate",
+    "Sub_English": "Chỉ ra, là dấu hiệu của",
+    "Example": "The BSOD might indicate an issue with an application.",
+    "English_Vocabulary_Test": [
+      "Điều tra/kiểm tra",
+      "Sự chỉ ra, dấu hiệu",
+      "Sự điều tra"
+    ],
+    "Fill_Blank": "The BSOD might __________ an issue with an application.",
+    "Mistake": [
+      "Firewall",
+      "Malware",
+      "Phishing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.14",
+    "English": "Indication",
+    "Sub_English": "Sự chỉ ra, dấu hiệu",
+    "Example": "Unusual noise might be an indication of overheating in the hard drive.",
+    "English_Vocabulary_Test": [
+      "Điều tra/kiểm tra",
+      "Chỉ ra, là dấu hiệu của",
+      "Sự điều tra"
+    ],
+    "Fill_Blank": "Unusual noise might be an __________ of overheating in the hard drive.",
+    "Mistake": [
+      "Firewall",
+      "Malware",
+      "Phishing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.15",
+    "English": "Investigation",
+    "Sub_English": "Sự điều tra",
+    "Example": "There will be a full investigation into the problem.",
+    "English_Vocabulary_Test": [
+      "Điều tra/kiểm tra",
+      "Chỉ ra, là dấu hiệu của",
+      "Sự chỉ ra, dấu hiệu"
+    ],
+    "Fill_Blank": "There will be a full __________ into the problem.",
+    "Mistake": [
+      "Firewall",
+      "Malware",
+      "Phishing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.16",
+    "English": "Logic error",
+    "Sub_English": "Lỗi logic",
+    "Example": "Logic errors are the most difficult to detect.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "__________ are the most difficult to detect.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.17",
+    "English": "Minimum system requirement",
+    "Sub_English": "Yêu cầu hệ thống tối thiểu",
+    "Example": "Your machine must meet the minimum system requirement of the program to install it.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "Your machine must meet the __________ of the program to install it.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.18",
+    "English": "Resolve",
+    "Sub_English": "Giải quyết",
+    "Example": "We’ll resolve the problem as soon as possible.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "We’ll __________ the problem as soon as possible.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.19",
+    "English": "Support ticket",
+    "Sub_English": "Phiếu hỗ trợ khách hàng",
+    "Example": "Please note down all relevant information about the incident on your support ticket.",
+    "English_Vocabulary_Test": [
+      "Lỗi cú pháp",
+      "Lỗi hệ thống",
+      "Sửa chữa, khắc phục sự cố"
+    ],
+    "Fill_Blank": "Please note down all relevant information about the incident on your __________.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.20",
+    "English": "Syntax error",
+    "Sub_English": "Lỗi cú pháp",
+    "Example": "Mistyping a code could result in a syntax error.",
+    "English_Vocabulary_Test": [
+      "Phát hiện",
+      "Chẩn đoán",
+      "Chẩn đoán (nguyên nhân)"
+    ],
+    "Fill_Blank": "Mistyping a code could result in a __________.",
+    "Mistake": [
+      "Hang",
+      "Incident report",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.21",
+    "English": "System error",
+    "Sub_English": "Lỗi hệ thống",
+    "Example": "When a system error has appeared, you might forget to check connection to a required peripheral device.",
+    "English_Vocabulary_Test": [
+      "Yêu cầu hệ thống tối thiểu",
+      "Giải quyết",
+      "Phiếu hỗ trợ khách hàng"
+    ],
+    "Fill_Blank": "When a __________ has appeared, you might forget to check connection to a required peripheral device.",
+    "Mistake": [
+      "Escalation",
+      "Hang",
+      "Incident report"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.22",
+    "English": "Tier",
+    "Sub_English": "Tầng (hỗ trợ)",
+    "Example": "I have escalated your issue to support tier 2.",
+    "English_Vocabulary_Test": [
+      "Sửa chữa, khắc phục sự cố",
+      "Lỗi kết nối",
+      "Sự chuyển lên (hỗ trợ cấp cao hơn)"
+    ],
+    "Fill_Blank": "I have escalated your issue to support __________ 2.",
+    "Mistake": [
+      "Diagnose",
+      "Indicate",
+      "Incident management"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.23",
+    "English": "Troubleshoot",
+    "Sub_English": "Sửa chữa, khắc phục sự cố",
+    "Example": "Troubleshooting is the process of identifying, planning, and resolving a problem, error, or fault within a software or computer system.",
+    "English_Vocabulary_Test": [
+      "Chỉ ra, là dấu hiệu của",
+      "Phiếu hỗ trợ khách hàng",
+      "Lỗi hệ thống"
+    ],
+    "Fill_Blank": "__________ is the process of identifying, planning, and resolving a problem, error, or fault within a software or computer system.",
+    "Mistake": [
+      "Diagnose",
+      "Incident report",
+      "Connection error"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.24",
+    "English": "Applications run slowly",
+    "Sub_English": "Ứng dụng chạy chậm",
+    "Example": "If your applications run slowly, it might be a memory issue.",
+    "English_Vocabulary_Test": [
+      "Applications won’t install",
+      "Máy tính đột ngột tự khởi động lại",
+      "Lỗi ổ cứng"
+    ],
+    "Fill_Blank": "If your applications run slowly, it might be a __________ issue.",
+    "Mistake": [
+      "Peripherals stop working",
+      "Unusual noise",
+      "Missing DLL files"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.25",
+    "English": "Applications won't install",
+    "Sub_English": "Ứng dụng không cài đặt được",
+    "Example": "If your computer doesn't meet the minimum system requirement of the program, applications won't install.",
+    "English_Vocabulary_Test": [
+      "Máy tính đột ngột tự khởi động lại",
+      "Lỗi ổ cứng",
+      "Thiếu tập tin hệ thống DLL"
+    ],
+    "Fill_Blank": "If your computer doesn't meet the minimum system requirement of the program, applications __________.",
+    "Mistake": [
+      "Peripherals stop working",
+      "Unusual noise",
+      "Applications run slowly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.26",
+    "English": "Computer suddenly restarts",
+    "Sub_English": "Máy tính đột ngột tự khởi động lại",
+    "Example": "My computer suddenly restarts while running an application.",
+    "English_Vocabulary_Test": [
+      "Lỗi ổ cứng",
+      "Thiếu tập tin hệ thống DLL",
+      "Thiết bị ngoại vi không hoạt động"
+    ],
+    "Fill_Blank": "My computer suddenly restarts while running an __________.",
+    "Mistake": [
+      "Unusual noise",
+      "Applications run slowly",
+      "Applications won't install"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.27",
+    "English": "Hard drive failure",
+    "Sub_English": "Lỗi ổ cứng",
+    "Example": "Hard drive failure is one of the most common computer problems.",
+    "English_Vocabulary_Test": [
+      "Thiếu tập tin hệ thống DLL",
+      "Thiết bị ngoại vi không hoạt động",
+      "Âm thanh lạ"
+    ],
+    "Fill_Blank": "__________ is one of the most common computer problems.",
+    "Mistake": [
+      "Applications won't install",
+      "Applications run slowly",
+      "Computer suddenly restarts"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.28",
+    "English": "Missing DLL files",
+    "Sub_English": "Thiếu tập tin hệ thống DLL",
+    "Example": "If your computer is missing DLL files, certain applications can't be installed.",
+    "English_Vocabulary_Test": [
+      "Thiết bị ngoại vi không hoạt động",
+      "Âm thanh lạ",
+      "Ứng dụng chạy chậm"
+    ],
+    "Fill_Blank": "If your computer is missing DLL files, certain applications can't be __________.",
+    "Mistake": [
+      "Hard drive failure",
+      "Computer suddenly restarts",
+      "Applications won't install"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.29",
+    "English": "Peripherals stop working",
+    "Sub_English": "Thiết bị ngoại vi không hoạt động",
+    "Example": "Software problem may cause your peripherals to stop working.",
+    "English_Vocabulary_Test": [
+      "Âm thanh lạ",
+      "Ứng dụng chạy chậm",
+      "Ứng dụng không cài đặt được"
+    ],
+    "Fill_Blank": "Software problem may cause your __________ to stop working.",
+    "Mistake": [
+      "Missing DLL files",
+      "Hard drive failure",
+      "Computer suddenly restarts"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.30",
+    "English": "Unusual noise",
+    "Sub_English": "Âm thanh lạ",
+    "Example": "Unusual noise coming from your computer might indicate a serious problem.",
+    "English_Vocabulary_Test": [
+      "Ứng dụng chạy chậm",
+      "Ứng dụng không cài đặt được",
+      "Máy tính đột ngột tự khởi động lại"
+    ],
+    "Fill_Blank": "__________ coming from your computer might indicate a serious problem.",
+    "Mistake": [
+      "Missing DLL files",
+      "Hard drive failure",
+      "Peripherals stop working"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.31",
+    "English": "Add more RAM sticks",
+    "Sub_English": "Bổ sung RAM",
+    "Example": "The technician advised me to add more RAM sticks before installing the new game.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra bộ nhớ",
+      "Mở trình quản lý tác vụ",
+      "Cài lại driver"
+    ],
+    "Fill_Blank": "The technician advised me to __________ before installing the new game.",
+    "Mistake": [
+      "Run diagnostic tools",
+      "Run system file checker",
+      "Shut down unnecessary processes"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.32",
+    "English": "Check memory",
+    "Sub_English": "Kiểm tra bộ nhớ",
+    "Example": "If you experience BSOD (Blue screen of death), you may check the memory to see if there is any issue with it.",
+    "English_Vocabulary_Test": [
+      "Mở trình quản lý tác vụ",
+      "Cài lại driver",
+      "Chạy công cụ chẩn đoán"
+    ],
+    "Fill_Blank": "If you experience BSOD, you may __________ to see if there is any issue with it.",
+    "Mistake": [
+      "Run system file checker",
+      "Shut down unnecessary processes",
+      "Add more RAM sticks"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.33",
+    "English": "Open task manager",
+    "Sub_English": "Mở trình quản lý tác vụ",
+    "Example": "Open your task manager if your screen is frozen.",
+    "English_Vocabulary_Test": [
+      "Cài lại driver",
+      "Chạy công cụ chẩn đoán",
+      "Chạy công cụ kiểm tra tập tin hệ thống"
+    ],
+    "Fill_Blank": "__________ if your screen is frozen.",
+    "Mistake": [
+      "Shut down unnecessary processes",
+      "Add more RAM sticks",
+      "Check memory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.34",
+    "English": "Reinstall drivers",
+    "Sub_English": "Cài lại driver",
+    "Example": "Reinstall printer driver if your printer doesn’t screen.",
+    "English_Vocabulary_Test": [
+      "Chạy công cụ chẩn đoán",
+      "Chạy công cụ kiểm tra tập tin hệ thống",
+      "Đóng bớt các quy trình không cần thiết"
+    ],
+    "Fill_Blank": "__________ if your printer doesn’t screen.",
+    "Mistake": [
+      "Check memory",
+      "Open task manager",
+      "Add more RAM sticks"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.35",
+    "English": "Run diagnostic tools",
+    "Sub_English": "Chạy công cụ chẩn đoán",
+    "Example": "I will now run a few diagnostic tools to find the problem with your computer.",
+    "English_Vocabulary_Test": [
+      "Chạy công cụ kiểm tra tập tin hệ thống",
+      "Đóng bớt các quy trình không cần thiết",
+      "Bổ sung RAM"
+    ],
+    "Fill_Blank": "I will now __________ to find the problem with your computer.",
+    "Mistake": [
+      "Check memory",
+      "Open task manager",
+      "Reinstall drivers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.36",
+    "English": "Run system file checker",
+    "Sub_English": "Chạy công cụ kiểm tra tập tin hệ thống",
+    "Example": "You can run system file checker to see what system files are missing.",
+    "English_Vocabulary_Test": [
+      "Đóng bớt các quy trình không cần thiết",
+      "Bổ sung RAM",
+      "Kiểm tra bộ nhớ"
+    ],
+    "Fill_Blank": "You can __________ to see what system files are missing.",
+    "Mistake": [
+      "Open task manager",
+      "Reinstall drivers",
+      "Run diagnostic tools"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.5.37",
+    "English": "Shut down unnecessary processes",
+    "Sub_English": "Đóng bớt các quy trình không cần thiết",
+    "Example": "You can try shutting down unnecessary processes if your applications are running slowly.",
+    "English_Vocabulary_Test": [
+      "Bổ sung RAM",
+      "Kiểm tra bộ nhớ",
+      "Mở trình quản lý tác vụ"
+    ],
+    "Fill_Blank": "You can try __________ if your applications are running slowly.",
+    "Mistake": [
+      "Reinstall drivers",
+      "Run diagnostic tools",
+      "Run system file checker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.1",
+    "English": "agenda",
+    "Sub_English": "lịch trình cuộc họp",
+    "Example": "According to the agenda, the meeting consists of three main sections: last year turnover announcement, this year sales target and marketing campaign plan.",
+    "English_Vocabulary_Test": [
+      "người tham dự",
+      "khán giả",
+      "đầu vào âm thanh"
+    ],
+    "Fill_Blank": "According to the __________, the meeting consists of three main sections.",
+    "Mistake": [
+      "Bandwidth",
+      "Body language",
+      "Brochure"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.2",
+    "English": "Attendee (n)",
+    "Sub_English": "người tham dự",
+    "Example": "The attendees of this annual Marketing conference include Marketing managers from various international companies.",
+    "English_Vocabulary_Test": [
+      "đầu vào âm thanh",
+      "Băng thông",
+      "Ngôn ngữ cơ thể"
+    ],
+    "Fill_Blank": "The __________ of this annual Marketing conference include Marketing managers from various international companies.",
+    "Mistake": [
+      "Brochure",
+      "Budget",
+      "Chat room"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.3",
+    "English": "Audience",
+    "Sub_English": "khán giả",
+    "Example": "One of the important presentation techniques is to make eye contact with the audience.",
+    "English_Vocabulary_Test": [
+      "Tập quảng cáo",
+      "ngân sách",
+      "phòng trò chuyện trực tuyến trên mạng"
+    ],
+    "Fill_Blank": "One of the important presentation techniques is to make eye contact with the __________.",
+    "Mistake": [
+      "Codec (coder and decoder)",
+      "Collaboration",
+      "Concept"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.4",
+    "English": "Audio input",
+    "Sub_English": "đầu vào âm thanh",
+    "Example": "I need an audio input to connect my mobile with the speaker system.",
+    "English_Vocabulary_Test": [
+      "bộ mã hóa và giải mã (chương trình/ thiết bị được dùng để mã hóa)",
+      "sự hợp tác/ cộng tác, kết hợp",
+      "khái niệm"
+    ],
+    "Fill_Blank": "I need an __________ to connect my mobile with the speaker system.",
+    "Mistake": [
+      "Dedicated system",
+      "Dedicated video conferencing system",
+      "Diagram (IT)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.5",
+    "English": "Bandwidth",
+    "Sub_English": "Băng thông",
+    "Example": "Bandwidth describes the maximum data transfer rate of a network or Internet connection.",
+    "English_Vocabulary_Test": [
+      "hệ thống chuyên dụng",
+      "Hệ thống hội thảo chuyên dụng",
+      "sơ đồ"
+    ],
+    "Fill_Blank": "__________ describes the maximum data transfer rate of a network or Internet connection.",
+    "Mistake": [
+      "Eye-contact",
+      "Handouts",
+      "High-definition monitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.6",
+    "English": "Body language",
+    "Sub_English": "Ngôn ngữ cơ thể",
+    "Example": "Presenters should use body languages and facial expressions while making presentations.",
+    "English_Vocabulary_Test": [
+      "cử chỉ ánh mắt",
+      "bài tập phô tô, bản phát tay",
+      "màn hình độ nét cao"
+    ],
+    "Fill_Blank": "Presenters should use __________ while making presentations.",
+    "Mistake": [
+      "Illustrative detail",
+      "Line of argument",
+      "Multipoint"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.7",
+    "English": "Brochure",
+    "Sub_English": "Tập quảng cáo",
+    "Example": "I'll leave a brochure of our new management software on your desk.",
+    "English_Vocabulary_Test": [
+      "chi tiết minh họa",
+      "dòng lập luận",
+      "đa điểm"
+    ],
+    "Fill_Blank": "I'll leave a __________ of our new management software on your desk.",
+    "Mistake": [
+      "Note card",
+      "Outline",
+      "Output service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.8",
+    "English": "Budget",
+    "Sub_English": "ngân sách",
+    "Example": "Budget is a plan of costs, revenues and resources over a specified period.",
+    "English_Vocabulary_Test": [
+      "thẻ ghi chú",
+      "Phác thảo",
+      "dịch vụ đầu ra"
+    ],
+    "Fill_Blank": "__________ is a plan of costs, revenues and resources over a specified period.",
+    "Mistake": [
+      "Project",
+      "Section",
+      "Signpost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.9",
+    "English": "Chat room",
+    "Sub_English": "phòng trò chuyện trực tuyến trên mạng",
+    "Example": "A chat room is an area on the Internet where people can communicate with each other, usually about one particular topic.",
+    "English_Vocabulary_Test": [
+      "Phóng to, tăng (giọng nói)",
+      "phần",
+      "dấu hiệu, chỉ dẫn"
+    ],
+    "Fill_Blank": "A __________ is an area on the Internet where people can communicate with each other, usually about one particular topic.",
+    "Mistake": [
+      "Video conference/ Videoconferencing",
+      "Video conference systems",
+      "Video input"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.10",
+    "English": "Codec (coder and decoder)",
+    "Sub_English": "bộ mã hóa và giải mã (chương trinh/ thiết bị được dùng để mã hóa)",
+    "Example": "A device or program that compresses data to enable faster transmission and decompresses received data is called codec.",
+    "English_Vocabulary_Test": [
+      "Hội nghị truyền hình",
+      "hệ thống hội nghị truyền hình",
+      "đầu vào video"
+    ],
+    "Fill_Blank": "A device or program that compresses data to enable faster transmission and decompresses received data is called __________.",
+    "Mistake": [
+      "Visual aid",
+      "Line of argument",
+      "Multipoint control unit (MCU)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.11",
+    "English": "Collaboration",
+    "Sub_English": "sự hợp tác/ cộng tác, kết hợp",
+    "Example": "The project is designed to foster collaboration between our university and FPT software Company.",
+    "English_Vocabulary_Test": [
+      "giáo cụ trực quan, dụng cụ trực quan",
+      "dòng lập luận",
+      "Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối các điểm đầu, cuối và thiết lập cuộc gọi)"
+    ],
+    "Fill_Blank": "The project is designed to foster __________ between our university and FPT software Company.",
+    "Mistake": [
+      "Note card",
+      "Outline",
+      "Output service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.12",
+    "English": "Concept",
+    "Sub_English": "khái niệm",
+    "Example": "You should try to come up with a new business concept that will help you to figure out ways to grow your company.",
+    "English_Vocabulary_Test": [
+      "thẻ ghi chú",
+      "Phác thảo",
+      "dịch vụ đầu ra"
+    ],
+    "Fill_Blank": "You should try to come up with a new business __________ that will help you to figure out ways to grow your company.",
+    "Mistake": [
+      "Dedicated system",
+      "Dedicated video conferencing system",
+      "Diagram (IT)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.13",
+    "English": "Dedicated system",
+    "Sub_English": "hệ thống chuyên dụng",
+    "Example": "Our company has a dedicated system for video conferences.",
+    "English_Vocabulary_Test": [
+      "Hệ thống hội thảo chuyên dụng",
+      "sơ đồ",
+      "Cách/ Quá trình loại bỏ tiếng vọng"
+    ],
+    "Fill_Blank": "Our company has a __________ for video conferences.",
+    "Mistake": [
+      "Eye-contact",
+      "Handouts",
+      "High-definition monitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.14",
+    "English": "Dedicated video conferencing system",
+    "Sub_English": "Hệ thống hội thảo chuyên dụng",
+    "Example": "Our company has an excellent dedicated video conferencing system.",
+    "English_Vocabulary_Test": [
+      "Cách/ Quá trình loại bỏ tiếng vọng",
+      "cử chỉ ánh mắt",
+      "bài tập phô tô, bản phát tay"
+    ],
+    "Fill_Blank": "Our company has an excellent __________.",
+    "Mistake": [
+      "Illustrative detail",
+      "Line of argument",
+      "Multipoint"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.15",
+    "English": "Diagram (IT)",
+    "Sub_English": "sơ đồ",
+    "Example": "The presenter shows the audience a diagram for writing a program.",
+    "English_Vocabulary_Test": [
+      "Cách/ Quá trình loại bỏ tiếng vọng",
+      "cử chỉ ánh mắt",
+      "bài tập phô tô, bản phát tay"
+    ],
+    "Fill_Blank": "The presenter shows the audience a __________ for writing a program.",
+    "Mistake": [
+      "Section",
+      "Signpost",
+      "Video conference/ Videoconferencing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.16",
+    "English": "Echo cancellation",
+    "Sub_English": "Cách/ Quá trình loại bỏ tiếng vọng",
+    "Example": "Echo cancellation aims to remove the echo that is heard when talking on the phone.",
+    "English_Vocabulary_Test": [
+      "phần",
+      "dấu hiệu, chỉ dẫn",
+      "Hội nghị truyền hình"
+    ],
+    "Fill_Blank": "__________ aims to remove the echo that is heard when talking on the phone.",
+    "Mistake": [
+      "Note card",
+      "Outline",
+      "Output service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.17",
+    "English": "Eye-contact",
+    "Sub_English": "cử chỉ ánh mắt",
+    "Example": "Eye-contact is important in communication.",
+    "English_Vocabulary_Test": [
+      "thẻ ghi chú",
+      "Phác thảo",
+      "dịch vụ đầu ra"
+    ],
+    "Fill_Blank": "__________ is important in communication.",
+    "Mistake": [
+      "Video bridge",
+      "Visual aid",
+      "Line of argument"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.18",
+    "English": "Handouts",
+    "Sub_English": "bài tập phô tô, bản phát tay",
+    "Example": "We often get handouts from the teacher after her instructions.",
+    "English_Vocabulary_Test": [
+      "cầu truyền hình",
+      "giáo cụ trực quan, dụng cụ trực quan",
+      "dòng lập luận"
+    ],
+    "Fill_Blank": "We often get __________ from the teacher after her instructions.",
+    "Mistake": [
+      "Unusual noise",
+      "Outline",
+      "Output service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.19",
+    "English": "High-definition monitor",
+    "Sub_English": "màn hình độ nét cao",
+    "Example": "A high-definition monitor is good for the video conference.",
+    "English_Vocabulary_Test": [
+      "Unusual noise",
+      "Phác thảo",
+      "dịch vụ đầu ra"
+    ],
+    "Fill_Blank": "A __________ is good for the video conference.",
+    "Mistake": [
+      "Line of argument",
+      "Multipoint control unit (MCU)",
+      "Note card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.20",
+    "English": "Illustrative detail",
+    "Sub_English": "chi tiết minh họa",
+    "Example": "We are wondering how to get illustrative details of the new software.",
+    "English_Vocabulary_Test": [
+      "dòng lập luận",
+      "Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối các điểm đầu, cuối và thiết lập cuộc gọi)",
+      "thẻ ghi chú"
+    ],
+    "Fill_Blank": "We are wondering how to get __________ of the new software.",
+    "Mistake": [
+      "Output service",
+      "Project",
+      "Section"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.21",
+    "English": "Line of argument",
+    "Sub_English": "dòng lập luận",
+    "Example": "The secretary has taken notes of lines of arguments.",
+    "English_Vocabulary_Test": [
+      "dịch vụ đầu ra",
+      "Phóng to, tăng (giọng nói)",
+      "phần"
+    ],
+    "Fill_Blank": "The secretary has taken notes of __________.",
+    "Mistake": [
+      "Multipoint",
+      "Multipoint control unit (MCU)",
+      "Note card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.22",
+    "English": "Multipoint",
+    "Sub_English": "đa điểm",
+    "Example": "The world wide web has multipoint connections.",
+    "English_Vocabulary_Test": [
+      "Hội nghị truyền hình",
+      "hệ thống hội nghị truyền hình",
+      "đầu vào video"
+    ],
+    "Fill_Blank": "The world wide web has __________ connections.",
+    "Mistake": [
+      "Outline",
+      "Signpost",
+      "Video bridge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.23",
+    "English": "Multipoint control unit (MCU)",
+    "Sub_English": "Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối các điểm đầu, cuối và thiết lập cuộc gọi)",
+    "Example": "A multipoint control unit (MCU) is a device commonly used to bridge videoconferencing connections.",
+    "English_Vocabulary_Test": [
+      "Phác thảo",
+      "dấu hiệu, chỉ dẫn",
+      "cầu truyền hình"
+    ],
+    "Fill_Blank": "A __________ is a device commonly used to bridge videoconferencing connections.",
+    "Mistake": [
+      "Visual aid",
+      "Diagram (IT)",
+      "Echo cancellation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.24",
+    "English": "Note card",
+    "Sub_English": "thẻ ghi chú",
+    "Example": "When giving presentations, I often use note cards.",
+    "English_Vocabulary_Test": [
+      "giáo cụ trực quan, dụng cụ trực quan",
+      "sơ đồ",
+      "Cách/ Quá trình loại bỏ tiếng vọng"
+    ],
+    "Fill_Blank": "When giving presentations, I often use __________.",
+    "Mistake": [
+      "Handouts",
+      "High-definition monitor",
+      "Illustrative detail"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.25",
+    "English": "Outline",
+    "Sub_English": "bản phác thảo, dàn ý",
+    "Example": "It is necessary to write an outline before the important meetings such as AGM.",
+    "English_Vocabulary_Test": [
+      "bài tập phô tô, bản phát tay",
+      "màn hình độ nét cao",
+      "chi tiết minh họa"
+    ],
+    "Fill_Blank": "It is necessary to write an __________ before the important meetings such as AGM.",
+    "Mistake": [
+      "Output service",
+      "Project",
+      "Section"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.26",
+    "English": "Output service",
+    "Sub_English": "dịch vụ đầu ra",
+    "Example": "They have prepared a good output service system.",
+    "English_Vocabulary_Test": [
+      "Phóng to, tăng (giọng nói)",
+      "phần",
+      "dấu hiệu, chỉ dẫn"
+    ],
+    "Fill_Blank": "They have prepared a good __________ system.",
+    "Mistake": [
+      "Video conference/ Videoconferencing",
+      "Video conference systems",
+      "Video input"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.27",
+    "English": "Project",
+    "Sub_English": "Dự án",
+    "Example": "We are conducting an important project about applying information technology in teaching English.",
+    "English_Vocabulary_Test": [
+      "Hội nghị truyền hình",
+      "hệ thống hội nghị truyền hình",
+      "đầu vào video"
+    ],
+    "Fill_Blank": "We are conducting an important __________ about applying information technology in teaching English.",
+    "Mistake": [
+      "Visual aid",
+      "Line of argument",
+      "Multipoint control unit (MCU)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.28",
+    "English": "Section",
+    "Sub_English": "phần",
+    "Example": "My presentation will be divided into three main sections: general information, figures and future plans.",
+    "English_Vocabulary_Test": [
+      "giáo cụ trực quan, dụng cụ trực quan",
+      "dòng lập luận",
+      "Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối các điểm đầu, cuối và thiết lập cuộc gọi)"
+    ],
+    "Fill_Blank": "My presentation will be divided into three main __________: general information, figures and future plans.",
+    "Mistake": [
+      "Note card",
+      "Outline",
+      "Output service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.29",
+    "English": "Signpost",
+    "Sub_English": "dấu hiệu, chỉ dẫn",
+    "Example": "Clear signposts at the beginning of each section will help the audience follow your ideas easily.",
+    "English_Vocabulary_Test": [
+      "thẻ ghi chú",
+      "Phác thảo",
+      "dịch vụ đầu ra"
+    ],
+    "Fill_Blank": "Clear __________ at the beginning of each section will help the audience follow your ideas easily.",
+    "Mistake": [
+      "Unusual noise",
+      "High-definition monitor",
+      "Illustrative detail"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.30",
+    "English": "Video conference/ Videoconferencing",
+    "Sub_English": "Hội nghị truyền hình",
+    "Example": "I am responsible for setting up a video conference next week.",
+    "English_Vocabulary_Test": [
+      "Unusual noise",
+      "màn hình độ nét cao",
+      "chi tiết minh họa"
+    ],
+    "Fill_Blank": "I am responsible for setting up a __________ next week.",
+    "Mistake": [
+      "Line of argument",
+      "Multipoint control unit (MCU)",
+      "Note card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.31",
+    "English": "Video conference systems",
+    "Sub_English": "hệ thống hội nghị truyền hình",
+    "Example": "The company has good video conferencing systems.",
+    "English_Vocabulary_Test": [
+      "dòng lập luận",
+      "Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối các điểm đầu, cuối và thiết lập cuộc gọi)",
+      "thẻ ghi chú"
+    ],
+    "Fill_Blank": "The company has good __________.",
+    "Mistake": [
+      "Output service",
+      "Project",
+      "Section"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.32",
+    "English": "Video input",
+    "Sub_English": "đầu vào video",
+    "Example": "We need the best quality of the video input.",
+    "English_Vocabulary_Test": [
+      "dịch vụ đầu ra",
+      "Phóng to, tăng (giọng nói)",
+      "phần"
+    ],
+    "Fill_Blank": "We need the best quality of the __________.",
+    "Mistake": [
+      "Visual aid",
+      "Diagram (IT)",
+      "Echo cancellation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.33",
+    "English": "Video bridge",
+    "Sub_English": "cầu truyền hình",
+    "Example": "A video bridge is a communication setup used in video conferencing to connect and collaborate multiple locations or points into a common conference.",
+    "English_Vocabulary_Test": [
+      "giáo cụ trực quan, dụng cụ trực quan",
+      "sơ đồ",
+      "Cách/ Quá trình loại bỏ tiếng vọng"
+    ],
+    "Fill_Blank": "A __________ is a communication setup used in video conferencing to connect and collaborate multiple locations or points into a common conference.",
+    "Mistake": [
+      "Outline",
+      "Signpost",
+      "Multipoint"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.34",
+    "English": "Visual aid",
+    "Sub_English": "giáo cụ trực quan, dụng cụ trực quan",
+    "Example": "Using visual aids to learn English is really interesting.",
+    "English_Vocabulary_Test": [
+      "Phác thảo",
+      "dấu hiệu, chỉ dẫn",
+      "đa điểm"
+    ],
+    "Fill_Blank": "Using __________ to learn English is really interesting.",
+    "Mistake": [
+      "Unusual noise",
+      "High-definition monitor",
+      "Illustrative detail"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.35",
+    "English": "Review",
+    "Sub_English": "xem xét, đánh giá",
+    "Example": "This paper will review the results and discuss what can be achieved with this latest application software.",
+    "English_Vocabulary_Test": [
+      "Tóm tắt",
+      "Biểu thị",
+      "Phác thảo"
+    ],
+    "Fill_Blank": "This paper will __________ the results and discuss what can be achieved with this latest application software.",
+    "Mistake": [
+      "Illustrate",
+      "Focus",
+      "Stay comfortable and relaxed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.36",
+    "English": "Summarize",
+    "Sub_English": "Tóm tắt",
+    "Example": "Here we have summarized the main points of the investigation.",
+    "English_Vocabulary_Test": [
+      "Minh họa",
+      "Tập trung (vào việc gì đó), (n) trọng tâm",
+      "thoải mái và thư giãn"
+    ],
+    "Fill_Blank": "Here we have __________ the main points of the investigation.",
+    "Mistake": [
+      "Review",
+      "Demonstrate",
+      "Project"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.37",
+    "English": "Demonstrate",
+    "Sub_English": "Biểu thị",
+    "Example": "The pictures in the manual demonstrate how the machine works.",
+    "English_Vocabulary_Test": [
+      "xem xét, đánh giá",
+      "Phác thảo",
+      "Minh họa"
+    ],
+    "Fill_Blank": "The pictures in the manual __________ how the machine works.",
+    "Mistake": [
+      "Summarize",
+      "Focus",
+      "Stay comfortable and relaxed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.38",
+    "English": "Outline",
+    "Sub_English": "Phác thảo",
+    "Example": "Senior figures from the energy industry will hold a public meeting to outline plans for building a $300m plant.",
+    "English_Vocabulary_Test": [
+      "Tóm tắt",
+      "Tập trung (vào việc gì đó), (n) trọng tâm",
+      "thoải mái và thư giãn"
+    ],
+    "Fill_Blank": "Senior figures from the energy industry will hold a public meeting to __________ plans for building a $300m plant.",
+    "Mistake": [
+      "Review",
+      "Demonstrate",
+      "Project"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.39",
+    "English": "Illustrate",
+    "Sub_English": "Minh họa",
+    "Example": "Here's an example to illustrate the revenue of Samsung company in 2015.",
+    "English_Vocabulary_Test": [
+      "xem xét, đánh giá",
+      "Biểu thị",
+      "Phóng to, tăng (giọng nói)"
+    ],
+    "Fill_Blank": "Here's an example to __________ the revenue of Samsung company in 2015.",
+    "Mistake": [
+      "Summarize",
+      "Outline",
+      "Stay comfortable and relaxed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.40",
+    "English": "Focus",
+    "Sub_English": "Tập trung (vào việc gì đó), (n) trọng tâm",
+    "Example": "Today, we are going to focus on how to advertise our latest brand.",
+    "English_Vocabulary_Test": [
+      "Tóm tắt",
+      "Phác thảo",
+      "thoải mái và thư giãn"
+    ],
+    "Fill_Blank": "Today, we are going to __________ on how to advertise our latest brand.",
+    "Mistake": [
+      "Review",
+      "Demonstrate",
+      "Illustrate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.41",
+    "English": "Stay comfortable and relaxed",
+    "Sub_English": "thoải mái và thư giãn",
+    "Example": "When giving a presentation, you should stay comfortable and relaxed.",
+    "English_Vocabulary_Test": [
+      "xem xét, đánh giá",
+      "Biểu thị",
+      "Phóng to, tăng (giọng nói)"
+    ],
+    "Fill_Blank": "When giving a presentation, you should __________.",
+    "Mistake": [
+      "Summarize",
+      "Outline",
+      "Focus"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.42",
+    "English": "Project",
+    "Sub_English": "Phóng to, tăng (giọng nói)",
+    "Example": "Remember to project your voice so that your audience can hear your clearly.",
+    "English_Vocabulary_Test": [
+      "xem xét, đánh giá",
+      "Phác thảo",
+      "Minh họa"
+    ],
+    "Fill_Blank": "Remember to __________ your voice so that your audience can hear your clearly.",
+    "Mistake": [
+      "Summarize",
+      "Demonstrate",
+      "Stay comfortable and relaxed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.43",
+    "English": "Affordable",
+    "Sub_English": "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+    "Example": "Many households own desktops nowadays because they have become more affordable.",
+    "English_Vocabulary_Test": [
+      "Mượt, trôi chảy",
+      "vượt trội, tốt hơn (về chất lượng)",
+      "(adj) rất hiệu quả, có nhiều tính năng vượt trội"
+    ],
+    "Fill_Blank": "Many households own desktops nowadays because they have become more __________.",
+    "Mistake": [
+      "Glad",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.44",
+    "English": "Smooth",
+    "Sub_English": "Mượt, trôi chảy",
+    "Example": "The Toughbook 33's 12-inch QHD touchscreen has sharp image detail, lots of room to work, and smooth text.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "vượt trội, tốt hơn (về chất lượng)",
+      "(adj) rất hiệu quả, có nhiều tính năng vượt trội"
+    ],
+    "Fill_Blank": "The Toughbook 33's 12-inch QHD touchscreen has sharp image detail, lots of room to work, and __________ text.",
+    "Mistake": [
+      "Glad",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.45",
+    "English": "Superior",
+    "Sub_English": "vượt trội, tốt hơn (về chất lượng)",
+    "Example": "This model is technically superior to its competitors.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "(adj) rất hiệu quả, có nhiều tính năng vượt trội"
+    ],
+    "Fill_Blank": "This model is technically __________ to its competitors.",
+    "Mistake": [
+      "Glad",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.46",
+    "English": "Powerful",
+    "Sub_English": "(adj) rất hiệu quả, có nhiều tính năng vượt trội",
+    "Example": "The processor of Apple Watch Series 2 has dual cores and a GPU that’s twice as powerful as the Series 1’s chip.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "vượt trội, tốt hơn (về chất lượng)"
+    ],
+    "Fill_Blank": "The processor of Apple Watch Series 2 has dual cores and a GPU that’s twice as __________ as the Series 1’s chip.",
+    "Mistake": [
+      "Glad",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.47",
+    "English": "Glad",
+    "Sub_English": "vui vẻ",
+    "Example": "She is very glad to present some basic steps in designing a website.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "vượt trội, tốt hơn (về chất lượng)"
+    ],
+    "Fill_Blank": "She is very __________ to present some basic steps in designing a website.",
+    "Mistake": [
+      "Powerful",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.48",
+    "English": "Productive",
+    "Sub_English": "năng suất",
+    "Example": "We are trying to maximize the machine's productive capacity.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "Đỉnh"
+    ],
+    "Fill_Blank": "We are trying to maximize the machine's __________ capacity.",
+    "Mistake": [
+      "Powerful",
+      "Glad",
+      "Superior"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.49",
+    "English": "Top-notch",
+    "Sub_English": "hàng đầu, đỉnh",
+    "Example": "Our new operating system is still top-notch.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "vượt trội, tốt hơn (về chất lượng)"
+    ],
+    "Fill_Blank": "Our new operating system is still __________.",
+    "Mistake": [
+      "Powerful",
+      "Productive",
+      "Glad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.6.50",
+    "English": "Interactive",
+    "Sub_English": "tương tác",
+    "Example": "We have interactive systems which allow information to be passed continuously in our company.",
+    "English_Vocabulary_Test": [
+      "(giá cả) phải chăng, có thể chấp nhận được, có thể chịu tốn kém được",
+      "Mượt, trôi chảy",
+      "vượt trội, tốt hơn (về chất lượng)"
+    ],
+    "Fill_Blank": "We have __________ systems which allow information to be passed continuously in our company.",
+    "Mistake": [
+      "Powerful",
+      "Productive",
+      "Top-notch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.1",
+    "English": "Backup",
+    "Sub_English": "Sao lưu dữ liệu",
+    "Example": "Always remember to make a backup of your work in case your computer is infected with viruses.",
+    "English_Vocabulary_Test": [
+      "(n) lời cảnh báo",
+      "Hướng dẫn",
+      "Phân vùng của ổ cứng"
+    ],
+    "Fill_Blank": "Always remember to make a __________ of your work in case your computer is infected with viruses.",
+    "Mistake": [
+      "Introduction",
+      "Instruction",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.2",
+    "English": "Caution",
+    "Sub_English": "(n) lời cảnh báo",
+    "Example": "Download with caution and avoid files which are not safe.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "Hướng dẫn",
+      "Phân vùng của ổ cứng"
+    ],
+    "Fill_Blank": "Download with __________ and avoid files which are not safe.",
+    "Mistake": [
+      "Introduction",
+      "Instruction",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.3",
+    "English": "Guideline",
+    "Sub_English": "Hướng dẫn",
+    "Example": "Follow very strict guidelines on the use and storage of personal details on computers.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "(n) lời cảnh báo",
+      "Phân vùng của ổ cứng"
+    ],
+    "Fill_Blank": "Follow very strict __________ on the use and storage of personal details on computers.",
+    "Mistake": [
+      "Introduction",
+      "Instruction",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.4",
+    "English": "Hard drive partition",
+    "Sub_English": "Phân vùng của ổ cứng",
+    "Example": "This takes a copy of hard disk partition information during installation.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "(n) lời cảnh báo",
+      "Hướng dẫn"
+    ],
+    "Fill_Blank": "This takes a copy of hard disk __________ information during installation.",
+    "Mistake": [
+      "Introduction",
+      "Instruction",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.5",
+    "English": "Introduction",
+    "Sub_English": "Lời giới thiệu",
+    "Example": "I am writing about an introduction to mobile phone security.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "(n) lời cảnh báo",
+      "Hướng dẫn"
+    ],
+    "Fill_Blank": "I am writing about an __________ to mobile phone security.",
+    "Mistake": [
+      "Hard drive partition",
+      "Instruction",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.6",
+    "English": "Instruction",
+    "Sub_English": "Lời chỉ dẫn",
+    "Example": "You should follow the instructions of using this computer to enhance its life expectancy.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "(n) lời cảnh báo",
+      "Hướng dẫn"
+    ],
+    "Fill_Blank": "You should follow the __________ of using this computer to enhance its life expectancy.",
+    "Mistake": [
+      "Introduction",
+      "Hard drive partition",
+      "Internal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.7",
+    "English": "Internal",
+    "Sub_English": "Thuộc về bên trong",
+    "Example": "I need to open up the laptop to check its internal components.",
+    "English_Vocabulary_Test": [
+      "Sao lưu dữ liệu",
+      "(n) lời cảnh báo",
+      "Hướng dẫn"
+    ],
+    "Fill_Blank": "I need to open up the laptop to check its __________ components.",
+    "Mistake": [
+      "Introduction",
+      "Instruction",
+      "Hard drive partition"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.8",
+    "English": "Note",
+    "Sub_English": "Lưu ý",
+    "Example": "I always go over the notes just before I use a new device.",
+    "English_Vocabulary_Test": [
+      "Lời khuyên",
+      "Lời cảnh cáo, cảnh báo",
+      "Thuộc về bên trong"
+    ],
+    "Fill_Blank": "I always go over the __________ just before I use a new device.",
+    "Mistake": [
+      "Instruction",
+      "Caution",
+      "Introduction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.9",
+    "English": "Tip",
+    "Sub_English": "Lời khuyên",
+    "Example": "You should keep some tips in mind for safer using.",
+    "English_Vocabulary_Test": [
+      "Lưu ý",
+      "Lời cảnh cáo, cảnh báo",
+      "Thuộc về bên trong"
+    ],
+    "Fill_Blank": "You should keep some __________ in mind for safer using.",
+    "Mistake": [
+      "Instruction",
+      "Caution",
+      "Introduction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.10",
+    "English": "Warning",
+    "Sub_English": "Lời cảnh cáo, cảnh báo",
+    "Example": "It would be irresponsible to ignore these warnings.",
+    "English_Vocabulary_Test": [
+      "Lưu ý",
+      "Lời khuyên",
+      "Thuộc về bên trong"
+    ],
+    "Fill_Blank": "It would be irresponsible to ignore these __________.",
+    "Mistake": [
+      "Instruction",
+      "Caution",
+      "Introduction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.11",
+    "English": "Attempt",
+    "Sub_English": "(v) hành động cố gắng làm điều gì đó",
+    "Example": "She has been successfully attempting to connect the printer to the computer.",
+    "English_Vocabulary_Test": [
+      "Sao lưu",
+      "Khóa, chặn",
+      "Ấn"
+    ],
+    "Fill_Blank": "She has been successfully __________ to connect the printer to the computer.",
+    "Mistake": [
+      "Connect",
+      "Format",
+      "Insert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.12",
+    "English": "Back up",
+    "Sub_English": "Sao lưu",
+    "Example": "It's a good idea to back up your files onto a memory stick.",
+    "English_Vocabulary_Test": [
+      "(v) hành động cố gắng làm điều gì đó",
+      "Khóa, chặn",
+      "Ấn"
+    ],
+    "Fill_Blank": "It's a good idea to __________ your files onto a memory stick.",
+    "Mistake": [
+      "Connect",
+      "Format",
+      "Insert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.13",
+    "English": "Block",
+    "Sub_English": "Khóa, chặn",
+    "Example": "He installed software to block all ads and pop-ups.",
+    "English_Vocabulary_Test": [
+      "(v) hành động cố gắng làm điều gì đó",
+      "Sao lưu",
+      "Ấn"
+    ],
+    "Fill_Blank": "He installed software to __________ all ads and pop-ups.",
+    "Mistake": [
+      "Connect",
+      "Format",
+      "Insert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.14",
+    "English": "Click",
+    "Sub_English": "Ấn",
+    "Example": "I clicked on the link to the next page of the website.",
+    "English_Vocabulary_Test": [
+      "(v) hành động cố gắng làm điều gì đó",
+      "Sao lưu",
+      "Khóa, chặn"
+    ],
+    "Fill_Blank": "I __________ on the link to the next page of the website.",
+    "Mistake": [
+      "Connect",
+      "Format",
+      "Insert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.15",
+    "English": "Connect",
+    "Sub_English": "Kết nối",
+    "Example": "Can I connect my printer to your computer?",
+    "English_Vocabulary_Test": [
+      "(v) hành động cố gắng làm điều gì đó",
+      "Sao lưu",
+      "Khóa, chặn"
+    ],
+    "Fill_Blank": "Can I __________ my printer to your computer?",
+    "Mistake": [
+      "Click",
+      "Format",
+      "Insert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.16",
+    "English": "Damage",
+    "Sub_English": "Làm hư hại, làm hỏng",
+    "Example": "The screen of the laptop was damaged in the crash.",
+    "English_Vocabulary_Test": [
+      "nhấn đúp, kích đúp",
+      "tải về",
+      "xuất"
+    ],
+    "Fill_Blank": "The screen of the laptop was __________ in the crash.",
+    "Mistake": [
+      "Log in",
+      "Insert",
+      "Overheat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.17",
+    "English": "Double click",
+    "Sub_English": "nhấn đúp, kích đúp",
+    "Example": "Double click on this icon to open the application.",
+    "English_Vocabulary_Test": [
+      "Chèn",
+      "đăng nhập",
+      "Quá nóng"
+    ],
+    "Fill_Blank": "__________ on this icon to open the application.",
+    "Mistake": [
+      "Format",
+      "Install",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.18",
+    "English": "Download",
+    "Sub_English": "tải về",
+    "Example": "She sometimes downloads music from the Internet.",
+    "English_Vocabulary_Test": [
+      "Chèn",
+      "đăng nhập",
+      "Quá nóng"
+    ],
+    "Fill_Blank": "She sometimes __________ music from the Internet.",
+    "Mistake": [
+      "Format",
+      "Install",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.19",
+    "English": "Export",
+    "Sub_English": "xuất",
+    "Example": "The data from this website can be exported in several formats into a MySQL database, an ASCII file, etc.",
+    "English_Vocabulary_Test": [
+      "Chèn",
+      "đăng nhập",
+      "Quá nóng"
+    ],
+    "Fill_Blank": "The data from this website can be __________ in several formats into a MySQL database, an ASCII file, etc.",
+    "Mistake": [
+      "Format",
+      "Install",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.20",
+    "English": "Format",
+    "Sub_English": "định dạng",
+    "Example": "When you set up a hard drive for use with a computer, you have to format it using a file system.",
+    "English_Vocabulary_Test": [
+      "Chèn",
+      "đăng nhập",
+      "Quá nóng"
+    ],
+    "Fill_Blank": "When you set up a hard drive for use with a computer, you have to __________ it using a file system.",
+    "Mistake": [
+      "Export",
+      "Install",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.21",
+    "English": "Import",
+    "Sub_English": "Nhập",
+    "Example": "I have tried to save the text as a Word document and import it.",
+    "English_Vocabulary_Test": [
+      "Chèn",
+      "đăng nhập",
+      "Quá nóng"
+    ],
+    "Fill_Blank": "I have tried to save the text as a Word document and __________ it.",
+    "Mistake": [
+      "Format",
+      "Install",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.22",
+    "English": "Insert",
+    "Sub_English": "Chèn",
+    "Example": "The camera enables users to take pictures, then use a personal computer to insert them in items like calendars and emails.",
+    "English_Vocabulary_Test": [
+      "định dạng",
+      "Cài đặt",
+      "Đăng xuất"
+    ],
+    "Fill_Blank": "The camera enables users to take pictures, then use a personal computer to __________ them in items like calendars and emails.",
+    "Mistake": [
+      "Export",
+      "Import",
+      "Log in"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.23",
+    "English": "Install",
+    "Sub_English": "Cài đặt",
+    "Example": "You should install an antivirus program to protect your computer.",
+    "English_Vocabulary_Test": [
+      "xuất",
+      "Nhập",
+      "đăng nhập"
+    ],
+    "Fill_Blank": "You should __________ an antivirus program to protect your computer.",
+    "Mistake": [
+      "Format",
+      "Insert",
+      "Log out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.24",
+    "English": "Log in",
+    "Sub_English": "đăng nhập",
+    "Example": "I cannot log in to my Gmail account. Could you please help me?",
+    "English_Vocabulary_Test": [
+      "xuất",
+      "Nhập",
+      "Đăng xuất"
+    ],
+    "Fill_Blank": "I cannot __________ to my Gmail account. Could you please help me?",
+    "Mistake": [
+      "Format",
+      "Insert",
+      "Install"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.25",
+    "English": "Log out",
+    "Sub_English": "Đăng xuất",
+    "Example": "The program lets you shut down, restart, or log out Windows at specific times and dates.",
+    "English_Vocabulary_Test": [
+      "xuất",
+      "Nhập",
+      "đăng nhập"
+    ],
+    "Fill_Blank": "The program lets you shut down, restart, or __________ Windows at specific times and dates.",
+    "Mistake": [
+      "Format",
+      "Insert",
+      "Install"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.7.26",
+    "English": "Overheat",
+    "Sub_English": "Quá nóng",
+    "Example": "My phone is overheating. I’ve been using it for 9 hours.",
+    "English_Vocabulary_Test": [
+      "xuất",
+      "Nhập",
+      "đăng nhập"
+    ],
+    "Fill_Blank": "My phone is __________. I’ve been using it for 9 hours.",
+    "Mistake": [
+      "Format",
+      "Insert",
+      "Install"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.1",
+    "English": "attach",
+    "Sub_English": "(v) Gắn kèm, đính kèm",
+    "Example": "I've attached the copy of this document for you.",
+    "English_Vocabulary_Test": [
+      "(n) Tập tin đính kèm",
+      "BCC",
+      "CC"
+    ],
+    "Fill_Blank": "I've __________ the copy of this document for you.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.2",
+    "English": "Attachment",
+    "Sub_English": "(n) Tập tin đính kèm",
+    "Example": "Please check the attachment for further information!",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "BCC",
+      "CC"
+    ],
+    "Fill_Blank": "Please check the __________ for further information!",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.3",
+    "English": "BCC (Blind carbon copy)",
+    "Sub_English": "Tạo ra các bản sao tạm (gửi email cho nhiều người cùng lúc nhưng những người này không thể nhìn thấy danh sách email của những người cùng nhận email)",
+    "Example": "BCC means recipients do not get to know each other.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "CC"
+    ],
+    "Fill_Blank": "__________ means recipients do not get to know each other.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.4",
+    "English": "CC (Carbon copy)",
+    "Sub_English": "Tạo ra các bản sao (tất cả những người nhận thư sẽ nhìn thấy danh sách email của những người cũng nhận thư đó)",
+    "Example": "CC means an e-mail that is copied to one or more recipients. Both the main recipient and other recipients can see all the addresses the message was sent to.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "__________ means an e-mail that is copied to one or more recipients. Both the main recipient and other recipients can see all the addresses the message was sent to.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.5",
+    "English": "Formal",
+    "Sub_English": "Trang trọng",
+    "Example": "The customer requires a formal email of giving explanations about the late delivery from ABC company.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "The customer requires a __________ email of giving explanations about the late delivery from ABC company.",
+    "Mistake": [
+      "informal",
+      "Look forward to",
+      "recipient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.6",
+    "English": "informal",
+    "Sub_English": "Thân mật",
+    "Example": "I usually write informal letters or emails to my colleagues to share daily stuff.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "I usually write __________ letters or emails to my colleagues to share daily stuff.",
+    "Mistake": [
+      "Formal",
+      "Look forward to",
+      "recipient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.7",
+    "English": "Look forward to",
+    "Sub_English": "Mong chờ",
+    "Example": "I'm looking forward to hearing from you soon.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "I'm __________ hearing from you soon.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "recipient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.8",
+    "English": "recipient",
+    "Sub_English": "Người nhận",
+    "Example": "Lund was the recipient of the letter.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "Lund was the __________ of the letter.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.9",
+    "English": "sender",
+    "Sub_English": "Người gửi",
+    "Example": "Jack is the sender of the letter.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "Jack is the __________ of the letter.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.10",
+    "English": "Signature",
+    "Sub_English": "Chữ ký",
+    "Example": "Emails and letters are usually ended with the writer’s signature.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "Emails and letters are usually ended with the writer’s __________.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.11",
+    "English": "Subject",
+    "Sub_English": "Tiêu đề thư, email",
+    "Example": "Yesterday, I wrote an email to David on the subject of the sales conference information.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "Yesterday, I wrote an email to David on the __________ of the sales conference information.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.12",
+    "English": "yours sincerely",
+    "Sub_English": "Trân trọng",
+    "Example": "She ends the letter with “yours sincerely”.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "She ends the letter with “__________”.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.13",
+    "English": "Your faithfully",
+    "Sub_English": "Trân trọng",
+    "Example": "Your faithfully is used at the end of a formal letter before you sign your name.",
+    "English_Vocabulary_Test": [
+      "(v) Gắn kèm, đính kèm",
+      "(n) Tập tin đính kèm",
+      "BCC"
+    ],
+    "Fill_Blank": "\"__________\" is used at the end of a formal letter before you sign your name.",
+    "Mistake": [
+      "Formal",
+      "informal",
+      "Look forward to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.14",
+    "English": "Accept",
+    "Sub_English": "(v) Chấp nhận/ đồng ý",
+    "Example": "Finally, he decided to accept the apology.",
+    "English_Vocabulary_Test": [
+      "Chấp nhận được",
+      "Xin lỗi",
+      "Ghi nhận, đánh giá cao"
+    ],
+    "Fill_Blank": "Finally, he decided to __________ the apology.",
+    "Mistake": [
+      "Acceptable",
+      "Apologize for",
+      "Appreciate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.15",
+    "English": "Acceptable",
+    "Sub_English": "(adj) Chấp nhận được",
+    "Example": "The price of $32 per item is acceptable to both the supplier and the buyer.",
+    "English_Vocabulary_Test": [
+      "Chấp nhận",
+      "Xin lỗi",
+      "Ghi nhận, đánh giá cao"
+    ],
+    "Fill_Blank": "The price of $32 per item is __________ to both the supplier and the buyer.",
+    "Mistake": [
+      "Accept",
+      "Apologize for",
+      "Appreciate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.16",
+    "English": "Apologize for",
+    "Sub_English": "(vp) Xin lỗi",
+    "Example": "She didn’t Apologize for breaking the screen of my phone.",
+    "English_Vocabulary_Test": [
+      "Chấp nhận",
+      "Xin lỗi",
+      "Ghi nhận, đánh giá cao"
+    ],
+    "Fill_Blank": "She didn’t __________ breaking the screen of my phone.",
+    "Mistake": [
+      "Accept",
+      "Acceptable",
+      "Appreciate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.17",
+    "English": "Appreciate",
+    "Sub_English": "(v) Ghi nhận, đánh giá cao",
+    "Example": "I greatly Appreciate your help.",
+    "English_Vocabulary_Test": [
+      "Chấp nhận",
+      "Xin lỗi",
+      "Ghi nhận, đánh giá cao"
+    ],
+    "Fill_Blank": "I greatly __________ your help.",
+    "Mistake": [
+      "Accept",
+      "Acceptable",
+      "Apologize for"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.18",
+    "English": "Be annoyed at",
+    "Sub_English": "(adj) Tức giận",
+    "Example": "She was Be annoyed at the bad behavior of the helpdesk technician.",
+    "English_Vocabulary_Test": [
+      "Tức giận",
+      "Bất mãn",
+      "Thất vọng về"
+    ],
+    "Fill_Blank": "She was __________ the bad behavior of the helpdesk technician.",
+    "Mistake": [
+      "Be dissatisfied with",
+      "Be upset about",
+      "Blurry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.19",
+    "English": "Be dissatisfied with",
+    "Sub_English": "(adj) Bất mãn",
+    "Example": "I am so Be dissatisfied with with this company that I have intention to quit my job.",
+    "English_Vocabulary_Test": [
+      "Tức giận",
+      "Bất mãn",
+      "Thất vọng về"
+    ],
+    "Fill_Blank": "I am so __________ with this company that I have intention to quit my job.",
+    "Mistake": [
+      "Be annoyed at",
+      "Be upset about",
+      "Blurry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.20",
+    "English": "Be upset about",
+    "Sub_English": "(adj) Thất vọng về",
+    "Example": "He was very Be upset about customers' feedback of his software application.",
+    "English_Vocabulary_Test": [
+      "Tức giận",
+      "Bất mãn",
+      "Thất vọng về"
+    ],
+    "Fill_Blank": "He was very __________ customers' feedback of his software application.",
+    "Mistake": [
+      "Be annoyed at",
+      "Be dissatisfied with",
+      "Blurry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.21",
+    "English": "Blurry",
+    "Sub_English": "(adj) Mờ",
+    "Example": "The screen is getting Blurry so I can't see the message clearly.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "The screen is getting __________ so I can't see the message clearly.",
+    "Mistake": [
+      "Business Internet plan",
+      "Consideration",
+      "Deal with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.22",
+    "English": "Business Internet plan",
+    "Sub_English": "(np) Gói cước mạng cho doanh nghiệp",
+    "Example": "We choose Business Internet plan which gives us unlimited download at the speed of 150Mbps.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "We choose __________ which gives us unlimited download at the speed of 150Mbps.",
+    "Mistake": [
+      "Blurry",
+      "Consideration",
+      "Deal with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.23",
+    "English": "Consideration",
+    "Sub_English": "(n) Sự xem xét, cân nhắc",
+    "Example": "Thank you for your time and Consideration.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "Thank you for your time and __________.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Deal with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.24",
+    "English": "Deal with",
+    "Sub_English": "(vp) Giải quyết / xử lí công việc",
+    "Example": "IT support technicians should learn how to Deal with the complaints from customers.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "IT support technicians should learn how to __________ the complaints from customers.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Consideration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.25",
+    "English": "Enclose with",
+    "Sub_English": "(vp) Đính kèm",
+    "Example": "I Enclose with three samples in this letter.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "I __________ three samples in this letter.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Consideration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.26",
+    "English": "Hesitate",
+    "Sub_English": "(v) Do dự",
+    "Example": "Tom Hesitate to complain about the product he bought last week.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "Tom __________ to complain about the product he bought last week.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Consideration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.27",
+    "English": "Home Internet plan",
+    "Sub_English": "(np) Gói cước mạng hộ gia đình",
+    "Example": "I choose Home Internet plan with 40 Mbps download speed.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "I choose __________ with 40 Mbps download speed.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Consideration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.28",
+    "English": "Keep in mind",
+    "Sub_English": "(vp) Ghi nhớ",
+    "Example": "She helped you much and you have to Keep in mind that in mind.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Gói cước mạng cho doanh nghiệp",
+      "Sự xem xét, cân nhắc"
+    ],
+    "Fill_Blank": "She helped you much and you have to __________ that in mind.",
+    "Mistake": [
+      "Blurry",
+      "Business Internet plan",
+      "Consideration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.29",
+    "English": "Make a complaint",
+    "Sub_English": "(vp) Khiếu nại",
+    "Example": "I would like to make a complaint about one of your agents’ working attitude.",
+    "English_Vocabulary_Test": [
+      "Khiếu nại",
+      "Đưa ra đề xuất, kiến nghị",
+      "Đề nghị"
+    ],
+    "Fill_Blank": "I would like to __________ about one of your agents’ working attitude.",
+    "Mistake": [
+      "Make a proposal",
+      "Make a request",
+      "PON light"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.30",
+    "English": "Make a proposal",
+    "Sub_English": "(vp) Đưa ra đề xuất, kiến nghị",
+    "Example": "Managers __________ to raise the salary for employees.",
+    "English_Vocabulary_Test": [
+      "Khiếu nại",
+      "Đưa ra đề xuất, kiến nghị",
+      "Đề nghị"
+    ],
+    "Fill_Blank": "Managers Make a proposal to raise the salary for employees.",
+    "Mistake": [
+      "Make a complaint",
+      "Make a request",
+      "PON light"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.31",
+    "English": "Make a request",
+    "Sub_English": "(vp) Đề nghị",
+    "Example": "We Make a request for replacing another desktop computer.",
+    "English_Vocabulary_Test": [
+      "Khiếu nại",
+      "Đưa ra đề xuất, kiến nghị",
+      "Đề nghị"
+    ],
+    "Fill_Blank": "We __________ for replacing another desktop computer.",
+    "Mistake": [
+      "Make a complaint",
+      "Make a proposal",
+      "PON light"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.32",
+    "English": "PON light",
+    "Sub_English": "(np) Đèn PON (báo tín hiệu đường truyền)",
+    "Example": "PON light is used to signal transmission line.",
+    "English_Vocabulary_Test": [
+      "Đèn PON (báo tín hiệu đường truyền)",
+      "Biên lai",
+      "Bản đối chiếu, tham khảo"
+    ],
+    "Fill_Blank": "__________ is used to signal transmission line.",
+    "Mistake": [
+      "Receipt",
+      "Reference",
+      "Refund"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.33",
+    "English": "Receipt",
+    "Sub_English": "(n) Biên lai",
+    "Example": "Be sure to get a Receipt when you deliver the package.",
+    "English_Vocabulary_Test": [
+      "Đèn PON (báo tín hiệu đường truyền)",
+      "Biên lai",
+      "Bản đối chiếu, tham khảo"
+    ],
+    "Fill_Blank": "Be sure to get a __________ when you deliver the package.",
+    "Mistake": [
+      "PON light",
+      "Reference",
+      "Refund"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.34",
+    "English": "Reference",
+    "Sub_English": "Bản đối chiếu, tham khảo",
+    "Example": "Could you bring your original Reference to our store for reference?",
+    "English_Vocabulary_Test": [
+      "Đèn PON (báo tín hiệu đường truyền)",
+      "Biên lai",
+      "Bản đối chiếu, tham khảo"
+    ],
+    "Fill_Blank": "Could you bring your original __________ to our store for reference?",
+    "Mistake": [
+      "PON light",
+      "Receipt",
+      "Refund"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.35",
+    "English": "Refund",
+    "Sub_English": "Hoàn tiền",
+    "Example": "I took the radio back to the shop and asked for a Refund.",
+    "English_Vocabulary_Test": [
+      "Đèn PON (báo tín hiệu đường truyền)",
+      "Biên lai",
+      "Bản đối chiếu, tham khảo"
+    ],
+    "Fill_Blank": "I took the radio back to the shop and asked for a __________.",
+    "Mistake": [
+      "PON light",
+      "Receipt",
+      "Reference"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.36",
+    "English": "Replacement",
+    "Sub_English": "Sự thay thế",
+    "Example": "If the USB is defective, you should apply for a Replacement immediately.",
+    "English_Vocabulary_Test": [
+      "Sự thay thế",
+      "Trả lại, hoàn lại",
+      "Làm xước"
+    ],
+    "Fill_Blank": "If the USB is defective, you should apply for a __________ immediately.",
+    "Mistake": [
+      "Return (v)",
+      "Scratch",
+      "Warranty (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.37",
+    "English": "Return (v)",
+    "Sub_English": "(v) Trả lại, hoàn lại",
+    "Example": "This printer is not working, so I will Return it to your store.",
+    "English_Vocabulary_Test": [
+      "Sự thay thế",
+      "Trả lại, hoàn lại",
+      "Làm xước"
+    ],
+    "Fill_Blank": "This printer is not working, so I will __________ it to your store.",
+    "Mistake": [
+      "Replacement",
+      "Scratch",
+      "Warranty (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.38",
+    "English": "Scratch",
+    "Sub_English": "Làm xước",
+    "Example": "The top surface of my mobile phone is badly Scratch.",
+    "English_Vocabulary_Test": [
+      "Sự thay thế",
+      "Trả lại, hoàn lại",
+      "Làm xước"
+    ],
+    "Fill_Blank": "The top surface of my mobile phone is badly __________.",
+    "Mistake": [
+      "Replacement",
+      "Return (v)",
+      "Warranty (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.39",
+    "English": "Warranty (n)",
+    "Sub_English": "Giấy bảo hành",
+    "Example": "This computer comes with a full two-year Warranty.",
+    "English_Vocabulary_Test": [
+      "Sự thay thế",
+      "Trả lại, hoàn lại",
+      "Làm xước"
+    ],
+    "Fill_Blank": "This computer comes with a full two-year __________.",
+    "Mistake": [
+      "Replacement",
+      "Return (v)",
+      "Scratch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_5.8.40",
+    "English": "WAN light",
+    "Sub_English": "Đèn WAN (báo tín hiệu hệ thống đã cấp phát địa chỉ mạng)",
+    "Example": "WAN light is used to signal that internet service provider has provided IP(Internet Protocol) address for users.",
+    "English_Vocabulary_Test": [
+      "Lưu lượng truy cập",
+      "Thành phần của trang web",
+      "Đèn WAN (báo tín hiệu hệ thống đã cấp phát địa chỉ mạng)"
+    ],
+    "Fill_Blank": "__________ is used to signal that internet service provider has provided IP(Internet Protocol) address for users.",
+    "Mistake": [
+      "Web traffic",
+      "Webpage elements",
+      "WWW (World Wide Web)"
+    ],
+    "Status": 0
+  }
+]

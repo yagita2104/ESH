@@ -2,7 +2,7 @@ package com.yagita.esh.db;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.content.res.Resources;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -10,6 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yagita.esh.R;
+import com.yagita.esh.model.Specialize;
 import com.yagita.esh.model.Vocabulary;
 
 import org.json.JSONArray;
@@ -17,7 +18,6 @@ import org.json.JSONArray;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ResourceBundle;
 
 public class DBESH extends SQLiteOpenHelper {
     Context context;
@@ -38,11 +38,20 @@ public class DBESH extends SQLiteOpenHelper {
         SQLiteDatabase database = getReadableDatabase();
         return database.rawQuery(sql, null);
     }
+    private String getTableName(){
+        SharedPreferences preferences = context.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+        return preferences.getString("tableName", "");
+    }
     public void getDataEL(){
-        list_data.add(R.raw.vocab_read_el);
-        list_data.add(R.raw.vocab_listen_el);
-        list_data.add(R.raw.vocab_speak_el);
-        list_data.add(R.raw.vocab_write_el);
+        if(getTableName().equals(Specialize.ENGLISH_LANGUAGE.getTenBang())){
+            list_data.add(R.raw.vocab_read_el);
+            list_data.add(R.raw.vocab_listen_el);
+            list_data.add(R.raw.vocab_speak_el);
+            list_data.add(R.raw.vocab_write_el);
+        } else if (getTableName().equals(Specialize.INFORMATION_TECHNOLOGY.getTenBang())) {
+            list_data.add(R.raw.data_cntt_5);
+            list_data.add(R.raw.data_cntt_6);
+        }
     }
     public void getData(int file){
         vocabularyList = new ArrayList<>();
@@ -92,7 +101,7 @@ public class DBESH extends SQLiteOpenHelper {
     }
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
-        insertDB(sqLiteDatabase, "tblVocabEnglishLanguage", list_data);
+        insertDB(sqLiteDatabase, getTableName(), list_data);
     }
 
     @Override

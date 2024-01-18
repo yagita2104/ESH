@@ -11,7 +11,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.provider.MediaStore;
 import android.util.Base64;
 import android.view.View;
@@ -23,12 +22,13 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.yagita.esh.R;
-import com.yagita.esh.fragment.HomeFragment;
 import com.yagita.esh.model.Specialize;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class WelcomeScreen extends AppCompatActivity {
@@ -38,19 +38,19 @@ public class WelcomeScreen extends AppCompatActivity {
     ImageView imgSelectProfile;
     String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngoại Ngữ" ,"Cơ Khí"};
     Map<String, String> mapKhoa = new HashMap<>();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_welcome_screen);
+//        setContentView(R.layout.activity_welcome_screen);
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
+         boolean isFirstTime = sharedPreferences.getBoolean("isFirstTime", true);
+
         mapKhoa.put("Khoa", "Tên bảng");
         mapKhoa.put("Công nghệ thông tin", Specialize.INFORMATION_TECHNOLOGY.getTenBang());
         mapKhoa.put("Điện-Điện tử", "Tên bảng");
         mapKhoa.put("Ngoại Ngữ", Specialize.ENGLISH_LANGUAGE.getTenBang());
         mapKhoa.put("Cơ khí", "Tên bảng");
-
-
-        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefs", MODE_PRIVATE);
-        boolean isFirstTime = sharedPreferences.getBoolean("isFirstTime", true);
 
         if (!isFirstTime) {
             // Giá trị cờ là false, chuyển đến MainActivity và kết thúc WelcomeScreen
@@ -86,7 +86,6 @@ public class WelcomeScreen extends AppCompatActivity {
                 Intent intent = new Intent(WelcomeScreen.this, MainActivity.class);
                 String name = edtName.getText().toString();
                 String spec = spnSpec.getSelectedItem().toString();
-
                 if (name.isEmpty()) {
                     Toast.makeText(WelcomeScreen.this, "Vui lòng nhập tên", Toast.LENGTH_SHORT).show();
                 } else if (spec.equals("Chọn Khoa") || (spec.equals("Khoa"))) {
