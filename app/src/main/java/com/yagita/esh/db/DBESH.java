@@ -38,7 +38,7 @@ public class DBESH extends SQLiteOpenHelper {
         SQLiteDatabase database = getReadableDatabase();
         return database.rawQuery(sql, null);
     }
-    private String getTableName(){
+    public String getTableName(){
         SharedPreferences preferences = context.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         return preferences.getString("tableName", "");
     }

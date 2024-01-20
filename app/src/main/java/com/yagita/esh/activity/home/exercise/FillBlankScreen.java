@@ -37,11 +37,12 @@ public class FillBlankScreen extends AppCompatActivity {
     private CountDownTimer countDownTimer;
     MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
-    VocabDAO vocabDAO = new VocabDAO(this);
+    VocabDAO vocabDAO;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fill_blank_screen);
+        vocabDAO = new VocabDAO(this);
         getWidget();
         vocabularyList = vocabDAO.getListVocab();
         addAction();

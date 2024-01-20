@@ -99,6 +99,7 @@ public class WelcomeScreen extends AppCompatActivity {
                         if (khoa.equals(spec)) {
                             String tenBang = mapKhoa.get(spec);
                             editor.putString("tableName", tenBang);
+                            System.out.println(tenBang);
                         }
                     }
                     editor.apply();

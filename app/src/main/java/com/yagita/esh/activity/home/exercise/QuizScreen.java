@@ -37,12 +37,13 @@ public class QuizScreen extends AppCompatActivity {
     private CountDownTimer countDownTimer;
     private MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
-    VocabDAO vocabDAO = new VocabDAO(this);
+    VocabDAO vocabDAO;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz_screen);
         getWidget();
+        vocabDAO = new VocabDAO(getApplicationContext());
         vocabularyList = vocabDAO.getListVocab();
         addAction();
         setItem(vocabularyList.get(0));
