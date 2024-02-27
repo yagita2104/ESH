@@ -19,9 +19,26 @@ public class VocabDAO {
     public String getTableName(){
         return database.getTableName();
     }
+    public String getId(){
+        SharedPreferences preferences = context.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+        String id = preferences.getString("id", "");
+        String term = preferences.getString("term", "");
+        String unit = preferences.getString("unit", "");
+        String result = id + term + "." + unit + ".";
+        System.out.println(result);
+        return result;
+    }
+    public String getIdStatistic(){
+        SharedPreferences preferences = context.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+        String id = preferences.getString("id", "");
+        String term = preferences.getString("term", "");
+        String result = id + term + ".";
+        System.out.println(result);
+        return result;
+    }
     public List<Vocabulary> getListVocab() {
         List<Vocabulary> vocabularyList = new ArrayList<>();
-        String sql = "select * from "+ getTableName();
+        String sql = "select * from "+ getTableName() + " WHERE id LIKE '" + getId() + "%'";
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
             String id = cs.getString(0);
@@ -55,7 +72,7 @@ public class VocabDAO {
     }
 
     public List<Vocabulary> getListVocabUnknown() {
-        String sql = "select * from "+getTableName()+" WHERE status = 0";
+        String sql = "select * from "+getTableName()+" WHERE status = 0 AND id LIKE '" + getId() + "%'";
         List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
@@ -85,7 +102,7 @@ public class VocabDAO {
         return vocabularyList;
     }
     public List<Vocabulary> getListVocabKnown() {
-        String sql = "select * from "+ getTableName() +" WHERE status = 1";
+        String sql = "select * from "+ getTableName() +" WHERE status = 1 AND id LIKE '" + getId() + "%'";
         List<Vocabulary> vocabularyList = new ArrayList<>();
         Cursor cs = database.getData(sql);
         while (cs.moveToNext()) {
@@ -144,4 +161,5 @@ public class VocabDAO {
         }
         return vocabularyList;
     }
+
 }

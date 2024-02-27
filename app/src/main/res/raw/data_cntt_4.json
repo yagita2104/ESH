@@ -1,0 +1,6374 @@
+[
+  {
+    "ID": "English_Information_Technology_4.1.1",
+    "English": "Computer science",
+    "Sub_English": "Khoa học máy tính",
+    "Example": "She is going to earn a degree in computer science because it's necessary in her future job.",
+    "English_Vocabulary_Test": [
+      "Kỹ sư phần cứng",
+      "Máy tính lớn (thường dùng làm máy chủ)",
+      "Người kiểm thử phần mềm"
+    ],
+    "Fill_Blank": "She is going to earn a degree in ______ because it's necessary in her future job.",
+    "Mistakes": [
+      "Support technician",
+      "Decode",
+      "App designer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.2",
+    "English": "Software engineering",
+    "Sub_English": "Kỹ thuật phần mềm",
+    "Example": "A study in software engineering results in obtaining an engineer diploma.",
+    "English_Vocabulary_Test": [
+      "Khoa học máy tính",
+      "Thiết bị đầu ra",
+      "Máy trạm"
+    ],
+    "Fill_Blank": "A study in ______ results in obtaining an engineer diploma.",
+    "Mistakes": [
+      "Workstation",
+      "Ping test",
+      "Information system"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.3",
+    "English": "Information system",
+    "Sub_English": "Hệ thống thông tin",
+    "Example": "The computer based information system is developed by the people and for the people.",
+    "English_Vocabulary_Test": [
+      "Phần mềm hệ thống",
+      "Phần mềm ứng dụng",
+      "Chuyển đổi"
+    ],
+    "Fill_Blank": "The computer based ______ is developed by the people and for the people.",
+    "Mistakes": [
+      "Web designer/ developer",
+      "Computer security specialist",
+      "Programming software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.4",
+    "English": "Information Technology",
+    "Sub_English": "Công nghệ thông tin",
+    "Example": "Information technology has changed life and brought many benefits to people.",
+    "English_Vocabulary_Test": [
+      "Máy trạm",
+      "Nhiếp ảnh gia kỹ thuật số",
+      "Công nghệ đa phương tiện"
+    ],
+    "Fill_Blank": "______ has changed life and brought many benefits to people.",
+    "Mistakes": [
+      "Production assistant",
+      "Software developer ",
+      "Webmaster"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.5",
+    "English": "Multimedia technology",
+    "Sub_English": "Công nghệ đa phương tiện",
+    "Example": "Multimedia technology applies interactive computer elements, such as graphics, text, video, sound, and animation, to deliver a message.",
+    "English_Vocabulary_Test": [
+      "Người quản trị dữ liệu",
+      "Phần mềm hệ thống",
+      "Quản trị mạng"
+    ],
+    "Fill_Blank": "______ applies interactive computer elements, such as graphics, text, video, sound, and animation, to deliver a message.",
+    "Mistakes": [
+      "Production assistant",
+      "Software",
+      "Server"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.6",
+    "English": "Communications and Computer Networks",
+    "Sub_English": "Truyền thông và mạng máy tính",
+    "Example": "The Communications and Computer Networks Engineering programme is offered at Hanoi University of Industry.",
+    "English_Vocabulary_Test": [
+      "Công nghệ đa phương tiện",
+      "Thiết kế đồ họa và hình ảnh",
+      "Card mạng"
+    ],
+    "Fill_Blank": "The ______ Engineering programme is offered at Hanoi University of Industry.",
+    "Mistakes": [
+      "Digital photographer",
+      "Tester",
+      "IP (Internet Protocol) address"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.7",
+    "English": "Data processing",
+    "Sub_English": "Xử lý dữ liệu",
+    "Example": "Data processing is a technique normally performed by computer.",
+    "English_Vocabulary_Test": [
+      "Phần mềm hệ thống",
+      "Phần mềm",
+      "Xử lý văn bản"
+    ],
+    "Fill_Blank": "______ is a technique normally performed by computer.",
+    "Mistakes": [
+      "Output devices",
+      "Server",
+      "Communications and Computer Networks"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.8",
+    "English": "Code ",
+    "Sub_English": "Mã",
+    "Example": "In the event of the machine not operating correctly, an error code will appear.",
+    "English_Vocabulary_Test": [
+      "Nhà phân tích hệ thống",
+      "Phần mềm",
+      "Người kiểm thử phần mềm"
+    ],
+    "Fill_Blank": "In the event of the machine not operating correctly, an error ______will appear.",
+    "Mistakes": [
+      "Data processing",
+      "Software",
+      "Transmit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.9",
+    "English": "Code ",
+    "Sub_English": "Viết mã",
+    "Example": "I have been taking a computer course so that I can code a computer program.",
+    "English_Vocabulary_Test": [
+      "Sắp xếp, cài đặt, thiết lập",
+      "Thực hiện",
+      "Máy trạm"
+    ],
+    "Fill_Blank": "I have been taking a computer course so that I can ______a computer program.",
+    "Mistakes": [
+      "Image and graphic design",
+      "Information security",
+      "Portable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.10",
+    "English": "Encode",
+    "Sub_English": "Mã hóa",
+    "Example": "The human mind is like a computer which encodes information and stores it for future use.",
+    "English_Vocabulary_Test": [
+      "Giải mã",
+      "Tư vấn thiết kế",
+      "Chuyên gia bảo mật máy tính"
+    ],
+    "Fill_Blank": "The human mind is like a computer which ______s information and stores it for future use.",
+    "Mistakes": [
+      "Support technician",
+      "Instructional designer",
+      "Hardware engineer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.11",
+    "English": "Decode",
+    "Sub_English": "Giải mã",
+    "Example": "Using a computer program that can decode PLC activity and run it smoothly is not an easy task.",
+    "English_Vocabulary_Test": [
+      "Máy chủ",
+      "Truyền phát",
+      "Phần cứng"
+    ],
+    "Fill_Blank": "Using a computer program that can ______ PLC activity and run it smoothly is not an easy task.",
+    "Mistakes": [
+      "Word processing",
+      "Information security",
+      "Convert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.12",
+    "English": "Convert",
+    "Sub_English": "Chuyển đổi",
+    "Example": "How do you convert moles into grams?",
+    "English_Vocabulary_Test": [
+      "Xử lý dữ liệu",
+      "Kỹ thuật phần mềm",
+      "Địa chỉ IP"
+    ],
+    "Fill_Blank": "How do you ______ moles into grams?",
+    "Mistakes": [
+      "Quality insurance",
+      "Retrieve",
+      "Network card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.13",
+    "English": "Transmit",
+    "Sub_English": "Truyền phát",
+    "Example": "The data will be automatically transmitted from one part of the system to others.",
+    "English_Vocabulary_Test": [
+      "Kĩ sư phần mềm",
+      "Chuyên gia bảo mật máy tính",
+      "Chuyển đổi"
+    ],
+    "Fill_Blank": "The data will be automatically ______ted from one part of the system to others.",
+    "Mistakes": [
+      "Server",
+      "Software engineering",
+      "Input devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.14",
+    "English": "Retrieve",
+    "Sub_English": "Lấy, gọi ra (thông tin)",
+    "Example": "Using this program helps retrieve information from the database.",
+    "English_Vocabulary_Test": [
+      "Giải mã",
+      "Thiết kế trang mạng",
+      "Công nghệ thông tin"
+    ],
+    "Fill_Blank": "Using this program helps ______ information from the database.",
+    "Mistakes": [
+      "Information system",
+      "Information Technology",
+      "Software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.15",
+    "English": "Information security",
+    "Sub_English": "An toàn thông tin",
+    "Example": "Information security helps to prevent unauthorized access.",
+    "English_Vocabulary_Test": [
+      "Chuyển đổi",
+      "Quản trị trang mạng",
+      "Quản trị mạng"
+    ],
+    "Fill_Blank": "______ helps to prevent unauthorized access.",
+    "Mistakes": [
+      "Retrieve",
+      "Image and graphic design",
+      "Helpdesk supervisor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.16",
+    "English": "Quality insurance",
+    "Sub_English": "Đảm bảo chất lượng",
+    "Example": "Lisa is working in the field of quality insurance for Samsung company.",
+    "English_Vocabulary_Test": [
+      "Giải mã",
+      "(adj) có thể mang theo, xách tay",
+      "Sắp xếp, cài đặt, thiết lập"
+    ],
+    "Fill_Blank": "Lisa is working in the field of ______ for Samsung company.",
+    "Mistakes": [
+      "Instructional designer",
+      "System software",
+      "Database administrator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.17",
+    "English": "Technical support",
+    "Sub_English": "Hỗ trợ kĩ thuật",
+    "Example": "But for your technical support, I wouldn’t have addressed my computer’s problem.",
+    "English_Vocabulary_Test": [
+      "Truyền dữ liệu",
+      "Xử lý dữ liệu",
+      "Thực hiện"
+    ],
+    "Fill_Blank": "But for your ______, I wouldn’t have addressed my computer’s problem.",
+    "Mistakes": [
+      "Programming software",
+      "Portable",
+      "Hardware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.18",
+    "English": "Workload",
+    "Sub_English": "Khối lượng công việc",
+    "Example": "An IT project manager always has a huge workload.",
+    "English_Vocabulary_Test": [
+      "Công nghệ đa phương tiện",
+      "(adj) có thể mang theo, xách tay",
+      "Máy chủ"
+    ],
+    "Fill_Blank": "An IT project manager always has a huge ______.",
+    "Mistakes": [
+      "Tester",
+      "Application software",
+      "Quality insurance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.19",
+    "English": "Portable",
+    "Sub_English": "(adj) có thể mang theo, xách tay",
+    "Example": "If you usually travel, you should carry a tablet because it is portable and useful.",
+    "English_Vocabulary_Test": [
+      "Khoa học máy tính",
+      "Hỗ trợ kĩ thuật",
+      "Máy trạm"
+    ],
+    "Fill_Blank": "If you usually travel, you should carry a tablet because it is ______ and useful.",
+    "Mistakes": [
+      "Hardware",
+      "Perform",
+      "Project manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.20",
+    "English": "Data transfer",
+    "Sub_English": "Truyền dữ liệu",
+    "Example": "You must use data transfer software in order to transfer data from a range of devices to your PC.",
+    "English_Vocabulary_Test": [
+      "Kĩ sư phần mềm",
+      "Trợ lý sản xuất",
+      "Khoa học máy tính"
+    ],
+    "Fill_Blank": "You must use ______ software in order to transfer data from a range of devices to your PC.",
+    "Mistakes": [
+      "Image and graphic design",
+      "Web administration",
+      "Information system"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.21",
+    "English": "Mainframe",
+    "Sub_English": "Máy tính lớn (thường dùng làm máy chủ)",
+    "Example": "In order to get access to this system, you must be given permission from the mainframe.",
+    "English_Vocabulary_Test": [
+      "Mã hóa",
+      "Trợ lý sản xuất",
+      "An toàn thông tin"
+    ],
+    "Fill_Blank": "In order to get access to this system, you must be given permission from the ______.",
+    "Mistakes": [
+      "Set up",
+      "Webmaster",
+      "Hardware engineer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.22",
+    "English": "Server",
+    "Sub_English": "Máy chủ",
+    "Example": "All of the personal computers in the IT department are linked to a server in the next room.",
+    "English_Vocabulary_Test": [
+      "Card mạng",
+      "Thiết kế ứng dụng",
+      "Quản lý dự án"
+    ],
+    "Fill_Blank": "All of the personal computers in the IT department are linked to a ______ in the next room.",
+    "Mistakes": [
+      "Support technician",
+      "Computer security specialist",
+      "Multimedia technology"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.23",
+    "English": "Workstation",
+    "Sub_English": "Máy trạm",
+    "Example": "Each workstation is divided by a compartment.",
+    "English_Vocabulary_Test": [
+      "Thiết bị đầu vào",
+      "Truyền thông và mạng máy tính",
+      "Quản trị mạng"
+    ],
+    "Fill_Blank": "Each ______ is divided by a compartment.",
+    "Mistakes": [
+      "Information security",
+      "Hardware engineer",
+      "Code "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.24",
+    "English": "Input devices",
+    "Sub_English": "Thiết bị đầu vào",
+    "Example": "Keyboard is an input device.",
+    "English_Vocabulary_Test": [
+      "Xử lý dữ liệu",
+      "Quản trị trang mạng",
+      "Thiết bị đầu ra"
+    ],
+    "Fill_Blank": "Keyboard is an input device.",
+    "Mistakes": [
+      "Data processing",
+      "App designer",
+      "Data transfer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.25",
+    "English": "Output devices",
+    "Sub_English": "Thiết bị đầu ra",
+    "Example": "Speaker is an output device.",
+    "English_Vocabulary_Test": [
+      "Máy trạm",
+      "Địa chỉ IP",
+      "Kỹ sư phần cứng"
+    ],
+    "Fill_Blank": "Speaker is an output device.",
+    "Mistakes": [
+      "Storage devices",
+      "Software engineering",
+      "Project manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.26",
+    "English": "Storage devices",
+    "Sub_English": "Thiết bị lưu trữ",
+    "Example": "Storage devices such as USB, hard drive or filing cabinet are used popularly.",
+    "English_Vocabulary_Test": [
+      "Truyền phát",
+      "Máy tính lớn (thường dùng làm máy chủ)",
+      "Truyền dữ liệu"
+    ],
+    "Fill_Blank": "______ such as USB, hard drive or filing cabinet are used popularly.",
+    "Mistakes": [
+      "Graphic artist",
+      "Multimedia technology",
+      "Project manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.27",
+    "English": "Software",
+    "Sub_English": "Phần mềm",
+    "Example": "If there is any problem with the software, you can ask for help from a software engineer.",
+    "English_Vocabulary_Test": [
+      "Mã hóa",
+      "Phần mềm ứng dụng",
+      "Tư vấn thiết kế"
+    ],
+    "Fill_Blank": "If there is any problem with the ______, you can ask for help from a ______ engineer.",
+    "Mistakes": [
+      "Transmit",
+      "Encode",
+      "Web development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.28",
+    "English": "Application software",
+    "Sub_English": "Phần mềm ứng dụng",
+    "Example": "Application software is very helpful to users.",
+    "English_Vocabulary_Test": [
+      "Kỹ sư phần cứng",
+      "Khối lượng công việc",
+      "Quản trị mạng"
+    ],
+    "Fill_Blank": "______ is very helpful to users.",
+    "Mistakes": [
+      "App designer",
+      "Project manager",
+      "Hardware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.29",
+    "English": "Hardware",
+    "Sub_English": "Phần cứng",
+    "Example": "A computer cannot work without its hardware.",
+    "English_Vocabulary_Test": [
+      "An toàn thông tin",
+      "Truyền phát",
+      "Kiểm tra đường truyền mạng"
+    ],
+    "Fill_Blank": "A computer cannot work without its ______.",
+    "Mistakes": [
+      "Data processing",
+      "Input devices",
+      "Code "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.30",
+    "English": "System software",
+    "Sub_English": "Phần mềm hệ thống",
+    "Example": "Every machine in my company is under control of a system software.",
+    "English_Vocabulary_Test": [
+      "Máy chủ",
+      "Công nghệ thông tin",
+      "Card mạng"
+    ],
+    "Fill_Blank": "Every machine in my company is under control of a ______.",
+    "Mistakes": [
+      "Quality insurance",
+      "System software",
+      "Data processing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.31",
+    "English": "Programming software",
+    "Sub_English": "Phần mềm lập trình",
+    "Example": "Programmers use programming software to develop other software.",
+    "English_Vocabulary_Test": [
+      "An toàn thông tin",
+      "Công nghệ đa phương tiện",
+      "Thiết bị đầu ra"
+    ],
+    "Fill_Blank": "Programmers use ______ to develop other software.",
+    "Mistakes": [
+      "Encode",
+      "Digital photographer",
+      "Storage devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.32",
+    "English": "Image and graphic design",
+    "Sub_English": "Thiết kế đồ họa và hình ảnh",
+    "Example": "The image and graphic design is necessary to make websites visually appealing.",
+    "English_Vocabulary_Test": [
+      "Thiết bị đầu ra",
+      "Kỹ thuật phần mềm",
+      "Xử lý văn bản"
+    ],
+    "Fill_Blank": "The ______ is necessary to make websites visually appealing.",
+    "Mistakes": [
+      "Workload",
+      "Data transfer",
+      "Network card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.33",
+    "English": "Web development",
+    "Sub_English": "Phát triển mạng",
+    "Example": "The web development process includes web design, web content development, …",
+    "English_Vocabulary_Test": [
+      "Phần mềm",
+      "Thiết bị lưu trữ",
+      "Người quản trị dữ liệu"
+    ],
+    "Fill_Blank": "The ______ process includes web design, web content development, …",
+    "Mistakes": [
+      "Software developer ",
+      "Mainframe",
+      "Computer science"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.34",
+    "English": "Web administration",
+    "Sub_English": "Quản trị mạng",
+    "Example": "Web administration is the practice of keeping a website running efficiently and securely.",
+    "English_Vocabulary_Test": [
+      "(adj) có thể mang theo, xách tay",
+      "Quản lý dự án",
+      "Kỹ sư phần cứng"
+    ],
+    "Fill_Blank": "______ is the practice of keeping a website running efficiently and securely.",
+    "Mistakes": [
+      "Support technician",
+      "Data processing",
+      "Instructional designer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.35",
+    "English": "Word processing",
+    "Sub_English": "Xử lý văn bản",
+    "Example": "If you are an officer, the word processing skill is needed.",
+    "English_Vocabulary_Test": [
+      "Địa chỉ IP",
+      "Người quản trị dữ liệu",
+      "Truyền thông và mạng máy tính"
+    ],
+    "Fill_Blank": "If you are an officer, the ______ skill is needed.",
+    "Mistakes": [
+      "Software",
+      "Set up",
+      "Code "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.36",
+    "English": "Network card",
+    "Sub_English": "Card mạng",
+    "Example": "Network card is an electronic device that connects a computer to a computer.",
+    "English_Vocabulary_Test": [
+      "Kỹ thuật phần mềm",
+      "Mã hóa",
+      "Hệ thống thông tin"
+    ],
+    "Fill_Blank": "______ is an electronic device that connects a computer to a computer.",
+    "Mistakes": [
+      "Word processing",
+      "Software developer ",
+      "Software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.37",
+    "English": "IP (Internet Protocol) address",
+    "Sub_English": "Địa chỉ IP",
+    "Example": "If you can’t connect the Internet, you should check IP address.",
+    "English_Vocabulary_Test": [
+      "Công nghệ đa phương tiện",
+      "Thiết kế trang mạng",
+      "Thiết bị lưu trữ"
+    ],
+    "Fill_Blank": "If you can’t connect the Internet, you should check IP address.",
+    "Mistakes": [
+      "Helpdesk supervisor",
+      "Portable",
+      "Web development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.38",
+    "English": "Ping test",
+    "Sub_English": "Kiểm tra đường truyền mạng",
+    "Example": "A ping test is a method of checking if the computer is connected to a network.",
+    "English_Vocabulary_Test": [
+      "Kỹ thuật phần mềm",
+      "Người kiểm thử phần mềm",
+      "Phần mềm"
+    ],
+    "Fill_Blank": "A ______ is a method of checking if the computer is connected to a network.",
+    "Mistakes": [
+      "Tester",
+      "Software developer ",
+      "Information security"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.39",
+    "English": "Set up",
+    "Sub_English": "Sắp xếp, cài đặt, thiết lập",
+    "Example": "The CEO set up this company since 1995.",
+    "English_Vocabulary_Test": [
+      "Nhà phân tích hệ thống",
+      "Kỹ sư phần cứng",
+      "Quản trị mạng"
+    ],
+    "Fill_Blank": "The CEO ______ this company since 1995.",
+    "Mistakes": [
+      "Database administrator",
+      "Convert",
+      "Portable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.40",
+    "English": "Perform",
+    "Sub_English": "Thực hiện",
+    "Example": "This robot can perform different tasks at the same time.",
+    "English_Vocabulary_Test": [
+      "Quản trị mạng",
+      "Khối lượng công việc",
+      "Phần mềm"
+    ],
+    "Fill_Blank": "This robot can ______ different tasks at the same time.",
+    "Mistakes": [
+      "Webmaster",
+      "Database administrator",
+      "Information Technology"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.41",
+    "English": "Software developer ",
+    "Sub_English": "Kĩ sư phần mềm",
+    "Example": "A software developer is a good career choice in modern life.",
+    "English_Vocabulary_Test": [
+      "Chuyên gia bảo mật máy tính",
+      "Tư vấn thiết kế",
+      "Nhà phân tích hệ thống"
+    ],
+    "Fill_Blank": "A ______is a good career choice in modern life.",
+    "Mistakes": [
+      "Encode",
+      "Retrieve",
+      "Image and graphic design"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.42",
+    "English": "Hardware engineer",
+    "Sub_English": "Kỹ sư phần cứng",
+    "Example": "Excuse me! Does your company have a hardware engineer?",
+    "English_Vocabulary_Test": [
+      "Quản trị mạng",
+      "Thiết kế đồ họa và hình ảnh",
+      "Hệ thống thông tin"
+    ],
+    "Fill_Blank": "Excuse me! Does your company have a ______?",
+    "Mistakes": [
+      "Set up",
+      "System software",
+      "Ping test"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.43",
+    "English": "Support technician",
+    "Sub_English": "Kĩ thuật viên hỗ trợ",
+    "Example": "When the computer systems in our office have problems, we often ask a support technician to repair.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra đường truyền mạng",
+      "Thiết bị đầu vào",
+      "Thiết kế trang mạng"
+    ],
+    "Fill_Blank": "When the computer systems in our office have problems, we often ask a ______ to repair.",
+    "Mistakes": [
+      "Input devices",
+      "Network card",
+      "Mainframe"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.44",
+    "English": "Web designer/ developer",
+    "Sub_English": "Thiết kế trang mạng",
+    "Example": "A web designer needs to be very creative to make the best websites.",
+    "English_Vocabulary_Test": [
+      "Địa chỉ IP",
+      "Hệ thống thông tin",
+      "Khoa học máy tính"
+    ],
+    "Fill_Blank": "A web designer needs to be very creative to make the best websites.",
+    "Mistakes": [
+      "Server",
+      "Software developer ",
+      "Transmit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.45",
+    "English": "Webmaster",
+    "Sub_English": "Quản trị trang mạng",
+    "Example": "A webmaster is a person responsible for maintaining one or many websites.",
+    "English_Vocabulary_Test": [
+      "Máy chủ",
+      "Người quản trị dữ liệu",
+      "Phần cứng"
+    ],
+    "Fill_Blank": "A ______ is a person responsible for maintaining one or many websites.",
+    "Mistakes": [
+      "Tester",
+      "Application software",
+      "Communications and Computer Networks"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.46",
+    "English": "Network administrator",
+    "Sub_English": "Quản trị hệ thống mạng",
+    "Example": "Earning a bachelor's degree in a computer-related field is a good first step in becoming a network administrator.",
+    "English_Vocabulary_Test": [
+      "Tư vấn thiết kế",
+      "Quản lý dự án",
+      "Phần mềm hệ thống"
+    ],
+    "Fill_Blank": "Earning a bachelor's degree in a computer-related field is a good first step in becoming a ______.",
+    "Mistakes": [
+      "Hardware engineer",
+      "Data processing",
+      "Computer security specialist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.47",
+    "English": "Database administrator",
+    "Sub_English": "Người quản trị dữ liệu",
+    "Example": "A database administrator needs to use specialized software to store and organize data.",
+    "English_Vocabulary_Test": [
+      "Công nghệ thông tin",
+      "Thực hiện",
+      "Địa chỉ IP"
+    ],
+    "Fill_Blank": "A ______ needs to use specialized software to store and organize data.",
+    "Mistakes": [
+      "Information system",
+      "Programming software",
+      "Software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.48",
+    "English": "Helpdesk supervisor",
+    "Sub_English": "Giám sát đội kỹ thuật",
+    "Example": "The helpdesk supervisor’s role is to oversee the entire helpdesk staff.",
+    "English_Vocabulary_Test": [
+      "Thiết kế ứng dụng",
+      "Thiết kế đồ họa",
+      "Máy chủ"
+    ],
+    "Fill_Blank": "The ______’s role is to oversee the entire helpdesk staff.",
+    "Mistakes": [
+      "Web administration",
+      "Project manager",
+      "Image and graphic design"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.49",
+    "English": "Project manager",
+    "Sub_English": "Quản lý dự án",
+    "Example": "A project manager is in charge of a specific project or projects within a company.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra đường truyền mạng",
+      "Thiết bị đầu ra",
+      "Phần mềm lập trình"
+    ],
+    "Fill_Blank": "A ______ is in charge of a specific project or projects within a company.",
+    "Mistakes": [
+      "Workstation",
+      "Computer security specialist",
+      "Instructional designer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.50",
+    "English": "System analyst",
+    "Sub_English": "Nhà phân tích hệ thống",
+    "Example": "A system analyst is an information technology (IT) professional who specializes in analyzing, designing, and implementing information systems.",
+    "English_Vocabulary_Test": [
+      "(adj) có thể mang theo, xách tay",
+      "Quản trị hệ thống mạng",
+      "Card mạng"
+    ],
+    "Fill_Blank": "A ______ is an information technology (IT) professional who specializes in analyzing, designing, and implementing information systems.",
+    "Mistakes": [
+      "Encode",
+      "Data processing",
+      "Transmit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.51",
+    "English": "Tester",
+    "Sub_English": "Người kiểm thử phần mềm",
+    "Example": "Making an investigation in the quality of a software product or service is a tester’s duty.",
+    "English_Vocabulary_Test": [
+      "Thiết bị đầu ra",
+      "Giám sát đội kỹ thuật",
+      "Sắp xếp, cài đặt, thiết lập"
+    ],
+    "Fill_Blank": "Making an investigation in the quality of a software product or service is a ______’s duty.",
+    "Mistakes": [
+      "Computer science",
+      "IP (Internet Protocol) address",
+      "Programming software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.52",
+    "English": "Computer security specialist",
+    "Sub_English": "Chuyên gia bảo mật máy tính",
+    "Example": "A computer security specialist will be responsible for security measures for the company’s system.",
+    "English_Vocabulary_Test": [
+      "Quản lý dự án",
+      "Phần mềm",
+      "Sắp xếp, cài đặt, thiết lập"
+    ],
+    "Fill_Blank": "A ______ will be responsible for security measures for the company’s system.",
+    "Mistakes": [
+      "Digital photographer",
+      "Support technician",
+      "Graphic artist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.53",
+    "English": "App designer",
+    "Sub_English": "Thiết kế ứng dụng",
+    "Example": "An app designer may create games, weather apps, social networking tools, maps and navigation programs, and much more.",
+    "English_Vocabulary_Test": [
+      "Thiết kế đồ họa",
+      "Quản trị trang mạng",
+      "Kỹ sư phần cứng"
+    ],
+    "Fill_Blank": "An ______ may create games, weather apps, social networking tools, maps and navigation programs, and much more.",
+    "Mistakes": [
+      "Production assistant",
+      "Project manager",
+      "Quality insurance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.54",
+    "English": "Graphic artist",
+    "Sub_English": "Thiết kế đồ họa",
+    "Example": "A graphic artist is responsible for designing creative content for online campaigns, print ads, websites, and even videos.",
+    "English_Vocabulary_Test": [
+      "Chuyển đổi",
+      "Kỹ sư phần cứng",
+      "Nhà phân tích hệ thống"
+    ],
+    "Fill_Blank": "A ______ is responsible for designing creative content for online campaigns, print ads, websites, and even videos.",
+    "Mistakes": [
+      "Webmaster",
+      "Server",
+      "Data processing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.55",
+    "English": "Digital photographer",
+    "Sub_English": "Nhiếp ảnh gia kỹ thuật số",
+    "Example": "Digital photographers use digital cameras to take pictures and then edit those images on a computer.",
+    "English_Vocabulary_Test": [
+      "Truyền thông và mạng máy tính",
+      "Thiết bị đầu ra",
+      "(adj) có thể mang theo, xách tay"
+    ],
+    "Fill_Blank": "______s use digital cameras to take pictures and then edit those images on a computer.",
+    "Mistakes": [
+      "Helpdesk supervisor",
+      "Support technician",
+      "Network card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.56",
+    "English": "Production assistant",
+    "Sub_English": "Trợ lý sản xuất",
+    "Example": "Production assistants manage digital graphics and metadata for the production team.",
+    "English_Vocabulary_Test": [
+      "Địa chỉ IP",
+      "Kĩ sư phần mềm",
+      "Thiết kế ứng dụng"
+    ],
+    "Fill_Blank": "______s manage digital graphics and metadata for the production team.",
+    "Mistakes": [
+      "Workload",
+      "Workstation",
+      "Software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.1.57",
+    "English": "Instructional designer",
+    "Sub_English": "Tư vấn thiết kế",
+    "Example": "Instructional designers are responsible for creating the course design and developing all instructional materials, including presentation materials, participant guides, handouts, and job aids.",
+    "English_Vocabulary_Test": [
+      "Kỹ sư phần cứng",
+      "Card mạng",
+      "Phần mềm hệ thống"
+    ],
+    "Fill_Blank": "______s are responsible for creating the course design and developing all instructional materials, including presentation materials, participant guides, handouts, and job aids.",
+    "Mistakes": [
+      "Hardware",
+      "Multimedia technology",
+      "Information system"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.1",
+    "English": "Processor",
+    "Sub_English": "Bộ xử lý",
+    "Example": "A main part of ASIMO is its computer processor.",
+    "English_Vocabulary_Test": [
+      "Lệnh",
+      "Bộ logic toán học",
+      "Quạt làm mát"
+    ],
+    "Fill_Blank": "A main part of ASIMO is its computer ______.",
+    "Mistakes": [
+      "System clock",
+      "CPU ",
+      "Along"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.2",
+    "English": "Power supply",
+    "Sub_English": "Bộ cấp nguồn",
+    "Example": "The power supply of my computer stopped working last night.",
+    "English_Vocabulary_Test": [
+      "Khối điều khiển",
+      "Vào trong",
+      "Men theo, dọc theo"
+    ],
+    "Fill_Blank": "The ______ of my computer stopped working last night.",
+    "Mistakes": [
+      "Cache",
+      "Arithmetic Logic Unit ",
+      "Perform "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.3",
+    "English": "Hard drive = hard disk",
+    "Sub_English": "Ổ cứng/Đĩa cứng",
+    "Example": "This hard drive is about £50.",
+    "English_Vocabulary_Test": [
+      "Đường truyền dữ liệu",
+      "Bộ xử lí trung tâm",
+      "RAM động"
+    ],
+    "Fill_Blank": "This hard drive is about £50.",
+    "Mistakes": [
+      "Heat sink",
+      "Cache",
+      "Into"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.4",
+    "English": "System fan",
+    "Sub_English": "Quạt làm mát",
+    "Example": "System fan is functional to draw cooler air into the case from outside.",
+    "English_Vocabulary_Test": [
+      "Vận hành",
+      "Bảng mạch chính",
+      "Thực hiện"
+    ],
+    "Fill_Blank": "______ is functional to draw cooler air into the case from outside.",
+    "Mistakes": [
+      "Cache",
+      "CPU ",
+      "Into"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.5",
+    "English": "Optical drive",
+    "Sub_English": "ổ đĩa quang",
+    "Example": "An optical drive is any storage device that uses light to read and write information.",
+    "English_Vocabulary_Test": [
+      "Băng qua, ngang qua",
+      "Bộ tản nhiệt",
+      "Dung lượng"
+    ],
+    "Fill_Blank": "An ______ is any storage device that uses light to read and write information.",
+    "Mistakes": [
+      "Register",
+      "Motherboard",
+      "Hold "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.6",
+    "English": "Motherboard",
+    "Sub_English": "Bảng mạch chính",
+    "Example": "Without motherboards, laptops will not work.",
+    "English_Vocabulary_Test": [
+      "Dung lượng bộ nhớ",
+      "Chứa",
+      "Khối điều khiển"
+    ],
+    "Fill_Blank": "Without ______s, laptops will not work.",
+    "Mistakes": [
+      "Along",
+      "Optical drive",
+      "Permanently"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.7",
+    "English": "RAM modules",
+    "Sub_English": "Bộ nhớ",
+    "Example": "Memory modules are used to store data.",
+    "English_Vocabulary_Test": [
+      "Bộ xử lý",
+      "Bộ logic toán học",
+      "Chuyển"
+    ],
+    "Fill_Blank": "Memory modules are used to store data.",
+    "Mistakes": [
+      "Processor speed",
+      "Mathematical calculation",
+      "Transfer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.8",
+    "English": "Heat sink",
+    "Sub_English": "Bộ tản nhiệt",
+    "Example": "A heat sink is used to cool down the processor.",
+    "English_Vocabulary_Test": [
+      "Dung lượng bộ nhớ",
+      "Bộ logic toán học",
+      "Khối điều khiển"
+    ],
+    "Fill_Blank": "A ______ is used to cool down the processor.",
+    "Mistakes": [
+      "Inside",
+      "Process ",
+      "Into"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.9",
+    "English": "CPU ",
+    "Sub_English": "Bộ xử lí trung tâm",
+    "Example": "Every computer needs a CPU to work.",
+    "English_Vocabulary_Test": [
+      "Ổ cứng/Đĩa cứng",
+      "Tiếp cận, truy cập",
+      "Bộ nhớ"
+    ],
+    "Fill_Blank": "Every computer needs a ______to work.",
+    "Mistakes": [
+      "Motherboard",
+      "Bus speed",
+      "Synchronous dynamic random access memory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.10",
+    "English": "Control unit",
+    "Sub_English": "Khối điều khiển",
+    "Example": "Control unit is a component of central processing unit.",
+    "English_Vocabulary_Test": [
+      "Bảng mạch chính",
+      "Tốc độ xung nhịp xử lý",
+      "Vi mạch"
+    ],
+    "Fill_Blank": "______ is a component of central processing unit.",
+    "Mistakes": [
+      "Along",
+      "Contain",
+      "Processor speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.11",
+    "English": "Arithmetic Logic Unit ",
+    "Sub_English": "Bộ logic toán học",
+    "Example": "An arithmetic logic unit (ALU) is a combinational digital electronic circuit that performs arithmetic and logic operations.",
+    "English_Vocabulary_Test": [
+      "Bộ nhớ truy cập ngẫu nhiên",
+      "Dung lượng bộ nhớ",
+      "Thực hiện"
+    ],
+    "Fill_Blank": "An ______(ALU) is a combinational digital electronic circuit that performs arithmetic and logic operations.",
+    "Mistakes": [
+      "Hold ",
+      "CPU ",
+      "System fan"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.12",
+    "English": "System clock",
+    "Sub_English": "Mạch sung nhịp hệ thống",
+    "Example": "The system clock sends out a signal to all other computer components.",
+    "English_Vocabulary_Test": [
+      "Khối điều khiển",
+      "Dung lượng ổ cứng",
+      "Tốc độ xung nhịp xử lý"
+    ],
+    "Fill_Blank": "The ______ sends out a signal to all other computer components.",
+    "Mistakes": [
+      "RAM ",
+      "Integrated circuit",
+      "Access"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.13",
+    "English": "Clock speed",
+    "Sub_English": "Tốc độ xung nhịp xử lý",
+    "Example": "Clock speed is used to measure the speed of the CPU.",
+    "English_Vocabulary_Test": [
+      "Bên trong",
+      "Băng qua, ngang qua",
+      "Thuật toán"
+    ],
+    "Fill_Blank": "______ is used to measure the speed of the CPU.",
+    "Mistakes": [
+      "Carry out",
+      "Clock speed",
+      "Processor speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.14",
+    "English": "Instruction",
+    "Sub_English": "Lệnh",
+    "Example": "The computer has 16 bit instruction registers.",
+    "English_Vocabulary_Test": [
+      "Bộ cấp nguồn",
+      "Đường truyền dữ liệu",
+      "Vận hành"
+    ],
+    "Fill_Blank": "The computer has 16 bit ______ registers.",
+    "Mistakes": [
+      "Perform ",
+      "Operate",
+      "Clock speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.15",
+    "English": "Integrated circuit",
+    "Sub_English": "Vi mạch",
+    "Example": "There are different types of integrated circuits.",
+    "English_Vocabulary_Test": [
+      "Bộ logic toán học",
+      "Lệnh",
+      "Tốc độ xung nhịp xử lý"
+    ],
+    "Fill_Blank": "There are different types of ______s.",
+    "Mistakes": [
+      "Register",
+      "RAM modules",
+      "Bus speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.16",
+    "English": "Bus",
+    "Sub_English": "Đường truyền dữ liệu",
+    "Example": "Computer devices connect to each other through the bus.",
+    "English_Vocabulary_Test": [
+      "Chuyển",
+      "Vào trong",
+      "Dung lượng ổ cứng"
+    ],
+    "Fill_Blank": "Computer devices connect to each other through the ______.",
+    "Mistakes": [
+      "System clock",
+      "Between",
+      "Process "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.17",
+    "English": "RAM ",
+    "Sub_English": "Bộ nhớ truy cập ngẫu nhiên",
+    "Example": "RAM is a type of computer memory.",
+    "English_Vocabulary_Test": [
+      "Vi mạch",
+      "Tạm thời",
+      "Bộ nhớ/vùng nhớ đệm"
+    ],
+    "Fill_Blank": "______is a type of computer memory.",
+    "Mistakes": [
+      "Across",
+      "Optical drive",
+      "Bus"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.18",
+    "English": "Synchronous dynamic random access memory",
+    "Sub_English": "RAM động",
+    "Example": "SDRAM is widely used in computers because of its huge storage capacity.",
+    "English_Vocabulary_Test": [
+      "Vi mạch",
+      "Ổ cứng/Đĩa cứng",
+      "Chuyển"
+    ],
+    "Fill_Blank": "SDRAM is widely used in computers because of its huge storage capacity.",
+    "Mistakes": [
+      "Transfer",
+      "Operate",
+      "Hold "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.19",
+    "English": "Register",
+    "Sub_English": "Thanh ghi",
+    "Example": "Some registers have specific hardware functions.",
+    "English_Vocabulary_Test": [
+      "Chứa",
+      "RAM động",
+      "Tốc độ ổ đĩa"
+    ],
+    "Fill_Blank": "Some ______s have specific hardware functions.",
+    "Mistakes": [
+      "Memory size",
+      "Temporarily",
+      "Access"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.20",
+    "English": "Hard disk capacity",
+    "Sub_English": "Dung lượng ổ cứng",
+    "Example": "The hard disk capacity is measured in gigabytes and terabytes.",
+    "English_Vocabulary_Test": [
+      "Bộ xử lí trung tâm",
+      "Tiến hành",
+      "Vào trong"
+    ],
+    "Fill_Blank": "The ______ is measured in gigabytes and terabytes.",
+    "Mistakes": [
+      "Hold ",
+      "Synchronous dynamic random access memory",
+      "Clock speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.21",
+    "English": "Cache",
+    "Sub_English": "Bộ nhớ/vùng nhớ đệm",
+    "Example": "A cache is a hardware or software component that stores data for future requests.",
+    "English_Vocabulary_Test": [
+      "ổ đĩa quang",
+      "Chứa",
+      "Chuyển"
+    ],
+    "Fill_Blank": "A ______ is a hardware or software component that stores data for future requests.",
+    "Mistakes": [
+      "Arithmetic Logic Unit ",
+      "Hold ",
+      "Optical drive speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.22",
+    "English": "Storage capacity",
+    "Sub_English": "Dung lượng",
+    "Example": "The storage capacity of this hard drive is 4.3 GB.",
+    "English_Vocabulary_Test": [
+      "Chứa",
+      "Thuật toán",
+      "Bộ tản nhiệt"
+    ],
+    "Fill_Blank": "The ______ of this hard drive is 4.3 GB.",
+    "Mistakes": [
+      "Contain",
+      "Hold ",
+      "Onto"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.23",
+    "English": "Optical drive speed",
+    "Sub_English": "Tốc độ ổ đĩa",
+    "Example": "Can you show me how to read the optical drive speed on my computer technical specifications?",
+    "English_Vocabulary_Test": [
+      "Dung lượng bộ nhớ",
+      "Ổ cứng/Đĩa cứng",
+      "Tiếp cận, truy cập"
+    ],
+    "Fill_Blank": "Can you show me how to read the ______ on my computer technical specifications?",
+    "Mistakes": [
+      "Integrated circuit",
+      "Power supply",
+      "Execute "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.24",
+    "English": "Memory size",
+    "Sub_English": "Dung lượng bộ nhớ",
+    "Example": "I want to increase my memory size.",
+    "English_Vocabulary_Test": [
+      "Quạt làm mát",
+      "Mạch sung nhịp hệ thống",
+      "Vận hành"
+    ],
+    "Fill_Blank": "I want to increase my ______.",
+    "Mistakes": [
+      "Control unit",
+      "Along",
+      "Integrated circuit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.25",
+    "English": "Processor speed",
+    "Sub_English": "Tốc độ xử lý của CPU",
+    "Example": "Some people choose laptops based on its processor speed.",
+    "English_Vocabulary_Test": [
+      "Bộ xử lí trung tâm",
+      "RAM động",
+      "Thanh ghi"
+    ],
+    "Fill_Blank": "Some people choose laptops based on its ______.",
+    "Mistakes": [
+      "Synchronous dynamic random access memory",
+      "Transfer",
+      "Access"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.26",
+    "English": "Bus speed",
+    "Sub_English": "Tốc độ xử lý dữ liệu",
+    "Example": "FSB speeds can range from 66 MHz to over 800 MHz.",
+    "English_Vocabulary_Test": [
+      "Dung lượng",
+      "Ổ cứng/Đĩa cứng",
+      "Men theo, dọc theo"
+    ],
+    "Fill_Blank": "FSB speeds can range from 66 MHz to over 800 MHz.",
+    "Mistakes": [
+      "Perform ",
+      "Onto",
+      "Across"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.27",
+    "English": "Contain",
+    "Sub_English": "Chứa",
+    "Example": "Each square in the periodic table contains basic information about elements.",
+    "English_Vocabulary_Test": [
+      "Quạt làm mát",
+      "Mạch sung nhịp hệ thống",
+      "Tốc độ ổ đĩa"
+    ],
+    "Fill_Blank": "Each square in the periodic table ______s basic information about elements.",
+    "Mistakes": [
+      "CPU ",
+      "Operate",
+      "Contain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.28",
+    "English": "Execute ",
+    "Sub_English": "Thực hiện",
+    "Example": "They had to execute their orders with the greatest effort.",
+    "English_Vocabulary_Test": [
+      "Bên trong",
+      "Bảng mạch chính",
+      "Thanh ghi"
+    ],
+    "Fill_Blank": "They had to ______their orders with the greatest effort.",
+    "Mistakes": [
+      "Across",
+      "Execute ",
+      "Mathematical calculation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.29",
+    "English": "Process ",
+    "Sub_English": "Xử lý dữ liệu",
+    "Example": "It takes some time to process the data.",
+    "English_Vocabulary_Test": [
+      "Bộ nhớ/vùng nhớ đệm",
+      "Cố định",
+      "Dung lượng bộ nhớ"
+    ],
+    "Fill_Blank": "It takes some time to ______the data.",
+    "Mistakes": [
+      "System clock",
+      "Optical drive",
+      "Motherboard"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.30",
+    "English": "Operate",
+    "Sub_English": "Vận hành",
+    "Example": "You should inspect carefully before you operate any engine.",
+    "English_Vocabulary_Test": [
+      "Tốc độ xử lý của CPU",
+      "Ổ cứng/Đĩa cứng",
+      "Bộ nhớ truy cập ngẫu nhiên"
+    ],
+    "Fill_Blank": "You should inspect carefully before you ______ any engine.",
+    "Mistakes": [
+      "Optical drive speed",
+      "Storage capacity",
+      "Contain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.31",
+    "English": "Transfer",
+    "Sub_English": "Chuyển",
+    "Example": "You should transfer most of your existing files over to your new computer.",
+    "English_Vocabulary_Test": [
+      "Bộ logic toán học",
+      "Cố định",
+      "Dung lượng ổ cứng"
+    ],
+    "Fill_Blank": "You should ______ most of your existing files over to your new computer.",
+    "Mistakes": [
+      "Mathematical calculation",
+      "Hard disk capacity",
+      "Inside"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.32",
+    "English": "Perform ",
+    "Sub_English": "Thực hiện, thi hành, biểu diễn",
+    "Example": "Computers can perform many tasks at the same time.",
+    "English_Vocabulary_Test": [
+      "Thực hiện",
+      "Tốc độ xử lý dữ liệu",
+      "ổ đĩa quang"
+    ],
+    "Fill_Blank": "Computers can ______many tasks at the same time.",
+    "Mistakes": [
+      "Clock speed",
+      "Optical drive",
+      "Memory size"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.33",
+    "English": "Hold ",
+    "Sub_English": "Chứa",
+    "Example": "The hard drive holds data for long-term use.",
+    "English_Vocabulary_Test": [
+      "Bên trong",
+      "Ổ cứng/Đĩa cứng",
+      "Mạch sung nhịp hệ thống"
+    ],
+    "Fill_Blank": "The hard drive holds data for long-term use.",
+    "Mistakes": [
+      "Power supply",
+      "Optical drive",
+      "Register"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.34",
+    "English": "Access",
+    "Sub_English": "Tiếp cận, truy cập",
+    "Example": "To access the electrical board, you need a screwdriver.",
+    "English_Vocabulary_Test": [
+      "Xử lý dữ liệu",
+      "Lệnh",
+      "Đường truyền dữ liệu"
+    ],
+    "Fill_Blank": "To ______ the electrical board, you need a screwdriver.",
+    "Mistakes": [
+      "Across",
+      "Carry out",
+      "Perform "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.35",
+    "English": "Carry out",
+    "Sub_English": "Tiến hành",
+    "Example": "The distinct function of a computer is carrying out the processing.",
+    "English_Vocabulary_Test": [
+      "Tạm thời",
+      "Bộ xử lý",
+      "Bộ tản nhiệt"
+    ],
+    "Fill_Blank": "The distinct function of a computer is carrying out the processing.",
+    "Mistakes": [
+      "Storage capacity",
+      "Along",
+      "Hard disk capacity"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.36",
+    "English": "Permanently",
+    "Sub_English": "Cố định",
+    "Example": "Data is saved permanently in RAM.",
+    "English_Vocabulary_Test": [
+      "Vào trong",
+      "Về phía trên",
+      "Tốc độ xung nhịp xử lý"
+    ],
+    "Fill_Blank": "Data is saved ______ in RAM.",
+    "Mistakes": [
+      "Bus",
+      "Operate",
+      "RAM "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.37",
+    "English": "Temporarily",
+    "Sub_English": "Tạm thời",
+    "Example": "Data is saved temporarily in RAM.",
+    "English_Vocabulary_Test": [
+      "Băng qua, ngang qua",
+      "Dung lượng bộ nhớ",
+      "Tiến hành"
+    ],
+    "Fill_Blank": "Data is saved ______ in RAM.",
+    "Mistakes": [
+      "Bus",
+      "Heat sink",
+      "Integrated circuit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.38",
+    "English": "Mathematical calculation",
+    "Sub_English": "Thuật toán",
+    "Example": "Mathematical calculations are performed by ALU.",
+    "English_Vocabulary_Test": [
+      "Bộ tản nhiệt",
+      "Thực hiện, thi hành, biểu diễn",
+      "Thanh ghi"
+    ],
+    "Fill_Blank": "______s are performed by ALU.",
+    "Mistakes": [
+      "Contain",
+      "Between",
+      "Into"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.39",
+    "English": "Between",
+    "Sub_English": "Ở giữa",
+    "Example": "Their house is between the bookshop and the restaurant.",
+    "English_Vocabulary_Test": [
+      "Khối điều khiển",
+      "Tạm thời",
+      "Vi mạch"
+    ],
+    "Fill_Blank": "Their house is ______ the bookshop and the restaurant.",
+    "Mistakes": [
+      "Hard drive = hard disk",
+      "Hard disk capacity",
+      "Mathematical calculation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.40",
+    "English": "Into",
+    "Sub_English": "Vào trong",
+    "Example": "They come into the classroom.",
+    "English_Vocabulary_Test": [
+      "Thanh ghi",
+      "Tạm thời",
+      "Bộ nhớ/vùng nhớ đệm"
+    ],
+    "Fill_Blank": "They come ______ the classroom.",
+    "Mistakes": [
+      "Optical drive speed",
+      "RAM ",
+      "Contain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.41",
+    "English": "Along",
+    "Sub_English": "Men theo, dọc theo",
+    "Example": "He is going along the river to take photos of the nature.",
+    "English_Vocabulary_Test": [
+      "Vận hành",
+      "Bộ nhớ/vùng nhớ đệm",
+      "Chuyển"
+    ],
+    "Fill_Blank": "He is going ______ the river to take photos of the nature.",
+    "Mistakes": [
+      "RAM modules",
+      "Processor speed",
+      "Storage capacity"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.42",
+    "English": "Inside",
+    "Sub_English": "Bên trong",
+    "Example": "The teddy bear is inside the box.",
+    "English_Vocabulary_Test": [
+      "Về phía trên",
+      "Khối điều khiển",
+      "Dung lượng bộ nhớ"
+    ],
+    "Fill_Blank": "The teddy bear is ______ the box.",
+    "Mistakes": [
+      "Hold ",
+      "Bus",
+      "CPU "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.43",
+    "English": "Across",
+    "Sub_English": "Băng qua, ngang qua",
+    "Example": "A boy and a girl are going across the street.",
+    "English_Vocabulary_Test": [
+      "Tốc độ xung nhịp xử lý",
+      "Dung lượng bộ nhớ",
+      "Tốc độ xử lý của CPU"
+    ],
+    "Fill_Blank": "A boy and a girl are going ______ the street.",
+    "Mistakes": [
+      "Mathematical calculation",
+      "Motherboard",
+      "Between"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.2.44",
+    "English": "Onto",
+    "Sub_English": "Về phía trên",
+    "Example": "Move the books onto the second shelf.",
+    "English_Vocabulary_Test": [
+      "Bộ logic toán học",
+      "Cố định",
+      "Bộ xử lí trung tâm"
+    ],
+    "Fill_Blank": "Move the books ______ the second shelf.",
+    "Mistakes": [
+      "Integrated circuit",
+      "Arithmetic Logic Unit ",
+      "Bus speed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.1",
+    "English": "Keyboard",
+    "Sub_English": "Bàn phím",
+    "Example": "I cannot find the keyboard. I do not remember where I left it.",
+    "English_Vocabulary_Test": [
+      "Máy ảnh kỹ thuật số",
+      "Màn hình máy tính",
+      "Màn hình plasma"
+    ],
+    "Fill_Blank": "I cannot find the ______. I do not remember where I left it.",
+    "Mistakes": [
+      "Video graphics adapter cable",
+      "Drag",
+      "Response time"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.2",
+    "English": "Arrow key",
+    "Sub_English": "Phím mũi tên",
+    "Example": "Arrow keys are typically located at the bottom of the keyboard to the left side of the numeric keypad.",
+    "English_Vocabulary_Test": [
+      "Máy ảnh kỹ thuật số",
+      "Máy quay",
+      "(v) Giữ, nắm giữ, lấy (cái gì đó)"
+    ],
+    "Fill_Blank": "______s are typically located at the bottom of the keyboard to the left side of the numeric keypad.",
+    "Mistakes": [
+      "Video graphics adapter cable",
+      "Aspect ratio",
+      "Touch screen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.3",
+    "English": "Cursor control key",
+    "Sub_English": "Phím điều khiển con trỏ",
+    "Example": "Cursor control keys include arrow keys and keys such as End, Home, Page up and Page down.",
+    "English_Vocabulary_Test": [
+      "(v) Nhấn đúp, kích đúp",
+      "Micro",
+      "Bút quang"
+    ],
+    "Fill_Blank": "______s include arrow keys and keys such as End, Home, Page up and Page down.",
+    "Mistakes": [
+      "Response time",
+      "Aspect ratio",
+      "Microphone"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.4",
+    "English": "Alphanumeric keys",
+    "Sub_English": "Các phím số và chữ",
+    "Example": "Alphanumeric keys represent letters and numbers, as arranged on a typewriter.",
+    "English_Vocabulary_Test": [
+      "Màn hình phẳng",
+      "Máy quay",
+      "Phím đệm số"
+    ],
+    "Fill_Blank": "______ represent letters and numbers, as arranged on a typewriter.",
+    "Mistakes": [
+      "Webcam",
+      "Grab",
+      "High-Definition Multimedia Interface  cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.5",
+    "English": "Function key",
+    "Sub_English": "Phím chức năng",
+    "Example": "How to turn off function key on keyboard?",
+    "English_Vocabulary_Test": [
+      "Thông số phản hồi tín hiệu",
+      "Bảng vẽ đồ họa",
+      "Cáp kết nối HDMI"
+    ],
+    "Fill_Blank": "How to turn off ______ on keyboard?",
+    "Mistakes": [
+      "Light pen",
+      "Scanner",
+      "Digital camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.6",
+    "English": "Dedicated key",
+    "Sub_English": "Phím chuyên dụng",
+    "Example": "Ctrl or Alt keys are called dedicated keys.",
+    "English_Vocabulary_Test": [
+      "Đầu đọc mã vạch",
+      "Chuột máy tính",
+      "Chuột cảm ứng (của máy tính xách tay)"
+    ],
+    "Fill_Blank": "Ctrl or Alt keys are called ______s.",
+    "Mistakes": [
+      "Drag",
+      "Speaker",
+      "Resolution"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.7",
+    "English": "Numeric keypad",
+    "Sub_English": "Phím đệm số",
+    "Example": "On a laptop, there is usually no numeric keypad.",
+    "English_Vocabulary_Test": [
+      "(v) Lựa chọn, chọn",
+      "Độ sâu màu sắc",
+      "Micro"
+    ],
+    "Fill_Blank": "On a laptop, there is usually no ______.",
+    "Mistakes": [
+      "Printer",
+      "Digital camera",
+      "Cursor control key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.8",
+    "English": "Mouse",
+    "Sub_English": "Chuột máy tính",
+    "Example": "Click the left mouse button twice to highlight the program.",
+    "English_Vocabulary_Test": [
+      "Loa",
+      "Chuột cảm ứng (của máy tính xách tay)",
+      "Tỷ lệ màn hình"
+    ],
+    "Fill_Blank": "Click the left ______ button twice to highlight the program.",
+    "Mistakes": [
+      "Scanner",
+      "Microphone",
+      "Numeric keypad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.9",
+    "English": "Right mouse button",
+    "Sub_English": "Phím chuột phải",
+    "Example": "Just click the right mouse button and then you can paste the pictures into your document.",
+    "English_Vocabulary_Test": [
+      "Đầu đọc mã vạch",
+      "Máy quét",
+      "Độ phân giải"
+    ],
+    "Fill_Blank": "Just click the ______ and then you can paste the pictures into your document.",
+    "Mistakes": [
+      "Scroll wheel",
+      "Grab",
+      "Video graphics adapter cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.10",
+    "English": "Left mouse button",
+    "Sub_English": "Phím chuột trái",
+    "Example": "You can also display the control menu by pressing the left mouse button.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Độ phân giải",
+      "Đầu đọc mã vạch"
+    ],
+    "Fill_Blank": "You can also display the control menu by pressing the ______.",
+    "Mistakes": [
+      "LCD – liquid crystal display",
+      "Video graphics adapter cable",
+      "Barcode reader"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.11",
+    "English": "Scroll wheel",
+    "Sub_English": "Con lăn",
+    "Example": "The scroll wheel that is located in the middle of the mouse is used to scroll up and down on any page.",
+    "English_Vocabulary_Test": [
+      "Phím điều khiển con trỏ",
+      "Chỗ đặt bàn tay (trên chuột, bàn phím)",
+      "Màn hình phẳng"
+    ],
+    "Fill_Blank": "The ______ that is located in the middle of the mouse is used to scroll up and down on any page.",
+    "Mistakes": [
+      "Color depth",
+      "Touchpad",
+      "Arrow key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.12",
+    "English": "Palm rest",
+    "Sub_English": "Chỗ đặt bàn tay (trên chuột, bàn phím)",
+    "Example": "A mouse typically includes some basic parts such as buttons, scroll wheel and palm rest.",
+    "English_Vocabulary_Test": [
+      "Máy in",
+      "Độ phân giải",
+      "Phím chuột trái"
+    ],
+    "Fill_Blank": "A mouse typically includes some basic parts such as buttons, scroll wheel and ______.",
+    "Mistakes": [
+      "Monitor",
+      "High-Definition Multimedia Interface  cable",
+      "Dedicated key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.13",
+    "English": "Grab",
+    "Sub_English": "(v) Giữ, nắm giữ, lấy (cái gì đó)",
+    "Example": "Electricians often wear a toolbelt to grab tools quickly.",
+    "English_Vocabulary_Test": [
+      "Màn hình tinh thể lỏng",
+      "Bảng vẽ đồ họa",
+      "Phím điều khiển con trỏ"
+    ],
+    "Fill_Blank": "Electricians often wear a toolbelt to ______ tools quickly.",
+    "Mistakes": [
+      "Touch screen",
+      "Dedicated key",
+      "Flat-screen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.14",
+    "English": "Select",
+    "Sub_English": "(v) Lựa chọn, chọn",
+    "Example": "To select one object or icon on your screen, press the left button of your mouse once.",
+    "English_Vocabulary_Test": [
+      "Bút quang",
+      "Máy in",
+      "Con lăn"
+    ],
+    "Fill_Blank": "To ______ one object or icon on your screen, press the left button of your mouse once.",
+    "Mistakes": [
+      "Touchpad",
+      "Grab",
+      "Dedicated key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.15",
+    "English": "Drag",
+    "Sub_English": "(v) Kéo, rê",
+    "Example": "You can use your mouse to drag icons and other objects on your computer screen.",
+    "English_Vocabulary_Test": [
+      "Phím chuyên dụng",
+      "Máy in",
+      "Màn hình plasma"
+    ],
+    "Fill_Blank": "You can use your mouse to ______ icons and other objects on your computer screen.",
+    "Mistakes": [
+      "Left mouse button",
+      "Response time",
+      "Scanner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.16",
+    "English": "Double click",
+    "Sub_English": "(v) Nhấn đúp, kích đúp",
+    "Example": "Double click on this icon to open the application.",
+    "English_Vocabulary_Test": [
+      "Phím mũi tên",
+      "Màn hình máy tính",
+      "Tỷ lệ màn hình"
+    ],
+    "Fill_Blank": "______ on this icon to open the application.",
+    "Mistakes": [
+      "Light pen",
+      "Aspect ratio",
+      "Plasma screen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.17",
+    "English": "Light pen",
+    "Sub_English": "Bút quang",
+    "Example": "My teacher sometimes uses a light pen to select objects on a display screen.",
+    "English_Vocabulary_Test": [
+      "Máy in",
+      "Đầu đọc mã vạch",
+      "Tần số làm tươi màu màn hình"
+    ],
+    "Fill_Blank": "My teacher sometimes uses a ______ to select objects on a display screen.",
+    "Mistakes": [
+      "Aspect ratio",
+      "Flat-screen",
+      "Double click"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.18",
+    "English": "Graphics tablet",
+    "Sub_English": "Bảng vẽ đồ họa",
+    "Example": "A graphics tablet enables an artist to draw digitally using a pen.",
+    "English_Vocabulary_Test": [
+      "Phím mũi tên",
+      "Tần số làm tươi màu màn hình",
+      "Máy quay"
+    ],
+    "Fill_Blank": "A ______ enables an artist to draw digitally using a pen.",
+    "Mistakes": [
+      "Alphanumeric keys",
+      "Light pen",
+      "Scroll wheel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.19",
+    "English": "Scanner",
+    "Sub_English": "Máy quét",
+    "Example": "Our scanner is too old to scan all of these documents.",
+    "English_Vocabulary_Test": [
+      "Cáp kết nối VGA",
+      "Phím chức năng",
+      "Các phím số và chữ"
+    ],
+    "Fill_Blank": "Our ______ is too old to scan all of these documents.",
+    "Mistakes": [
+      "Resolution",
+      "Palm rest",
+      "Graphics tablet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.20",
+    "English": "Microphone",
+    "Sub_English": "Micro",
+    "Example": "These are microphones in a mobile phone.",
+    "English_Vocabulary_Test": [
+      "Máy chiếu",
+      "Màn hình cảm ứng",
+      "Phím mũi tên"
+    ],
+    "Fill_Blank": "These are ______s in a mobile phone.",
+    "Mistakes": [
+      "Scroll wheel",
+      "Printer",
+      "Monitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.21",
+    "English": "Touchpad",
+    "Sub_English": "Chuột cảm ứng (của máy tính xách tay)",
+    "Example": "Every laptop has a touchpad.",
+    "English_Vocabulary_Test": [
+      "Máy ảnh kỹ thuật số",
+      "Các phím số và chữ",
+      "Màn hình phẳng"
+    ],
+    "Fill_Blank": "Every laptop has a ______.",
+    "Mistakes": [
+      "Function key",
+      "Cursor control key",
+      "Dedicated key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.22",
+    "English": "Webcam",
+    "Sub_English": "Webcam",
+    "Example": "Many people don’t know how to use a webcam.",
+    "English_Vocabulary_Test": [
+      "Màn hình cảm ứng",
+      "Màn hình phẳng",
+      "Bút quang"
+    ],
+    "Fill_Blank": "Many people don’t know how to use a ______.",
+    "Mistakes": [
+      "Graphics tablet",
+      "Palm rest",
+      "Touchpad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.23",
+    "English": "Touch screen",
+    "Sub_English": "Màn hình cảm ứng",
+    "Example": "Every smartphone has a touch screen.",
+    "English_Vocabulary_Test": [
+      "(v) Lựa chọn, chọn",
+      "Phím chuột phải",
+      "Chuột cảm ứng (của máy tính xách tay)"
+    ],
+    "Fill_Blank": "Every smartphone has a ______.",
+    "Mistakes": [
+      "Arrow key",
+      "Resolution",
+      "Select"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.24",
+    "English": "Digital camera",
+    "Sub_English": "Máy ảnh kỹ thuật số",
+    "Example": "A digital camera can sometimes hold hundreds or thousands of pictures.",
+    "English_Vocabulary_Test": [
+      "Phím chuột phải",
+      "Loa",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "A ______ can sometimes hold hundreds or thousands of pictures.",
+    "Mistakes": [
+      "Keyboard",
+      "Light pen",
+      "Digital camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.25",
+    "English": "Camcorder",
+    "Sub_English": "Máy quay",
+    "Example": "Camcorder is a video camera that records pictures and sound. It can be easily carried around.",
+    "English_Vocabulary_Test": [
+      "Màn hình tinh thể lỏng",
+      "(v) Nhấn đúp, kích đúp",
+      "Chỗ đặt bàn tay (trên chuột, bàn phím)"
+    ],
+    "Fill_Blank": "______ is a video camera that records pictures and sound. It can be easily carried around.",
+    "Mistakes": [
+      "Scanner",
+      "Function key",
+      "Flat-screen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.26",
+    "English": "Barcode reader",
+    "Sub_English": "Đầu đọc mã vạch",
+    "Example": "A barcode reader (or barcode scanner) is an electronic device that can read and output printed barcodes to a computer.",
+    "English_Vocabulary_Test": [
+      "Phím đệm số",
+      "Màn hình tinh thể lỏng",
+      "Bảng vẽ đồ họa"
+    ],
+    "Fill_Blank": "A ______ (or barcode scanner) is an electronic device that can read and output printed barcodes to a computer.",
+    "Mistakes": [
+      "Projector",
+      "Right mouse button",
+      "Monitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.27",
+    "English": "Monitor",
+    "Sub_English": "Màn hình máy tính",
+    "Example": "I cannot turn the monitor on. I do not know why.",
+    "English_Vocabulary_Test": [
+      "Chuột cảm ứng (của máy tính xách tay)",
+      "(v) Lựa chọn, chọn",
+      "Webcam"
+    ],
+    "Fill_Blank": "I cannot turn the ______ on. I do not know why.",
+    "Mistakes": [
+      "LCD – liquid crystal display",
+      "Barcode reader",
+      "Select"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.28",
+    "English": "Resolution",
+    "Sub_English": "Độ phân giải",
+    "Example": "iPhone 7s has a capacitive touchscreen with a resolution of 1080 x 1920 pixels.",
+    "English_Vocabulary_Test": [
+      "Máy in",
+      "Cáp kết nối HDMI",
+      "Bảng vẽ đồ họa"
+    ],
+    "Fill_Blank": "iPhone 7s has a capacitive touchscreen with a ______ of 1080 x 1920 pixels.",
+    "Mistakes": [
+      "Select",
+      "Numeric keypad",
+      "Digital camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.29",
+    "English": "Screen size",
+    "Sub_English": "Kích cỡ màn hình",
+    "Example": "The screen size (or viewable image size) is the physical size of the area where pictures and videos are displayed.",
+    "English_Vocabulary_Test": [
+      "Độ sâu màu sắc",
+      "Webcam",
+      "Loa"
+    ],
+    "Fill_Blank": "The ______ (or viewable image size) is the physical size of the area where pictures and videos are displayed.",
+    "Mistakes": [
+      "Monitor",
+      "Graphics tablet",
+      "Projector"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.30",
+    "English": "Aspect ratio",
+    "Sub_English": "Tỷ lệ màn hình",
+    "Example": "A monitor that is 20 inches wide by 15 inches tall has an aspect ratio of 20:15.",
+    "English_Vocabulary_Test": [
+      "Bút quang",
+      "Bảng vẽ đồ họa",
+      "Kích cỡ màn hình"
+    ],
+    "Fill_Blank": "A monitor that is 20 inches wide by 15 inches tall has an ______ of 20:15.",
+    "Mistakes": [
+      "Scroll wheel",
+      "Cursor control key",
+      "Grab"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.31",
+    "English": "Color depth",
+    "Sub_English": "Độ sâu màu sắc",
+    "Example": "Color depth refers to the number of colors a monitor can display.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Phím mũi tên",
+      "Phím đệm số"
+    ],
+    "Fill_Blank": "______ refers to the number of colors a monitor can display.",
+    "Mistakes": [
+      "Touch screen",
+      "Mouse",
+      "Aspect ratio"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.32",
+    "English": "Refresh rate",
+    "Sub_English": "Tần số làm tươi màu màn hình",
+    "Example": "On cathode ray tube (CRT) displays, increasing the refresh rate decreases flickering, reducing eye strain.",
+    "English_Vocabulary_Test": [
+      "Chuột máy tính",
+      "Phím đệm số",
+      "Kích cỡ màn hình"
+    ],
+    "Fill_Blank": "On cathode ray tube (CRT) displays, increasing the ______ decreases flickering, reducing eye strain.",
+    "Mistakes": [
+      "Scroll wheel",
+      "Projector",
+      "Video graphics adapter cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.33",
+    "English": "Response time",
+    "Sub_English": "Thông số phản hồi tín hiệu",
+    "Example": "Response time is the amount of time a pixel in a display takes to change. It is measured in milliseconds (ms).",
+    "English_Vocabulary_Test": [
+      "Phím đệm số",
+      "(v) Lựa chọn, chọn",
+      "Phím chức năng"
+    ],
+    "Fill_Blank": "______ is the amount of time a pixel in a display takes to change. It is measured in milliseconds (ms).",
+    "Mistakes": [
+      "Mouse",
+      "Touchpad",
+      "Numeric keypad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.34",
+    "English": "LCD – liquid crystal display",
+    "Sub_English": "Màn hình tinh thể lỏng",
+    "Example": "My aunt has a big TV with an LCD.",
+    "English_Vocabulary_Test": [
+      "Phím chuyên dụng",
+      "Máy chiếu",
+      "Kích cỡ màn hình"
+    ],
+    "Fill_Blank": "My aunt has a big TV with an LCD.",
+    "Mistakes": [
+      "Barcode reader",
+      "Alphanumeric keys",
+      "Cursor control key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.35",
+    "English": "Flat-screen",
+    "Sub_English": "Màn hình phẳng",
+    "Example": "Flat screen is a type of television or computer monitor that is very thin compared with the original type.",
+    "English_Vocabulary_Test": [
+      "Kích cỡ màn hình",
+      "Cáp kết nối VGA",
+      "Webcam"
+    ],
+    "Fill_Blank": "Flat screen is a type of television or computer monitor that is very thin compared with the original type.",
+    "Mistakes": [
+      "Touchpad",
+      "Flat-screen",
+      "Resolution"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.36",
+    "English": "Plasma screen",
+    "Sub_English": "Màn hình plasma",
+    "Example": "Televisions with plasma screens are much thinner than cathode ray tubes and are usually higher definition.",
+    "English_Vocabulary_Test": [
+      "Phím điều khiển con trỏ",
+      "Máy quay",
+      "Phím đệm số"
+    ],
+    "Fill_Blank": "Televisions with ______s are much thinner than cathode ray tubes and are usually higher definition.",
+    "Mistakes": [
+      "Video graphics adapter cable",
+      "Microphone",
+      "Right mouse button"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.37",
+    "English": "High-Definition Multimedia Interface  cable",
+    "Sub_English": "Cáp kết nối HDMI",
+    "Example": "HDMI cables are often more expensive than analog cables since they cost more to manufacture.",
+    "English_Vocabulary_Test": [
+      "Tỷ lệ màn hình",
+      "Phím chuyên dụng",
+      "(v) Giữ, nắm giữ, lấy (cái gì đó)"
+    ],
+    "Fill_Blank": "HDMI cables are often more expensive than analog cables since they cost more to manufacture.",
+    "Mistakes": [
+      "Right mouse button",
+      "Speaker",
+      "Resolution"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.38",
+    "English": "Video graphics adapter cable",
+    "Sub_English": "Cáp kết nối VGA",
+    "Example": "The VGA cable is to provide video output, and the audio cable is to provide sound output.",
+    "English_Vocabulary_Test": [
+      "Phím chuyên dụng",
+      "Tỷ lệ màn hình",
+      "Chuột cảm ứng (của máy tính xách tay)"
+    ],
+    "Fill_Blank": "The VGA cable is to provide video output, and the audio cable is to provide sound output.",
+    "Mistakes": [
+      "Screen size",
+      "Microphone",
+      "Camcorder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.39",
+    "English": "Printer",
+    "Sub_English": "Máy in",
+    "Example": "We have bought some new printers for our office.",
+    "English_Vocabulary_Test": [
+      "(v) Nhấn đúp, kích đúp",
+      "Thông số phản hồi tín hiệu",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "We have bought some new ______s for our office.",
+    "Mistakes": [
+      "Palm rest",
+      "Webcam",
+      "Graphics tablet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.40",
+    "English": "Speaker",
+    "Sub_English": "Loa",
+    "Example": "Can you bring a speaker tomorrow?",
+    "English_Vocabulary_Test": [
+      "Bút quang",
+      "Các phím số và chữ",
+      "Phím điều khiển con trỏ"
+    ],
+    "Fill_Blank": "Can you bring a ______ tomorrow?",
+    "Mistakes": [
+      "Printer",
+      "Cursor control key",
+      "Dedicated key"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.3.41",
+    "English": "Projector",
+    "Sub_English": "Máy chiếu",
+    "Example": "There is a projector in my office.",
+    "English_Vocabulary_Test": [
+      "Thông số phản hồi tín hiệu",
+      "Tần số làm tươi màu màn hình",
+      "Tỷ lệ màn hình"
+    ],
+    "Fill_Blank": "There is a ______ in my office.",
+    "Mistakes": [
+      "Function key",
+      "Digital camera",
+      "Monitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.1",
+    "English": "Flash memory devices",
+    "Sub_English": "Thiết bị lưu trữ flash",
+    "Example": "Flash memory is a non-volatile memory chip used for storage and for transferring data between a personal computer (PC) and digital devices.",
+    "English_Vocabulary_Test": [
+      "Đầu đĩa DVD",
+      "Dung lượng hạn chế",
+      "Dung lượng cao/lớn"
+    ],
+    "Fill_Blank": "Flash memory is a non-volatile memory chip used for storage and for transferring data between a personal computer (PC) and digital devices.",
+    "Mistakes": [
+      "Magnetic storage devices",
+      "U3 smart drive",
+      "Store "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.2",
+    "English": "Magnetic storage devices",
+    "Sub_English": "Thiết bị lưu trữ từ",
+    "Example": "Magnetic storage devices store data in the form of tiny magnetized dots.",
+    "English_Vocabulary_Test": [
+      "Đĩa từ",
+      "Đĩa CD",
+      "Đĩa mềm"
+    ],
+    "Fill_Blank": "______ store data in the form of tiny magnetized dots.",
+    "Mistakes": [
+      "Platter",
+      "Track",
+      "Magnetic storage devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.3",
+    "English": "Optical storage devices",
+    "Sub_English": "Thiết bị lưu trữ quang",
+    "Example": "Optical storage devices save data as patterns of dots that can be read using light.",
+    "English_Vocabulary_Test": [
+      "Đầu đọc thẻ nhớ",
+      "Phù hợp tiêu chuẩn",
+      "Chuyển dữ liệu"
+    ],
+    "Fill_Blank": "______ save data as patterns of dots that can be read using light.",
+    "Mistakes": [
+      "Actuator",
+      "Double-sided disk",
+      "U3 smart drive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.4",
+    "English": "Diskette",
+    "Sub_English": "Đĩa mềm",
+    "Example": "A diskette is a small, flat, square object made of plastic, used in the past to store information electronically.",
+    "English_Vocabulary_Test": [
+      "ổ cứng",
+      "Chuyển dữ liệu",
+      "Khả biến"
+    ],
+    "Fill_Blank": "A ______ is a small, flat, square object made of plastic, used in the past to store information electronically.",
+    "Mistakes": [
+      "Have high/large capacity",
+      "Optical storage devices",
+      "Flash card reader"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.5",
+    "English": "Hard drive",
+    "Sub_English": "ổ cứng",
+    "Example": "It’s an eight-gigabyte hard drive.",
+    "English_Vocabulary_Test": [
+      "Khả biến",
+      "Sao lưu dữ liệu",
+      "USB"
+    ],
+    "Fill_Blank": "It’s an eight-gigabyte ______.",
+    "Mistakes": [
+      "Compact Disk ",
+      "Move data from place to place",
+      "Optical storage devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.6",
+    "English": "Hybrid hard drive",
+    "Sub_English": "Ổ cứng lai",
+    "Example": "Hybrid hard drives such as the Momentus XT offer the best of both worlds, but fulfill that promise only to a certain extent.",
+    "English_Vocabulary_Test": [
+      "Chùm tia laze",
+      "Thẻ nhớ",
+      "ổ cứng"
+    ],
+    "Fill_Blank": "______s such as the Momentus XT offer the best of both worlds, but fulfill that promise only to a certain extent.",
+    "Mistakes": [
+      "Laser beam",
+      "Read/Write head",
+      "Dual layer DVD"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.7",
+    "English": "Magnetic tape",
+    "Sub_English": "Băng từ tính",
+    "Example": "Magnetic tape is a type of plastic tape that is used for recording sound, pictures, or computer information.",
+    "English_Vocabulary_Test": [
+      "Trục truyền động",
+      "Đĩa mềm",
+      "Vỏ ổ cứng"
+    ],
+    "Fill_Blank": "______ is a type of plastic tape that is used for recording sound, pictures, or computer information.",
+    "Mistakes": [
+      "Track",
+      "Laser beam",
+      "Hard drive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.8",
+    "English": "Actuator",
+    "Sub_English": "Bộ truyền động",
+    "Example": "An actuator is a device that converts energy into physical motion.",
+    "English_Vocabulary_Test": [
+      "Đĩa ghi hai mặt",
+      "Đĩa mềm",
+      "Ổ di động thông minh U3"
+    ],
+    "Fill_Blank": "An ______ is a device that converts energy into physical motion.",
+    "Mistakes": [
+      "Backup",
+      "Transfer data",
+      "Compact Disk "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.9",
+    "English": "Actuator axis",
+    "Sub_English": "Trục truyền động",
+    "Example": "Using an electromagnetic coil, the actuator rotates the actuator axis, moving the connected arm.",
+    "English_Vocabulary_Test": [
+      "Chuyển dữ liệu",
+      "Băng từ tính",
+      "Cần di chuyển"
+    ],
+    "Fill_Blank": "Using an electromagnetic coil, the actuator rotates the ______, moving the connected arm.",
+    "Mistakes": [
+      "Diskette",
+      "Track",
+      "Hybrid hard drive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.10",
+    "English": "Chassis",
+    "Sub_English": "Vỏ ổ cứng",
+    "Example": "In a computer, the chassis houses the main electronic components.",
+    "English_Vocabulary_Test": [
+      "Đĩa DVD",
+      "USB",
+      "ổ cứng"
+    ],
+    "Fill_Blank": "In a computer, the ______ houses the main electronic components.",
+    "Mistakes": [
+      "Have high/large capacity",
+      "Move data from place to place",
+      "Optical storage devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.11",
+    "English": "Head arm",
+    "Sub_English": "Cần di chuyển",
+    "Example": "The head arm (access arm) is used to adjust the read/write heads.",
+    "English_Vocabulary_Test": [
+      "Thiết bị lưu trữ quang",
+      "Trục truyền động",
+      "DVD hai lớp"
+    ],
+    "Fill_Blank": "The ______ (access arm) is used to adjust the read/write heads.",
+    "Mistakes": [
+      "Platter",
+      "Flash card reader",
+      "Head arm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.12",
+    "English": "Platter",
+    "Sub_English": "Đĩa từ",
+    "Example": "A platter is a circular magnetic plate that is used for storing data in a hard disk.",
+    "English_Vocabulary_Test": [
+      "Ổ cứng thể rắn",
+      "Đĩa CD",
+      "Đầu đọc thẻ nhớ"
+    ],
+    "Fill_Blank": "A ______ is a circular magnetic plate that is used for storing data in a hard disk.",
+    "Mistakes": [
+      "Laser beam",
+      "U3 smart drive",
+      "Platter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.13",
+    "English": "Read/Write head",
+    "Sub_English": "Đầu đọc/ghi",
+    "Example": "A read/write head is a specific physical part of a hard disk that is responsible for reading data from, and writing data to, the disk.",
+    "English_Vocabulary_Test": [
+      "Thiết bị lưu trữ từ",
+      "Chuyển dữ liệu",
+      "USB"
+    ],
+    "Fill_Blank": "A ______ is a specific physical part of a hard disk that is responsible for reading data from, and writing data to, the disk.",
+    "Mistakes": [
+      "Digital Versatile Disc ",
+      "Magnetic storage devices",
+      "Diskette"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.14",
+    "English": "Spindle motor",
+    "Sub_English": "Trục quay",
+    "Example": "A spindle motor is a small, high-precision, high-reliability electric motor that is used to rotate the shaft, or spindle.",
+    "English_Vocabulary_Test": [
+      "Phù hợp tiêu chuẩn",
+      "Đĩa CD",
+      "Dung lượng hạn chế"
+    ],
+    "Fill_Blank": "A ______ is a small, high-precision, high-reliability electric motor that is used to rotate the shaft, or spindle.",
+    "Mistakes": [
+      "DVD recorder",
+      "Spindle motor",
+      "Backup"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.15",
+    "English": "Track",
+    "Sub_English": "Rãnh ghi dữ liệu",
+    "Example": "Motion sensor is installed to track every movement.",
+    "English_Vocabulary_Test": [
+      "Thiết bị lưu trữ flash",
+      "Chuyển dữ liệu từ nơi này sang nơi khác",
+      "Phù hợp tiêu chuẩn"
+    ],
+    "Fill_Blank": "Motion sensor is installed to ______ every movement.",
+    "Mistakes": [
+      "Digital Versatile Disc ",
+      "Backup",
+      "DVD recorder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.16",
+    "English": "Blu-ray",
+    "Sub_English": "Đĩa blu-ray",
+    "Example": "Blu-ray is a format of DVD designed for the storage of high-definition video and data.",
+    "English_Vocabulary_Test": [
+      "Trục quay",
+      "Ổ cứng lai",
+      "Ổ di động thông minh U3"
+    ],
+    "Fill_Blank": "______ is a format of DVD designed for the storage of high-definition video and data.",
+    "Mistakes": [
+      "Hard drive",
+      "Diskette",
+      "Flash memory devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.17",
+    "English": "Compact Disk ",
+    "Sub_English": "Đĩa CD",
+    "Example": "A CD is a small plastic disc on which music or other digital information is stored.",
+    "English_Vocabulary_Test": [
+      "USB",
+      "Bộ truyền động",
+      "Đĩa blu-ray"
+    ],
+    "Fill_Blank": "A CD is a small plastic disc on which music or other digital information is stored.",
+    "Mistakes": [
+      "Conform to a standard",
+      "Move data from place to place",
+      "Store "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.18",
+    "English": "Digital Versatile Disc ",
+    "Sub_English": "Đĩa DVD",
+    "Example": "DVD (an abbreviation of \"digital video disc\" or \"digital versatile disc\") is a digital optical disc storage format invented and developed in 1995.",
+    "English_Vocabulary_Test": [
+      "Đĩa CD",
+      "Ghi dữ liệu vào",
+      "Cần di chuyển"
+    ],
+    "Fill_Blank": "DVD (an abbreviation of \"digital video disc\" or \"digital versatile disc\") is a digital optical disc storage format invented and developed in 1995.",
+    "Mistakes": [
+      "Diskette",
+      "Laser beam",
+      "Hard drive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.19",
+    "English": "Disc burner",
+    "Sub_English": "Công cụ ghi đĩa",
+    "Example": "Most computers come with an existing CD/DVD burner and have pre-installed software that makes burning a disc simple.",
+    "English_Vocabulary_Test": [
+      "Phù hợp tiêu chuẩn",
+      "Trục truyền động",
+      "Tính dễ thay đổi"
+    ],
+    "Fill_Blank": "Most computers come with an existing CD/DVD burner and have pre-installed software that makes burning a disc simple.",
+    "Mistakes": [
+      "DVD recorder",
+      "Transfer data",
+      "Track"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.20",
+    "English": "Double-sided disk",
+    "Sub_English": "Đĩa ghi hai mặt",
+    "Example": "In computer science, a double-sided disk is a disk of which both sides are used to store data.",
+    "English_Vocabulary_Test": [
+      "Đĩa từ",
+      "Trục quay",
+      "Ổ cứng lai"
+    ],
+    "Fill_Blank": "In computer science, a ______ is a disk of which both sides are used to store data.",
+    "Mistakes": [
+      "Track",
+      "Laser beam",
+      "Digital Versatile Disc "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.21",
+    "English": "Dual layer DVD",
+    "Sub_English": "DVD hai lớp",
+    "Example": "Dual layer DVDs and double layer DVDs have digital information on two layers.",
+    "English_Vocabulary_Test": [
+      "Trục truyền động",
+      "Chứa",
+      "Thiết bị lưu trữ flash"
+    ],
+    "Fill_Blank": "______s and double layer DVDs have digital information on two layers.",
+    "Mistakes": [
+      "Blu-ray",
+      "Store ",
+      "Double-sided disk"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.22",
+    "English": "DVD recorder",
+    "Sub_English": "Đầu đĩa DVD",
+    "Example": "A DVD recorder is an optical disc recorder that uses optical disc recording technologies to digitally record analog or digital signals onto blank writable DVD media.",
+    "English_Vocabulary_Test": [
+      "Dung lượng cao/lớn",
+      "Công cụ ghi đĩa",
+      "Trục truyền động"
+    ],
+    "Fill_Blank": "A ______ is an optical disc recorder that uses optical disc recording technologies to digitally record analog or digital signals onto blank writable DVD media.",
+    "Mistakes": [
+      "Transfer data",
+      "Optical storage devices",
+      "Have a limited capacity"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.23",
+    "English": "Laser beam",
+    "Sub_English": "Chùm tia laze",
+    "Example": "The laser beam is only about as wide as a human hair.",
+    "English_Vocabulary_Test": [
+      "Băng từ tính",
+      "Công cụ ghi đĩa",
+      "Thiết bị lưu trữ từ"
+    ],
+    "Fill_Blank": "The ______ is only about as wide as a human hair.",
+    "Mistakes": [
+      "Volatile",
+      "Track",
+      "Laser beam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.24",
+    "English": "Flash card reader",
+    "Sub_English": "Đầu đọc thẻ nhớ",
+    "Example": "A flash card reader that can read several formats and transfer files between all your devices and your PC.",
+    "English_Vocabulary_Test": [
+      "Tính dễ thay đổi",
+      "Thiết bị lưu trữ quang",
+      "Thiết bị lưu trữ flash"
+    ],
+    "Fill_Blank": "A ______ that can read several formats and transfer files between all your devices and your PC.",
+    "Mistakes": [
+      "Store ",
+      "Transfer data",
+      "Diskette"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.25",
+    "English": "Flash memory card",
+    "Sub_English": "Thẻ nhớ",
+    "Example": "A flash memory card is a small storage device used to store data on portable or remote computing devices.",
+    "English_Vocabulary_Test": [
+      "Bất biến",
+      "Ổ di động thông minh U3",
+      "Chùm tia laze"
+    ],
+    "Fill_Blank": "A ______ is a small storage device used to store data on portable or remote computing devices.",
+    "Mistakes": [
+      "Solid state drive",
+      "Spindle motor",
+      "Conform to a standard"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.26",
+    "English": "Non-volatile",
+    "Sub_English": "Bất biến",
+    "Example": "Non-volatile memory a type of computer memory that can retrieve stored information even after having been power cycled.",
+    "English_Vocabulary_Test": [
+      "Trục quay",
+      "Tính dễ thay đổi",
+      "Đĩa blu-ray"
+    ],
+    "Fill_Blank": "______ memory a type of computer memory that can retrieve stored information even after having been power cycled.",
+    "Mistakes": [
+      "Actuator axis",
+      "Track",
+      "Flash memory card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.27",
+    "English": "U3 smart drive",
+    "Sub_English": "Ổ di động thông minh U3",
+    "Example": "U3 is a software solution that turns USB Flash drives into smart drives. Flash drives that meet the U3 specification are called U3 smart drives.",
+    "English_Vocabulary_Test": [
+      "Đầu đọc thẻ nhớ",
+      "Đĩa mềm",
+      "Đầu đọc/ghi"
+    ],
+    "Fill_Blank": "U3 is a software solution that turns USB Flash drives into smart drives. Flash drives that meet the U3 specification are called ______s.",
+    "Mistakes": [
+      "Spindle motor",
+      "Hard drive",
+      "Disc burner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.28",
+    "English": "USB flash drive",
+    "Sub_English": "USB",
+    "Example": "A USB flash drive is a data storage device. It is removable, rewritable and much smaller than an optical disc.",
+    "English_Vocabulary_Test": [
+      "Băng từ tính",
+      "Rãnh ghi dữ liệu",
+      "Thiết bị lưu trữ flash"
+    ],
+    "Fill_Blank": "A ______ is a data storage device. It is removable, rewritable and much smaller than an optical disc.",
+    "Mistakes": [
+      "Compact Disk ",
+      "Dual layer DVD",
+      "Spindle motor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.29",
+    "English": "Volatile",
+    "Sub_English": "Khả biến",
+    "Example": "RAM is volatile so it loses the stored data when the power is turned off.",
+    "English_Vocabulary_Test": [
+      "Đĩa từ",
+      "Dung lượng hạn chế",
+      "Ghi dữ liệu vào"
+    ],
+    "Fill_Blank": "RAM is ______ so it loses the stored data when the power is turned off.",
+    "Mistakes": [
+      "Compact Disk ",
+      "Track",
+      "Store "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.30",
+    "English": "Solid state drive",
+    "Sub_English": "Ổ cứng thể rắn",
+    "Example": "A solid state drive (SSD) uses flash memory to store data, much like a USB flash drive.",
+    "English_Vocabulary_Test": [
+      "Chuyển dữ liệu từ nơi này sang nơi khác",
+      "Đĩa từ",
+      "Thiết bị lưu trữ flash"
+    ],
+    "Fill_Blank": "A ______ (SSD) uses flash memory to store data, much like a USB flash drive.",
+    "Mistakes": [
+      "Double-sided disk",
+      "Have high/large capacity",
+      "Magnetic tape"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.31",
+    "English": "Conform to a standard",
+    "Sub_English": "Phù hợp tiêu chuẩn",
+    "Example": "These software applications are expected to conform to international standards.",
+    "English_Vocabulary_Test": [
+      "USB",
+      "Bộ truyền động",
+      "Ổ cứng lai"
+    ],
+    "Fill_Blank": "These software applications are expected to conform to international standards.",
+    "Mistakes": [
+      "Chassis",
+      "Actuator",
+      "Have high/large capacity"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.32",
+    "English": "Backup",
+    "Sub_English": "Sao lưu dữ liệu",
+    "Example": "Always remember to make a backup your work in case your computer is infected with viruses.",
+    "English_Vocabulary_Test": [
+      "Bất biến",
+      "Đĩa blu-ray",
+      "Dung lượng cao/lớn"
+    ],
+    "Fill_Blank": "Always remember to make a ______ your work in case your computer is infected with viruses.",
+    "Mistakes": [
+      "Dual layer DVD",
+      "Flash memory card",
+      "Volatile"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.33",
+    "English": "Have a limited capacity",
+    "Sub_English": "Dung lượng hạn chế",
+    "Example": "This laptop has a limited capacity, so don't install too many applications.",
+    "English_Vocabulary_Test": [
+      "Đĩa DVD",
+      "Thiết bị lưu trữ quang",
+      "Bộ truyền động"
+    ],
+    "Fill_Blank": "This laptop has a limited capacity, so don't install too many applications.",
+    "Mistakes": [
+      "U3 smart drive",
+      "Diskette",
+      "Solid state drive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.34",
+    "English": "Have high/large capacity",
+    "Sub_English": "Dung lượng cao/lớn",
+    "Example": "This laptop has high capacity with 64GB of RAM.",
+    "English_Vocabulary_Test": [
+      "Ổ cứng thể rắn",
+      "Đĩa mềm",
+      "Chuyển dữ liệu từ nơi này sang nơi khác"
+    ],
+    "Fill_Blank": "This laptop has high capacity with 64GB of RAM.",
+    "Mistakes": [
+      "Disc burner",
+      "Volatile",
+      "Volatility"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.35",
+    "English": "Hold ",
+    "Sub_English": "Chứa",
+    "Example": "The hard drive holds data for long-term use.",
+    "English_Vocabulary_Test": [
+      "Thẻ nhớ",
+      "Đĩa blu-ray",
+      "USB"
+    ],
+    "Fill_Blank": "The hard drive holds data for long-term use.",
+    "Mistakes": [
+      "Digital Versatile Disc ",
+      "Conform to a standard",
+      "Flash card reader"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.36",
+    "English": "Move data from place to place",
+    "Sub_English": "Chuyển dữ liệu từ nơi này sang nơi khác",
+    "Example": "I would like to move data from C drive to D drive.",
+    "English_Vocabulary_Test": [
+      "Rãnh ghi dữ liệu",
+      "Trục truyền động",
+      "Tính dễ thay đổi"
+    ],
+    "Fill_Blank": "I would like to move data from C drive to D drive.",
+    "Mistakes": [
+      "USB flash drive",
+      "DVD recorder",
+      "Read/Write head"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.37",
+    "English": "Store ",
+    "Sub_English": "Lưu trữ dữ liệu",
+    "Example": "The USB is used to store the data.",
+    "English_Vocabulary_Test": [
+      "Ổ cứng lai",
+      "Chùm tia laze",
+      "Trục quay"
+    ],
+    "Fill_Blank": "The USB is used to ______the data.",
+    "Mistakes": [
+      "Diskette",
+      "Conform to a standard",
+      "Actuator axis"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.38",
+    "English": "Transfer data",
+    "Sub_English": "Chuyển dữ liệu",
+    "Example": "It can transfer data at a rate of 11 megabits per second.",
+    "English_Vocabulary_Test": [
+      "Dung lượng cao/lớn",
+      "Trục quay",
+      "Phù hợp tiêu chuẩn"
+    ],
+    "Fill_Blank": "It can ______ at a rate of 11 megabits per second.",
+    "Mistakes": [
+      "Dual layer DVD",
+      "Magnetic storage devices",
+      "Head arm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.39",
+    "English": "Volatility",
+    "Sub_English": "Tính dễ thay đổi",
+    "Example": "Volatility is one of the best open source software programs for analyzing RAM in 32 bit/64 bit systems.",
+    "English_Vocabulary_Test": [
+      "Bất biến",
+      "Ổ cứng lai",
+      "ổ cứng"
+    ],
+    "Fill_Blank": "______ is one of the best open source software programs for analyzing RAM in 32 bit/64 bit systems.",
+    "Mistakes": [
+      "Transfer data",
+      "Chassis",
+      "Volatility"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.4.40",
+    "English": "Write data onto",
+    "Sub_English": "Ghi dữ liệu vào",
+    "Example": "Could you please help me to write data onto DVD?",
+    "English_Vocabulary_Test": [
+      "Chứa",
+      "Thiết bị lưu trữ quang",
+      "ổ cứng"
+    ],
+    "Fill_Blank": "Could you please help me to ______ DVD?",
+    "Mistakes": [
+      "Compact Disk ",
+      "Diskette",
+      "Disc burner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.1",
+    "English": "System software",
+    "Sub_English": "Phần mềm hệ thống",
+    "Example": "Every machine in my company is under control of a system software.",
+    "English_Vocabulary_Test": [
+      "Đa nền tảng",
+      "Phần vỏ hệ điều hành",
+      "Phiên bản"
+    ],
+    "Fill_Blank": "Every machine in my company is under control of a ______.",
+    "Mistakes": [
+      "Proprietary software/closed-sources software",
+      "Graphical user interface",
+      "Version"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.2",
+    "English": "Application software",
+    "Sub_English": "Phần mềm ứng dụng",
+    "Example": "Application software is very helpful to users.",
+    "English_Vocabulary_Test": [
+      "Trình đơn kéo xuống",
+      "Giao diện người dùng kiểu đồ họa",
+      "Phần vỏ hệ điều hành"
+    ],
+    "Fill_Blank": "______ is very helpful to users.",
+    "Mistakes": [
+      "Interact",
+      "Operating system",
+      "Modify"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.3",
+    "English": "Operating system",
+    "Sub_English": "Hệ điều hành",
+    "Example": "85% of the world's personal computer uses MS Window as the main operating system.",
+    "English_Vocabulary_Test": [
+      "Ô thoại",
+      "Trình đơn thành phần",
+      "Làm cho có khả năng (bật)"
+    ],
+    "Fill_Blank": "85% of the world's personal computer uses MS Window as the main ______.",
+    "Mistakes": [
+      "Development",
+      "Submenu",
+      "Compatibility"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.4",
+    "English": "Graphical user interface",
+    "Sub_English": "Giao diện người dùng kiểu đồ họa",
+    "Example": "Most modern operating systems use one kind of graphical user interface or another.",
+    "English_Vocabulary_Test": [
+      "Tương thích",
+      "Cửa sổ",
+      "Sự phân phối"
+    ],
+    "Fill_Blank": "Most modern operating systems use one kind of ______ or another.",
+    "Mistakes": [
+      "Window",
+      "Taskbar",
+      "Cost-effective"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.5",
+    "English": "Command line interface",
+    "Sub_English": "Giao diện dòng lệnh",
+    "Example": "Command line interface is mostly used by computer programmers.",
+    "English_Vocabulary_Test": [
+      "Phần vỏ hệ điều hành",
+      "Hiệu quả chi phí",
+      "Phần mềm mã nguồn mở"
+    ],
+    "Fill_Blank": "______ is mostly used by computer programmers.",
+    "Mistakes": [
+      "Desktop",
+      "Distribute",
+      "WIMP environment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.6",
+    "English": "Open-source software",
+    "Sub_English": "Phần mềm mã nguồn mở",
+    "Example": "Open-source software is free to modify and distribute.",
+    "English_Vocabulary_Test": [
+      "Phân phối",
+      "Hỗ trợ",
+      "Phức tạp"
+    ],
+    "Fill_Blank": "______ is free to modify and distribute.",
+    "Mistakes": [
+      "User-friendly",
+      "Icon ",
+      "Graphical user interface"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.7",
+    "English": "Proprietary software/closed-sources software",
+    "Sub_English": "Phần mềm mã nguồn đóng",
+    "Example": "Proprietary software or closed-sources software is owned by a company.",
+    "English_Vocabulary_Test": [
+      "Con trỏ",
+      "Thanh công cụ",
+      "Ô thoại"
+    ],
+    "Fill_Blank": "Proprietary software or closed-sources software is owned by a company.",
+    "Mistakes": [
+      "Device driver",
+      "Interaction",
+      "Modify"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.8",
+    "English": "Kernel",
+    "Sub_English": "Phần lõi hệ điều hành",
+    "Example": "Linus Torvalds released the Linux kernel in 1991.",
+    "English_Vocabulary_Test": [
+      "Phần mềm điều hành",
+      "Khay hệ thống",
+      "Phiên bản"
+    ],
+    "Fill_Blank": "Linus Torvalds released the Linux ______ in 1991.",
+    "Mistakes": [
+      "Command line interface",
+      "Distribute",
+      "Support"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.9",
+    "English": "Shell",
+    "Sub_English": "Phần vỏ hệ điều hành",
+    "Example": "The shell acts a bridge between the kernel and application software.",
+    "English_Vocabulary_Test": [
+      "Tính tương thích",
+      "Môi trường giao diện cửa sổ - biểu tượng - trình đơn - con trỏ",
+      "Có sức mạnh lớn"
+    ],
+    "Fill_Blank": "The ______ acts a bridge between the kernel and application software.",
+    "Mistakes": [
+      "Compatibility",
+      "Multitask",
+      "Proprietary software/closed-sources software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.10",
+    "English": "Icon ",
+    "Sub_English": "Biểu tượng",
+    "Example": "The Eiffel tower is an icon of France and is inside the World Heritage Site.",
+    "English_Vocabulary_Test": [
+      "Phiên bản",
+      "Ô thoại",
+      "Đa nền tảng"
+    ],
+    "Fill_Blank": "The Eiffel tower is an ______of France and is inside the World Heritage Site.",
+    "Mistakes": [
+      "Window",
+      "Distribute",
+      "Release"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.11",
+    "English": "Window",
+    "Sub_English": "Cửa sổ",
+    "Example": "There is a window in the living room.",
+    "English_Vocabulary_Test": [
+      "Hệ điều hành",
+      "Trình đơn thành phần",
+      "Phần mềm ứng dụng"
+    ],
+    "Fill_Blank": "There is a ______ in the living room.",
+    "Mistakes": [
+      "Taskbar",
+      "Desktop",
+      "Kernel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.12",
+    "English": "WIMP environment",
+    "Sub_English": "Môi trường giao diện cửa sổ - biểu tượng - trình đơn - con trỏ",
+    "Example": "Graphical user interface makes use of WIMP environment.",
+    "English_Vocabulary_Test": [
+      "Phân phối",
+      "Giao diện người dùng kiểu đồ họa",
+      "Thân thiện với người dùng"
+    ],
+    "Fill_Blank": "Graphical user interface makes use of ______.",
+    "Mistakes": [
+      "Version",
+      "Operating system",
+      "Drop-down menu"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.13",
+    "English": "Drop-down menu",
+    "Sub_English": "Trình đơn kéo xuống",
+    "Example": "Drop-down menu is a menu that appears on a computer screen when you choose it, and that stays there until you choose one of the functions on it.",
+    "English_Vocabulary_Test": [
+      "Trình đơn thành phần",
+      "Ô thoại",
+      "Tung ra thị trường"
+    ],
+    "Fill_Blank": "______ is a menu that appears on a computer screen when you choose it, and that stays there until you choose one of the functions on it.",
+    "Mistakes": [
+      "Cross-platform",
+      "Distribute",
+      "Interact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.14",
+    "English": "Submenu",
+    "Sub_English": "Trình đơn thành phần",
+    "Example": "Submenu is a smaller menu within another menu.",
+    "English_Vocabulary_Test": [
+      "Sự phát triển",
+      "Phần lõi hệ điều hành",
+      "Tung ra thị trường"
+    ],
+    "Fill_Blank": "______ is a smaller menu within another menu.",
+    "Mistakes": [
+      "Dialogue box",
+      "Desktop",
+      "Multitask"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.15",
+    "English": "Pointer",
+    "Sub_English": "Con trỏ",
+    "Example": "Hover your pointer on a product icon and you will see more information about that product.",
+    "English_Vocabulary_Test": [
+      "Làm cho có khả năng (bật)",
+      "Môi trường giao diện cửa sổ - biểu tượng - trình đơn - con trỏ",
+      "Trình đơn kéo xuống"
+    ],
+    "Fill_Blank": "Hover your ______ on a product icon and you will see more information about that product.",
+    "Mistakes": [
+      "Version",
+      "Powerful",
+      "Command line interface"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.16",
+    "English": "Toolbar",
+    "Sub_English": "Thanh công cụ",
+    "Example": "The toolbar contains menu, button, input and output elements, etc on top of an application window.",
+    "English_Vocabulary_Test": [
+      "Phần mềm mã nguồn mở",
+      "Tương tác",
+      "Phần vỏ hệ điều hành"
+    ],
+    "Fill_Blank": "The ______ contains menu, button, input and output elements, etc on top of an application window.",
+    "Mistakes": [
+      "Open-source software",
+      "Development",
+      "Shell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.17",
+    "English": "Taskbar",
+    "Sub_English": "Thanh tác vụ",
+    "Example": "The taskbar is usually located at the bottom of your screen, showing all the tasks you are working on.",
+    "English_Vocabulary_Test": [
+      "Giao diện dòng lệnh",
+      "Tính tương thích",
+      "Trình điều khiển phần cứng"
+    ],
+    "Fill_Blank": "The ______ is usually located at the bottom of your screen, showing all the tasks you are working on.",
+    "Mistakes": [
+      "Icon ",
+      "Shell",
+      "Powerful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.18",
+    "English": "Desktop",
+    "Sub_English": "Màn hình nền",
+    "Example": "The desktop is a screen on a computer which shows the icons of the programs that can be used.",
+    "English_Vocabulary_Test": [
+      "Sự tương tác, sự ảnh hưởng lẫn nhau",
+      "Hiệu quả chi phí",
+      "Phần mềm mã nguồn đóng"
+    ],
+    "Fill_Blank": "The ______ is a screen on a computer which shows the icons of the programs that can be used.",
+    "Mistakes": [
+      "Interaction",
+      "Develop",
+      "Toolbar"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.19",
+    "English": "System tray",
+    "Sub_English": "Khay hệ thống",
+    "Example": "The system tray at the bottom right corner of your screen shows things like clock, calendar, etc.",
+    "English_Vocabulary_Test": [
+      "Phần mềm mã nguồn mở",
+      "Phần mềm ứng dụng",
+      "Phiên bản"
+    ],
+    "Fill_Blank": "The ______ at the bottom right corner of your screen shows things like clock, calendar, etc.",
+    "Mistakes": [
+      "Cross-platform",
+      "Taskbar",
+      "Application software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.20",
+    "English": "Dialogue box",
+    "Sub_English": "Ô thoại",
+    "Example": "The dialog box is a box that appears on a computer screen asking the user to choose what they want to do next.",
+    "English_Vocabulary_Test": [
+      "Phần mềm mã nguồn mở",
+      "Giao diện người dùng kiểu đồ họa",
+      "Phức tạp"
+    ],
+    "Fill_Blank": "The dialog box is a box that appears on a computer screen asking the user to choose what they want to do next.",
+    "Mistakes": [
+      "Operating system",
+      "Toolbar",
+      "Media player"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.21",
+    "English": "User-friendly",
+    "Sub_English": "Thân thiện với người dùng",
+    "Example": "Windows is a very popular OS because it is user-friendly.",
+    "English_Vocabulary_Test": [
+      "Sự tương tác, sự ảnh hưởng lẫn nhau",
+      "Màn hình nền",
+      "Trình đơn kéo xuống"
+    ],
+    "Fill_Blank": "Windows is a very popular OS because it is ______.",
+    "Mistakes": [
+      "Device driver",
+      "Version",
+      "Shell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.22",
+    "English": "Cross-platform",
+    "Sub_English": "Đa nền tảng",
+    "Example": "Google map is cross-platform, you can use it on both iOS and Android.",
+    "English_Vocabulary_Test": [
+      "Tung ra thị trường",
+      "Hỗ trợ",
+      "Giao diện dòng lệnh"
+    ],
+    "Fill_Blank": "Google map is ______, you can use it on both iOS and Android.",
+    "Mistakes": [
+      "Enable",
+      "Sophisticated",
+      "Support"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.23",
+    "English": "Develop",
+    "Sub_English": "Phát triển",
+    "Example": "The government wants to develop tourism in countryside.",
+    "English_Vocabulary_Test": [
+      "Đa nền tảng",
+      "Thanh công cụ",
+      "Giao diện người dùng kiểu đồ họa"
+    ],
+    "Fill_Blank": "The government wants to ______ tourism in countryside.",
+    "Mistakes": [
+      "Pointer",
+      "Development",
+      "Modify"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.24",
+    "English": "Distribution",
+    "Sub_English": "Sự phân phối",
+    "Example": "Electronic media make the potential for information distribution possible on a scale never before achieved.",
+    "English_Vocabulary_Test": [
+      "Màn hình nền",
+      "Phát triển",
+      "Phân phối"
+    ],
+    "Fill_Blank": "Electronic media make the potential for information ______ possible on a scale never before achieved.",
+    "Mistakes": [
+      "Device driver",
+      "Window",
+      "Proprietary software/closed-sources software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.25",
+    "English": "Distribute",
+    "Sub_English": "Phân phối",
+    "Example": "The organization distributed food to the earthquake victims last year.",
+    "English_Vocabulary_Test": [
+      "Tương thích",
+      "Trình điều khiển phần cứng",
+      "Giao diện người dùng kiểu đồ họa"
+    ],
+    "Fill_Blank": "The organization ______d food to the earthquake victims last year.",
+    "Mistakes": [
+      "Desktop",
+      "Operating system",
+      "Powerful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.26",
+    "English": "Compatible ",
+    "Sub_English": "Tương thích",
+    "Example": "This copier is not compatible with my computer.",
+    "English_Vocabulary_Test": [
+      "Có sức mạnh lớn",
+      "Phát triển",
+      "Con trỏ"
+    ],
+    "Fill_Blank": "This copier is not ______with my computer.",
+    "Mistakes": [
+      "Sophisticated",
+      "Submenu",
+      "WIMP environment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.27",
+    "English": "Modify",
+    "Sub_English": "Thay đổi, điều chỉnh",
+    "Example": "Electrical design engineer must know how to modify existing circuit.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Màn hình nền",
+      "Có sức mạnh lớn"
+    ],
+    "Fill_Blank": "Electrical design engineer must know how to ______ existing circuit.",
+    "Mistakes": [
+      "Distribution",
+      "Desktop",
+      "Distribute"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.28",
+    "English": "Interact",
+    "Sub_English": "Tương tác",
+    "Example": "The only thing he interacts with is his computer.",
+    "English_Vocabulary_Test": [
+      "Phần mềm ứng dụng",
+      "Tính tương thích",
+      "Môi trường giao diện cửa sổ - biểu tượng - trình đơn - con trỏ"
+    ],
+    "Fill_Blank": "The only thing he ______s with is his computer.",
+    "Mistakes": [
+      "Graphical user interface",
+      "Cost-effective",
+      "Toolbar"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.29",
+    "English": "Powerful",
+    "Sub_English": "Có sức mạnh lớn",
+    "Example": "The processor of Apple Watch Series 2 has dual cores and a GPU that’s twice as powerful as the Series 1’s chip.",
+    "English_Vocabulary_Test": [
+      "Phần lõi hệ điều hành",
+      "Trình điều khiển phần cứng",
+      "Tương tác"
+    ],
+    "Fill_Blank": "The processor of Apple Watch Series 2 has dual cores and a GPU that’s twice as ______ as the Series 1’s chip.",
+    "Mistakes": [
+      "Command line interface",
+      "Distribute",
+      "Sophisticated"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.30",
+    "English": "Enable",
+    "Sub_English": "Làm cho có khả năng (bật)",
+    "Example": "To improve signal acquisition time, make sure the device's data communications are enabled.",
+    "English_Vocabulary_Test": [
+      "Trình điều khiển phần cứng",
+      "Có sức mạnh lớn",
+      "Hệ điều hành"
+    ],
+    "Fill_Blank": "To improve signal acquisition time, make sure the device's data communications are ______d.",
+    "Mistakes": [
+      "Modify",
+      "WIMP environment",
+      "Shell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.31",
+    "English": "Interaction",
+    "Sub_English": "Sự tương tác, sự ảnh hưởng lẫn nhau",
+    "Example": "Cross culture refers to the interaction of people from different backgrounds in the business world.",
+    "English_Vocabulary_Test": [
+      "Giao diện người dùng kiểu đồ họa",
+      "Biểu tượng",
+      "Hệ điều hành"
+    ],
+    "Fill_Blank": "Cross culture refers to the ______ of people from different backgrounds in the business world.",
+    "Mistakes": [
+      "Interaction",
+      "Desktop",
+      "Proprietary software/closed-sources software"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.32",
+    "English": "Release",
+    "Sub_English": "Tung ra thị trường",
+    "Example": "After quality control and final check, the finished car can be released.",
+    "English_Vocabulary_Test": [
+      "Phần lõi hệ điều hành",
+      "Phần mềm ứng dụng",
+      "Khay hệ thống"
+    ],
+    "Fill_Blank": "After quality control and final check, the finished car can be ______d.",
+    "Mistakes": [
+      "Sophisticated",
+      "Version",
+      "Release"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.33",
+    "English": "Compatibility",
+    "Sub_English": "Tính tương thích",
+    "Example": "Windows 10 offers great compatibility with the latest multimedia applications.",
+    "English_Vocabulary_Test": [
+      "Thanh tác vụ",
+      "Môi trường giao diện cửa sổ - biểu tượng - trình đơn - con trỏ",
+      "Thân thiện với người dùng"
+    ],
+    "Fill_Blank": "Windows 10 offers great ______ with the latest multimedia applications.",
+    "Mistakes": [
+      "Open-source software",
+      "Shell",
+      "Modify"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.34",
+    "English": "Sophisticated",
+    "Sub_English": "Phức tạp",
+    "Example": "Linux is much more sophisticated than MINIX.",
+    "English_Vocabulary_Test": [
+      "Đa tác vụ",
+      "Tương thích",
+      "Phần mềm mã nguồn mở"
+    ],
+    "Fill_Blank": "Linux is much more ______ than MINIX.",
+    "Mistakes": [
+      "Distribute",
+      "Multitask",
+      "Toolbar"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.35",
+    "English": "Version",
+    "Sub_English": "Phiên bản",
+    "Example": "The latest version of Windows is Windows 10.",
+    "English_Vocabulary_Test": [
+      "Tương tác",
+      "Giao diện dòng lệnh",
+      "Giao diện người dùng kiểu đồ họa"
+    ],
+    "Fill_Blank": "The latest ______ of Windows is Windows 10.",
+    "Mistakes": [
+      "Dialogue box",
+      "WIMP environment",
+      "Version"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.36",
+    "English": "Development",
+    "Sub_English": "Sự phát triển",
+    "Example": "The development of Windows Vista cost about $6 billion.",
+    "English_Vocabulary_Test": [
+      "Thay đổi, điều chỉnh",
+      "Phần mềm mã nguồn đóng",
+      "Thanh tác vụ"
+    ],
+    "Fill_Blank": "The ______ of Windows Vista cost about $6 billion.",
+    "Mistakes": [
+      "Application software",
+      "Drop-down menu",
+      "Device driver"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.37",
+    "English": "Multitask",
+    "Sub_English": "Đa tác vụ",
+    "Example": "Your computer can multitask, or do different things at the same time.",
+    "English_Vocabulary_Test": [
+      "Phần lõi hệ điều hành",
+      "Phiên bản",
+      "Hỗ trợ"
+    ],
+    "Fill_Blank": "Your computer can ______, or do different things at the same time.",
+    "Mistakes": [
+      "System tray",
+      "Compatible ",
+      "WIMP environment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.38",
+    "English": "Preload",
+    "Sub_English": "Nạp trước",
+    "Example": "A personal computer is preloaded with an OS when you buy it.",
+    "English_Vocabulary_Test": [
+      "Phần mềm mã nguồn đóng",
+      "Phân phối",
+      "Trình đơn kéo xuống"
+    ],
+    "Fill_Blank": "A personal computer is ______ed with an OS when you buy it.",
+    "Mistakes": [
+      "Enable",
+      "Cross-platform",
+      "Drop-down menu"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.39",
+    "English": "Device driver",
+    "Sub_English": "Phần mềm điều hành",
+    "Example": "The device driver is the software that runs a particular piece of hardware.",
+    "English_Vocabulary_Test": [
+      "Đa nền tảng",
+      "Phức tạp",
+      "Phần mềm mã nguồn mở"
+    ],
+    "Fill_Blank": "The ______ is the software that runs a particular piece of hardware.",
+    "Mistakes": [
+      "System software",
+      "Graphical user interface",
+      "Dialogue box"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.40",
+    "English": "Media player",
+    "Sub_English": "Trình điều khiển phần cứng",
+    "Example": "The media player helps you listen to music or watch a film on your computer.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Phần mềm điều hành",
+      "Sự phân phối"
+    ],
+    "Fill_Blank": "The ______ helps you listen to music or watch a film on your computer.",
+    "Mistakes": [
+      "Command line interface",
+      "Submenu",
+      "Modify"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.41",
+    "English": "Cost-effective",
+    "Sub_English": "Hiệu quả chi phí",
+    "Example": "Linux is a cost-effective solution for mainframe computers.",
+    "English_Vocabulary_Test": [
+      "Thân thiện với người dùng",
+      "Phần mềm hệ thống",
+      "Có sức mạnh lớn"
+    ],
+    "Fill_Blank": "Linux is a ______ solution for mainframe computers.",
+    "Mistakes": [
+      "Version",
+      "Multitask",
+      "Distribute"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.5.42",
+    "English": "Support",
+    "Sub_English": "Hỗ trợ",
+    "Example": "This game is not supported on Mac.",
+    "English_Vocabulary_Test": [
+      "Phần mềm mã nguồn mở",
+      "Con trỏ",
+      "Trình đơn kéo xuống"
+    ],
+    "Fill_Blank": "This game is not ______ed on Mac.",
+    "Mistakes": [
+      "Interact",
+      "Kernel",
+      "Pointer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.1",
+    "English": "Text editor",
+    "Sub_English": "Trình biên tập văn bản",
+    "Example": "A text editor is a type of computer program that edits plain text.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ đánh dấu mở rộng",
+      "Trình thông dịch",
+      "Sửa lỗi, gỡ rối, gỡ lỗi"
+    ],
+    "Fill_Blank": "A ______ is a type of computer program that edits plain text.",
+    "Mistakes": [
+      "Constrain",
+      "Incorporate",
+      "FORTRAN"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.2",
+    "English": "Incorporate",
+    "Sub_English": "Kết hợp",
+    "Example": "We can incorporate this information into our report.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Basic",
+      "Trình biên tập văn bản",
+      "Ngôn ngữ C cộng cộng"
+    ],
+    "Fill_Blank": "We can ______ this information into our report.",
+    "Mistakes": [
+      "Assembler",
+      "Fundamentals",
+      "High-level language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.3",
+    "English": "Debugger",
+    "Sub_English": "Trình gỡ rối",
+    "Example": "Debugger is a program used to test and debug other programs.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Basic",
+      "Ngôn ngữ COBOL",
+      "Chuyển đổi, biến đổi"
+    ],
+    "Fill_Blank": "______ is a program used to test and debug other programs.",
+    "Mistakes": [
+      "Interpret",
+      "Linker",
+      "Restricted"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.4",
+    "English": "Source code editor",
+    "Sub_English": "Trình soạn thảo mã",
+    "Example": "A source code editor is a text editor program designed specifically for editing source code of programs.",
+    "English_Vocabulary_Test": [
+      "Mã máy",
+      "Trình gỡ rối",
+      "Trình biên tập văn bản"
+    ],
+    "Fill_Blank": "A ______ is a text editor program designed specifically for editing source code of programs.",
+    "Mistakes": [
+      "BASIC",
+      "Fundamentals",
+      "Source code editor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.5",
+    "English": "XML ",
+    "Sub_English": "Ngôn ngữ đánh dấu mở rộng",
+    "Example": "XML is a system used for marking the structure of text on a computer, for example in website pages.",
+    "English_Vocabulary_Test": [
+      "Câu lệnh",
+      "Trình soạn thảo mã",
+      "Ngôn ngữ Fortran"
+    ],
+    "Fill_Blank": "______is a system used for marking the structure of text on a computer, for example in website pages.",
+    "Mistakes": [
+      "VoiceXML",
+      "Low-level language",
+      "Assembler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.6",
+    "English": "COBOL",
+    "Sub_English": "Ngôn ngữ COBOL",
+    "Example": "COBOL is mainly used for business applications.",
+    "English_Vocabulary_Test": [
+      "Cộng đồng",
+      "Trình biên dịch",
+      "Hạn chế"
+    ],
+    "Fill_Blank": "______ is mainly used for business applications.",
+    "Mistakes": [
+      "Compiler",
+      "Fundamentals",
+      "Linker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.7",
+    "English": "Assembly language",
+    "Sub_English": "Hợp ngữ",
+    "Example": "Assembly language is an example of a low-level language.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ đánh dấu mở rộng",
+      "Ngôn ngữ đánh dấu mở rộng giọng nói",
+      "Hạn chế"
+    ],
+    "Fill_Blank": "______ is an example of a low-level language.",
+    "Mistakes": [
+      "Complex ",
+      "Debugger",
+      "Low-level language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.8",
+    "English": "Abbreviation",
+    "Sub_English": "Sự viết tắt",
+    "Example": "The abbreviation of the word \"corporation\" is Corp.",
+    "English_Vocabulary_Test": [
+      "Lỗi",
+      "Mã máy",
+      "Trình biên tập văn bản"
+    ],
+    "Fill_Blank": "The ______ of the word \"corporation\" is Corp.",
+    "Mistakes": [
+      "C",
+      "FORTRAN",
+      "Machine code"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.9",
+    "English": "C",
+    "Sub_English": "Ngôn ngữ C",
+    "Example": "AT&T developed C in the 1980s.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ đánh dấu mở rộng",
+      "Nền tảng, cơ bản",
+      "Ngôn ngữ bậc cao"
+    ],
+    "Fill_Blank": "AT&T developed ______ in the 1980s.",
+    "Mistakes": [
+      "Source code editor",
+      "Abbreviation",
+      "XML "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.10",
+    "English": "Define",
+    "Sub_English": "Xác định",
+    "Example": "XML enables us to define our own tags.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Fortran",
+      "Mã máy",
+      "Trình gỡ rối"
+    ],
+    "Fill_Blank": "XML enables us to ______ our own tags.",
+    "Mistakes": [
+      "Program",
+      "Constrain",
+      "JAVA"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.11",
+    "English": "HTML ",
+    "Sub_English": "Ngôn ngữ đánh dấu siêu văn bản",
+    "Example": "HTML allows us to describe how information will be displayed on web pages.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ đánh dấu mở rộng",
+      "Ngôn ngữ Fortran",
+      "Sự viết tắt"
+    ],
+    "Fill_Blank": "______allows us to describe how information will be displayed on web pages.",
+    "Mistakes": [
+      "Program",
+      "Text editor",
+      "VoiceXML"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.12",
+    "English": "JAVA",
+    "Sub_English": "Ngôn ngữ Java",
+    "Example": "Java is designed to run on the web.",
+    "English_Vocabulary_Test": [
+      "Trình liên kết",
+      "Ngôn ngữ COBOL",
+      "Ngôn ngữ Visual Basic"
+    ],
+    "Fill_Blank": "______ is designed to run on the web.",
+    "Mistakes": [
+      "VoiceXML",
+      "Markup tag",
+      "Assembly language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.13",
+    "English": "BASIC",
+    "Sub_English": "Ngôn ngữ Basic",
+    "Example": "Basic is one of high-level languages which was developed in the 1960s.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ bậc thấp",
+      "Ngôn ngữ C",
+      "Hợp ngữ"
+    ],
+    "Fill_Blank": "______ is one of high-level languages which was developed in the 1960s.",
+    "Mistakes": [
+      "HTML ",
+      "High-level language",
+      "Assembler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.14",
+    "English": "Debug",
+    "Sub_English": "Sửa lỗi, gỡ rối, gỡ lỗi",
+    "Example": "We use a debugger to debug our new program.",
+    "English_Vocabulary_Test": [
+      "Trình soạn thảo mã",
+      "Ngôn ngữ bậc cao",
+      "Ngôn ngữ bậc thấp"
+    ],
+    "Fill_Blank": "We use a ______ger to ______ our new program.",
+    "Mistakes": [
+      "Overcome",
+      "Markup tag",
+      "Program"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.15",
+    "English": "Community",
+    "Sub_English": "Cộng đồng",
+    "Example": "The digital library is open to all members of the community.",
+    "English_Vocabulary_Test": [
+      "Diễn giải",
+      "Ngôn ngữ bậc thấp",
+      "Kết hợp"
+    ],
+    "Fill_Blank": "The digital library is open to all members of the ______.",
+    "Mistakes": [
+      "Constrain",
+      "Convert",
+      "BASIC"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.16",
+    "English": "Linker",
+    "Sub_English": "Trình liên kết",
+    "Example": "A linker provides links to additional information needed for programs to run.",
+    "English_Vocabulary_Test": [
+      "Lập trình",
+      "Ngôn ngữ C",
+      "Kết hợp"
+    ],
+    "Fill_Blank": "A ______ provides links to additional information needed for programs to run.",
+    "Mistakes": [
+      "Markup tag",
+      "Fundamentals",
+      "Graphical element"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.17",
+    "English": "Fundamentals",
+    "Sub_English": "Nền tảng, cơ bản",
+    "Example": "Pascal is used to teach the fundamentals of programming in universities.",
+    "English_Vocabulary_Test": [
+      "Lỗi",
+      "Trình biên tập văn bản",
+      "Ngôn ngữ đánh dấu mở rộng"
+    ],
+    "Fill_Blank": "Pascal is used to teach the ______ of programming in universities.",
+    "Mistakes": [
+      "Visual Basic",
+      "Graphical element",
+      "Compiler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.18",
+    "English": "Graphical element",
+    "Sub_English": "Yếu tố đồ họa",
+    "Example": "Buttons and windows in Windows programs are examples of graphical elements.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ bậc cao",
+      "Phức tạp",
+      "Nền tảng, cơ bản"
+    ],
+    "Fill_Blank": "Buttons and windows in Windows programs are examples of ______s.",
+    "Mistakes": [
+      "Community",
+      "Abbreviation",
+      "High-level language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.19",
+    "English": "FORTRAN",
+    "Sub_English": "Ngôn ngữ Fortran",
+    "Example": "Fortran is a type of high-level language.",
+    "English_Vocabulary_Test": [
+      "Diễn giải",
+      "Hạn chế",
+      "Yếu tố đồ họa"
+    ],
+    "Fill_Blank": "______ is a type of high-level language.",
+    "Mistakes": [
+      "Graphical element",
+      "Interpreter",
+      "Text editor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.20",
+    "English": "Bug",
+    "Sub_English": "Lỗi",
+    "Example": "The latest software is full of bugs.",
+    "English_Vocabulary_Test": [
+      "Trình liên kết",
+      "Ngôn ngữ đánh dấu mở rộng",
+      "Trình soạn thảo mã"
+    ],
+    "Fill_Blank": "The latest software is full of ______s.",
+    "Mistakes": [
+      "Low-level language",
+      "Abbreviation",
+      "Text editor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.21",
+    "English": "C++",
+    "Sub_English": "Ngôn ngữ C cộng cộng",
+    "Example": "C++ is a version of C.",
+    "English_Vocabulary_Test": [
+      "Sửa lỗi, gỡ rối, gỡ lỗi",
+      "Vượt qua",
+      "Ngôn ngữ Fortran"
+    ],
+    "Fill_Blank": "______ is a version of C.",
+    "Mistakes": [
+      "Source code editor",
+      "Markup tag",
+      "Instruction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.22",
+    "English": "Assembler",
+    "Sub_English": "Hợp ngữ, trình hợp ngữ",
+    "Example": "Assembler is not only a low-level language but also a program for changing instructions into machine code.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Visual Basic",
+      "Ngôn ngữ Java",
+      "Nền tảng, cơ bản"
+    ],
+    "Fill_Blank": "______ is not only a low-level language but also a program for changing instructions into machine code.",
+    "Mistakes": [
+      "Assembler",
+      "Restricted",
+      "Visual Basic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.23",
+    "English": "Compiler",
+    "Sub_English": "Trình biên dịch",
+    "Example": "A compiler translates the source code into machine code in one go.",
+    "English_Vocabulary_Test": [
+      "Hợp ngữ",
+      "Ngôn ngữ Visual Basic",
+      "Ngôn ngữ C"
+    ],
+    "Fill_Blank": "A ______ translates the source code into machine code in one go.",
+    "Mistakes": [
+      "Convert",
+      "Instruction",
+      "Linker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.24",
+    "English": "Overcome",
+    "Sub_English": "Vượt qua",
+    "Example": "We always try to overcome all the difficulties.",
+    "English_Vocabulary_Test": [
+      "Yếu tố đồ họa",
+      "Nền tảng, cơ bản",
+      "Trình gỡ rối"
+    ],
+    "Fill_Blank": "We always try to ______ all the difficulties.",
+    "Mistakes": [
+      "Text editor",
+      "Low-level language",
+      "Source code"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.25",
+    "English": "Visual Basic",
+    "Sub_English": "Ngôn ngữ Visual Basic",
+    "Example": "Visual BASIC is used to build graphical elements.",
+    "English_Vocabulary_Test": [
+      "Yếu tố đồ họa",
+      "Ngôn ngữ đánh dấu mở rộng giọng nói",
+      "Hợp ngữ, trình hợp ngữ"
+    ],
+    "Fill_Blank": "______ is used to build graphical elements.",
+    "Mistakes": [
+      "Community",
+      "Incorporate",
+      "Interpret"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.26",
+    "English": "Restricted",
+    "Sub_English": "Hạn chế",
+    "Example": "Low-level language is restricted to particular machines.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ COBOL",
+      "Ngôn ngữ bậc cao",
+      "Ngôn ngữ bậc thấp"
+    ],
+    "Fill_Blank": "Low-level language is ______ to particular machines.",
+    "Mistakes": [
+      "Program",
+      "Bug",
+      "Markup tag"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.27",
+    "English": "High-level language",
+    "Sub_English": "Ngôn ngữ bậc cao",
+    "Example": "C is an example of a high-level language.",
+    "English_Vocabulary_Test": [
+      "Sự viết tắt",
+      "Ngôn ngữ đánh dấu mở rộng giọng nói",
+      "Trình soạn thảo mã"
+    ],
+    "Fill_Blank": "C is an example of a ______.",
+    "Mistakes": [
+      "Complex ",
+      "Linker",
+      "Instruction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.28",
+    "English": "Instruction",
+    "Sub_English": "Câu lệnh",
+    "Example": "The chip runs at speeds of up to 100MHz and executes two instructions per clock cycle.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ đánh dấu mở rộng giọng nói",
+      "Ngôn ngữ COBOL",
+      "Vượt qua"
+    ],
+    "Fill_Blank": "The chip runs at speeds of up to 100MHz and executes two ______s per clock cycle.",
+    "Mistakes": [
+      "Markup tag",
+      "Source code editor",
+      "Complex "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.29",
+    "English": "Low-level language",
+    "Sub_English": "Ngôn ngữ bậc thấp",
+    "Example": "Assembly and machine code are examples of low-level language.",
+    "English_Vocabulary_Test": [
+      "Hợp ngữ, trình hợp ngữ",
+      "Mã nguồn",
+      "Ngôn ngữ bậc cao"
+    ],
+    "Fill_Blank": "Assembly and machine code are examples of ______.",
+    "Mistakes": [
+      "BASIC",
+      "Linker",
+      "XML "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.30",
+    "English": "Markup tag",
+    "Sub_English": "Thẻ đánh dấu",
+    "Example": "Markup tags can be used anywhere the editor is available and incorporated into the HTML of content pages.",
+    "English_Vocabulary_Test": [
+      "Hợp ngữ, trình hợp ngữ",
+      "Vượt qua",
+      "Ngôn ngữ C cộng cộng"
+    ],
+    "Fill_Blank": "______s can be used anywhere the editor is available and incorporated into the HTML of content pages.",
+    "Mistakes": [
+      "Constrain",
+      "Markup tag",
+      "Interpreter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.31",
+    "English": "VoiceXML",
+    "Sub_English": "Ngôn ngữ đánh dấu mở rộng giọng nói",
+    "Example": "VoiceXML is used to create voice applications that run on the phone.",
+    "English_Vocabulary_Test": [
+      "Nền tảng, cơ bản",
+      "Trình gỡ rối",
+      "Ngôn ngữ Basic"
+    ],
+    "Fill_Blank": "______ is used to create voice applications that run on the phone.",
+    "Mistakes": [
+      "Community",
+      "Interpreter",
+      "Assembly language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.32",
+    "English": "Interpreter",
+    "Sub_English": "Trình thông dịch",
+    "Example": "An interpreter translates the source code line by line as the program is running.",
+    "English_Vocabulary_Test": [
+      "Trình biên dịch",
+      "Yếu tố đồ họa",
+      "Ngôn ngữ Visual Basic"
+    ],
+    "Fill_Blank": "An ______ translates the source code line by line as the program is running.",
+    "Mistakes": [
+      "Incorporate",
+      "Overcome",
+      "Instruction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.33",
+    "English": "Program",
+    "Sub_English": "Lập trình",
+    "Example": "The computer is programmed to warn users before information is deleted.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ COBOL",
+      "Vượt qua",
+      "Nền tảng, cơ bản"
+    ],
+    "Fill_Blank": "The computer is ______med to warn users before information is deleted.",
+    "Mistakes": [
+      "JAVA",
+      "Low-level language",
+      "VoiceXML"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.34",
+    "English": "Source code",
+    "Sub_English": "Mã nguồn",
+    "Example": "You can copy its source code, change it, and contribute it to others.",
+    "English_Vocabulary_Test": [
+      "Xác định",
+      "Ngôn ngữ Fortran",
+      "Yếu tố đồ họa"
+    ],
+    "Fill_Blank": "You can copy its ______, change it, and contribute it to others.",
+    "Mistakes": [
+      "Constrain",
+      "Abbreviation",
+      "Linker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.35",
+    "English": "Interpret",
+    "Sub_English": "Diễn giải",
+    "Example": "The control unit interprets each instruction.",
+    "English_Vocabulary_Test": [
+      "Trình soạn thảo mã",
+      "Trình liên kết",
+      "Hợp ngữ"
+    ],
+    "Fill_Blank": "The control unit ______s each instruction.",
+    "Mistakes": [
+      "Interpret",
+      "Overcome",
+      "Linker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.36",
+    "English": "Machine code",
+    "Sub_English": "Mã máy",
+    "Example": "Machine code, also called machine language, is an example of low-level language.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Basic",
+      "Hợp ngữ, trình hợp ngữ",
+      "Ngôn ngữ C"
+    ],
+    "Fill_Blank": "______, also called machine language, is an example of low-level language.",
+    "Mistakes": [
+      "Complex ",
+      "VoiceXML",
+      "Incorporate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.37",
+    "English": "Convert",
+    "Sub_English": "Chuyển đổi, biến đổi",
+    "Example": "I want to convert this PDF document into Microsoft Office Word 2012.",
+    "English_Vocabulary_Test": [
+      "Ngôn ngữ Basic",
+      "Mã nguồn",
+      "Xác định"
+    ],
+    "Fill_Blank": "I want to ______ this PDF document into Microsoft Office Word 2012.",
+    "Mistakes": [
+      "Overcome",
+      "Complex ",
+      "Instruction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.38",
+    "English": "Complex ",
+    "Sub_English": "Phức tạp",
+    "Example": "Although C++ is a powerful language, it is complex in its syntax.",
+    "English_Vocabulary_Test": [
+      "Hạn chế",
+      "Trình gỡ rối",
+      "Ngôn ngữ Basic"
+    ],
+    "Fill_Blank": "Although C++ is a powerful language, it is ______in its syntax.",
+    "Mistakes": [
+      "Low-level language",
+      "Program",
+      "High-level language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.6.39",
+    "English": "Constrain",
+    "Sub_English": "Hạn chế",
+    "Example": "She found herself constrained to use the touch screen.",
+    "English_Vocabulary_Test": [
+      "Trình biên tập văn bản",
+      "Ngôn ngữ đánh dấu siêu văn bản",
+      "Trình gỡ rối"
+    ],
+    "Fill_Blank": "She found herself ______ed to use the touch screen.",
+    "Mistakes": [
+      "Instruction",
+      "Linker",
+      "JAVA"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.1",
+    "English": "Client / Server",
+    "Sub_English": "Máy trạm, máy khách",
+    "Example": "Client/server is a program relationship in which one program requests a service or resource from another one.",
+    "English_Vocabulary_Test": [
+      "Giao thức",
+      "Đường trục",
+      "Mạng cục bộ không dây"
+    ],
+    "Fill_Blank": "Client/server is a program relationship in which one program requests a service or resource from another one.",
+    "Mistakes": [
+      "Channel ",
+      "Synchronous transmission",
+      "PAP"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.2",
+    "English": "Cycle",
+    "Sub_English": "Chu kỳ, chu trình",
+    "Example": "Information processing cycle is a sequence of events consisting of input, processing, storage & output.",
+    "English_Vocabulary_Test": [
+      "Quá trình nối dự phòng",
+      "Phạm vi mạng",
+      "Kênh truyền dữ liệu (IT)"
+    ],
+    "Fill_Blank": "Information processing ______ is a sequence of events consisting of input, processing, storage & output.",
+    "Mistakes": [
+      "Gateway",
+      "Ethernet cable",
+      "Broadcast storm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.3",
+    "English": "Switch",
+    "Sub_English": "Công tắc",
+    "Example": "When you get out of the room, please turn off the switch.",
+    "English_Vocabulary_Test": [
+      "Mạng cục bộ không dây",
+      "Mạng cá nhân",
+      "Bộ phân phối"
+    ],
+    "Fill_Blank": "When you get out of the room, please turn off the ______.",
+    "Mistakes": [
+      "Backbone",
+      "Synchronous transmission",
+      "Repeater"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.4",
+    "English": "Bridge",
+    "Sub_English": "Cầu",
+    "Example": "A bridge is a device which is used to connect two networks at the data-link level.",
+    "English_Vocabulary_Test": [
+      "Chu kỳ, chu trình",
+      "Sự gợi ý, sự đề xuất",
+      "Cấu hình"
+    ],
+    "Fill_Blank": "A ______ is a device which is used to connect two networks at the data-link level.",
+    "Mistakes": [
+      "Configuration",
+      "Specification ",
+      "Merger"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.5",
+    "English": "Configuration",
+    "Sub_English": "Cấu hình",
+    "Example": "The Surface Pro is available in a wide range of prices and configurations, from the $799 base model to the $2,699 version.",
+    "English_Vocabulary_Test": [
+      "Ghép kênh",
+      "Băng thông",
+      "Dây cáp (mạng nội bộ)"
+    ],
+    "Fill_Blank": "The Surface Pro is available in a wide range of prices and ______s, from the $799 base model to the $2,699 version.",
+    "Mistakes": [
+      "Encrypt",
+      "VPN ",
+      "Domain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.6",
+    "English": "Router",
+    "Sub_English": "Bộ định tuyến",
+    "Example": "Place the router on a flat surface off the floor.",
+    "English_Vocabulary_Test": [
+      "Quá trình nối dự phòng",
+      "Bộ điều khiển nhóm",
+      "Mạng riêng ảo"
+    ],
+    "Fill_Blank": "Place the ______ on a flat surface off the floor.",
+    "Mistakes": [
+      "Link Aggregation",
+      "Set up",
+      "Encrypt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.7",
+    "English": "Set up",
+    "Sub_English": "Cài đặt",
+    "Example": "When you want to use a software, you have to download it from the Internet and then set up the program on your computer or laptop.",
+    "English_Vocabulary_Test": [
+      "Phạm vi mạng",
+      "Cổng kết nối Internet",
+      "Phần mềm nhóm"
+    ],
+    "Fill_Blank": "When you want to use a software, you have to download it from the Internet and then ______ the program on your computer or laptop.",
+    "Mistakes": [
+      "WLAN",
+      "CAT-5",
+      "IP address"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.8",
+    "English": "Recommendation",
+    "Sub_English": "Sự gợi ý, sự đề xuất",
+    "Example": "The recommendation is that we should use the wired network when doing high-bandwidth activities because they are faster than wireless ones.",
+    "English_Vocabulary_Test": [
+      "Bảng chính, bảng hệ thống",
+      "Giao thức cấu hình động máy chủ",
+      "Chuyển tiếp khung"
+    ],
+    "Fill_Blank": "The ______ is that we should use the wired network when doing high-bandwidth activities because they are faster than wireless ones.",
+    "Mistakes": [
+      "Switched circuit",
+      "Broadcast storm",
+      "Configuration"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.9",
+    "English": "Backbone",
+    "Sub_English": "Đường trục",
+    "Example": "The Internet connects various pieces of a network and provides a path for the exchange of information between different LANS.",
+    "English_Vocabulary_Test": [
+      "Công tắc",
+      "Dây cặp xoắn loại 5",
+      "Thành phần trung tâm"
+    ],
+    "Fill_Blank": "The Internet connects various pieces of a network and provides a path for the exchange of information between different LANS.",
+    "Mistakes": [
+      "WLAN",
+      "centerpiece",
+      "PAP"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.10",
+    "English": "Network connector",
+    "Sub_English": "Liên kết mạng",
+    "Example": "Network connector is a device that terminates a segment of cabling or provides a point of entry for networking devices such as computers, hubs, and routers.",
+    "English_Vocabulary_Test": [
+      "Mạng riêng ảo",
+      "Mạch đóng ngắt",
+      "Cân bằng tải"
+    ],
+    "Fill_Blank": "______ is a device that terminates a segment of cabling or provides a point of entry for networking devices such as computers, hubs, and routers.",
+    "Mistakes": [
+      "Multiplex",
+      "Load balancing",
+      "Public network"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.11",
+    "English": "Domain",
+    "Sub_English": "Miền",
+    "Example": "A domain name is the address where Internet users can access your website.",
+    "English_Vocabulary_Test": [
+      "Băng thông",
+      "Kênh truyền dữ liệu (IT)",
+      "Cân bằng tải"
+    ],
+    "Fill_Blank": "A ______ name is the address where Internet users can access your website.",
+    "Mistakes": [
+      "Client / Server",
+      "Broadcast storm",
+      "centerpiece"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.12",
+    "English": "Gateway",
+    "Sub_English": "Cổng kết nối Internet",
+    "Example": "A gateway is one part of a network, whose role is an entrance to connect to another network.",
+    "English_Vocabulary_Test": [
+      "Thiết bị kết nối mạng không dây",
+      "Cân bằng tải",
+      "Băng thông"
+    ],
+    "Fill_Blank": "A ______ is one part of a network, whose role is an entrance to connect to another network.",
+    "Mistakes": [
+      "Channel ",
+      "DHCP ",
+      "Link Aggregation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.13",
+    "English": "Network interface card",
+    "Sub_English": "Cạc/ Thẻ giao tiếp mạng",
+    "Example": "A network interface card is a circuit board or card installed in a computer to connect it to a network.",
+    "English_Vocabulary_Test": [
+      "Mạch đóng ngắt",
+      "Chuyển đổi",
+      "Sự đóng gói"
+    ],
+    "Fill_Blank": "A ______ is a circuit board or card installed in a computer to connect it to a network.",
+    "Mistakes": [
+      "PAN ",
+      "Network interface card",
+      "LAN "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.14",
+    "English": "Private network",
+    "Sub_English": "Mạng cá nhân",
+    "Example": "A private network is the network belonging the Internet addressing architecture which uses private IP address.",
+    "English_Vocabulary_Test": [
+      "Công tắc",
+      "Cách thức truyền tin",
+      "Giao thức xác thực mật mã"
+    ],
+    "Fill_Blank": "A ______ is the network belonging the Internet addressing architecture which uses private IP address.",
+    "Mistakes": [
+      "Repeater",
+      "Unicast",
+      "Hub"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.15",
+    "English": "Modem",
+    "Sub_English": "Bộ điều chế/ Dải điều chế",
+    "Example": "I need a modem to connect my computer to the Internet.",
+    "English_Vocabulary_Test": [
+      "Sự hợp lại, sự tích hợp",
+      "Cạc/ Thẻ giao tiếp mạng",
+      "Phạm vi mạng"
+    ],
+    "Fill_Blank": "I need a ______ to connect my computer to the Internet.",
+    "Mistakes": [
+      "Bridge",
+      "Packet",
+      "Network interface card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.16",
+    "English": "Bandwidth",
+    "Sub_English": "Băng thông",
+    "Example": "Bandwidth describes the maximum data transfer rate of a network or Internet connection.",
+    "English_Vocabulary_Test": [
+      "Chu kỳ, chu trình",
+      "Mạch đóng ngắt",
+      "Gói tin"
+    ],
+    "Fill_Blank": "______ describes the maximum data transfer rate of a network or Internet connection.",
+    "Mistakes": [
+      "Private network",
+      "Channel ",
+      "centerpiece"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.17",
+    "English": "Public network",
+    "Sub_English": "Mạng công cộng",
+    "Example": "Window permits the users to set the network they connect to as either Public or Private network.",
+    "English_Vocabulary_Test": [
+      "Dây cáp (mạng nội bộ)",
+      "Dây cặp xoắn loại 5",
+      "Quyền hạn"
+    ],
+    "Fill_Blank": "Window permits the users to set the network they connect to as either Public or Private network.",
+    "Mistakes": [
+      "Gateway",
+      "CAT-5",
+      "Router"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.18",
+    "English": "Network range",
+    "Sub_English": "Phạm vi mạng",
+    "Example": "Let's begin the process of determining the network range by opening a terminal window.",
+    "English_Vocabulary_Test": [
+      "Đường trục",
+      "Cầu",
+      "Sự đóng gói"
+    ],
+    "Fill_Blank": "Let's begin the process of determining the ______ by opening a terminal window.",
+    "Mistakes": [
+      "Convert",
+      "Network connector",
+      "DHCP "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.19",
+    "English": "A wireless access point",
+    "Sub_English": "Thiết bị kết nối mạng không dây",
+    "Example": "A wireless access point called AP or WAP is a networking device that allows Wi-Fi devices to connect to a wired network.",
+    "English_Vocabulary_Test": [
+      "Bộ phân phối",
+      "Cầu",
+      "Dây cặp xoắn loại 5"
+    ],
+    "Fill_Blank": "______ called AP or WAP is a networking device that allows Wi-Fi devices to connect to a wired network.",
+    "Mistakes": [
+      "Specification ",
+      "Protocol",
+      "Merger"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.20",
+    "English": "Repeater",
+    "Sub_English": "Bộ lặp",
+    "Example": "A wireless repeater is the easy and safe way to boost your signal.",
+    "English_Vocabulary_Test": [
+      "Mạng cá nhân",
+      "Giao thức xác thực mật mã",
+      "Phần mềm nhóm"
+    ],
+    "Fill_Blank": "A wireless ______ is the easy and safe way to boost your signal.",
+    "Mistakes": [
+      "Modem",
+      "Frame Relay",
+      "Network interface card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.21",
+    "English": "Hub",
+    "Sub_English": "Bộ phân phối",
+    "Example": "Hubs are devices commonly used to connect different parts of a Local Area Network.",
+    "English_Vocabulary_Test": [
+      "Chuyển đổi",
+      "Thiết bị kết nối mạng không dây",
+      "Sự đóng gói"
+    ],
+    "Fill_Blank": "______s are devices commonly used to connect different parts of a Local Area Network.",
+    "Mistakes": [
+      "Switched circuit",
+      "Network connector",
+      "Broadcast storm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.22",
+    "English": "Ethernet cable",
+    "Sub_English": "Dây cáp (mạng nội bộ)",
+    "Example": "An Ethernet cable is a popular type of cable.",
+    "English_Vocabulary_Test": [
+      "Cân bằng tải",
+      "Băng thông",
+      "Mạng đô thị"
+    ],
+    "Fill_Blank": "An ______ is a popular type of cable.",
+    "Mistakes": [
+      "Synchronous transmission",
+      "Link Aggregation",
+      "Backbone"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.23",
+    "English": "Cluster controller",
+    "Sub_English": "Bộ điều khiển nhóm",
+    "Example": "A cluster controller is a machine that is used to manage other machines in a cluster.",
+    "English_Vocabulary_Test": [
+      "Nút",
+      "Chuyển đổi",
+      "Dây cáp (mạng nội bộ)"
+    ],
+    "Fill_Blank": "A ______ is a machine that is used to manage other machines in a cluster.",
+    "Mistakes": [
+      "IP address",
+      "DHCP ",
+      "Cluster controller"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.24",
+    "English": "Convert",
+    "Sub_English": "Chuyển đổi",
+    "Example": "How do you convert PDF files into Word files?",
+    "English_Vocabulary_Test": [
+      "Giao thức",
+      "Quyền hạn",
+      "Chuyển tiếp khung"
+    ],
+    "Fill_Blank": "How do you ______ PDF files into Word files?",
+    "Mistakes": [
+      "Encapsulation",
+      "PAN ",
+      "Authentication"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.25",
+    "English": "Interact Limit",
+    "Sub_English": "Giới hạn tương tác",
+    "Example": "If you post bad information on Facebook, you will have an interact limit.",
+    "English_Vocabulary_Test": [
+      "Mạng cục bộ",
+      "Băng thông",
+      "Mạng diện rộng"
+    ],
+    "Fill_Blank": "If you post bad information on Facebook, you will have an ______.",
+    "Mistakes": [
+      "Channel ",
+      "Network interface card",
+      "Network connector"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.26",
+    "English": "Merger",
+    "Sub_English": "Sự hợp lại, sự tích hợp",
+    "Example": "File merger is the combination of two or more files into a bigger one.",
+    "English_Vocabulary_Test": [
+      "Giới hạn tương tác",
+      "Mạng diện rộng",
+      "Mạng cục bộ không dây"
+    ],
+    "Fill_Blank": "File ______ is the combination of two or more files into a bigger one.",
+    "Mistakes": [
+      "Encrypt",
+      "Groupware",
+      "Network range"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.27",
+    "English": "Multiplex",
+    "Sub_English": "Ghép kênh",
+    "Example": "Multiplexing is defined as the combination of two or more information channels into a common transmission medium.",
+    "English_Vocabulary_Test": [
+      "Miền",
+      "Mạng riêng ảo",
+      "Chuyển tiếp khung"
+    ],
+    "Fill_Blank": "______ing is defined as the combination of two or more information channels into a common transmission medium.",
+    "Mistakes": [
+      "Node",
+      "Unicast",
+      "A wireless access point"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.28",
+    "English": "Authentication",
+    "Sub_English": "Sự xác nhận",
+    "Example": "In IT, authentication is the process focusing on verifying the identity of a person or a device.",
+    "English_Vocabulary_Test": [
+      "Cài đặt",
+      "Mạng riêng ảo",
+      "Thành phần trung tâm"
+    ],
+    "Fill_Blank": "In IT, ______ is the process focusing on verifying the identity of a person or a device.",
+    "Mistakes": [
+      "PAP",
+      "Convert",
+      "Cluster controller"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.29",
+    "English": "Authorization",
+    "Sub_English": "Quyền hạn",
+    "Example": "If you want to continue using this security software, you have to ask for authorization.",
+    "English_Vocabulary_Test": [
+      "Chuyển đổi",
+      "Dây cặp xoắn loại 5",
+      "Cân bằng tải"
+    ],
+    "Fill_Blank": "If you want to continue using this security software, you have to ask for ______.",
+    "Mistakes": [
+      "Multiplex",
+      "IP address",
+      "Cycle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.30",
+    "English": "Backplane",
+    "Sub_English": "Bảng chính, bảng hệ thống",
+    "Example": "A backplane is connected with the main circuit board of a computer to provide transmission within the structure.",
+    "English_Vocabulary_Test": [
+      "Mạng công cộng",
+      "Cạc/ Thẻ giao tiếp mạng",
+      "Quyền hạn"
+    ],
+    "Fill_Blank": "A ______ is connected with the main circuit board of a computer to provide transmission within the structure.",
+    "Mistakes": [
+      "Repeater",
+      "Private network",
+      "DHCP "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.31",
+    "English": "Protocol",
+    "Sub_English": "Giao thức",
+    "Example": "Protocol is the organized processes and rules that communication uses to transfer bits and bytes.",
+    "English_Vocabulary_Test": [
+      "Sự gợi ý, sự đề xuất",
+      "Thành phần trung tâm",
+      "Miền"
+    ],
+    "Fill_Blank": "______ is the organized processes and rules that communication uses to transfer bits and bytes.",
+    "Mistakes": [
+      "centerpiece",
+      "Set up",
+      "Private network"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.32",
+    "English": "Encapsulation",
+    "Sub_English": "Sự đóng gói",
+    "Example": "Encapsulation is a protective shield to prevent the data from being accessed by code outside this shield.",
+    "English_Vocabulary_Test": [
+      "Bộ phân phối",
+      "Băng thông",
+      "Cấu hình"
+    ],
+    "Fill_Blank": "______ is a protective shield to prevent the data from being accessed by code outside this shield.",
+    "Mistakes": [
+      "Authentication",
+      "Interact Limit",
+      "PAP"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.33",
+    "English": "Fiber Optic Cable",
+    "Sub_English": "Cáp quang",
+    "Example": "With the appearance of Fiber Optic Cable, you can access the Internet easier and faster.",
+    "English_Vocabulary_Test": [
+      "Truyền dẫn đồng bộ",
+      "Giới hạn tương tác",
+      "Bộ điều chế/ Dải điều chế"
+    ],
+    "Fill_Blank": "With the appearance of ______, you can access the Internet easier and faster.",
+    "Mistakes": [
+      "Cluster controller",
+      "Router",
+      "Repeater"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.34",
+    "English": "Frame Relay",
+    "Sub_English": "Chuyển tiếp khung",
+    "Example": "In computing, Frame Relay helps reduce the number of circuits required and the associated bandwidths; therefore, it reduces the cost of internetworking.",
+    "English_Vocabulary_Test": [
+      "Mạng cục bộ không dây",
+      "Cài đặt",
+      "Mã hóa"
+    ],
+    "Fill_Blank": "In computing, ______ helps reduce the number of circuits required and the associated bandwidths; therefore, it reduces the cost of internetworking.",
+    "Mistakes": [
+      "Link Aggregation",
+      "Repeater",
+      "Multiplex"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.35",
+    "English": "IP address",
+    "Sub_English": "Địa chỉ IP",
+    "Example": "If you can’t connect to the Internet, you should check your IP address.",
+    "English_Vocabulary_Test": [
+      "Sự gợi ý, sự đề xuất",
+      "Mạng công cộng",
+      "Thông số (IT)"
+    ],
+    "Fill_Blank": "If you can’t connect to the Internet, you should check your ______.",
+    "Mistakes": [
+      "Private network",
+      "Node",
+      "WAN "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.36",
+    "English": "Load balancing",
+    "Sub_English": "Cân bằng tải",
+    "Example": "The most vital role of load balancing is minimizing response time and avoiding overload of any single resource.",
+    "English_Vocabulary_Test": [
+      "Mạng đô thị",
+      "Bộ lặp",
+      "Mã hóa"
+    ],
+    "Fill_Blank": "The most vital role of ______ is minimizing response time and avoiding overload of any single resource.",
+    "Mistakes": [
+      "Gateway",
+      "Recommendation",
+      "Fiber Optic Cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.37",
+    "English": "Link Aggregation",
+    "Sub_English": "Sự ghép liên kết",
+    "Example": "I am trying to set up link aggregation in my network.",
+    "English_Vocabulary_Test": [
+      "Máy trạm, máy khách",
+      "Quyền hạn",
+      "Chuyển tiếp khung"
+    ],
+    "Fill_Blank": "I am trying to set up ______ in my network.",
+    "Mistakes": [
+      "Modem",
+      "WLAN",
+      "Hub"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.38",
+    "English": "Synchronous transmission",
+    "Sub_English": "Truyền dẫn đồng bộ",
+    "Example": "The boss asks us to ensure the synchronous transmission of the networking system we have just installed.",
+    "English_Vocabulary_Test": [
+      "Bộ điều chế/ Dải điều chế",
+      "Chuyển tiếp khung",
+      "Gói tin"
+    ],
+    "Fill_Blank": "The boss asks us to ensure the ______ of the networking system we have just installed.",
+    "Mistakes": [
+      "Recommendation",
+      "WLAN",
+      "Encapsulation"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.39",
+    "English": "Unicast",
+    "Sub_English": "Cách thức truyền tin",
+    "Example": "The unicast method wastes a lot of bandwidth by sending duplicate information.",
+    "English_Vocabulary_Test": [
+      "Mạng cục bộ",
+      "Sự xác nhận",
+      "Phần mềm nhóm"
+    ],
+    "Fill_Blank": "The ______ method wastes a lot of bandwidth by sending duplicate information.",
+    "Mistakes": [
+      "WAN ",
+      "Private network",
+      "DHCP "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.40",
+    "English": "Encrypt",
+    "Sub_English": "Mã hóa",
+    "Example": "The users are required to encrypt their private information to prevent unauthorized access.",
+    "English_Vocabulary_Test": [
+      "Cầu",
+      "Sự hợp lại, sự tích hợp",
+      "Cổng kết nối Internet"
+    ],
+    "Fill_Blank": "The users are required to ______ their private information to prevent unauthorized access.",
+    "Mistakes": [
+      "PAN ",
+      "Set up",
+      "WAN "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.41",
+    "English": "Groupware",
+    "Sub_English": "Phần mềm nhóm",
+    "Example": "A groupware is an application collaborative software designed to help users be involved in a common task.",
+    "English_Vocabulary_Test": [
+      "Bảng chính, bảng hệ thống",
+      "Sự xác nhận",
+      "Bộ lặp"
+    ],
+    "Fill_Blank": "A ______ is an application collaborative software designed to help users be involved in a common task.",
+    "Mistakes": [
+      "Recommendation",
+      "PAN ",
+      "CAT-5"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.42",
+    "English": "Node",
+    "Sub_English": "Nút",
+    "Example": "In a networking system, a node can be a computer or even other devices such as a printer.",
+    "English_Vocabulary_Test": [
+      "Giới hạn tương tác",
+      "Truyền dẫn đồng bộ",
+      "Gói tin"
+    ],
+    "Fill_Blank": "In a networking system, a ______ can be a computer or even other devices such as a printer.",
+    "Mistakes": [
+      "Set up",
+      "LAN ",
+      "Fiber Optic Cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.43",
+    "English": "Packet",
+    "Sub_English": "Gói tin",
+    "Example": "When you finish compiling the software, wrap it into a packet and then submit it to the supervisor.",
+    "English_Vocabulary_Test": [
+      "Quyền hạn",
+      "Cầu",
+      "Sự xác nhận"
+    ],
+    "Fill_Blank": "When you finish compiling the software, wrap it into a ______ and then submit it to the supervisor.",
+    "Mistakes": [
+      "Channel ",
+      "VPN ",
+      "Gateway"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.44",
+    "English": "VPN ",
+    "Sub_English": "Mạng riêng ảo",
+    "Example": "A Virtual Private Network enables users to send and receive data across shared or public networks.",
+    "English_Vocabulary_Test": [
+      "Cạc/ Thẻ giao tiếp mạng",
+      "Cách thức truyền tin",
+      "Mạng cục bộ không dây"
+    ],
+    "Fill_Blank": "A Virtual Private Network enables users to send and receive data across shared or public networks.",
+    "Mistakes": [
+      "Router",
+      "LAN ",
+      "Switched circuit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.45",
+    "English": "Broadcast storm",
+    "Sub_English": "Quá trình nối dự phòng",
+    "Example": "A broadcast storm occurs when a network system is overwhelmed by continuous multicast or broadcast traffic.",
+    "English_Vocabulary_Test": [
+      "Mạng riêng ảo",
+      "Dây cáp (mạng nội bộ)",
+      "Chuyển đổi"
+    ],
+    "Fill_Blank": "A ______ occurs when a network system is overwhelmed by continuous multicast or broadcast traffic.",
+    "Mistakes": [
+      "Broadcast storm",
+      "centerpiece",
+      "PAN "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.46",
+    "English": "PAP",
+    "Sub_English": "Giao thức xác thực mật mã",
+    "Example": "Password Authentication Protocol is a simple user authentication protocol that does not encrypt the data.",
+    "English_Vocabulary_Test": [
+      "Liên kết mạng",
+      "Cổng kết nối Internet",
+      "Mạng công cộng"
+    ],
+    "Fill_Blank": "Password Authentication Protocol is a simple user authentication protocol that does not encrypt the data.",
+    "Mistakes": [
+      "WAN ",
+      "Network range",
+      "Encrypt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.47",
+    "English": "Switched circuit",
+    "Sub_English": "Mạch đóng ngắt",
+    "Example": "Switched circuit is a type of communication where a dedicated channel or circuit is established for transmission.",
+    "English_Vocabulary_Test": [
+      "Cầu",
+      "Sự hợp lại, sự tích hợp",
+      "Dây cặp xoắn loại 5"
+    ],
+    "Fill_Blank": "______ is a type of communication where a dedicated channel or circuit is established for transmission.",
+    "Mistakes": [
+      "Backbone",
+      "Configuration",
+      "Gateway"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.48",
+    "English": "WLAN",
+    "Sub_English": "Mạng cục bộ không dây",
+    "Example": "A Wireless Local Area Network is a LAN including computers connected via high-frequency radio waves.",
+    "English_Vocabulary_Test": [
+      "Thiết bị kết nối mạng không dây",
+      "Mạng riêng ảo",
+      "Giao thức cấu hình động máy chủ"
+    ],
+    "Fill_Blank": "A Wireless Local Area Network is a LAN including computers connected via high-frequency radio waves.",
+    "Mistakes": [
+      "Modem",
+      "Groupware",
+      "Unicast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.49",
+    "English": "LAN ",
+    "Sub_English": "Mạng cục bộ",
+    "Example": "LAN (Local Area Network) works within a relatively small area such as a single room or building.",
+    "English_Vocabulary_Test": [
+      "Chuyển tiếp khung",
+      "Bộ lặp",
+      "Mã hóa"
+    ],
+    "Fill_Blank": "______(Local Area Network) works within a relatively small area such as a single room or building.",
+    "Mistakes": [
+      "Ethernet cable",
+      "Load balancing",
+      "Convert"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.50",
+    "English": "PAN ",
+    "Sub_English": "Mạng cá nhân",
+    "Example": "A Personal Area Network provides data transmission among devices like computers, smartphones, and tablets.",
+    "English_Vocabulary_Test": [
+      "Đường trục",
+      "Nút",
+      "Thông số (IT)"
+    ],
+    "Fill_Blank": "A Personal Area Network provides data transmission among devices like computers, smartphones, and tablets.",
+    "Mistakes": [
+      "Repeater",
+      "Recommendation",
+      "Domain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.51",
+    "English": "MAN",
+    "Sub_English": "Mạng đô thị",
+    "Example": "A Metropolitan Area Network operates in a larger region than LAN but smaller than WAN.",
+    "English_Vocabulary_Test": [
+      "Bảng chính, bảng hệ thống",
+      "Dây cặp xoắn loại 5",
+      "Máy trạm, máy khách"
+    ],
+    "Fill_Blank": "A Metropolitan Area Network operates in a larger region than LAN but smaller than WAN.",
+    "Mistakes": [
+      "Interact Limit",
+      "Merger",
+      "WLAN"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.52",
+    "English": "CAT-5",
+    "Sub_English": "Dây cặp xoắn loại 5",
+    "Example": "When you go out, please help me buy a Category 5 cable.",
+    "English_Vocabulary_Test": [
+      "Máy trạm, máy khách",
+      "Thành phần trung tâm",
+      "Giao thức cấu hình động máy chủ"
+    ],
+    "Fill_Blank": "When you go out, please help me buy a Category 5 cable.",
+    "Mistakes": [
+      "Network connector",
+      "Encrypt",
+      "Public network"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.53",
+    "English": "DHCP ",
+    "Sub_English": "Giao thức cấu hình động máy chủ",
+    "Example": "Dynamic Host Configuration Protocol (DHCP) is a protocol that automatically assigns a unique IP address to each device.",
+    "English_Vocabulary_Test": [
+      "Nút",
+      "Chuyển tiếp khung",
+      "Bảng chính, bảng hệ thống"
+    ],
+    "Fill_Blank": "Dynamic Host Configuration Protocol (DHCP) is a protocol that automatically assigns a unique IP address to each device.",
+    "Mistakes": [
+      "DHCP ",
+      "WAN ",
+      "WLAN"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.54",
+    "English": "WAN ",
+    "Sub_English": "Mạng diện rộng",
+    "Example": "A Wide Area Network can span a larger area region than LAN.",
+    "English_Vocabulary_Test": [
+      "Dây cặp xoắn loại 5",
+      "Giao thức",
+      "Mạng cá nhân"
+    ],
+    "Fill_Blank": "A Wide Area Network can span a larger area region than LAN.",
+    "Mistakes": [
+      "VPN ",
+      "Channel ",
+      "WLAN"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.55",
+    "English": "centerpiece",
+    "Sub_English": "Thành phần trung tâm",
+    "Example": "Centerpiece features a schedule for Rootle UNC-TV Public Media North Carolina's Kids Channel.",
+    "English_Vocabulary_Test": [
+      "Bộ lặp",
+      "Kênh truyền dữ liệu (IT)",
+      "Sự ghép liên kết"
+    ],
+    "Fill_Blank": "______ features a schedule for Rootle UNC-TV Public Media North Carolina's Kids Channel.",
+    "Mistakes": [
+      "Frame Relay",
+      "Specification ",
+      "Encrypt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.56",
+    "English": "Channel ",
+    "Sub_English": "Kênh truyền dữ liệu (IT)",
+    "Example": "A data channel is a computer path used when transferring data from one device to another.",
+    "English_Vocabulary_Test": [
+      "Miền",
+      "Sự ghép liên kết",
+      "Bộ định tuyến"
+    ],
+    "Fill_Blank": "A data ______is a computer path used when transferring data from one device to another.",
+    "Mistakes": [
+      "Switch",
+      "Frame Relay",
+      "Gateway"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.7.57",
+    "English": "Specification ",
+    "Sub_English": "Thông số (IT)",
+    "Example": "You use a Network specification to define a network as a whole.",
+    "English_Vocabulary_Test": [
+      "Cầu",
+      "Sự ghép liên kết",
+      "Chu kỳ, chu trình"
+    ],
+    "Fill_Blank": "You use a Network ______to define a network as a whole.",
+    "Mistakes": [
+      "Link Aggregation",
+      "Hub",
+      "Switch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.1",
+    "English": "Be frozen",
+    "Sub_English": "Bị đóng băng, bị treo",
+    "Example": "I often restart my computer when it’s frozen.",
+    "English_Vocabulary_Test": [
+      "Chạy chậm",
+      "Kết nối cáp",
+      "Sự cố"
+    ],
+    "Fill_Blank": "I often restart my computer when it’s frozen.",
+    "Mistakes": [
+      "Faint copies",
+      "Go blank",
+      "To diagnose"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.2",
+    "English": "Uninstall",
+    "Sub_English": "Gỡ bỏ",
+    "Example": "Hackers can use malware to extract personal information, steal money, or lock you out of your device.",
+    "English_Vocabulary_Test": [
+      "Điện áp thấp",
+      "Lỗi kẹt giấy",
+      "Chẩn đoán"
+    ],
+    "Fill_Blank": "Hackers can use malware to extract personal information, steal money, or lock you out of your device.",
+    "Mistakes": [
+      "Upgrade the drivers",
+      "Check the cable",
+      "Disconnect from Wi-Fi"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.3",
+    "English": "Unplug",
+    "Sub_English": "Tháo, rút (phích cắm)",
+    "Example": "If you have to leave your home, remember to unplug your appliances and turn off the electricity.",
+    "English_Vocabulary_Test": [
+      "Chạy chậm",
+      "Trình điều khiển âm thanh",
+      "Bị đóng băng, bị treo"
+    ],
+    "Fill_Blank": "If you have to leave your home, remember to ______ your appliances and turn off the electricity.",
+    "Mistakes": [
+      "Musical Instrument Digital Interface ",
+      "Diagnosis",
+      "Upgrade the drivers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.4",
+    "English": "Go blank",
+    "Sub_English": "Màn hình sáng trắng, không có hình",
+    "Example": "I was working with my computer when the screen went blank.",
+    "English_Vocabulary_Test": [
+      "Kết nối cáp",
+      "Chẩn đoán",
+      "Tên nhà sản xuất/ thương hiệu/ hãng và kiểu/ dòng"
+    ],
+    "Fill_Blank": "I was working with my computer when the screen went blank.",
+    "Mistakes": [
+      "Blue screen of death",
+      "Faint copies",
+      "Be overheating"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.5",
+    "English": "Be overheating",
+    "Sub_English": "Nóng lên",
+    "Example": "My laptop usually gets overheating after one or two hours.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Màn hình bị xanh",
+      "Điện áp thấp"
+    ],
+    "Fill_Blank": "My laptop usually gets overheating after one or two hours.",
+    "Mistakes": [
+      "Incident ",
+      "Charge the battery",
+      "Cable connection"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.6",
+    "English": "Slow down",
+    "Sub_English": "Chạy chậm",
+    "Example": "The Internet slows down, so it takes me a lot of time to learn English online.",
+    "English_Vocabulary_Test": [
+      "Tháo, rút (phích cắm)",
+      "Kiểm tra dây cáp",
+      "Điều chỉnh điện áp"
+    ],
+    "Fill_Blank": "The Internet slows down, so it takes me a lot of time to learn English online.",
+    "Mistakes": [
+      "Faint copies",
+      "Plug in",
+      "Be frozen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.7",
+    "English": "Log in",
+    "Sub_English": "Đăng nhập",
+    "Example": "First, log in to your Gmail account in order to set up Android.",
+    "English_Vocabulary_Test": [
+      "Trình điều khiển âm thanh",
+      "Mờ",
+      "Máy tính giật/ ‘chết’/ treo"
+    ],
+    "Fill_Blank": "First, ______ to your Gmail account in order to set up Android.",
+    "Mistakes": [
+      "Voltage regulator",
+      "Bloatware",
+      "Be overheating"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.8",
+    "English": "Disconnect from Wi-Fi",
+    "Sub_English": "Ngắt kết nối WiFi",
+    "Example": "If the computer disconnects from WiFi, reset the WiFi device.",
+    "English_Vocabulary_Test": [
+      "Sự cố",
+      "Giao diện nhạc cụ kỹ thuật số",
+      "Âm thanh lạ"
+    ],
+    "Fill_Blank": "If the computer disconnects from WiFi, reset the WiFi device.",
+    "Mistakes": [
+      "Paper feed problem",
+      "Loose",
+      "Diagnosis"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.9",
+    "English": "Blue screen of death",
+    "Sub_English": "Màn hình bị xanh",
+    "Example": "If your computer gets a blue screen of death, scan it for viruses.",
+    "English_Vocabulary_Test": [
+      "Tháo, rút (phích cắm)",
+      "Ngắt kết nối WiFi",
+      "Bị đóng băng, bị treo"
+    ],
+    "Fill_Blank": "If your computer gets a ______, scan it for viruses.",
+    "Mistakes": [
+      "Reboot the computer",
+      "Incident ",
+      "Dim"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.10",
+    "English": "A weird noise",
+    "Sub_English": "Âm thanh lạ",
+    "Example": "Listen! My computer is making a weird noise. What is the problem with it?",
+    "English_Vocabulary_Test": [
+      "Máy tính giật/ ‘chết’/ treo",
+      "Mờ",
+      "Bản in bị nhạt/ mờ"
+    ],
+    "Fill_Blank": "Listen! My computer is making ______. What is the problem with it?",
+    "Mistakes": [
+      "To diagnose",
+      "Incident ",
+      "Contact support"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.11",
+    "English": "Frequency setting",
+    "Sub_English": "Cài đặt tần số",
+    "Example": "The frequency setting is too low. Try adjusting the setting in Control Panel.",
+    "English_Vocabulary_Test": [
+      "Trình điều khiển âm thanh",
+      "Sạc pin",
+      "Bị đóng băng, bị treo"
+    ],
+    "Fill_Blank": "The ______ is too low. Try adjusting the setting in Control Panel.",
+    "Mistakes": [
+      "Frequency setting",
+      "Paper feed problem",
+      "Log in"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.12",
+    "English": "Check the cable",
+    "Sub_English": "Kiểm tra dây cáp",
+    "Example": "If you are connected directly to your router, check the cable from your computer to the router.",
+    "English_Vocabulary_Test": [
+      "Chẩn đoán",
+      "Lỗi kẹt giấy",
+      "Điều chỉnh điện áp"
+    ],
+    "Fill_Blank": "If you are connected directly to your router, ______ from your computer to the router.",
+    "Mistakes": [
+      "Paper jam problem",
+      "Voltage regulator",
+      "Cable connection"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.13",
+    "English": "Upgrade the drivers",
+    "Sub_English": "Nâng cấp trình điều khiển",
+    "Example": "It is a good idea to upgrade the drivers regularly.",
+    "English_Vocabulary_Test": [
+      "Bản in bị nhạt/ mờ",
+      "Đăng nhập",
+      "Kết nối cáp"
+    ],
+    "Fill_Blank": "It is a good idea to ______ regularly.",
+    "Mistakes": [
+      "Go blank",
+      "Voltage regulator",
+      "Bloatware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.14",
+    "English": "Contact support",
+    "Sub_English": "Liên hệ với đội hỗ trợ",
+    "Example": "If you have any technical problems, please contact support.",
+    "English_Vocabulary_Test": [
+      "Khởi động lại máy tính",
+      "Nóng lên",
+      "Chẩn đoán"
+    ],
+    "Fill_Blank": "If you have any technical problems, please ______.",
+    "Mistakes": [
+      "Incident ",
+      "Blue screen of death",
+      "A weird noise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.15",
+    "English": "Charge the battery",
+    "Sub_English": "Sạc pin",
+    "Example": "You need to charge the battery to keep using it.",
+    "English_Vocabulary_Test": [
+      "Bản in bị nhạt/ mờ",
+      "Sự cố",
+      "Màn hình sáng trắng, không có hình"
+    ],
+    "Fill_Blank": "You need to ______ to keep using it.",
+    "Mistakes": [
+      "Check the cable",
+      "Loose",
+      "Unplug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.16",
+    "English": "Reboot the computer",
+    "Sub_English": "Khởi động lại máy tính",
+    "Example": "Try rebooting the computer if it is frozen suddenly.",
+    "English_Vocabulary_Test": [
+      "Màn hình bị xanh",
+      "Nâng cấp trình điều khiển",
+      "Mờ"
+    ],
+    "Fill_Blank": "Try rebooting the computer if it is frozen suddenly.",
+    "Mistakes": [
+      "Be overheating",
+      "Incident ",
+      "Bloatware"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.17",
+    "English": "Computer hangs",
+    "Sub_English": "Máy tính treo/ đơ",
+    "Example": "I sometimes have problems with computer hangs, which makes me annoyed.",
+    "English_Vocabulary_Test": [
+      "Gỡ bỏ",
+      "Tháo, rút (phích cắm)",
+      "Cài đặt tần số"
+    ],
+    "Fill_Blank": "I sometimes have problems with ______, which makes me annoyed.",
+    "Mistakes": [
+      "Disconnect from Wi-Fi",
+      "Faint copies",
+      "Frequency setting"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.18",
+    "English": "Computer crashes",
+    "Sub_English": "Máy tính giật/ ‘chết’/ treo",
+    "Example": "I don't know what to do when I have a problem with computer crashes.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Cài đặt tần số",
+      "Trình điều khiển âm thanh"
+    ],
+    "Fill_Blank": "I don't know what to do when I have a problem with ______.",
+    "Mistakes": [
+      "Be frozen",
+      "Go blank",
+      "Check the cable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.19",
+    "English": "Make and model number",
+    "Sub_English": "Tên nhà sản xuất/ thương hiệu/ hãng và kiểu/ dòng",
+    "Example": "- Do you know what make and model number of this laptop is? - It is the Dell Latitude and model number D630.",
+    "English_Vocabulary_Test": [
+      "Mờ",
+      "Âm thanh lạ",
+      "Máy tính giật/ ‘chết’/ treo"
+    ],
+    "Fill_Blank": "- Do you know what ______ of this laptop is? - It is the Dell Latitude and model number D630.",
+    "Mistakes": [
+      "Be frozen",
+      "Log in",
+      "Paper feed problem"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.20",
+    "English": "Diagnosis",
+    "Sub_English": "Chẩn đoán (nguyên nhân)",
+    "Example": "IT helpdesks tend to ask for more details about a problem before making a diagnosis.",
+    "English_Vocabulary_Test": [
+      "Cài đặt tần số",
+      "Tên nhà sản xuất/ thương hiệu/ hãng và kiểu/ dòng",
+      "Âm thanh lạ"
+    ],
+    "Fill_Blank": "IT helpdesks tend to ask for more details about a problem before making a ______.",
+    "Mistakes": [
+      "Go blank",
+      "Paper feed problem",
+      "Charge the battery"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.21",
+    "English": "To diagnose",
+    "Sub_English": "Chẩn đoán",
+    "Example": "Can you diagnose the faults and give advice on each problem?",
+    "English_Vocabulary_Test": [
+      "Gỡ bỏ",
+      "Điều chỉnh điện áp",
+      "Máy tính treo/ đơ"
+    ],
+    "Fill_Blank": "Can you diagnose the faults and give advice on each problem?",
+    "Mistakes": [
+      "Check the cable",
+      "Go blank",
+      "Incident "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.22",
+    "English": "Sound driver",
+    "Sub_English": "Trình điều khiển âm thanh",
+    "Example": "I recommend you to reinstall a new sound driver. The old one might be faulty.",
+    "English_Vocabulary_Test": [
+      "Điều chỉnh điện áp",
+      "Chẩn đoán",
+      "Màn hình sáng trắng, không có hình"
+    ],
+    "Fill_Blank": "I recommend you to reinstall a new ______. The old one might be faulty.",
+    "Mistakes": [
+      "Contact support",
+      "Loose",
+      "Paper jam problem"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.23",
+    "English": "Dim",
+    "Sub_English": "Mờ",
+    "Example": "My computer sometimes stops and reboots itself. The lights dim at the same time.",
+    "English_Vocabulary_Test": [
+      "Cắm điện",
+      "Giao diện nhạc cụ kỹ thuật số",
+      "Nóng lên"
+    ],
+    "Fill_Blank": "My computer sometimes stops and reboots itself. The lights ______ at the same time.",
+    "Mistakes": [
+      "Sound driver",
+      "Make and model number",
+      "Charge the battery"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.24",
+    "English": "Loose",
+    "Sub_English": "Lỏng",
+    "Example": "You should check and see if the cables are loose.",
+    "English_Vocabulary_Test": [
+      "Điện áp thấp",
+      "Đăng nhập",
+      "Chạy chậm"
+    ],
+    "Fill_Blank": "You should check and see if the cables are ______.",
+    "Mistakes": [
+      "Go blank",
+      "Reboot the computer",
+      "Frequency setting"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.25",
+    "English": "Musical Instrument Digital Interface ",
+    "Sub_English": "Giao diện nhạc cụ kỹ thuật số",
+    "Example": "MIDI is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices.",
+    "English_Vocabulary_Test": [
+      "Máy tính treo/ đơ",
+      "Chạy chậm",
+      "Lỗi nạp giấy"
+    ],
+    "Fill_Blank": "MIDI is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices.",
+    "Mistakes": [
+      "Uninstall",
+      "Computer crashes",
+      "Unplug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.26",
+    "English": "Incident ",
+    "Sub_English": "Sự cố",
+    "Example": "I often make reports on technical incidents and send them to my IT team leader.",
+    "English_Vocabulary_Test": [
+      "Giao diện nhạc cụ kỹ thuật số",
+      "Cài đặt tần số",
+      "Kết nối cáp"
+    ],
+    "Fill_Blank": "I often make reports on technical incidents and send them to my IT team leader.",
+    "Mistakes": [
+      "Cable connection",
+      "Sound driver",
+      "Make and model number"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.27",
+    "English": "Bloatware",
+    "Sub_English": "Phần mềm phức tạp, không cần thiết",
+    "Example": "You should uninstall some bloatware on your mobile phone.",
+    "English_Vocabulary_Test": [
+      "Điều chỉnh điện áp",
+      "Ngắt kết nối WiFi",
+      "Nâng cấp trình điều khiển"
+    ],
+    "Fill_Blank": "You should uninstall some ______ on your mobile phone.",
+    "Mistakes": [
+      "Voltage regulator",
+      "Paper feed problem",
+      "Faint copies"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.28",
+    "English": "Paper feed problem",
+    "Sub_English": "Lỗi nạp giấy",
+    "Example": "What should I do if I have a paper feed problem?",
+    "English_Vocabulary_Test": [
+      "Trình điều khiển âm thanh",
+      "Điều chỉnh điện áp",
+      "Chạy chậm"
+    ],
+    "Fill_Blank": "What should I do if I have a ______?",
+    "Mistakes": [
+      "Cable connection",
+      "Faint copies",
+      "Uninstall"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.29",
+    "English": "Paper jam problem",
+    "Sub_English": "Lỗi kẹt giấy",
+    "Example": "You should cancel the print job from the computer if you have a paper jam problem.",
+    "English_Vocabulary_Test": [
+      "Tháo, rút (phích cắm)",
+      "Đăng nhập",
+      "Liên hệ với đội hỗ trợ"
+    ],
+    "Fill_Blank": "You should cancel the print job from the computer if you have a ______.",
+    "Mistakes": [
+      "Disconnect from Wi-Fi",
+      "Be frozen",
+      "Log in"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.30",
+    "English": "Cable connection",
+    "Sub_English": "Kết nối cáp",
+    "Example": "You should check whether there is a good cable connection or not.",
+    "English_Vocabulary_Test": [
+      "Tháo, rút (phích cắm)",
+      "Ngắt kết nối WiFi",
+      "Chạy chậm"
+    ],
+    "Fill_Blank": "You should check whether there is a good ______ or not.",
+    "Mistakes": [
+      "Uninstall",
+      "Charge the battery",
+      "A weird noise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.31",
+    "English": "Faint copies",
+    "Sub_English": "Bản in bị nhạt/ mờ",
+    "Example": "My printer produces some faint copies. Maybe, the ink cartridge has run out.",
+    "English_Vocabulary_Test": [
+      "Điện áp thấp",
+      "Lỗi nạp giấy",
+      "Máy tính treo/ đơ"
+    ],
+    "Fill_Blank": "My printer produces some ______. Maybe, the ink cartridge has run out.",
+    "Mistakes": [
+      "Be frozen",
+      "Voltage regulator",
+      "Unplug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.32",
+    "English": "Low voltage problem",
+    "Sub_English": "Điện áp thấp",
+    "Example": "We often face low voltage problems at home, so we feel very upset.",
+    "English_Vocabulary_Test": [
+      "Lỗi kẹt giấy",
+      "Nâng cấp trình điều khiển",
+      "Bản in bị nhạt/ mờ"
+    ],
+    "Fill_Blank": "We often face ______s at home, so we feel very upset.",
+    "Mistakes": [
+      "Computer hangs",
+      "Unplug",
+      "Dim"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.33",
+    "English": "Voltage regulator",
+    "Sub_English": "Điều chỉnh điện áp",
+    "Example": "A voltage regulator is a system designed to automatically maintain a constant voltage level.",
+    "English_Vocabulary_Test": [
+      "Chẩn đoán (nguyên nhân)",
+      "Chạy chậm",
+      "Chẩn đoán"
+    ],
+    "Fill_Blank": "A ______ is a system designed to automatically maintain a constant voltage level.",
+    "Mistakes": [
+      "To diagnose",
+      "Upgrade the drivers",
+      "Charge the battery"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_4.8.34",
+    "English": "Plug in",
+    "Sub_English": "Cắm điện",
+    "Example": "It is necessary to check if all network cables are plugged in.",
+    "English_Vocabulary_Test": [
+      "Màn hình sáng trắng, không có hình",
+      "Trình điều khiển âm thanh",
+      "Lỏng"
+    ],
+    "Fill_Blank": "It is necessary to check if all network cables are plugged in.",
+    "Mistakes": [
+      "Log in",
+      "Reboot the computer",
+      "Plug in"
+    ],
+    "Status": 0
+  }
+]

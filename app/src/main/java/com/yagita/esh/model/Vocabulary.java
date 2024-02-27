@@ -9,7 +9,7 @@ public class Vocabulary {
     private String Example;
     private List<String> English_Vocabulary_Test;
     private String Fill_Blank;
-    private List<String> Mistake;
+    private List<String> Mistakes;
     private int Status;
 
     public Vocabulary(String ID, String english, String sub_English, String example, List<String> english_Vocabulary_Test, String fill_Blank, List<String> mistake, int status) {
@@ -19,7 +19,7 @@ public class Vocabulary {
         Example = example;
         English_Vocabulary_Test = english_Vocabulary_Test;
         Fill_Blank = fill_Blank;
-        Mistake = mistake;
+        Mistakes = mistake;
         Status = status;
     }
 
@@ -72,11 +72,11 @@ public class Vocabulary {
     }
 
     public List<String> getMistake() {
-        return Mistake;
+        return Mistakes;
     }
 
     public void setMistake(List<String> mistake) {
-        Mistake = mistake;
+        Mistakes = mistake;
     }
 
     public int getStatus() {

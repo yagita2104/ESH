@@ -1,0 +1,7184 @@
+[
+  {
+    "ID": "English_Information_Technology_2.1.1",
+    "English": "Black eyes",
+    "Sub_English": "Mắt đen",
+    "Example": "She had striking black eyes that seemed to pierce through your soul.",
+    "English_Vocabulary_Test": [
+      "Tóc xoăn",
+      "Quần áo bảo hộ",
+      "Dễ thương"
+    ],
+    "Fill_Blank": "She had striking ______ that seemed to pierce through your soul.",
+    "Mistakes": [
+      "Blue eyes",
+      "Rectangle",
+      "Muscular"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.2",
+    "English": "Blonde hair",
+    "Sub_English": "Tóc vàng",
+    "Example": "Her long, flowing blonde hair shimmered in the sunlight.",
+    "English_Vocabulary_Test": [
+      "Kính bảo hộ",
+      "Hình bầu dục",
+      "Hình tròn"
+    ],
+    "Fill_Blank": "Her long, flowing ______ shimmered in the sunlight.",
+    "Mistakes": [
+      "Thin",
+      "Jeans",
+      "Triangle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.3",
+    "English": "Blue eyes",
+    "Sub_English": "Mắt xanh",
+    "Example": "He had captivating blue eyes that sparkled with mischief.",
+    "English_Vocabulary_Test": [
+      "Sự bảo vệ",
+      "Tóc xám",
+      "Cao"
+    ],
+    "Fill_Blank": "He had captivating ______ that sparkled with mischief.",
+    "Mistakes": [
+      "USB (Universal Serial Bus)",
+      "Mouse mat",
+      "Sweater"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.4",
+    "English": "Boots",
+    "Sub_English": "Ủng",
+    "Example": "He wore sturdy boots to trek through the muddy terrain.",
+    "English_Vocabulary_Test": [
+      "Xăng đan",
+      "Hình tam giác",
+      "Giày thể thao"
+    ],
+    "Fill_Blank": "He wore sturdy ______ to trek through the muddy terrain.",
+    "Mistakes": [
+      "Gloves",
+      "Goggles",
+      "Cute"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.5",
+    "English": "Brown eyes",
+    "Sub_English": "Mắt nâu",
+    "Example": "Her warm brown eyes reflected kindness and compassion.",
+    "English_Vocabulary_Test": [
+      "Ngắn",
+      "Áo len dài tay",
+      "Hình tròn"
+    ],
+    "Fill_Blank": "Her warm ______ reflected kindness and compassion.",
+    "Mistakes": [
+      "Triangle",
+      "Shirt",
+      "Trousers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.6",
+    "English": "Cap",
+    "Sub_English": "Mũ lưỡi trai",
+    "Example": "He put on his favorite baseball cap before heading out.",
+    "English_Vocabulary_Test": [
+      "Mũ bảo hiểm / Mũ cứng",
+      "USB",
+      "Chân váy"
+    ],
+    "Fill_Blank": "He put on his favorite baseball ______ before heading out.",
+    "Mistakes": [
+      "Circle",
+      "Protection",
+      "Mouse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.7",
+    "English": "Coat",
+    "Sub_English": "Áo khoác",
+    "Example": "She bundled up in her warm coat to brave the winter chill.",
+    "English_Vocabulary_Test": [
+      "Dễ thương",
+      "Tóc xám",
+      "Hình chữ nhật"
+    ],
+    "Fill_Blank": "She bundled up in her warm ______ to brave the winter chill.",
+    "Mistakes": [
+      "Jacket",
+      "Coat",
+      "Sandals"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.8",
+    "English": "Curly hair",
+    "Sub_English": "Tóc xoăn",
+    "Example": "Her wild, curly hair framed her face beautifully.",
+    "English_Vocabulary_Test": [
+      "Mảnh khảnh",
+      "Quần",
+      "Màn hình"
+    ],
+    "Fill_Blank": "Her wild, ______ framed her face beautifully.",
+    "Mistakes": [
+      "Sandals",
+      "Tall",
+      "Curly hair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.9",
+    "English": "Dress",
+    "Sub_English": "Váy",
+    "Example": "She wore a stunning red dress to the elegant gala.",
+    "English_Vocabulary_Test": [
+      "Màn hình máy tính",
+      "Áo len dài tay",
+      "Gầy"
+    ],
+    "Fill_Blank": "She wore a stunning red ______ to the elegant gala.",
+    "Mistakes": [
+      "Speaker",
+      "Case",
+      "Shirt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.10",
+    "English": "Earmuffs",
+    "Sub_English": "Bảo vệ tai",
+    "Example": "He slipped on his earmuffs to protect his ears from the cold wind.",
+    "English_Vocabulary_Test": [
+      "Quần bò",
+      "Thẻ nhớ",
+      "Mũ bảo hiểm / Mũ cứng"
+    ],
+    "Fill_Blank": "He slipped on his ______ to protect his ears from the cold wind.",
+    "Mistakes": [
+      "Trousers",
+      "Jacket",
+      "Tall"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.11",
+    "English": "Gloves",
+    "Sub_English": "Găng tay",
+    "Example": "She pulled on her leather gloves to keep her hands warm.",
+    "English_Vocabulary_Test": [
+      "Kính bảo hộ",
+      "Chân đế màn hình",
+      "Quần áo bảo hộ"
+    ],
+    "Fill_Blank": "She pulled on her leather ______ to keep her hands warm.",
+    "Mistakes": [
+      "Computer screen",
+      "Big",
+      "Circle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.12",
+    "English": "Goggles",
+    "Sub_English": "Kính bảo hộ",
+    "Example": "He adjusted his swimming goggles before diving into the pool.",
+    "English_Vocabulary_Test": [
+      "Màn hình",
+      "Mảnh khảnh",
+      "Sự bảo vệ"
+    ],
+    "Fill_Blank": "He adjusted his swimming ______ before diving into the pool.",
+    "Mistakes": [
+      "Round face",
+      "Short",
+      "Jeans"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.13",
+    "English": "Grey hair",
+    "Sub_English": "Tóc xám",
+    "Example": "Despite his age, his thick grey hair added a distinguished air to his appearance.",
+    "English_Vocabulary_Test": [
+      "Già",
+      "Hình tròn",
+      "Kính bảo hộ"
+    ],
+    "Fill_Blank": "Despite his age, his thick ______ added a distinguished air to his appearance.",
+    "Mistakes": [
+      "Trousers",
+      "Young",
+      "Short"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.14",
+    "English": "Helmet/ hard hat",
+    "Sub_English": "Mũ bảo hiểm / Mũ cứng",
+    "Example": "The construction worker put on his hard hat before entering the site.",
+    "English_Vocabulary_Test": [
+      "Sự bảo vệ",
+      "Kính bảo hộ",
+      "USB"
+    ],
+    "Fill_Blank": "The construction worker put on his hard hat before entering the site.",
+    "Mistakes": [
+      "Skirt",
+      "Jeans",
+      "Helmet/ hard hat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.15",
+    "English": "Jacket",
+    "Sub_English": "Áo khoác",
+    "Example": "He zipped up his jacket to shield himself from the biting wind.",
+    "English_Vocabulary_Test": [
+      "Xinh đẹp",
+      "Hình chữ nhật",
+      "Mắt đen"
+    ],
+    "Fill_Blank": "He zipped up his ______ to shield himself from the biting wind.",
+    "Mistakes": [
+      "Skirt",
+      "Mouse mat",
+      "Round face"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.16",
+    "English": "Jeans",
+    "Sub_English": "Quần bò",
+    "Example": "She loved wearing comfortable jeans for casual outings.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Ủng",
+      "Hình vuông"
+    ],
+    "Fill_Blank": "She loved wearing comfortable ______ for casual outings.",
+    "Mistakes": [
+      "Helmet/ hard hat",
+      "Mouse mat",
+      "Square"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.17",
+    "English": "Jumper",
+    "Sub_English": "Áo len chui đầu",
+    "Example": "She wrapped herself in a cozy jumper on chilly evenings.",
+    "English_Vocabulary_Test": [
+      "Ủng",
+      "To lớn",
+      "Màn hình"
+    ],
+    "Fill_Blank": "She wrapped herself in a cozy ______ on chilly evenings.",
+    "Mistakes": [
+      "Skinny",
+      "Monitor",
+      "Big"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.18",
+    "English": "Oval face",
+    "Sub_English": "Mặt trái xoan",
+    "Example": "Her oval face was considered a classic beauty standard.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Bảo vệ tai",
+      "Case máy tính"
+    ],
+    "Fill_Blank": "Her ______ was considered a classic beauty standard.",
+    "Mistakes": [
+      "Pretty",
+      "Uniform",
+      "Round face"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.19",
+    "English": "Protection",
+    "Sub_English": "Sự bảo vệ",
+    "Example": "Wearing sunscreen provides protection against harmful UV rays.",
+    "English_Vocabulary_Test": [
+      "Đẹp trai",
+      "Mắt đen",
+      "Loa"
+    ],
+    "Fill_Blank": "Wearing sunscreen provides ______ against harmful UV rays.",
+    "Mistakes": [
+      "Black eyes",
+      "Case",
+      "Jumper"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.20",
+    "English": "Protective clothing",
+    "Sub_English": "Quần áo bảo hộ",
+    "Example": "Firefighters wear protective clothing to safeguard themselves in dangerous situations.",
+    "English_Vocabulary_Test": [
+      "Trẻ trung",
+      "Mặt trái xoan",
+      "Loa"
+    ],
+    "Fill_Blank": "Firefighters wear ______ to safeguard themselves in dangerous situations.",
+    "Mistakes": [
+      "Monitor",
+      "Trainers",
+      "Sandals"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.21",
+    "English": "Round face",
+    "Sub_English": "Mặt tròn",
+    "Example": "His round face lit up with a smile as he greeted everyone warmly.",
+    "English_Vocabulary_Test": [
+      "Mặt trái xoan",
+      "Quần áo bảo hộ",
+      "Áo sơ mi"
+    ],
+    "Fill_Blank": "His ______ lit up with a smile as he greeted everyone warmly.",
+    "Mistakes": [
+      "Earmuffs",
+      "Grey hair",
+      "Well-built"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.22",
+    "English": "Sandals",
+    "Sub_English": "Xăng đan",
+    "Example": "She slipped on her sandals before heading to the beach.",
+    "English_Vocabulary_Test": [
+      "Chân đế màn hình",
+      "Màn hình máy tính",
+      "Tóc vàng"
+    ],
+    "Fill_Blank": "She slipped on her ______ before heading to the beach.",
+    "Mistakes": [
+      "Round face",
+      "Oval",
+      "Shirt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.23",
+    "English": "Shirt",
+    "Sub_English": "Áo sơ mi",
+    "Example": "He ironed his crisp white shirt for the job interview.",
+    "English_Vocabulary_Test": [
+      "USB",
+      "Hình vuông",
+      "Quần bò"
+    ],
+    "Fill_Blank": "He ironed his crisp white ______ for the job interview.",
+    "Mistakes": [
+      "Handsome",
+      "Uniform",
+      "Case"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.24",
+    "English": "Shoes",
+    "Sub_English": "Giày",
+    "Example": "She carefully selected her shoes to match her outfit.",
+    "English_Vocabulary_Test": [
+      "Xăng đan",
+      "Áo khoác",
+      "Mảnh mai"
+    ],
+    "Fill_Blank": "She carefully selected her ______ to match her outfit.",
+    "Mistakes": [
+      "Sweater",
+      "Mouse",
+      "Coat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.25",
+    "English": "Skirt",
+    "Sub_English": "Chân váy",
+    "Example": "She twirled in her flowy skirt, feeling graceful and elegant.",
+    "English_Vocabulary_Test": [
+      "Màn hình máy tính",
+      "Gầy",
+      "Cơ bắp"
+    ],
+    "Fill_Blank": "She twirled in her flowy ______, feeling graceful and elegant.",
+    "Mistakes": [
+      "Blue eyes",
+      "Muscular",
+      "Square"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.26",
+    "English": "Sweater",
+    "Sub_English": "Áo len dài tay",
+    "Example": "He snuggled into his favorite sweater on lazy Sundays.",
+    "English_Vocabulary_Test": [
+      "Màn hình máy tính",
+      "Giày thể thao",
+      "Xăng đan"
+    ],
+    "Fill_Blank": "He snuggled into his favorite ______ on lazy Sundays.",
+    "Mistakes": [
+      "Brown eyes",
+      "Cap",
+      "Square"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.27",
+    "English": "T-shirt",
+    "Sub_English": "Áo thun",
+    "Example": "She wore a graphic T-shirt featuring her favorite band.",
+    "English_Vocabulary_Test": [
+      "USB",
+      "Hình tam giác",
+      "Cao"
+    ],
+    "Fill_Blank": "She wore a graphic ______ featuring her favorite band.",
+    "Mistakes": [
+      "Shirt",
+      "Triangle",
+      "Mouse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.28",
+    "English": "Trainers",
+    "Sub_English": "Giày thể thao",
+    "Example": "He laced up his trainers before going for a morning run.",
+    "English_Vocabulary_Test": [
+      "Giày",
+      "Béo",
+      "Chuột"
+    ],
+    "Fill_Blank": "He laced up his ______ before going for a morning run.",
+    "Mistakes": [
+      "Protection",
+      "Triangle",
+      "Short"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.29",
+    "English": "Trousers",
+    "Sub_English": "Quần",
+    "Example": "She opted for tailored trousers for a professional look.",
+    "English_Vocabulary_Test": [
+      "Mặt trái xoan",
+      "Loa",
+      "Giày"
+    ],
+    "Fill_Blank": "She opted for tailored ______ for a professional look.",
+    "Mistakes": [
+      "Helmet/ hard hat",
+      "Curly hair",
+      "Dress"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.30",
+    "English": "Uniform",
+    "Sub_English": "Đồng phục",
+    "Example": "The students wore their school uniform with pride.",
+    "English_Vocabulary_Test": [
+      "Xăng đan",
+      "Áo khoác",
+      "Xinh đẹp"
+    ],
+    "Fill_Blank": "The students wore their school ______ with pride.",
+    "Mistakes": [
+      "Square",
+      "Computer screen",
+      "Cap"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.31",
+    "English": "Big",
+    "Sub_English": "To lớn",
+    "Example": "The elephant had big ears that flapped as it walked.",
+    "English_Vocabulary_Test": [
+      "Giày thể thao",
+      "Găng tay",
+      "Tóc xám"
+    ],
+    "Fill_Blank": "The elephant had ______ ears that flapped as it walked.",
+    "Mistakes": [
+      "Square",
+      "Big",
+      "Goggles"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.32",
+    "English": "Cute",
+    "Sub_English": "Dễ thương",
+    "Example": "The puppy had big, cute eyes that melted everyone's heart.",
+    "English_Vocabulary_Test": [
+      "Sự bảo vệ",
+      "Mắt nâu",
+      "Ủng"
+    ],
+    "Fill_Blank": "The puppy had big, ______ eyes that melted everyone's heart.",
+    "Mistakes": [
+      "T-shirt",
+      "Blue eyes",
+      "Oval face"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.33",
+    "English": "Fat",
+    "Sub_English": "Béo",
+    "Example": "Despite her efforts, she struggled to lose weight and remained fat.",
+    "English_Vocabulary_Test": [
+      "Áo len chui đầu",
+      "Áo thun",
+      "Loa"
+    ],
+    "Fill_Blank": "Despite her efforts, she struggled to lose weight and remained ______.",
+    "Mistakes": [
+      "Trousers",
+      "Well-built",
+      "Old"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.34",
+    "English": "Handsome",
+    "Sub_English": "Đẹp trai",
+    "Example": "He was tall, with a strong jawline, undeniably handsome.",
+    "English_Vocabulary_Test": [
+      "Mắt xanh",
+      "Hình chữ nhật",
+      "Mắt đen"
+    ],
+    "Fill_Blank": "He was tall, with a strong jawline, undeniably ______.",
+    "Mistakes": [
+      "Old",
+      "Big",
+      "Trainers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.35",
+    "English": "Muscular",
+    "Sub_English": "Cơ bắp",
+    "Example": "The bodybuilder's muscular physique was the result of years of training.",
+    "English_Vocabulary_Test": [
+      "Váy",
+      "Ủng",
+      "Già"
+    ],
+    "Fill_Blank": "The bodybuilder's ______ physique was the result of years of training.",
+    "Mistakes": [
+      "Sandals",
+      "Boots",
+      "Handsome"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.36",
+    "English": "Old",
+    "Sub_English": "Già",
+    "Example": "The old man sat quietly on the bench, reminiscing about his youth.",
+    "English_Vocabulary_Test": [
+      "Quần bò",
+      "Áo sơ mi",
+      "Mũ lưỡi trai"
+    ],
+    "Fill_Blank": "The ______ man sat quietly on the bench, reminiscing about his youth.",
+    "Mistakes": [
+      "Cute",
+      "Boots",
+      "Skirt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.37",
+    "English": "Pretty",
+    "Sub_English": "Xinh đẹp",
+    "Example": "She wore a pretty dress that accentuated her features.",
+    "English_Vocabulary_Test": [
+      "Tóc xám",
+      "Hình chữ nhật",
+      "Đồng phục"
+    ],
+    "Fill_Blank": "She wore a ______ dress that accentuated her features.",
+    "Mistakes": [
+      "Monitor",
+      "Jacket",
+      "T-shirt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.38",
+    "English": "Short",
+    "Sub_English": "Ngắn",
+    "Example": "Despite being short, he had a confident demeanor.",
+    "English_Vocabulary_Test": [
+      "Bảo vệ tai",
+      "Kính bảo hộ",
+      "Quần bò"
+    ],
+    "Fill_Blank": "Despite being ______, he had a confident demeanor.",
+    "Mistakes": [
+      "Mouse mat",
+      "Muscular",
+      "Boots"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.39",
+    "English": "Skinny",
+    "Sub_English": "Gầy",
+    "Example": "She looked skinny in her tight-fitting jeans.",
+    "English_Vocabulary_Test": [
+      "Xăng đan",
+      "Hình tròn",
+      "Hình bầu dục"
+    ],
+    "Fill_Blank": "She looked ______ in her tight-fitting jeans.",
+    "Mistakes": [
+      "Uniform",
+      "Slim",
+      "Handsome"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.40",
+    "English": "Slim",
+    "Sub_English": "Mảnh mai",
+    "Example": "Her slim figure made her the envy of many.",
+    "English_Vocabulary_Test": [
+      "Áo thun",
+      "Lót chuột",
+      "Chân váy"
+    ],
+    "Fill_Blank": "Her ______ figure made her the envy of many.",
+    "Mistakes": [
+      "USB (Universal Serial Bus)",
+      "Mouse mat",
+      "Well-built"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.41",
+    "English": "Tall",
+    "Sub_English": "Cao",
+    "Example": "The basketball player was exceptionally tall, towering over his opponents.",
+    "English_Vocabulary_Test": [
+      "Hình tròn",
+      "Cơ bắp",
+      "Đẹp trai"
+    ],
+    "Fill_Blank": "The basketball player was exceptionally ______, towering over his opponents.",
+    "Mistakes": [
+      "Short",
+      "Jeans",
+      "Protective clothing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.42",
+    "English": "Thin",
+    "Sub_English": "Mảnh khảnh",
+    "Example": "Despite her appetite, she remained thin due to a fast metabolism.",
+    "English_Vocabulary_Test": [
+      "Giày",
+      "Hình tròn",
+      "Mảnh mai"
+    ],
+    "Fill_Blank": "Despite her appetite, she remained ______ due to a fast metabolism.",
+    "Mistakes": [
+      "Sandals",
+      "Protection",
+      "Fat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.43",
+    "English": "Well-built",
+    "Sub_English": "Lực lưỡng",
+    "Example": "The well-built firefighter effortlessly carried the victim to safety.",
+    "English_Vocabulary_Test": [
+      "Lót chuột",
+      "Quần bò",
+      "Mắt nâu"
+    ],
+    "Fill_Blank": "The ______ firefighter effortlessly carried the victim to safety.",
+    "Mistakes": [
+      "Curly hair",
+      "Helmet/ hard hat",
+      "Dress"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.44",
+    "English": "Young",
+    "Sub_English": "Trẻ trung",
+    "Example": "Despite his age, he remained young at heart.",
+    "English_Vocabulary_Test": [
+      "Hình chữ nhật",
+      "Quần áo bảo hộ",
+      "Xăng đan"
+    ],
+    "Fill_Blank": "Despite his age, he remained ______ at heart.",
+    "Mistakes": [
+      "Sweater",
+      "Thin",
+      "Sandals"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.45",
+    "English": "Case",
+    "Sub_English": "Case máy tính",
+    "Example": "The big case housed all the components of the computer.",
+    "English_Vocabulary_Test": [
+      "Lót chuột",
+      "Hình tròn",
+      "Mặt tròn"
+    ],
+    "Fill_Blank": "The big ______ housed all the components of the computer.",
+    "Mistakes": [
+      "Sweater",
+      "Slim",
+      "Jacket"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.46",
+    "English": "Computer screen",
+    "Sub_English": "Màn hình máy tính",
+    "Example": "The computer screen displayed vibrant colors.",
+    "English_Vocabulary_Test": [
+      "Giày thể thao",
+      "Mắt đen",
+      "Sự bảo vệ"
+    ],
+    "Fill_Blank": "The ______ displayed vibrant colors.",
+    "Mistakes": [
+      "Skinny",
+      "Black eyes",
+      "Pretty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.47",
+    "English": "Keyboard",
+    "Sub_English": "Bàn phím",
+    "Example": "He typed furiously on the keyboard to meet the deadline.",
+    "English_Vocabulary_Test": [
+      "Lót chuột",
+      "Tóc xám",
+      "Mặt trái xoan"
+    ],
+    "Fill_Blank": "He typed furiously on the ______ to meet the deadline.",
+    "Mistakes": [
+      "Big",
+      "Coat",
+      "Old"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.48",
+    "English": "Memory card",
+    "Sub_English": "Thẻ nhớ",
+    "Example": "He inserted the memory card to store his photos.",
+    "English_Vocabulary_Test": [
+      "Hình bầu dục",
+      "Chuột",
+      "Mắt xanh"
+    ],
+    "Fill_Blank": "He inserted the ______ to store his photos.",
+    "Mistakes": [
+      "Oval face",
+      "Skirt",
+      "Monitor stand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.49",
+    "English": "Monitor",
+    "Sub_English": "Màn hình",
+    "Example": "The monitor displayed high-definition images.",
+    "English_Vocabulary_Test": [
+      "Lực lưỡng",
+      "Màn hình máy tính",
+      "Ngắn"
+    ],
+    "Fill_Blank": "The ______ displayed high-definition images.",
+    "Mistakes": [
+      "Fat",
+      "Jeans",
+      "Gloves"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.50",
+    "English": "Monitor stand",
+    "Sub_English": "Chân đế màn hình",
+    "Example": "The monitor stand kept the screen at eye level.",
+    "English_Vocabulary_Test": [
+      "Kính bảo hộ",
+      "Hình vuông",
+      "Giày"
+    ],
+    "Fill_Blank": "The ______ kept the screen at eye level.",
+    "Mistakes": [
+      "Muscular",
+      "Triangle",
+      "Trousers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.51",
+    "English": "Mouse",
+    "Sub_English": "Chuột",
+    "Example": "She clicked the mouse to open the application.",
+    "English_Vocabulary_Test": [
+      "Già",
+      "Kính bảo hộ",
+      "Hình chữ nhật"
+    ],
+    "Fill_Blank": "She clicked the ______ to open the application.",
+    "Mistakes": [
+      "Blonde hair",
+      "Protective clothing",
+      "Keyboard"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.52",
+    "English": "Mouse mat",
+    "Sub_English": "Lót chuột",
+    "Example": "The mouse mat provided smooth movement for the mouse.",
+    "English_Vocabulary_Test": [
+      "Áo len chui đầu",
+      "Mảnh khảnh",
+      "Tóc vàng"
+    ],
+    "Fill_Blank": "The ______ provided smooth movement for the mouse.",
+    "Mistakes": [
+      "Square",
+      "Helmet/ hard hat",
+      "Uniform"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.53",
+    "English": "Speaker",
+    "Sub_English": "Loa",
+    "Example": "The speaker produced crisp sound quality.",
+    "English_Vocabulary_Test": [
+      "Ngắn",
+      "Giày",
+      "Quần áo bảo hộ"
+    ],
+    "Fill_Blank": "The ______ produced crisp sound quality.",
+    "Mistakes": [
+      "Handsome",
+      "Earmuffs",
+      "Rectangle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.54",
+    "English": "USB (Universal Serial Bus)",
+    "Sub_English": "USB",
+    "Example": "He plugged the USB into the port to transfer files.",
+    "English_Vocabulary_Test": [
+      "Áo len dài tay",
+      "Quần bò",
+      "Hình tròn"
+    ],
+    "Fill_Blank": "He plugged the USB into the port to transfer files.",
+    "Mistakes": [
+      "Dress",
+      "Skirt",
+      "Triangle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.55",
+    "English": "Circle",
+    "Sub_English": "Hình tròn",
+    "Example": "The wheels of the car were perfectly shaped circles.",
+    "English_Vocabulary_Test": [
+      "Găng tay",
+      "Bàn phím",
+      "Lót chuột"
+    ],
+    "Fill_Blank": "The wheels of the car were perfectly shaped ______s.",
+    "Mistakes": [
+      "Coat",
+      "Handsome",
+      "Square"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.56",
+    "English": "Triangle",
+    "Sub_English": "Hình tam giác",
+    "Example": "The roof of the house had a triangular shape.",
+    "English_Vocabulary_Test": [
+      "Màn hình",
+      "Áo len chui đầu",
+      "Mặt trái xoan"
+    ],
+    "Fill_Blank": "The roof of the house had a triangular shape.",
+    "Mistakes": [
+      "Skirt",
+      "Short",
+      "Curly hair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.57",
+    "English": "Rectangle",
+    "Sub_English": "Hình chữ nhật",
+    "Example": "The painting hung on the wall was in a rectangular frame.",
+    "English_Vocabulary_Test": [
+      "Tóc xoăn",
+      "Mảnh mai",
+      "USB"
+    ],
+    "Fill_Blank": "The painting hung on the wall was in a rectangular frame.",
+    "Mistakes": [
+      "Short",
+      "Skirt",
+      "Trainers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.58",
+    "English": "Oval",
+    "Sub_English": "Hình bầu dục",
+    "Example": "The mirror in the bathroom had an oval shape.",
+    "English_Vocabulary_Test": [
+      "Hình chữ nhật",
+      "Áo thun",
+      "Già"
+    ],
+    "Fill_Blank": "The mirror in the bathroom had an ______ shape.",
+    "Mistakes": [
+      "Old",
+      "Computer screen",
+      "Triangle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.1.59",
+    "English": "Square",
+    "Sub_English": "Hình vuông",
+    "Example": "She neatly folded the piece of paper into a square.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Xăng đan",
+      "Mắt xanh"
+    ],
+    "Fill_Blank": "She neatly folded the piece of paper into a ______.",
+    "Mistakes": [
+      "Blonde hair",
+      "Skirt",
+      "Helmet/ hard hat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.1",
+    "English": "Ambitious",
+    "Sub_English": "Tham vọng",
+    "Example": "She was ambitious and aimed for the top in her career.",
+    "English_Vocabulary_Test": [
+      "Nói nhiều",
+      "Giúp đỡ, có ích",
+      "Tốt bụng"
+    ],
+    "Fill_Blank": "She was ______ and aimed for the top in her career.",
+    "Mistakes": [
+      "Impatient",
+      "Talkative",
+      "Unfriendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.2",
+    "English": "Bad-tempered",
+    "Sub_English": "Nóng tính",
+    "Example": "His bad-tempered nature often led to conflicts with others.",
+    "English_Vocabulary_Test": [
+      "Hòa đồng",
+      "Đáng tin cậy",
+      "Trung thực"
+    ],
+    "Fill_Blank": "His ______ nature often led to conflicts with others.",
+    "Mistakes": [
+      "Dishonest",
+      "Bad-tempered",
+      "Sociable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.3",
+    "English": "Calm",
+    "Sub_English": "Điềm tĩnh",
+    "Example": "She remained calm in stressful situations.",
+    "English_Vocabulary_Test": [
+      "Ích kỷ",
+      "Tự tin",
+      "Nghiêm khắc"
+    ],
+    "Fill_Blank": "She remained ______ in stressful situations.",
+    "Mistakes": [
+      "Selfish",
+      "Independent",
+      "Funny"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.4",
+    "English": "Confident",
+    "Sub_English": "Tự tin",
+    "Example": "His confident demeanor inspired trust in his abilities.",
+    "English_Vocabulary_Test": [
+      "Thiếu kiên nhẫn",
+      "Lười biếng",
+      "Nói nhiều"
+    ],
+    "Fill_Blank": "His ______ demeanor inspired trust in his abilities.",
+    "Mistakes": [
+      "Dependent",
+      "Lazy",
+      "Helpful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.5",
+    "English": "Creative",
+    "Sub_English": "Sáng tạo",
+    "Example": "The artist's creative mind produced stunning artworks.",
+    "English_Vocabulary_Test": [
+      "Có trách nhiệm",
+      "Thân thiện",
+      "Căng thẳng"
+    ],
+    "Fill_Blank": "The artist's ______ mind produced stunning artworks.",
+    "Mistakes": [
+      "Selfish",
+      "Reliable",
+      "Impatient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.6",
+    "English": "Dependent",
+    "Sub_English": "Phụ thuộc",
+    "Example": "He was financially dependent on his parents.",
+    "English_Vocabulary_Test": [
+      "Chăm chỉ",
+      "Nói nhiều",
+      "Thiếu kiên nhẫn"
+    ],
+    "Fill_Blank": "He was financially ______ on his parents.",
+    "Mistakes": [
+      "Generous",
+      "Honest",
+      "Kind"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.7",
+    "English": "Dishonest",
+    "Sub_English": "Không trung thực",
+    "Example": "The dishonest salesman deceived customers with false promises.",
+    "English_Vocabulary_Test": [
+      "Nghiêm túc",
+      "Kiên nhẫn",
+      "Ích kỷ"
+    ],
+    "Fill_Blank": "The ______ salesman deceived customers with false promises.",
+    "Mistakes": [
+      "Funny",
+      "Depressed",
+      "Responsible"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.8",
+    "English": "Talkative",
+    "Sub_English": "Nói nhiều",
+    "Example": "She was known for being talkative at social gatherings.",
+    "English_Vocabulary_Test": [
+      "Nóng tính",
+      "Nghiêm khắc",
+      "Chăm chỉ"
+    ],
+    "Fill_Blank": "She was known for being ______ at social gatherings.",
+    "Mistakes": [
+      "Easy-going",
+      "Hard-working",
+      "Impatient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.9",
+    "English": "Selfish",
+    "Sub_English": "Ích kỷ",
+    "Example": "His selfish actions prioritized his own interests over others'.",
+    "English_Vocabulary_Test": [
+      "Có trách nhiệm",
+      "Hài hước",
+      "Tham vọng"
+    ],
+    "Fill_Blank": "His ______ actions prioritized his own interests over others'.",
+    "Mistakes": [
+      "Easy-going",
+      "Responsible",
+      "Friendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.10",
+    "English": "Impatient",
+    "Sub_English": "Thiếu kiên nhẫn",
+    "Example": "He grew impatient waiting in line at the store.",
+    "English_Vocabulary_Test": [
+      "Giúp đỡ, có ích",
+      "Nóng tính",
+      "Độc lập"
+    ],
+    "Fill_Blank": "He grew ______ waiting in line at the store.",
+    "Mistakes": [
+      "Ambitious",
+      "Stressed",
+      "Helpful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.11",
+    "English": "Funny",
+    "Sub_English": "Hài hước",
+    "Example": "His funny jokes always brought laughter to the room.",
+    "English_Vocabulary_Test": [
+      "Giúp đỡ, có ích",
+      "Độc lập",
+      "Điềm tĩnh"
+    ],
+    "Fill_Blank": "His ______ jokes always brought laughter to the room.",
+    "Mistakes": [
+      "Selfish",
+      "Unfriendly",
+      "Impatient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.12",
+    "English": "Easy-going",
+    "Sub_English": "Dễ tính",
+    "Example": "She was easy-going and didn't let small things bother her.",
+    "English_Vocabulary_Test": [
+      "Hài hước",
+      "Độc lập",
+      "Có trách nhiệm"
+    ],
+    "Fill_Blank": "She was ______ and didn't let small things bother her.",
+    "Mistakes": [
+      "Depressed",
+      "Responsible",
+      "Helpful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.13",
+    "English": "Friendly",
+    "Sub_English": "Thân thiện",
+    "Example": "The friendly neighbor always greeted everyone with a smile.",
+    "English_Vocabulary_Test": [
+      "Hòa đồng",
+      "Keo kiệt",
+      "Giúp đỡ, có ích"
+    ],
+    "Fill_Blank": "The ______ neighbor always greeted everyone with a smile.",
+    "Mistakes": [
+      "Impatient",
+      "Talkative",
+      "Generous"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.14",
+    "English": "Generous",
+    "Sub_English": "Rộng lượng",
+    "Example": "Despite his modest income, he was incredibly generous.",
+    "English_Vocabulary_Test": [
+      "Chăm chỉ",
+      "Căng thẳng",
+      "Dễ tính"
+    ],
+    "Fill_Blank": "Despite his modest income, he was incredibly ______.",
+    "Mistakes": [
+      "Talkative",
+      "Hard-working",
+      "Generous"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.15",
+    "English": "Hard-working",
+    "Sub_English": "Chăm chỉ",
+    "Example": "She was known for her hard-working attitude at the office.",
+    "English_Vocabulary_Test": [
+      "Hòa đồng",
+      "Dễ tính",
+      "Khó gần"
+    ],
+    "Fill_Blank": "She was known for her ______ attitude at the office.",
+    "Mistakes": [
+      "Hard-working",
+      "Calm",
+      "Mean"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.16",
+    "English": "Helpful",
+    "Sub_English": "Giúp đỡ, có ích",
+    "Example": "He was always helpful, willing to lend a hand to those in need.",
+    "English_Vocabulary_Test": [
+      "Thiếu kiên nhẫn",
+      "Tốt bụng",
+      "Trung thực"
+    ],
+    "Fill_Blank": "He was always ______, willing to lend a hand to those in need.",
+    "Mistakes": [
+      "Reliable",
+      "Depressed",
+      "Sociable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.17",
+    "English": "Honest",
+    "Sub_English": "Trung thực",
+    "Example": "His honest words earned him the trust of his friends.",
+    "English_Vocabulary_Test": [
+      "Nóng tính",
+      "Nghiêm khắc",
+      "Điềm tĩnh"
+    ],
+    "Fill_Blank": "His ______ words earned him the trust of his friends.",
+    "Mistakes": [
+      "Friendly",
+      "Confident",
+      "Selfish"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.18",
+    "English": "Independent",
+    "Sub_English": "Độc lập",
+    "Example": "She valued her independence and enjoyed living alone.",
+    "English_Vocabulary_Test": [
+      "Tham vọng",
+      "Điềm tĩnh",
+      "Nghiêm khắc"
+    ],
+    "Fill_Blank": "She valued her independence and enjoyed living alone.",
+    "Mistakes": [
+      "Easy-going",
+      "Independent",
+      "Serious"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.19",
+    "English": "Kind",
+    "Sub_English": "Tốt bụng",
+    "Example": "Her kind gestures touched the hearts of many.",
+    "English_Vocabulary_Test": [
+      "Đáng tin cậy",
+      "Có trách nhiệm",
+      "Lười biếng"
+    ],
+    "Fill_Blank": "Her ______ gestures touched the hearts of many.",
+    "Mistakes": [
+      "Independent",
+      "Easy-going",
+      "Friendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.20",
+    "English": "Lazy",
+    "Sub_English": "Lười biếng",
+    "Example": "He spent most weekends being lazy on the couch.",
+    "English_Vocabulary_Test": [
+      "Keo kiệt",
+      "Nói nhiều",
+      "Hòa đồng"
+    ],
+    "Fill_Blank": "He spent most weekends being ______ on the couch.",
+    "Mistakes": [
+      "Easy-going",
+      "Sociable",
+      "Unfriendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.21",
+    "English": "Mean",
+    "Sub_English": "Keo kiệt",
+    "Example": "His mean-spirited remarks hurt the feelings of others.",
+    "English_Vocabulary_Test": [
+      "Nóng tính",
+      "Hài hước",
+      "Khó gần"
+    ],
+    "Fill_Blank": "His ______-spirited remarks hurt the feelings of others.",
+    "Mistakes": [
+      "Unfriendly",
+      "Dependent",
+      "Friendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.22",
+    "English": "Patient",
+    "Sub_English": "Kiên nhẫn",
+    "Example": "She patiently waited for her turn in line.",
+    "English_Vocabulary_Test": [
+      "Không trung thực",
+      "Giúp đỡ, có ích",
+      "Dễ tính"
+    ],
+    "Fill_Blank": "She ______ly waited for her turn in line.",
+    "Mistakes": [
+      "Serious",
+      "Calm",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.23",
+    "English": "Reliable",
+    "Sub_English": "Đáng tin cậy",
+    "Example": "He was a reliable friend who could always be counted on.",
+    "English_Vocabulary_Test": [
+      "Có trách nhiệm",
+      "Hòa đồng",
+      "Kiên nhẫn"
+    ],
+    "Fill_Blank": "He was a ______ friend who could always be counted on.",
+    "Mistakes": [
+      "Responsible",
+      "Helpful",
+      "Sociable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.24",
+    "English": "Responsible",
+    "Sub_English": "Có trách nhiệm",
+    "Example": "She was responsible for ensuring the project's success.",
+    "English_Vocabulary_Test": [
+      "Nói nhiều",
+      "Thiếu kiên nhẫn",
+      "Dễ tính"
+    ],
+    "Fill_Blank": "She was ______ for ensuring the project's success.",
+    "Mistakes": [
+      "Serious",
+      "Calm",
+      "Patient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.25",
+    "English": "Serious",
+    "Sub_English": "Nghiêm túc",
+    "Example": "His serious demeanor made it difficult to approach him.",
+    "English_Vocabulary_Test": [
+      "Chán nản, buồn phiền",
+      "Rộng lượng",
+      "Giúp đỡ, có ích"
+    ],
+    "Fill_Blank": "His ______ demeanor made it difficult to approach him.",
+    "Mistakes": [
+      "Honest",
+      "Helpful",
+      "Strict"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.26",
+    "English": "Sociable",
+    "Sub_English": "Hòa đồng",
+    "Example": "She was naturally sociable and made friends easily.",
+    "English_Vocabulary_Test": [
+      "Thân thiện",
+      "Chán nản, buồn phiền",
+      "Tự tin"
+    ],
+    "Fill_Blank": "She was naturally ______ and made friends easily.",
+    "Mistakes": [
+      "Ambitious",
+      "Generous",
+      "Kind"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.27",
+    "English": "Strict",
+    "Sub_English": "Nghiêm khắc",
+    "Example": "The teacher was strict but fair in her discipline.",
+    "English_Vocabulary_Test": [
+      "Thân thiện",
+      "Nóng tính",
+      "Lười biếng"
+    ],
+    "Fill_Blank": "The teacher was ______ but fair in her discipline.",
+    "Mistakes": [
+      "Hard-working",
+      "Unfriendly",
+      "Bad-tempered"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.28",
+    "English": "Unfriendly",
+    "Sub_English": "Khó gần",
+    "Example": "His unfriendly attitude made it hard to approach him.",
+    "English_Vocabulary_Test": [
+      "Thiếu kiên nhẫn",
+      "Điềm tĩnh",
+      "Dễ tính"
+    ],
+    "Fill_Blank": "His ______ attitude made it hard to approach him.",
+    "Mistakes": [
+      "Dependent",
+      "Kind",
+      "Impatient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.29",
+    "English": "Stressed",
+    "Sub_English": "Căng thẳng",
+    "Example": "He appeared stressed as deadlines approached.",
+    "English_Vocabulary_Test": [
+      "Phụ thuộc",
+      "Tự tin",
+      "Rộng lượng"
+    ],
+    "Fill_Blank": "He appeared ______ as deadlines approached.",
+    "Mistakes": [
+      "Dishonest",
+      "Confident",
+      "Friendly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.2.30",
+    "English": "Depressed",
+    "Sub_English": "Chán nản, buồn phiền",
+    "Example": "She felt depressed after the loss of her pet.",
+    "English_Vocabulary_Test": [
+      "Kiên nhẫn",
+      "Nóng tính",
+      "Trung thực"
+    ],
+    "Fill_Blank": "She felt ______ after the loss of her pet.",
+    "Mistakes": [
+      "Talkative",
+      "Dependent",
+      "Calm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.1",
+    "English": "Head",
+    "Sub_English": "Đầu",
+    "Example": "She gently massaged her head to alleviate the headache.",
+    "English_Vocabulary_Test": [
+      "Ngón tay",
+      "Làm mới",
+      "Uống vitamin"
+    ],
+    "Fill_Blank": "She gently massaged her ______ to alleviate the ______ache.",
+    "Mistakes": [
+      "Relax",
+      "See the doctor",
+      "Be broken"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.2",
+    "English": "Neck",
+    "Sub_English": "Cổ",
+    "Example": "He wore a scarf to keep his neck warm in the cold weather.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra kết nối internet",
+      "Bị hỏng",
+      "Mệt mỏi"
+    ],
+    "Fill_Blank": "He wore a scarf to keep his ______ warm in the cold weather.",
+    "Mistakes": [
+      "Wrist",
+      "Pain",
+      "Flu"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.3",
+    "English": "Arm",
+    "Sub_English": "Cánh tay",
+    "Example": "He lifted the heavy box with his strong arm muscles.",
+    "English_Vocabulary_Test": [
+      "Ngắt kết nối",
+      "Ăn kiêng",
+      "Ngộ độc thực phẩm"
+    ],
+    "Fill_Blank": "He lifted the heavy box with his strong ______ muscles.",
+    "Mistakes": [
+      "Charge the battery",
+      "Hurt",
+      "Take aspirin"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.4",
+    "English": "Elbow",
+    "Sub_English": "Khuỷu tay",
+    "Example": "He accidentally bumped his elbow against the table.",
+    "English_Vocabulary_Test": [
+      "Đến gặp bác sĩ",
+      "Sạc pin",
+      "Trật mắt cá chân"
+    ],
+    "Fill_Blank": "He accidentally bumped his ______ against the table.",
+    "Mistakes": [
+      "Refresh",
+      "Fever",
+      "Be infected with virus"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.5",
+    "English": "Hand",
+    "Sub_English": "Bàn tay",
+    "Example": "She extended her hand in greeting.",
+    "English_Vocabulary_Test": [
+      "Đau răng",
+      "Đau đầu",
+      "Chạy phần mềm diệt virus"
+    ],
+    "Fill_Blank": "She extended her ______ in greeting.",
+    "Mistakes": [
+      "Refresh",
+      "Take a day off",
+      "Heart attack"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.6",
+    "English": "Wrist",
+    "Sub_English": "Cổ tay",
+    "Example": "She wore a wristwatch on her left wrist.",
+    "English_Vocabulary_Test": [
+      "Chóng mặt",
+      "Ung thư",
+      "Khuỷu tay"
+    ],
+    "Fill_Blank": "She wore a ______watch on her left ______.",
+    "Mistakes": [
+      "Hand",
+      "Drink a lot of liquids",
+      "Be frozen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.7",
+    "English": "Finger",
+    "Sub_English": "Ngón tay",
+    "Example": "She counted on her fingers to solve the math problem.",
+    "English_Vocabulary_Test": [
+      "Thư giãn",
+      "Đau",
+      "Nghỉ ngơi trên giường"
+    ],
+    "Fill_Blank": "She counted on her ______s to solve the math problem.",
+    "Mistakes": [
+      "Plug",
+      "Shoulders",
+      "Get stuck"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.8",
+    "English": "Chest",
+    "Sub_English": "Ngực",
+    "Example": "His chest expanded as he took a deep breath.",
+    "English_Vocabulary_Test": [
+      "Cận thị",
+      "Trật mắt cá chân",
+      "Dị ứng"
+    ],
+    "Fill_Blank": "His ______ expanded as he took a deep breath.",
+    "Mistakes": [
+      "Stressed",
+      "Bleary-eyed",
+      "See the doctor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.9",
+    "English": "Back",
+    "Sub_English": "Lưng",
+    "Example": "He strained his back while lifting heavy furniture.",
+    "English_Vocabulary_Test": [
+      "Chóng mặt",
+      "Buồn bã",
+      "Cổ tay"
+    ],
+    "Fill_Blank": "He strained his ______ while lifting heavy furniture.",
+    "Mistakes": [
+      "Take a day off",
+      "Food poisoning",
+      "Wrist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.10",
+    "English": "Knee",
+    "Sub_English": "Đầu gối",
+    "Example": "He winced in pain as he fell on his knee.",
+    "English_Vocabulary_Test": [
+      "Ngón tay",
+      "Dị ứng",
+      "Đau lưng"
+    ],
+    "Fill_Blank": "He winced in pain as he fell on his ______.",
+    "Mistakes": [
+      "Disconnect",
+      "Allergy",
+      "Replace"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.11",
+    "English": "Leg",
+    "Sub_English": "Chân",
+    "Example": "She stretched her leg muscles before going for a run.",
+    "English_Vocabulary_Test": [
+      "Đau lưng",
+      "Chạy phần mềm diệt virus",
+      "Căng thẳng"
+    ],
+    "Fill_Blank": "She stretched her ______ muscles before going for a run.",
+    "Mistakes": [
+      "Take aspirin",
+      "Cancer",
+      "Finger"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.12",
+    "English": "Foot",
+    "Sub_English": "Chân",
+    "Example": "He injured his foot while playing soccer.",
+    "English_Vocabulary_Test": [
+      "Dị ứng",
+      "Vai",
+      "Thư giãn"
+    ],
+    "Fill_Blank": "He injured his ______ while playing soccer.",
+    "Mistakes": [
+      "Elbow",
+      "Back",
+      "Feel dizzy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.13",
+    "English": "Shoulders",
+    "Sub_English": "Vai",
+    "Example": "She carried the heavy load on her shoulders.",
+    "English_Vocabulary_Test": [
+      "Đau nhức",
+      "Đến gặp bác sĩ",
+      "Bị nhiễm virus"
+    ],
+    "Fill_Blank": "She carried the heavy load on her ______.",
+    "Mistakes": [
+      "Hurt",
+      "Take aspirin",
+      "Unplug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.14",
+    "English": "Headache",
+    "Sub_English": "Đau đầu",
+    "Example": "She took a painkiller to relieve her headache.",
+    "English_Vocabulary_Test": [
+      "Ngực",
+      "Nghỉ ngơi",
+      "Chóng mặt"
+    ],
+    "Fill_Blank": "She took a painkiller to relieve her ______.",
+    "Mistakes": [
+      "Arm",
+      "Fever",
+      "Back"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.15",
+    "English": "Toothache",
+    "Sub_English": "Đau răng",
+    "Example": "He visited the dentist to address his toothache.",
+    "English_Vocabulary_Test": [
+      "Cắm điện",
+      "Bị kẹt",
+      "Ung thư"
+    ],
+    "Fill_Blank": "He visited the dentist to address his ______.",
+    "Mistakes": [
+      "Leg",
+      "Runny nose",
+      "Short-sighted"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.16",
+    "English": "Backache",
+    "Sub_English": "Đau lưng",
+    "Example": "He applied a heating pad to ease his backache.",
+    "English_Vocabulary_Test": [
+      "Trật mắt cá chân",
+      "Thay thế",
+      "Ung thư"
+    ],
+    "Fill_Blank": "He applied a heating pad to ease his ______.",
+    "Mistakes": [
+      "Call the IT helpdesk",
+      "Refresh",
+      "Back"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.17",
+    "English": "Stomachache",
+    "Sub_English": "Đau bụng",
+    "Example": "She drank herbal tea to soothe her stomachache.",
+    "English_Vocabulary_Test": [
+      "Cận thị",
+      "Căng thẳng",
+      "Uống aspirin"
+    ],
+    "Fill_Blank": "She drank herbal tea to soothe her ______.",
+    "Mistakes": [
+      "Headache",
+      "Neck",
+      "Take aspirin"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.18",
+    "English": "Cold",
+    "Sub_English": "Cảm lạnh",
+    "Example": "He caught a cold after being out in the rain.",
+    "English_Vocabulary_Test": [
+      "Lưng",
+      "Bị đóng băng",
+      "Đau đầu"
+    ],
+    "Fill_Blank": "He caught a ______ after being out in the rain.",
+    "Mistakes": [
+      "Replace",
+      "Backache",
+      "Unplug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.19",
+    "English": "Fever",
+    "Sub_English": "Sốt",
+    "Example": "Her fever spiked after she caught the flu.",
+    "English_Vocabulary_Test": [
+      "Bị nhiễm virus",
+      "Chạy phần mềm diệt virus",
+      "Cánh tay"
+    ],
+    "Fill_Blank": "Her ______ spiked after she caught the flu.",
+    "Mistakes": [
+      "Take some medicine",
+      "Short-sighted",
+      "Knee"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.20",
+    "English": "Flu",
+    "Sub_English": "Cảm cúm",
+    "Example": "He rested in bed to recover from the flu.",
+    "English_Vocabulary_Test": [
+      "Rút phích cắm",
+      "Đau bụng",
+      "Thay thế"
+    ],
+    "Fill_Blank": "He rested in bed to recover from the ______.",
+    "Mistakes": [
+      "Wrist",
+      "Take a rest",
+      "Replace"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.21",
+    "English": "Sore throat",
+    "Sub_English": "Đau họng",
+    "Example": "She gargled with saltwater to relieve her sore throat.",
+    "English_Vocabulary_Test": [
+      "Trật mắt cá chân",
+      "Bàn tay",
+      "Mờ mắt"
+    ],
+    "Fill_Blank": "She gargled with saltwater to relieve her ______.",
+    "Mistakes": [
+      "Respond",
+      "Be infected with virus",
+      "Cancer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.22",
+    "English": "Runny nose",
+    "Sub_English": "Sổ mũi",
+    "Example": "He blew his runny nose into a tissue.",
+    "English_Vocabulary_Test": [
+      "Uống vitamin",
+      "Bị kẹt",
+      "Mệt mỏi"
+    ],
+    "Fill_Blank": "He blew his ______ into a tissue.",
+    "Mistakes": [
+      "Drink a lot of liquids",
+      "Arm",
+      "Backache"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.23",
+    "English": "Cough",
+    "Sub_English": "Ho",
+    "Example": "She took cough syrup to suppress her cough.",
+    "English_Vocabulary_Test": [
+      "Kết nối",
+      "Sạc pin",
+      "Cổ tay"
+    ],
+    "Fill_Blank": "She took ______ syrup to suppress her ______.",
+    "Mistakes": [
+      "Food poisoning",
+      "Heart attack",
+      "Call the IT helpdesk"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.24",
+    "English": "Sprained ankle",
+    "Sub_English": "Trật mắt cá chân",
+    "Example": "He wrapped his sprained ankle with a bandage.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra kết nối internet",
+      "Cổ",
+      "Mệt mỏi"
+    ],
+    "Fill_Blank": "He wrapped his ______ with a bandage.",
+    "Mistakes": [
+      "Take aspirin",
+      "Neck",
+      "Sore throat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.25",
+    "English": "Cancer",
+    "Sub_English": "Ung thư",
+    "Example": "She underwent chemotherapy to treat her cancer.",
+    "English_Vocabulary_Test": [
+      "Uống thuốc",
+      "Tồi tệ",
+      "Cánh tay"
+    ],
+    "Fill_Blank": "She underwent chemotherapy to treat her ______.",
+    "Mistakes": [
+      "Finger",
+      "Hand",
+      "Toothache"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.26",
+    "English": "Allergy",
+    "Sub_English": "Dị ứng",
+    "Example": "He avoided eating peanuts due to his allergy.",
+    "English_Vocabulary_Test": [
+      "Đau",
+      "Vai",
+      "Đau nhức"
+    ],
+    "Fill_Blank": "He avoided eating peanuts due to his ______.",
+    "Mistakes": [
+      "Connect",
+      "Stay in bed",
+      "Backache"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.27",
+    "English": "Heart attack",
+    "Sub_English": "Đau tim",
+    "Example": "He experienced chest pain during a heart attack.",
+    "English_Vocabulary_Test": [
+      "Ngực",
+      "Đầu gối",
+      "Trật mắt cá chân"
+    ],
+    "Fill_Blank": "He experienced chest pain during a ______.",
+    "Mistakes": [
+      "Hand",
+      "Be frozen",
+      "Wrist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.28",
+    "English": "Food poisoning",
+    "Sub_English": "Ngộ độc thực phẩm",
+    "Example": "She became ill with food poisoning after eating spoiled food.",
+    "English_Vocabulary_Test": [
+      "Đau",
+      "Đau họng",
+      "Sổ mũi"
+    ],
+    "Fill_Blank": "She became ill with ______ after eating spoiled food.",
+    "Mistakes": [
+      "To be on a diet",
+      "Cancer",
+      "Respond"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.29",
+    "English": "Feel dizzy",
+    "Sub_English": "Chóng mặt",
+    "Example": "She sat down as she started to feel dizzy.",
+    "English_Vocabulary_Test": [
+      "Sạc pin",
+      "Chạy phần mềm diệt virus",
+      "Ngón tay"
+    ],
+    "Fill_Blank": "She sat down as she started to ______.",
+    "Mistakes": [
+      "Tired",
+      "Get stuck",
+      "Hurt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.30",
+    "English": "Sneeze",
+    "Sub_English": "Hắt hơi",
+    "Example": "He covered his mouth when he felt a sneeze coming.",
+    "English_Vocabulary_Test": [
+      "Chân",
+      "Mang đi sửa chữa",
+      "Ngón tay"
+    ],
+    "Fill_Blank": "He covered his mouth when he felt a ______ coming.",
+    "Mistakes": [
+      "Flu",
+      "Foot",
+      "Cancer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.31",
+    "English": "Hurt",
+    "Sub_English": "Đau",
+    "Example": "He hurt his knee while playing basketball.",
+    "English_Vocabulary_Test": [
+      "Thư giãn",
+      "Đau tim",
+      "Ho"
+    ],
+    "Fill_Blank": "He ______ his knee while playing basketball.",
+    "Mistakes": [
+      "Be frozen",
+      "Unplug",
+      "Awful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.32",
+    "English": "Relax",
+    "Sub_English": "Thư giãn",
+    "Example": "She relaxed in a warm bath after a long day at work.",
+    "English_Vocabulary_Test": [
+      "Hắt hơi",
+      "Đau tim",
+      "Khuỷu tay"
+    ],
+    "Fill_Blank": "She ______ed in a warm bath after a long day at work.",
+    "Mistakes": [
+      "Stay in bed",
+      "Sore throat",
+      "Hand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.33",
+    "English": "Take some medicine",
+    "Sub_English": "Uống thuốc",
+    "Example": "He took some medicine to alleviate his symptoms.",
+    "English_Vocabulary_Test": [
+      "Nghỉ một ngày",
+      "Rút phích cắm",
+      "Sốt"
+    ],
+    "Fill_Blank": "He took some medicine to alleviate his symptoms.",
+    "Mistakes": [
+      "Allergy",
+      "Sneeze",
+      "Wrist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.34",
+    "English": "Take aspirin",
+    "Sub_English": "Uống aspirin",
+    "Example": "She took aspirin for her headache.",
+    "English_Vocabulary_Test": [
+      "Cảm cúm",
+      "Khởi động lại",
+      "Đau răng"
+    ],
+    "Fill_Blank": "She took aspirin for her headache.",
+    "Mistakes": [
+      "Runny nose",
+      "Take a day off",
+      "Arm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.35",
+    "English": "Take vitamins",
+    "Sub_English": "Uống vitamin",
+    "Example": "She took vitamins to boost her immune system.",
+    "English_Vocabulary_Test": [
+      "Hắt hơi",
+      "Rút phích cắm",
+      "Ho"
+    ],
+    "Fill_Blank": "She took vitamins to boost her immune system.",
+    "Mistakes": [
+      "Arm",
+      "Call the IT helpdesk",
+      "Elbow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.36",
+    "English": "Take a rest",
+    "Sub_English": "Nghỉ ngơi",
+    "Example": "He decided to take a rest after working for hours.",
+    "English_Vocabulary_Test": [
+      "Uống thuốc",
+      "Đầu gối",
+      "Làm mới"
+    ],
+    "Fill_Blank": "He decided to ______ after working for hours.",
+    "Mistakes": [
+      "Stomachache",
+      "Stay in bed",
+      "Foot"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.37",
+    "English": "See the doctor",
+    "Sub_English": "Đến gặp bác sĩ",
+    "Example": "She scheduled an appointment to see the doctor.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra kết nối internet",
+      "Ngón tay",
+      "Thay thế"
+    ],
+    "Fill_Blank": "She scheduled an appointment to ______.",
+    "Mistakes": [
+      "Take a day off",
+      "To be on a diet",
+      "See the doctor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.38",
+    "English": "Stay in bed",
+    "Sub_English": "Nghỉ ngơi trên giường",
+    "Example": "He was advised to stay in bed to recover from his illness.",
+    "English_Vocabulary_Test": [
+      "Ngực",
+      "Cảm lạnh",
+      "Đau họng"
+    ],
+    "Fill_Blank": "He was advised to ______ to recover from his illness.",
+    "Mistakes": [
+      "Arm",
+      "Get stuck",
+      "Cough"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.39",
+    "English": "Drink a lot of liquids",
+    "Sub_English": "Uống nhiều nước",
+    "Example": "She drank a lot of liquids to stay hydrated.",
+    "English_Vocabulary_Test": [
+      "Bị đóng băng",
+      "Chạy phần mềm diệt virus",
+      "Cánh tay"
+    ],
+    "Fill_Blank": "She drank a lot of liquids to stay hydrated.",
+    "Mistakes": [
+      "To be on a diet",
+      "Foot",
+      "Take vitamins"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.40",
+    "English": "To be on a diet",
+    "Sub_English": "Ăn kiêng",
+    "Example": "She avoided sugary foods while on a diet.",
+    "English_Vocabulary_Test": [
+      "Buồn bã",
+      "Đau răng",
+      "Ngắt kết nối"
+    ],
+    "Fill_Blank": "She avoided sugary foods while on a diet.",
+    "Mistakes": [
+      "Stressed",
+      "Be infected with virus",
+      "Pain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.41",
+    "English": "Tired",
+    "Sub_English": "Mệt mỏi",
+    "Example": "He felt tired after a long day of hiking.",
+    "English_Vocabulary_Test": [
+      "Vai",
+      "Nghỉ ngơi trên giường",
+      "Cận thị"
+    ],
+    "Fill_Blank": "He felt ______ after a long day of hiking.",
+    "Mistakes": [
+      "Short-sighted",
+      "Knee",
+      "Sneeze"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.42",
+    "English": "Sore",
+    "Sub_English": "Đau nhức",
+    "Example": "His muscles were sore after a rigorous workout.",
+    "English_Vocabulary_Test": [
+      "Đầu",
+      "Nghỉ ngơi trên giường",
+      "Vai"
+    ],
+    "Fill_Blank": "His muscles were ______ after a rigorous workout.",
+    "Mistakes": [
+      "Stay in bed",
+      "Food poisoning",
+      "Finger"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.43",
+    "English": "Awful",
+    "Sub_English": "Tồi tệ",
+    "Example": "She felt awful after eating spoiled food.",
+    "English_Vocabulary_Test": [
+      "Ăn kiêng",
+      "Cắm điện",
+      "Kết nối"
+    ],
+    "Fill_Blank": "She felt ______ after eating spoiled food.",
+    "Mistakes": [
+      "Leg",
+      "Allergy",
+      "Refresh"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.44",
+    "English": "Pain",
+    "Sub_English": "Cơn đau",
+    "Example": "She winced in pain as she stubbed her toe.",
+    "English_Vocabulary_Test": [
+      "Cảm lạnh",
+      "Ngực",
+      "Kiểm tra kết nối internet"
+    ],
+    "Fill_Blank": "She winced in ______ as she stubbed her toe.",
+    "Mistakes": [
+      "Restart",
+      "Shoulders",
+      "Take vitamins"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.45",
+    "English": "Take a day off",
+    "Sub_English": "Nghỉ một ngày",
+    "Example": "He decided to take a day off to rest and recuperate.",
+    "English_Vocabulary_Test": [
+      "Đầu gối",
+      "Đau bụng",
+      "Ngắt kết nối"
+    ],
+    "Fill_Blank": "He decided to ______ to rest and recuperate.",
+    "Mistakes": [
+      "Fever",
+      "Flu",
+      "Restart"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.46",
+    "English": "Stressed",
+    "Sub_English": "Căng thẳng",
+    "Example": "She felt stressed due to looming deadlines.",
+    "English_Vocabulary_Test": [
+      "Vai",
+      "Bị hỏng",
+      "Chân"
+    ],
+    "Fill_Blank": "She felt ______ due to looming deadlines.",
+    "Mistakes": [
+      "Finger",
+      "Run an antivirus software",
+      "Wrist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.47",
+    "English": "Bleary-eyed",
+    "Sub_English": "Mờ mắt",
+    "Example": "He appeared bleary-eyed after pulling an all-nighter.",
+    "English_Vocabulary_Test": [
+      "Đau",
+      "Khuỷu tay",
+      "Kết nối"
+    ],
+    "Fill_Blank": "He appeared ______ after pulling an all-nighter.",
+    "Mistakes": [
+      "Stay in bed",
+      "Fever",
+      "Bleary-eyed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.48",
+    "English": "Short-sighted",
+    "Sub_English": "Cận thị",
+    "Example": "He struggled to read the sign due to being short-sighted.",
+    "English_Vocabulary_Test": [
+      "Cảm lạnh",
+      "Kiểm tra kết nối internet",
+      "Uống vitamin"
+    ],
+    "Fill_Blank": "He struggled to read the sign due to being ______.",
+    "Mistakes": [
+      "Back",
+      "Toothache",
+      "Shoulders"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.49",
+    "English": "Depressed",
+    "Sub_English": "Buồn bã",
+    "Example": "She sought therapy to address her depression.",
+    "English_Vocabulary_Test": [
+      "Đau tim",
+      "Trật mắt cá chân",
+      "Uống thuốc"
+    ],
+    "Fill_Blank": "She sought therapy to address her depression.",
+    "Mistakes": [
+      "Take to the repair center",
+      "Awful",
+      "Sore throat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.50",
+    "English": "Respond",
+    "Sub_English": "Phản hồi",
+    "Example": "He quickly responded to the email.",
+    "English_Vocabulary_Test": [
+      "Bị kẹt",
+      "Uống nhiều nước",
+      "Cảm lạnh"
+    ],
+    "Fill_Blank": "He quickly ______ed to the email.",
+    "Mistakes": [
+      "Elbow",
+      "Sneeze",
+      "Arm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.51",
+    "English": "Get stuck",
+    "Sub_English": "Bị kẹt",
+    "Example": "The door got stuck, and they couldn't open it.",
+    "English_Vocabulary_Test": [
+      "Nghỉ một ngày",
+      "Thư giãn",
+      "Cổ tay"
+    ],
+    "Fill_Blank": "The door got stuck, and they couldn't open it.",
+    "Mistakes": [
+      "Shoulders",
+      "Get stuck",
+      "Wrist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.52",
+    "English": "Disconnect",
+    "Sub_English": "Ngắt kết nối",
+    "Example": "He disconnected the internet to reset the router.",
+    "English_Vocabulary_Test": [
+      "Mang đi sửa chữa",
+      "Bàn tay",
+      "Thay thế"
+    ],
+    "Fill_Blank": "He ______ed the internet to reset the router.",
+    "Mistakes": [
+      "Foot",
+      "Elbow",
+      "Leg"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.53",
+    "English": "Be broken",
+    "Sub_English": "Bị hỏng",
+    "Example": "The computer screen was broken after the fall.",
+    "English_Vocabulary_Test": [
+      "Ngắt kết nối",
+      "Tồi tệ",
+      "Sốt"
+    ],
+    "Fill_Blank": "The computer screen was broken after the fall.",
+    "Mistakes": [
+      "Take vitamins",
+      "See the doctor",
+      "Toothache"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.54",
+    "English": "Be frozen",
+    "Sub_English": "Bị đóng băng",
+    "Example": "The pipes were frozen due to the cold weather.",
+    "English_Vocabulary_Test": [
+      "Đầu",
+      "Chân",
+      "Rút phích cắm"
+    ],
+    "Fill_Blank": "The pipes were frozen due to the cold weather.",
+    "Mistakes": [
+      "Tired",
+      "Toothache",
+      "Neck"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.55",
+    "English": "Be infected with virus",
+    "Sub_English": "Bị nhiễm virus",
+    "Example": "His computer was infected with a virus after clicking on a suspicious link.",
+    "English_Vocabulary_Test": [
+      "Đến gặp bác sĩ",
+      "Dị ứng",
+      "Chân"
+    ],
+    "Fill_Blank": "His computer was infected with a virus after clicking on a suspicious link.",
+    "Mistakes": [
+      "Leg",
+      "Neck",
+      "Plug"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.56",
+    "English": "Plug",
+    "Sub_English": "Cắm điện",
+    "Example": "He plugged the charger into the socket.",
+    "English_Vocabulary_Test": [
+      "Uống aspirin",
+      "Cảm lạnh",
+      "Nghỉ một ngày"
+    ],
+    "Fill_Blank": "He ______ged the charger into the socket.",
+    "Mistakes": [
+      "Be broken",
+      "Backache",
+      "Respond"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.57",
+    "English": "Unplug",
+    "Sub_English": "Rút phích cắm",
+    "Example": "She unplugged the appliance to conserve energy.",
+    "English_Vocabulary_Test": [
+      "Đầu gối",
+      "Uống thuốc",
+      "Khởi động lại"
+    ],
+    "Fill_Blank": "She ______ged the appliance to conserve energy.",
+    "Mistakes": [
+      "Check the internet connection",
+      "Be frozen",
+      "Refresh"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.58",
+    "English": "Charge the battery",
+    "Sub_English": "Sạc pin",
+    "Example": "He plugged in his phone to charge the battery.",
+    "English_Vocabulary_Test": [
+      "Mờ mắt",
+      "Thay thế",
+      "Uống vitamin"
+    ],
+    "Fill_Blank": "He plugged in his phone to ______.",
+    "Mistakes": [
+      "Back",
+      "Hand",
+      "Stay in bed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.59",
+    "English": "Restart",
+    "Sub_English": "Khởi động lại",
+    "Example": "He restarted the computer to fix the glitch.",
+    "English_Vocabulary_Test": [
+      "Đầu",
+      "Cánh tay",
+      "Ngực"
+    ],
+    "Fill_Blank": "He ______ed the computer to fix the glitch.",
+    "Mistakes": [
+      "Allergy",
+      "Drink a lot of liquids",
+      "Take vitamins"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.60",
+    "English": "Refresh",
+    "Sub_English": "Làm mới",
+    "Example": "She refreshed the webpage to update the content.",
+    "English_Vocabulary_Test": [
+      "Cánh tay",
+      "Khởi động lại",
+      "Mang đi sửa chữa"
+    ],
+    "Fill_Blank": "She ______ed the webpage to update the content.",
+    "Mistakes": [
+      "Toothache",
+      "Runny nose",
+      "Check the internet connection"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.61",
+    "English": "Run an antivirus software",
+    "Sub_English": "Chạy phần mềm diệt virus",
+    "Example": "He ran an antivirus software to scan for malware.",
+    "English_Vocabulary_Test": [
+      "Đầu gối",
+      "Buồn bã",
+      "Khuỷu tay"
+    ],
+    "Fill_Blank": "He ran an antivirus software to scan for malware.",
+    "Mistakes": [
+      "Flu",
+      "Elbow",
+      "Allergy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.62",
+    "English": "Replace",
+    "Sub_English": "Thay thế",
+    "Example": "He replaced the old batteries with new ones.",
+    "English_Vocabulary_Test": [
+      "Gọi điện đến bộ phận hỗ trợ công nghệ thông tin",
+      "Ngắt kết nối",
+      "Đầu"
+    ],
+    "Fill_Blank": "He ______d the old batteries with new ones.",
+    "Mistakes": [
+      "Heart attack",
+      "Disconnect",
+      "Cough"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.63",
+    "English": "Call the IT helpdesk",
+    "Sub_English": "Gọi điện đến bộ phận hỗ trợ công nghệ thông tin",
+    "Example": "She called the IT helpdesk for assistance with her computer.",
+    "English_Vocabulary_Test": [
+      "Sổ mũi",
+      "Bị kẹt",
+      "Sốt"
+    ],
+    "Fill_Blank": "She called the IT helpdesk for assistance with her computer.",
+    "Mistakes": [
+      "Chest",
+      "Food poisoning",
+      "Sprained ankle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.64",
+    "English": "Take to the repair center",
+    "Sub_English": "Mang đi sửa chữa",
+    "Example": "He took the broken appliance to the repair center.",
+    "English_Vocabulary_Test": [
+      "Uống vitamin",
+      "Đầu gối",
+      "Sổ mũi"
+    ],
+    "Fill_Blank": "He took the broken appliance to the repair center.",
+    "Mistakes": [
+      "Allergy",
+      "Finger",
+      "Toothache"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.65",
+    "English": "Connect",
+    "Sub_English": "Kết nối",
+    "Example": "He used a cable to connect the devices.",
+    "English_Vocabulary_Test": [
+      "Đau đầu",
+      "Khởi động lại",
+      "Đến gặp bác sĩ"
+    ],
+    "Fill_Blank": "He used a cable to ______ the devices.",
+    "Mistakes": [
+      "Runny nose",
+      "Take vitamins",
+      "Neck"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.3.66",
+    "English": "Check the internet connection",
+    "Sub_English": "Kiểm tra kết nối internet",
+    "Example": "He checked the internet connection before starting the video call.",
+    "English_Vocabulary_Test": [
+      "Kết nối",
+      "Gọi điện đến bộ phận hỗ trợ công nghệ thông tin",
+      "Bị hỏng"
+    ],
+    "Fill_Blank": "He checked the internet connection before starting the video call.",
+    "Mistakes": [
+      "Take a day off",
+      "Bleary-eyed",
+      "Finger"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.1",
+    "English": "Theatre",
+    "Sub_English": "Nhà hát",
+    "Example": "They watched a captivating play at the local theatre.",
+    "English_Vocabulary_Test": [
+      "Xung quanh",
+      "Có thể tháo rời",
+      "Chống nước"
+    ],
+    "Fill_Blank": "They watched a captivating play at the local ______.",
+    "Mistakes": [
+      "Through",
+      "Mountain",
+      "Modern"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.2",
+    "English": "Museum",
+    "Sub_English": "Bảo tàng",
+    "Example": "They admired the ancient artifacts at the museum.",
+    "English_Vocabulary_Test": [
+      "Dày",
+      "Dọc theo",
+      "Bẩn thỉu"
+    ],
+    "Fill_Blank": "They admired the ancient artifacts at the ______.",
+    "Mistakes": [
+      "Scratch-resistant",
+      "Into",
+      "Dirty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.3",
+    "English": "Lake",
+    "Sub_English": "Hồ",
+    "Example": "They went fishing at the serene lake in the mountains.",
+    "English_Vocabulary_Test": [
+      "Băng qua",
+      "Tòa nhà",
+      "Hiệu quả"
+    ],
+    "Fill_Blank": "They went fishing at the serene ______ in the mountains.",
+    "Mistakes": [
+      "Heavy",
+      "Up",
+      "Bad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.4",
+    "English": "Mountain",
+    "Sub_English": "Núi",
+    "Example": "They hiked to the summit of the towering mountain.",
+    "English_Vocabulary_Test": [
+      "Ra khỏi",
+      "Tiện lợi",
+      "Nhẹ"
+    ],
+    "Fill_Blank": "They hiked to the summit of the towering ______.",
+    "Mistakes": [
+      "Exciting",
+      "Dirty",
+      "Past"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.5",
+    "English": "Factory",
+    "Sub_English": "Nhà máy",
+    "Example": "They toured the factory to see how cars were manufactured.",
+    "English_Vocabulary_Test": [
+      "căng thẳng",
+      "Co dãn",
+      "Quán rượu"
+    ],
+    "Fill_Blank": "They toured the ______ to see how cars were manufactured.",
+    "Mistakes": [
+      "Good",
+      "Cottage",
+      "Hotel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.6",
+    "English": "Village",
+    "Sub_English": "Làng",
+    "Example": "They visited a quaint village in the countryside.",
+    "English_Vocabulary_Test": [
+      "Nhà tranh",
+      "Qua",
+      "Qua"
+    ],
+    "Fill_Blank": "They visited a quaint ______ in the countryside.",
+    "Mistakes": [
+      "Museum",
+      "Along",
+      "Past"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.7",
+    "English": "Building",
+    "Sub_English": "Tòa nhà",
+    "Example": "The skyscraper was the tallest building in the city.",
+    "English_Vocabulary_Test": [
+      "Thân thiện",
+      "Mỏng",
+      "Núi"
+    ],
+    "Fill_Blank": "The skyscraper was the tallest ______ in the city.",
+    "Mistakes": [
+      "Safe",
+      "Thick",
+      "Quiet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.8",
+    "English": "Hill",
+    "Sub_English": "Đồi",
+    "Example": "They had a picnic on top of the grassy hill.",
+    "English_Vocabulary_Test": [
+      "Nhanh",
+      "Nặng",
+      "Nhà thờ"
+    ],
+    "Fill_Blank": "They had a picnic on top of the grassy ______.",
+    "Mistakes": [
+      "Convenient",
+      "Across",
+      "Thin"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.9",
+    "English": "Field",
+    "Sub_English": "Cánh đồng",
+    "Example": "They played soccer in the vast field behind the school.",
+    "English_Vocabulary_Test": [
+      "Quán rượu",
+      "Cầu",
+      "Núi"
+    ],
+    "Fill_Blank": "They played soccer in the vast ______ behind the school.",
+    "Mistakes": [
+      "Under",
+      "Farm",
+      "Convenient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.10",
+    "English": "Farm",
+    "Sub_English": "Nông trại",
+    "Example": "They bought fresh produce from the local farm.",
+    "English_Vocabulary_Test": [
+      "Dưới",
+      "Không thân thiện",
+      "Xấu"
+    ],
+    "Fill_Blank": "They bought fresh produce from the local ______.",
+    "Mistakes": [
+      "Under",
+      "Unfriendly",
+      "Over"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.11",
+    "English": "Cathedral",
+    "Sub_English": "Nhà thờ lớn",
+    "Example": "They marveled at the intricate architecture of the cathedral.",
+    "English_Vocabulary_Test": [
+      "Thân thiện",
+      "Qua",
+      "Lớn"
+    ],
+    "Fill_Blank": "They marveled at the intricate architecture of the ______.",
+    "Mistakes": [
+      "Cheap",
+      "Superior",
+      "Building"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.12",
+    "English": "Port",
+    "Sub_English": "Cảng",
+    "Example": "They watched the ships docked at the bustling port.",
+    "English_Vocabulary_Test": [
+      "Bền bỉ",
+      "Bận rộn",
+      "Co dãn"
+    ],
+    "Fill_Blank": "They watched the ships docked at the bustling ______.",
+    "Mistakes": [
+      "Hill",
+      "Fast",
+      "Hotel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.13",
+    "English": "Cottage",
+    "Sub_English": "Nhà tranh",
+    "Example": "They rented a cozy cottage for the weekend getaway.",
+    "English_Vocabulary_Test": [
+      "Nhà hát",
+      "căng thẳng",
+      "Chậm"
+    ],
+    "Fill_Blank": "They rented a cozy ______ for the weekend getaway.",
+    "Mistakes": [
+      "Latest",
+      "Field",
+      "River"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.14",
+    "English": "Hotel",
+    "Sub_English": "Khách sạn",
+    "Example": "They booked a room at a luxurious hotel for their anniversary.",
+    "English_Vocabulary_Test": [
+      "Nhà thờ",
+      "Cánh đồng",
+      "Ồn ào"
+    ],
+    "Fill_Blank": "They booked a room at a luxurious ______ for their anniversary.",
+    "Mistakes": [
+      "Friendly",
+      "Thick",
+      "Theatre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.15",
+    "English": "Bridge",
+    "Sub_English": "Cầu",
+    "Example": "They crossed the bridge to reach the other side of the river.",
+    "English_Vocabulary_Test": [
+      "Yên tĩnh",
+      "Vào trong",
+      "Chống sốc"
+    ],
+    "Fill_Blank": "They crossed the ______ to reach the other side of the river.",
+    "Mistakes": [
+      "Building",
+      "Up",
+      "Along"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.16",
+    "English": "Car park",
+    "Sub_English": "Bãi đậu xe",
+    "Example": "They parked their car in the designated car park.",
+    "English_Vocabulary_Test": [
+      "Băng qua",
+      "Quán rượu",
+      "Nhà hát"
+    ],
+    "Fill_Blank": "They parked their car in the designated ______.",
+    "Mistakes": [
+      "Detachable",
+      "Dangerous",
+      "Waterproof"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.17",
+    "English": "Church",
+    "Sub_English": "Nhà thờ",
+    "Example": "They attended Sunday mass at the local church.",
+    "English_Vocabulary_Test": [
+      "Xuống",
+      "Tiện lợi mang theo",
+      "Thân thiện"
+    ],
+    "Fill_Blank": "They attended Sunday mass at the local ______.",
+    "Mistakes": [
+      "Detachable",
+      "River",
+      "Across"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.18",
+    "English": "Pub",
+    "Sub_English": "Quán rượu",
+    "Example": "They enjoyed a pint of beer at the lively pub.",
+    "English_Vocabulary_Test": [
+      "Xung quanh",
+      "Tòa nhà",
+      "Mới nhất"
+    ],
+    "Fill_Blank": "They enjoyed a pint of beer at the lively ______.",
+    "Mistakes": [
+      "Accurate",
+      "Building",
+      "Quiet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.19",
+    "English": "River",
+    "Sub_English": "Sông",
+    "Example": "They went kayaking down the river on a sunny afternoon.",
+    "English_Vocabulary_Test": [
+      "Bãi đậu xe",
+      "Nguy hiểm",
+      "Cũ"
+    ],
+    "Fill_Blank": "They went kayaking down the ______ on a sunny afternoon.",
+    "Mistakes": [
+      "Across",
+      "Factory",
+      "Noisy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.20",
+    "English": "Fast",
+    "Sub_English": "Nhanh",
+    "Example": "The cheetah was the fastest land animal on Earth.",
+    "English_Vocabulary_Test": [
+      "Đắt tiền",
+      "Hiện đại",
+      "Bận rộn"
+    ],
+    "Fill_Blank": "The cheetah was the ______est land animal on Earth.",
+    "Mistakes": [
+      "Car park",
+      "Pub",
+      "Slow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.21",
+    "English": "Slow",
+    "Sub_English": "Chậm",
+    "Example": "The turtle moved slowly across the sand.",
+    "English_Vocabulary_Test": [
+      "Thân thiện",
+      "Cánh đồng",
+      "Nhanh"
+    ],
+    "Fill_Blank": "The turtle moved ______ly across the sand.",
+    "Mistakes": [
+      "Unfriendly",
+      "Busy",
+      "Compact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.22",
+    "English": "Big",
+    "Sub_English": "Lớn",
+    "Example": "The elephant was a big animal with large ears.",
+    "English_Vocabulary_Test": [
+      "Hiệu quả",
+      "Đồi",
+      "Tiện lợi mang theo"
+    ],
+    "Fill_Blank": "The elephant was a ______ animal with large ears.",
+    "Mistakes": [
+      "Slow",
+      "Expensive",
+      "Fast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.23",
+    "English": "Small",
+    "Sub_English": "Nhỏ",
+    "Example": "They lived in a small cottage by the lake.",
+    "English_Vocabulary_Test": [
+      "An toàn",
+      "Bãi đậu xe",
+      "Nhanh"
+    ],
+    "Fill_Blank": "They lived in a ______ cottage by the lake.",
+    "Mistakes": [
+      "Hill",
+      "Boring",
+      "Into"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.24",
+    "English": "Good",
+    "Sub_English": "Tốt",
+    "Example": "She received good news about her job promotion.",
+    "English_Vocabulary_Test": [
+      "Đắt tiền",
+      "Bẩn thỉu",
+      "Bãi đậu xe"
+    ],
+    "Fill_Blank": "She received ______ news about her job promotion.",
+    "Mistakes": [
+      "Exciting",
+      "Small",
+      "Noisy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.25",
+    "English": "Bad",
+    "Sub_English": "Xấu",
+    "Example": "The weather forecast predicted bad storms for the weekend.",
+    "English_Vocabulary_Test": [
+      "Dày",
+      "Gọn nhẹ",
+      "Bận rộn"
+    ],
+    "Fill_Blank": "The weather forecast predicted ______ storms for the weekend.",
+    "Mistakes": [
+      "Pub",
+      "Portable",
+      "Busy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.26",
+    "English": "Modern",
+    "Sub_English": "Hiện đại",
+    "Example": "The sleek design of the modern building caught their attention.",
+    "English_Vocabulary_Test": [
+      "Cảng",
+      "Bảo tàng",
+      "Cũ"
+    ],
+    "Fill_Blank": "The sleek design of the ______ building caught their attention.",
+    "Mistakes": [
+      "Factory",
+      "Into",
+      "Around"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.27",
+    "English": "Old",
+    "Sub_English": "Cũ",
+    "Example": "They explored the ruins of an old castle in the countryside.",
+    "English_Vocabulary_Test": [
+      "Hồ",
+      "Vượt trội",
+      "căng thẳng"
+    ],
+    "Fill_Blank": "They explored the ruins of an ______ castle in the countryside.",
+    "Mistakes": [
+      "Detachable",
+      "Across",
+      "Theatre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.28",
+    "English": "Expensive",
+    "Sub_English": "Đắt tiền",
+    "Example": "The designer handbag was too expensive for her budget.",
+    "English_Vocabulary_Test": [
+      "Vào trong",
+      "Nguy hiểm",
+      "Có thể tháo rời"
+    ],
+    "Fill_Blank": "The designer handbag was too ______ for her budget.",
+    "Mistakes": [
+      "Fast",
+      "Small",
+      "Durable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.29",
+    "English": "Cheap",
+    "Sub_English": "Rẻ",
+    "Example": "They bought cheap souvenirs at the local market.",
+    "English_Vocabulary_Test": [
+      "Băng qua",
+      "Tiện lợi mang theo",
+      "Khách sạn"
+    ],
+    "Fill_Blank": "They bought ______ souvenirs at the local market.",
+    "Mistakes": [
+      "Shock-resistant",
+      "Noisy",
+      "Safe"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.30",
+    "English": "Dangerous",
+    "Sub_English": "Nguy hiểm",
+    "Example": "They avoided swimming in the dangerous currents of the river.",
+    "English_Vocabulary_Test": [
+      "Có thể tháo rời",
+      "Qua",
+      "Cũ"
+    ],
+    "Fill_Blank": "They avoided swimming in the ______ currents of the river.",
+    "Mistakes": [
+      "Along",
+      "Lake",
+      "Small"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.31",
+    "English": "Safe",
+    "Sub_English": "An toàn",
+    "Example": "They felt safe walking in the well-lit neighborhood at night.",
+    "English_Vocabulary_Test": [
+      "Ồn ào",
+      "Chống nước",
+      "Đắt tiền"
+    ],
+    "Fill_Blank": "They felt ______ walking in the well-lit neighborhood at night.",
+    "Mistakes": [
+      "Small",
+      "Thick",
+      "Factory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.32",
+    "English": "Dirty",
+    "Sub_English": "Bẩn thỉu",
+    "Example": "They cleaned up the dirty dishes after dinner.",
+    "English_Vocabulary_Test": [
+      "Đồi",
+      "Băng qua",
+      "Tiện lợi"
+    ],
+    "Fill_Blank": "They cleaned up the ______ dishes after dinner.",
+    "Mistakes": [
+      "Village",
+      "Down",
+      "Safe"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.33",
+    "English": "Clean",
+    "Sub_English": "Sạch sẽ",
+    "Example": "The house was sparkling clean after the spring cleaning.",
+    "English_Vocabulary_Test": [
+      "Tốt",
+      "Xấu",
+      "Cảng"
+    ],
+    "Fill_Blank": "The house was sparkling ______ after the spring ______ing.",
+    "Mistakes": [
+      "Thin",
+      "Bridge",
+      "Accurate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.34",
+    "English": "Friendly",
+    "Sub_English": "Thân thiện",
+    "Example": "They were greeted by friendly locals in the village.",
+    "English_Vocabulary_Test": [
+      "Mỏng",
+      "Ra khỏi",
+      "Không thân thiện"
+    ],
+    "Fill_Blank": "They were greeted by ______ locals in the village.",
+    "Mistakes": [
+      "Elastic",
+      "Through",
+      "Thin"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.35",
+    "English": "Unfriendly",
+    "Sub_English": "Không thân thiện",
+    "Example": "They encountered unfriendly staff at the restaurant.",
+    "English_Vocabulary_Test": [
+      "Ồn ào",
+      "Qua",
+      "Lớn"
+    ],
+    "Fill_Blank": "They encountered ______ staff at the restaurant.",
+    "Mistakes": [
+      "Museum",
+      "Dangerous",
+      "Detachable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.36",
+    "English": "Noisy",
+    "Sub_English": "Ồn ào",
+    "Example": "They couldn't sleep because of the noisy neighbors.",
+    "English_Vocabulary_Test": [
+      "Núi",
+      "Vào trong",
+      "Gọn nhẹ"
+    ],
+    "Fill_Blank": "They couldn't sleep because of the ______ neighbors.",
+    "Mistakes": [
+      "Latest",
+      "Dirty",
+      "Car park"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.37",
+    "English": "Quiet",
+    "Sub_English": "Yên tĩnh",
+    "Example": "They enjoyed the quiet atmosphere of the countryside.",
+    "English_Vocabulary_Test": [
+      "Nhà máy",
+      "Lên",
+      "Hiệu quả"
+    ],
+    "Fill_Blank": "They enjoyed the ______ atmosphere of the countryside.",
+    "Mistakes": [
+      "Farm",
+      "Safe",
+      "Efficient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.38",
+    "English": "Exciting",
+    "Sub_English": "Hứng thú",
+    "Example": "They embarked on an exciting adventure to explore the jungle.",
+    "English_Vocabulary_Test": [
+      "Chống trầy xước",
+      "Làng",
+      "Nguy hiểm"
+    ],
+    "Fill_Blank": "They embarked on an ______ adventure to explore the jungle.",
+    "Mistakes": [
+      "Under",
+      "Modern",
+      "Convenient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.39",
+    "English": "Boring",
+    "Sub_English": "Chán ngắt",
+    "Example": "The lecture on economics was boring and dull.",
+    "English_Vocabulary_Test": [
+      "Nhẹ",
+      "Lên",
+      "Chậm"
+    ],
+    "Fill_Blank": "The lecture on economics was ______ and dull.",
+    "Mistakes": [
+      "Bad",
+      "Slow",
+      "Dirty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.40",
+    "English": "Busy",
+    "Sub_English": "Bận rộn",
+    "Example": "They were busy preparing for the upcoming exams.",
+    "English_Vocabulary_Test": [
+      "Sông",
+      "Nhà máy",
+      "Tốt"
+    ],
+    "Fill_Blank": "They were ______ preparing for the upcoming exams.",
+    "Mistakes": [
+      "Field",
+      "Bad",
+      "Waterproof"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.41",
+    "English": "Relaxing",
+    "Sub_English": "Thư giãn",
+    "Example": "They spent a relaxing day at the spa getting massages.",
+    "English_Vocabulary_Test": [
+      "Bẩn thỉu",
+      "Rẻ",
+      "Núi"
+    ],
+    "Fill_Blank": "They spent a ______ day at the spa getting massages.",
+    "Mistakes": [
+      "Convenient",
+      "Unfriendly",
+      "Expensive"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.42",
+    "English": "Stressful",
+    "Sub_English": "căng thẳng",
+    "Example": "The deadline for the project made it a stressful week.",
+    "English_Vocabulary_Test": [
+      "Nguy hiểm",
+      "Gọn nhẹ",
+      "Cánh đồng"
+    ],
+    "Fill_Blank": "The deadline for the project made it a ______ week.",
+    "Mistakes": [
+      "Across",
+      "Expensive",
+      "Hill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.43",
+    "English": "Across",
+    "Sub_English": "Băng qua",
+    "Example": "They walked across the bridge to reach the other side.",
+    "English_Vocabulary_Test": [
+      "Sạch sẽ",
+      "Vào trong",
+      "Cũ"
+    ],
+    "Fill_Blank": "They walked ______ the bridge to reach the other side.",
+    "Mistakes": [
+      "Accurate",
+      "Car park",
+      "Theatre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.44",
+    "English": "Along",
+    "Sub_English": "Dọc theo",
+    "Example": "They strolled along the beach, enjoying the sunset.",
+    "English_Vocabulary_Test": [
+      "Lớn",
+      "Dưới",
+      "Hồ"
+    ],
+    "Fill_Blank": "They strolled ______ the beach, enjoying the sunset.",
+    "Mistakes": [
+      "Compact",
+      "Village",
+      "Safe"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.45",
+    "English": "Around",
+    "Sub_English": "Xung quanh",
+    "Example": "They sat around the campfire, telling stories.",
+    "English_Vocabulary_Test": [
+      "Dày",
+      "Tốt",
+      "Đồi"
+    ],
+    "Fill_Blank": "They sat ______ the campfire, telling stories.",
+    "Mistakes": [
+      "Friendly",
+      "Clean",
+      "Factory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.46",
+    "English": "Down",
+    "Sub_English": "Xuống",
+    "Example": "They climbed down the steep mountain trail.",
+    "English_Vocabulary_Test": [
+      "Chính xác",
+      "Dọc theo",
+      "Bảo tàng"
+    ],
+    "Fill_Blank": "They climbed ______ the steep mountain trail.",
+    "Mistakes": [
+      "Cottage",
+      "Expensive",
+      "Slow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.47",
+    "English": "Up",
+    "Sub_English": "Lên",
+    "Example": "They hiked up the hill to get a panoramic view of the city.",
+    "English_Vocabulary_Test": [
+      "Rẻ",
+      "Ra khỏi",
+      "Chán ngắt"
+    ],
+    "Fill_Blank": "They hiked ______ the hill to get a panoramic view of the city.",
+    "Mistakes": [
+      "Past",
+      "Thin",
+      "Convenient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.48",
+    "English": "Into",
+    "Sub_English": "Vào trong",
+    "Example": "They ventured into the dark cave to explore its mysteries.",
+    "English_Vocabulary_Test": [
+      "Xuống",
+      "Làng",
+      "Thư giãn"
+    ],
+    "Fill_Blank": "They ventured ______ the dark cave to explore its mysteries.",
+    "Mistakes": [
+      "Cathedral",
+      "Dirty",
+      "Busy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.49",
+    "English": "Out of",
+    "Sub_English": "Ra khỏi",
+    "Example": "They emerged out of the dense forest after hours of hiking.",
+    "English_Vocabulary_Test": [
+      "Nhà tranh",
+      "Nhà thờ lớn",
+      "Đắt tiền"
+    ],
+    "Fill_Blank": "They emerged ______ the dense forest after hours of hiking.",
+    "Mistakes": [
+      "Heavy",
+      "Out of",
+      "Theatre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.50",
+    "English": "Over",
+    "Sub_English": "Trên",
+    "Example": "They flew over the mountains on their way to the destination.",
+    "English_Vocabulary_Test": [
+      "căng thẳng",
+      "Nặng",
+      "Rẻ"
+    ],
+    "Fill_Blank": "They flew ______ the mountains on their way to the destination.",
+    "Mistakes": [
+      "Unfriendly",
+      "Dirty",
+      "Through"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.51",
+    "English": "Through",
+    "Sub_English": "Qua",
+    "Example": "They walked through the narrow alley to reach the market.",
+    "English_Vocabulary_Test": [
+      "Đồi",
+      "Yên tĩnh",
+      "Nhanh"
+    ],
+    "Fill_Blank": "They walked ______ the narrow alley to reach the market.",
+    "Mistakes": [
+      "Modern",
+      "Theatre",
+      "Out of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.52",
+    "English": "Under",
+    "Sub_English": "Dưới",
+    "Example": "They found shelter under the sturdy oak tree during the rain.",
+    "English_Vocabulary_Test": [
+      "Có thể tháo rời",
+      "Không thân thiện",
+      "An toàn"
+    ],
+    "Fill_Blank": "They found shelter ______ the sturdy oak tree during the rain.",
+    "Mistakes": [
+      "Factory",
+      "Friendly",
+      "Slow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.53",
+    "English": "Past",
+    "Sub_English": "Qua",
+    "Example": "They walked past the old bookstore on their way to school.",
+    "English_Vocabulary_Test": [
+      "Đồi",
+      "Xấu",
+      "Vào trong"
+    ],
+    "Fill_Blank": "They walked ______ the old bookstore on their way to school.",
+    "Mistakes": [
+      "Up",
+      "Boring",
+      "Hill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.54",
+    "English": "Heavy",
+    "Sub_English": "Nặng",
+    "Example": "The suitcase was heavy and difficult to carry.",
+    "English_Vocabulary_Test": [
+      "An toàn",
+      "Chán ngắt",
+      "Xung quanh"
+    ],
+    "Fill_Blank": "The suitcase was ______ and difficult to carry.",
+    "Mistakes": [
+      "Hill",
+      "Compact",
+      "Out of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.55",
+    "English": "Lightweight",
+    "Sub_English": "Nhẹ",
+    "Example": "The backpack was lightweight and comfortable to wear.",
+    "English_Vocabulary_Test": [
+      "Mới nhất",
+      "Thư giãn",
+      "Hứng thú"
+    ],
+    "Fill_Blank": "The backpack was ______ and comfortable to wear.",
+    "Mistakes": [
+      "Pub",
+      "Stressful",
+      "Hotel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.56",
+    "English": "Superior",
+    "Sub_English": "Vượt trội",
+    "Example": "The product's superior quality set it apart from the competition.",
+    "English_Vocabulary_Test": [
+      "Sạch sẽ",
+      "Bảo tàng",
+      "Bền bỉ"
+    ],
+    "Fill_Blank": "The product's ______ quality set it apart from the competition.",
+    "Mistakes": [
+      "Efficient",
+      "Through",
+      "Factory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.57",
+    "English": "Accurate",
+    "Sub_English": "Chính xác",
+    "Example": "The weather forecast was accurate, predicting sunny skies.",
+    "English_Vocabulary_Test": [
+      "Co dãn",
+      "Hồ",
+      "Ồn ào"
+    ],
+    "Fill_Blank": "The weather forecast was ______, predicting sunny skies.",
+    "Mistakes": [
+      "Factory",
+      "Superior",
+      "Boring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.58",
+    "English": "Efficient",
+    "Sub_English": "Hiệu quả",
+    "Example": "The new machine was more efficient than the old one.",
+    "English_Vocabulary_Test": [
+      "Hứng thú",
+      "Chống trầy xước",
+      "Lớn"
+    ],
+    "Fill_Blank": "The new machine was more ______ than the old one.",
+    "Mistakes": [
+      "Slow",
+      "Detachable",
+      "Efficient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.59",
+    "English": "Convenient",
+    "Sub_English": "Tiện lợi",
+    "Example": "The grocery store was conveniently located near their house.",
+    "English_Vocabulary_Test": [
+      "Chống trầy xước",
+      "Cầu",
+      "Hứng thú"
+    ],
+    "Fill_Blank": "The grocery store was ______ly located near their house.",
+    "Mistakes": [
+      "Superior",
+      "Field",
+      "Cathedral"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.60",
+    "English": "Waterproof",
+    "Sub_English": "Chống nước",
+    "Example": "The waterproof jacket kept them dry during the rainstorm.",
+    "English_Vocabulary_Test": [
+      "Không thân thiện",
+      "Cảng",
+      "Lớn"
+    ],
+    "Fill_Blank": "The ______ jacket kept them dry during the rainstorm.",
+    "Mistakes": [
+      "Village",
+      "Exciting",
+      "Bridge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.61",
+    "English": "Thick",
+    "Sub_English": "Dày",
+    "Example": "The fog was thick, reducing visibility on the road.",
+    "English_Vocabulary_Test": [
+      "Dọc theo",
+      "Chậm",
+      "Cánh đồng"
+    ],
+    "Fill_Blank": "The fog was ______, reducing visibility on the road.",
+    "Mistakes": [
+      "Over",
+      "Through",
+      "Convenient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.62",
+    "English": "Thin",
+    "Sub_English": "Mỏng",
+    "Example": "The ice was thin, so they had to be careful while skating.",
+    "English_Vocabulary_Test": [
+      "Mới nhất",
+      "Nặng",
+      "Cũ"
+    ],
+    "Fill_Blank": "The ice was ______, so they had to be careful while skating.",
+    "Mistakes": [
+      "Heavy",
+      "Fast",
+      "Portable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.63",
+    "English": "Latest",
+    "Sub_English": "Mới nhất",
+    "Example": "They bought the latest model of the smartphone.",
+    "English_Vocabulary_Test": [
+      "Ra khỏi",
+      "Qua",
+      "Dọc theo"
+    ],
+    "Fill_Blank": "They bought the ______ model of the smartphone.",
+    "Mistakes": [
+      "Car park",
+      "Port",
+      "Waterproof"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.64",
+    "English": "Compact",
+    "Sub_English": "Gọn nhẹ",
+    "Example": "The compact car was easy to maneuver in the city traffic.",
+    "English_Vocabulary_Test": [
+      "Xuống",
+      "Núi",
+      "Khách sạn"
+    ],
+    "Fill_Blank": "The ______ car was easy to maneuver in the city traffic.",
+    "Mistakes": [
+      "Lake",
+      "Farm",
+      "Thin"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.65",
+    "English": "Detachable",
+    "Sub_English": "Có thể tháo rời",
+    "Example": "The phone had a detachable battery for easy replacement.",
+    "English_Vocabulary_Test": [
+      "An toàn",
+      "Trên",
+      "Co dãn"
+    ],
+    "Fill_Blank": "The phone had a ______ battery for easy replacement.",
+    "Mistakes": [
+      "Waterproof",
+      "Expensive",
+      "Detachable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.66",
+    "English": "Portable",
+    "Sub_English": "Tiện lợi mang theo",
+    "Example": "The portable speaker allowed them to listen to music anywhere.",
+    "English_Vocabulary_Test": [
+      "Bảo tàng",
+      "Ra khỏi",
+      "Vào trong"
+    ],
+    "Fill_Blank": "The ______ speaker allowed them to listen to music anywhere.",
+    "Mistakes": [
+      "Hotel",
+      "Good",
+      "Boring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.67",
+    "English": "Durable",
+    "Sub_English": "Bền bỉ",
+    "Example": "The hiking boots were durable and could withstand rough terrain.",
+    "English_Vocabulary_Test": [
+      "Cánh đồng",
+      "Ồn ào",
+      "Nông trại"
+    ],
+    "Fill_Blank": "The hiking boots were ______ and could withstand rough terrain.",
+    "Mistakes": [
+      "Up",
+      "Scratch-resistant",
+      "Out of"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.68",
+    "English": "Elastic",
+    "Sub_English": "Co dãn",
+    "Example": "The elastic waistband of the pants provided a comfortable fit.",
+    "English_Vocabulary_Test": [
+      "Bãi đậu xe",
+      "Cánh đồng",
+      "Mỏng"
+    ],
+    "Fill_Blank": "The ______ waistband of the pants provided a comfortable fit.",
+    "Mistakes": [
+      "Unfriendly",
+      "Clean",
+      "Thick"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.69",
+    "English": "Scratch-resistant",
+    "Sub_English": "Chống trầy xước",
+    "Example": "The new phone had a scratch-resistant screen.",
+    "English_Vocabulary_Test": [
+      "Xung quanh",
+      "Băng qua",
+      "Tiện lợi"
+    ],
+    "Fill_Blank": "The new phone had a ______ screen.",
+    "Mistakes": [
+      "Friendly",
+      "Over",
+      "Stressful"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.4.70",
+    "English": "Shock-resistant",
+    "Sub_English": "Chống sốc",
+    "Example": "The rugged camera was shock-resistant, suitable for outdoor adventures.",
+    "English_Vocabulary_Test": [
+      "Chậm",
+      "Bảo tàng",
+      "Tiện lợi mang theo"
+    ],
+    "Fill_Blank": "The rugged camera was ______, suitable for outdoor adventures.",
+    "Mistakes": [
+      "Dirty",
+      "Mountain",
+      "Under"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.1",
+    "English": "Apply for a job",
+    "Sub_English": "Nộp đơn xin việc",
+    "Example": "She applied for a job at the local bookstore.",
+    "English_Vocabulary_Test": [
+      "Đi chơi",
+      "Thăm triển lãm nghệ thuật",
+      "Du học"
+    ],
+    "Fill_Blank": "She applied for a job at the local bookstore.",
+    "Mistakes": [
+      "Get married",
+      "Start a business",
+      "Apply for a job"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.2",
+    "English": "Buy a new laptop",
+    "Sub_English": "Mua máy tính xách tay mới",
+    "Example": "He bought a new laptop for his college studies.",
+    "English_Vocabulary_Test": [
+      "Nộp đơn xin việc",
+      "Có một công việc bán thời gian",
+      "Du lịch vòng quanh thế giới"
+    ],
+    "Fill_Blank": "He bought a new laptop for his college studies.",
+    "Mistakes": [
+      "Travel around the world",
+      "Have a trip",
+      "Get a full-time job"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.3",
+    "English": "Do a course",
+    "Sub_English": "Tham gia khóa học",
+    "Example": "She decided to do a course in photography.",
+    "English_Vocabulary_Test": [
+      "Du học",
+      "Học một ngôn ngữ mới",
+      "Học chơi nhạc cụ"
+    ],
+    "Fill_Blank": "She decided to ______ in photography.",
+    "Mistakes": [
+      "Study a new language",
+      "Move to a new house",
+      "Have a trip"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.4",
+    "English": "Get a full-time job",
+    "Sub_English": "Có một công việc toàn thời gian",
+    "Example": "He finally got a full-time job after months of searching.",
+    "English_Vocabulary_Test": [
+      "Đi hẹn hò",
+      "Quản lý doanh nghiệp",
+      "Có một công việc bán thời gian"
+    ],
+    "Fill_Blank": "He finally got a full-time job after months of searching.",
+    "Mistakes": [
+      "Learn to play a musical instrument",
+      "Have a baby",
+      "Study abroad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.5",
+    "English": "Get a part-time job",
+    "Sub_English": "Có một công việc bán thời gian",
+    "Example": "She got a part-time job to earn some extra money.",
+    "English_Vocabulary_Test": [
+      "Thăm triển lãm nghệ thuật",
+      "Học một ngôn ngữ mới",
+      "Chuyển đến nhà mới"
+    ],
+    "Fill_Blank": "She got a part-time job to earn some extra money.",
+    "Mistakes": [
+      "Study abroad",
+      "Have a date",
+      "Graduate from university"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.6",
+    "English": "Get married",
+    "Sub_English": "Kết hôn",
+    "Example": "They got married in a beautiful ceremony.",
+    "English_Vocabulary_Test": [
+      "Có một công việc bán thời gian",
+      "Tốt nghiệp đại học",
+      "Mua máy tính xách tay mới"
+    ],
+    "Fill_Blank": "They got married in a beautiful ceremony.",
+    "Mistakes": [
+      "Graduate from university",
+      "Get married",
+      "Have a baby"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.7",
+    "English": "Graduate from university",
+    "Sub_English": "Tốt nghiệp đại học",
+    "Example": "He graduated from university with honors.",
+    "English_Vocabulary_Test": [
+      "Có con",
+      "Đi hẹn hò",
+      "Kết hôn"
+    ],
+    "Fill_Blank": "He graduated from university with honors.",
+    "Mistakes": [
+      "Get married",
+      "Get a part-time job",
+      "Have a trip"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.8",
+    "English": "Have a baby",
+    "Sub_English": "Có con",
+    "Example": "They were excited to have a baby after years of trying.",
+    "English_Vocabulary_Test": [
+      "Bắt đầu kinh doanh",
+      "Có một công việc bán thời gian",
+      "Đi chơi"
+    ],
+    "Fill_Blank": "They were excited to ______ after years of trying.",
+    "Mistakes": [
+      "Learn to play a musical instrument",
+      "Get a full-time job",
+      "Do a course"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.9",
+    "English": "Have a trip",
+    "Sub_English": "Đi chơi",
+    "Example": "They decided to have a trip to Paris for their anniversary.",
+    "English_Vocabulary_Test": [
+      "Bắt đầu kinh doanh",
+      "Nộp đơn xin việc",
+      "Thăm triển lãm nghệ thuật"
+    ],
+    "Fill_Blank": "They decided to ______ to Paris for their anniversary.",
+    "Mistakes": [
+      "Study abroad",
+      "Have a baby",
+      "Get married"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.10",
+    "English": "Have a date",
+    "Sub_English": "Đi hẹn hò",
+    "Example": "They had a romantic date at a fancy restaurant.",
+    "English_Vocabulary_Test": [
+      "Có một công việc toàn thời gian",
+      "Tốt nghiệp đại học",
+      "Du học"
+    ],
+    "Fill_Blank": "They had a romantic date at a fancy restaurant.",
+    "Mistakes": [
+      "Learn to play a musical instrument",
+      "Get married",
+      "Visit an art gallery"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.11",
+    "English": "Manage a company",
+    "Sub_English": "Quản lý doanh nghiệp",
+    "Example": "He was promoted to manage a company after years of hard work.",
+    "English_Vocabulary_Test": [
+      "Nộp đơn xin việc",
+      "Bắt đầu kinh doanh",
+      "Chuyển đến nhà mới"
+    ],
+    "Fill_Blank": "He was promoted to ______ after years of hard work.",
+    "Mistakes": [
+      "Manage a company",
+      "Visit an art gallery",
+      "Get a full-time job"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.12",
+    "English": "Move to a new house",
+    "Sub_English": "Chuyển đến nhà mới",
+    "Example": "They packed their belongings and moved to a new house.",
+    "English_Vocabulary_Test": [
+      "Có con",
+      "Đi chơi",
+      "Quản lý doanh nghiệp"
+    ],
+    "Fill_Blank": "They packed their belongings and moved to a new house.",
+    "Mistakes": [
+      "Travel around the world",
+      "Do a course",
+      "Study a new language"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.13",
+    "English": "Learn to play a musical instrument",
+    "Sub_English": "Học chơi nhạc cụ",
+    "Example": "She decided to learn to play the piano in her free time.",
+    "English_Vocabulary_Test": [
+      "Quản lý doanh nghiệp",
+      "Tham gia khóa học",
+      "Học một ngôn ngữ mới"
+    ],
+    "Fill_Blank": "She decided to learn to play the piano in her free time.",
+    "Mistakes": [
+      "Get a part-time job",
+      "Study abroad",
+      "Do a course"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.14",
+    "English": "Start a business",
+    "Sub_English": "Bắt đầu kinh doanh",
+    "Example": "He saved up enough money to start a business of his own.",
+    "English_Vocabulary_Test": [
+      "Du học",
+      "Mua máy tính xách tay mới",
+      "Có con"
+    ],
+    "Fill_Blank": "He saved up enough money to ______ of his own.",
+    "Mistakes": [
+      "Do a course",
+      "Have a trip",
+      "Buy a new laptop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.15",
+    "English": "Visit an art gallery",
+    "Sub_English": "Thăm triển lãm nghệ thuật",
+    "Example": "They visited an art gallery to admire the paintings.",
+    "English_Vocabulary_Test": [
+      "Mua máy tính xách tay mới",
+      "Nộp đơn xin việc",
+      "Quản lý doanh nghiệp"
+    ],
+    "Fill_Blank": "They visited an art gallery to admire the paintings.",
+    "Mistakes": [
+      "Visit an art gallery",
+      "Travel around the world",
+      "Study abroad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.16",
+    "English": "Travel around the world",
+    "Sub_English": "Du lịch vòng quanh thế giới",
+    "Example": "They saved up money to travel around the world for a year.",
+    "English_Vocabulary_Test": [
+      "Chuyển đến nhà mới",
+      "Có một công việc bán thời gian",
+      "Thăm triển lãm nghệ thuật"
+    ],
+    "Fill_Blank": "They saved up money to ______ for a year.",
+    "Mistakes": [
+      "Have a trip",
+      "Visit an art gallery",
+      "Have a baby"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.17",
+    "English": "Study abroad",
+    "Sub_English": "Du học",
+    "Example": "She decided to study abroad to experience a new culture.",
+    "English_Vocabulary_Test": [
+      "Mua máy tính xách tay mới",
+      "Có con",
+      "Học chơi nhạc cụ"
+    ],
+    "Fill_Blank": "She decided to ______ to experience a new culture.",
+    "Mistakes": [
+      "Apply for a job",
+      "Get a full-time job",
+      "Do a course"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.5.18",
+    "English": "Study a new language",
+    "Sub_English": "Học một ngôn ngữ mới",
+    "Example": "He enrolled in a language course to study a new language.",
+    "English_Vocabulary_Test": [
+      "Thăm triển lãm nghệ thuật",
+      "Đi chơi",
+      "Tham gia khóa học"
+    ],
+    "Fill_Blank": "He enrolled in a language course to ______.",
+    "Mistakes": [
+      "Graduate from university",
+      "Apply for a job",
+      "Travel around the world"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.1",
+    "English": "Climb the rock/the mountain",
+    "Sub_English": "Leo núi",
+    "Example": "They decided to climb the mountain during their hiking trip.",
+    "English_Vocabulary_Test": [
+      "Được mời làm việc",
+      "Lái xe máy",
+      "Đi du lịch bằng máy bay"
+    ],
+    "Fill_Blank": "They decided to climb the mountain during their hiking trip.",
+    "Mistakes": [
+      "Spend time on the Internet",
+      "Embarrassing",
+      "Do a parachute jump"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.2",
+    "English": "Check your email",
+    "Sub_English": "Kiểm tra email",
+    "Example": "He checked his email for any important messages.",
+    "English_Vocabulary_Test": [
+      "Đi du lịch bằng máy bay",
+      "Đi xe đạp",
+      "Xấu hổ"
+    ],
+    "Fill_Blank": "He checked his email for any important messages.",
+    "Mistakes": [
+      "Be offered a job",
+      "Write emails",
+      "Fail the exam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.3",
+    "English": "Cook meals",
+    "Sub_English": "Nấu ăn",
+    "Example": "She loved to cook meals for her family every evening.",
+    "English_Vocabulary_Test": [
+      "Lái xe máy",
+      "Đi du lịch bằng máy bay",
+      "Nhạt nhẽo"
+    ],
+    "Fill_Blank": "She loved to ______ for her family every evening.",
+    "Mistakes": [
+      "Get lost",
+      "Annoyed",
+      "Tiring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.4",
+    "English": "Do a parachute jump",
+    "Sub_English": "Nhảy dù",
+    "Example": "He mustered up the courage to do a parachute jump for his birthday.",
+    "English_Vocabulary_Test": [
+      "Khó chịu",
+      "Lo lắng",
+      "Mệt mỏi"
+    ],
+    "Fill_Blank": "He mustered up the courage to ______ for his birthday.",
+    "Mistakes": [
+      "Annoying",
+      "Tired",
+      "Do a parachute jump"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.5",
+    "English": "Fail the exam",
+    "Sub_English": "Thi trượt",
+    "Example": "Despite studying hard, she failed the exam.",
+    "English_Vocabulary_Test": [
+      "Thư thái",
+      "Có một chiếc máy tính xách tay",
+      "Mệt nhọc"
+    ],
+    "Fill_Blank": "Despite studying hard, she failed the exam.",
+    "Mistakes": [
+      "Sing karaoke",
+      "Ride a motorbike",
+      "Have a laptop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.6",
+    "English": "Go scuba diving",
+    "Sub_English": "Lặn biển",
+    "Example": "They went scuba diving to explore the coral reefs.",
+    "English_Vocabulary_Test": [
+      "Thi trượt",
+      "Leo núi",
+      "Xấu hổ"
+    ],
+    "Fill_Blank": "They went scuba diving to explore the coral reefs.",
+    "Mistakes": [
+      "Have a computer",
+      "Win a competition",
+      "Worrying"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.7",
+    "English": "Get lost",
+    "Sub_English": "Bị lạc",
+    "Example": "They got lost in the maze of narrow streets.",
+    "English_Vocabulary_Test": [
+      "Gặp bác sĩ",
+      "Sống ở nước ngoài",
+      "Nhảy dù"
+    ],
+    "Fill_Blank": "They got lost in the maze of narrow streets.",
+    "Mistakes": [
+      "Visit a doctor",
+      "Bored",
+      "Shocking"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.8",
+    "English": "Have a computer",
+    "Sub_English": "Có một chiếc máy tính",
+    "Example": "She was excited to have a computer of her own.",
+    "English_Vocabulary_Test": [
+      "Thư giãn",
+      "Chán",
+      "Đi xe đạp"
+    ],
+    "Fill_Blank": "She was excited to ______ of her own.",
+    "Mistakes": [
+      "Boring",
+      "Win a lottery",
+      "Have a laptop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.9",
+    "English": "Have a quarrel",
+    "Sub_English": "Cãi nhau",
+    "Example": "They had a quarrel over something trivial.",
+    "English_Vocabulary_Test": [
+      "Có một chiếc máy tính xách tay",
+      "Gặp bác sĩ",
+      "Hào hứng"
+    ],
+    "Fill_Blank": "They had a quarrel over something trivial.",
+    "Mistakes": [
+      "Annoyed",
+      "Tiring",
+      "Live in a foreign country"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.10",
+    "English": "Have a laptop",
+    "Sub_English": "Có một chiếc máy tính xách tay",
+    "Example": "He bought a new laptop for his college studies.",
+    "English_Vocabulary_Test": [
+      "Lo lắng",
+      "Gặp bác sĩ",
+      "Cãi nhau"
+    ],
+    "Fill_Blank": "He bought a new laptop for his college studies.",
+    "Mistakes": [
+      "Sing karaoke",
+      "Win a lottery",
+      "Boring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.11",
+    "English": "Lose a game",
+    "Sub_English": "Thua cuộc",
+    "Example": "They felt disappointed after losing the game.",
+    "English_Vocabulary_Test": [
+      "Cãi nhau",
+      "Nhảy dù",
+      "Ở lại khách sạn sang trọng"
+    ],
+    "Fill_Blank": "They felt disappointed after losing the game.",
+    "Mistakes": [
+      "Go scuba diving",
+      "Get lost",
+      "Travel by plane"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.12",
+    "English": "Meet a famous person",
+    "Sub_English": "Gặp người nổi tiếng",
+    "Example": "They were thrilled to meet a famous actor at the event.",
+    "English_Vocabulary_Test": [
+      "Sống ở nước ngoài",
+      "Lái xe máy",
+      "Bị lạc"
+    ],
+    "Fill_Blank": "They were thrilled to meet a famous actor at the event.",
+    "Mistakes": [
+      "Fail the exam",
+      "Win a competition",
+      "Exciting"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.13",
+    "English": "Pass an exam",
+    "Sub_English": "Đỗ kỳ thi",
+    "Example": "She was relieved to pass the exam with flying colors.",
+    "English_Vocabulary_Test": [
+      "Lái xe máy",
+      "Thư giãn",
+      "Đáng sợ"
+    ],
+    "Fill_Blank": "She was relieved to pass the exam with flying colors.",
+    "Mistakes": [
+      "Spend time on the Internet",
+      "Bored",
+      "Ride a motorbike"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.14",
+    "English": "Travel by plane",
+    "Sub_English": "Đi du lịch bằng máy bay",
+    "Example": "They traveled by plane to their dream destination.",
+    "English_Vocabulary_Test": [
+      "Làm việc cho một công ty lớn",
+      "Sợ hãi",
+      "Lái xe máy"
+    ],
+    "Fill_Blank": "They traveled by plane to their dream destination.",
+    "Mistakes": [
+      "Travel by plane",
+      "Embarrassed",
+      "Annoyed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.15",
+    "English": "Ride a bike",
+    "Sub_English": "Đi xe đạp",
+    "Example": "They enjoyed riding a bike along the beach.",
+    "English_Vocabulary_Test": [
+      "Gặp bác sĩ",
+      "Mệt mỏi",
+      "Hào hứng"
+    ],
+    "Fill_Blank": "They enjoyed riding a bike along the beach.",
+    "Mistakes": [
+      "Meet a famous person",
+      "Relaxing",
+      "Get lost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.16",
+    "English": "Ride a motorbike",
+    "Sub_English": "Lái xe máy",
+    "Example": "He rode a motorbike through the winding mountain roads.",
+    "English_Vocabulary_Test": [
+      "Nhạt nhẽo",
+      "Thua cuộc",
+      "Lo lắng"
+    ],
+    "Fill_Blank": "He rode a motorbike through the winding mountain roads.",
+    "Mistakes": [
+      "Have a quarrel",
+      "Live in a foreign country",
+      "Travel by plane"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.17",
+    "English": "Sing karaoke",
+    "Sub_English": "Hát karaoke",
+    "Example": "They sang karaoke together at the party.",
+    "English_Vocabulary_Test": [
+      "Xấu hổ",
+      "Nhảy dù",
+      "Lặn biển"
+    ],
+    "Fill_Blank": "They sang karaoke together at the party.",
+    "Mistakes": [
+      "Fail the exam",
+      "Ride a bike",
+      "Embarrassed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.18",
+    "English": "Spend time on the Internet",
+    "Sub_English": "Dành thời gian trên Internet",
+    "Example": "He spent hours on the Internet browsing social media.",
+    "English_Vocabulary_Test": [
+      "Nhảy dù",
+      "Đi du lịch bằng máy bay",
+      "Được mời làm việc"
+    ],
+    "Fill_Blank": "He spent hours on the Internet browsing social media.",
+    "Mistakes": [
+      "Frightening",
+      "Shocked",
+      "Go scuba diving"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.19",
+    "English": "Stay in an expensive hotel",
+    "Sub_English": "Ở lại khách sạn sang trọng",
+    "Example": "They treated themselves to staying in an expensive hotel for their anniversary.",
+    "English_Vocabulary_Test": [
+      "Gặp bác sĩ",
+      "Chán chường",
+      "Thú vị"
+    ],
+    "Fill_Blank": "They treated themselves to staying in an expensive hotel for their anniversary.",
+    "Mistakes": [
+      "Work for a big company",
+      "Write emails",
+      "Fail the exam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.20",
+    "English": "Win a competition",
+    "Sub_English": "Chiến thắng một cuộc thi",
+    "Example": "They were overjoyed to win the dance competition.",
+    "English_Vocabulary_Test": [
+      "Đi du lịch bằng máy bay",
+      "Trúng số",
+      "Ở lại khách sạn sang trọng"
+    ],
+    "Fill_Blank": "They were overjoyed to win the dance competition.",
+    "Mistakes": [
+      "Tiring",
+      "Have a quarrel",
+      "Work for a big company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.21",
+    "English": "Win a lottery",
+    "Sub_English": "Trúng số",
+    "Example": "They couldn't believe their luck when they won the lottery.",
+    "English_Vocabulary_Test": [
+      "Lái xe máy",
+      "Dành thời gian trên Internet",
+      "Thú vị"
+    ],
+    "Fill_Blank": "They couldn't believe their luck when they won the lottery.",
+    "Mistakes": [
+      "Embarrassing",
+      "Shocking",
+      "Cook meals"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.22",
+    "English": "Work for a big company",
+    "Sub_English": "Làm việc cho một công ty lớn",
+    "Example": "He was thrilled to work for a big company after graduation.",
+    "English_Vocabulary_Test": [
+      "Chiến thắng một cuộc thi",
+      "Có một chiếc máy tính",
+      "Nhạt nhẽo"
+    ],
+    "Fill_Blank": "He was thrilled to ______ after graduation.",
+    "Mistakes": [
+      "Win a lottery",
+      "Live in a foreign country",
+      "Write emails"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.23",
+    "English": "Write emails",
+    "Sub_English": "Viết email",
+    "Example": "He wrote emails to his clients to update them on the project.",
+    "English_Vocabulary_Test": [
+      "Gặp bác sĩ",
+      "Làm việc cho một công ty lớn",
+      "Lái xe máy"
+    ],
+    "Fill_Blank": "He wrote emails to his clients to update them on the project.",
+    "Mistakes": [
+      "Get lost",
+      "Win a lottery",
+      "Depressing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.24",
+    "English": "Be offered a job",
+    "Sub_English": "Được mời làm việc",
+    "Example": "She was excited to be offered a job at the prestigious company.",
+    "English_Vocabulary_Test": [
+      "Nấu ăn",
+      "Có một chiếc máy tính xách tay",
+      "Lặn biển"
+    ],
+    "Fill_Blank": "She was excited to ______ at the prestigious company.",
+    "Mistakes": [
+      "Stay in an expensive hotel",
+      "Visit a doctor",
+      "Go scuba diving"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.25",
+    "English": "Visit a doctor",
+    "Sub_English": "Gặp bác sĩ",
+    "Example": "He visited a doctor to get a check-up on his health.",
+    "English_Vocabulary_Test": [
+      "Đỗ kỳ thi",
+      "Mệt nhọc",
+      "Buồn bã"
+    ],
+    "Fill_Blank": "He visited a doctor to get a check-up on his health.",
+    "Mistakes": [
+      "Pass an exam",
+      "Shocked",
+      "Frightening"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.26",
+    "English": "Live in a foreign country",
+    "Sub_English": "Sống ở nước ngoài",
+    "Example": "They decided to live in a foreign country for a year.",
+    "English_Vocabulary_Test": [
+      "Mệt nhọc",
+      "Nhạt nhẽo",
+      "Leo núi"
+    ],
+    "Fill_Blank": "They decided to ______ for a year.",
+    "Mistakes": [
+      "Relaxed",
+      "Tiring",
+      "Fail the exam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.27",
+    "English": "Annoyed",
+    "Sub_English": "Khó chịu",
+    "Example": "He felt annoyed when his plans were disrupted.",
+    "English_Vocabulary_Test": [
+      "Đáng sợ",
+      "Trúng số",
+      "Gây khó chịu"
+    ],
+    "Fill_Blank": "He felt ______ when his plans were disrupted.",
+    "Mistakes": [
+      "Bored",
+      "Have a laptop",
+      "Climb the rock/the mountain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.28",
+    "English": "Annoying",
+    "Sub_English": "Gây khó chịu",
+    "Example": "His annoying habits often irritated his friends.",
+    "English_Vocabulary_Test": [
+      "Làm việc cho một công ty lớn",
+      "Lo ngại",
+      "Mệt mỏi"
+    ],
+    "Fill_Blank": "His ______ habits often irritated his friends.",
+    "Mistakes": [
+      "Exciting",
+      "Do a parachute jump",
+      "Shocked"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.29",
+    "English": "Bored",
+    "Sub_English": "Chán",
+    "Example": "She felt bored during the long lecture.",
+    "English_Vocabulary_Test": [
+      "Có một chiếc máy tính",
+      "Mệt mỏi",
+      "Thư thái"
+    ],
+    "Fill_Blank": "She felt ______ during the long lecture.",
+    "Mistakes": [
+      "Worrying",
+      "Depressed",
+      "Do a parachute jump"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.30",
+    "English": "Boring",
+    "Sub_English": "Nhạt nhẽo",
+    "Example": "The movie was boring, and she fell asleep halfway through.",
+    "English_Vocabulary_Test": [
+      "Ở lại khách sạn sang trọng",
+      "Leo núi",
+      "Trúng số"
+    ],
+    "Fill_Blank": "The movie was ______, and she fell asleep halfway through.",
+    "Mistakes": [
+      "Stay in an expensive hotel",
+      "Shocking",
+      "Pass an exam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.31",
+    "English": "Embarrassed",
+    "Sub_English": "Xấu hổ",
+    "Example": "She felt embarrassed when she tripped in front of everyone.",
+    "English_Vocabulary_Test": [
+      "Cãi nhau",
+      "Đáng sợ",
+      "Chán chường"
+    ],
+    "Fill_Blank": "She felt ______ when she tripped in front of everyone.",
+    "Mistakes": [
+      "Frightening",
+      "Pass an exam",
+      "Win a competition"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.32",
+    "English": "Embarrassing",
+    "Sub_English": "Gây xấu hổ",
+    "Example": "It was embarrassing when her phone rang loudly in the meeting.",
+    "English_Vocabulary_Test": [
+      "Mệt nhọc",
+      "Lặn biển",
+      "Sợ hãi"
+    ],
+    "Fill_Blank": "It was ______ when her phone rang loudly in the meeting.",
+    "Mistakes": [
+      "Cook meals",
+      "Depressing",
+      "Annoyed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.33",
+    "English": "Depressed",
+    "Sub_English": "Chán chường",
+    "Example": "He felt depressed after losing his job.",
+    "English_Vocabulary_Test": [
+      "Trúng số",
+      "Thi trượt",
+      "Thư thái"
+    ],
+    "Fill_Blank": "He felt ______ after losing his job.",
+    "Mistakes": [
+      "Worrying",
+      "Annoyed",
+      "Boring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.34",
+    "English": "Depressing",
+    "Sub_English": "Buồn bã",
+    "Example": "The rainy weather made the atmosphere depressing.",
+    "English_Vocabulary_Test": [
+      "Đỗ kỳ thi",
+      "Có một chiếc máy tính xách tay",
+      "Hào hứng"
+    ],
+    "Fill_Blank": "The rainy weather made the atmosphere ______.",
+    "Mistakes": [
+      "Lose a game",
+      "Work for a big company",
+      "Have a laptop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.35",
+    "English": "Excited",
+    "Sub_English": "Hào hứng",
+    "Example": "She was excited about her upcoming vacation.",
+    "English_Vocabulary_Test": [
+      "Bị lạc",
+      "Lái xe máy",
+      "Gây xấu hổ"
+    ],
+    "Fill_Blank": "She was ______ about her upcoming vacation.",
+    "Mistakes": [
+      "Live in a foreign country",
+      "Visit a doctor",
+      "Do a parachute jump"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.36",
+    "English": "Exciting",
+    "Sub_English": "Thú vị",
+    "Example": "The roller coaster ride was exciting and exhilarating.",
+    "English_Vocabulary_Test": [
+      "Sợ hãi",
+      "Hát karaoke",
+      "Khó chịu"
+    ],
+    "Fill_Blank": "The roller coaster ride was ______ and exhilarating.",
+    "Mistakes": [
+      "Fail the exam",
+      "Depressing",
+      "Have a computer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.37",
+    "English": "Frightened",
+    "Sub_English": "Sợ hãi",
+    "Example": "She felt frightened when she heard strange noises at night.",
+    "English_Vocabulary_Test": [
+      "Nhảy dù",
+      "Có một chiếc máy tính",
+      "Leo núi"
+    ],
+    "Fill_Blank": "She felt ______ when she heard strange noises at night.",
+    "Mistakes": [
+      "Embarrassing",
+      "Depressing",
+      "Frightening"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.38",
+    "English": "Frightening",
+    "Sub_English": "Đáng sợ",
+    "Example": "The horror movie was frightening, and she couldn't sleep.",
+    "English_Vocabulary_Test": [
+      "Thư thái",
+      "Có một chiếc máy tính xách tay",
+      "Nhạt nhẽo"
+    ],
+    "Fill_Blank": "The horror movie was ______, and she couldn't sleep.",
+    "Mistakes": [
+      "Frightened",
+      "Tiring",
+      "Fail the exam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.39",
+    "English": "Tired",
+    "Sub_English": "Mệt mỏi",
+    "Example": "He felt tired after a long day at work.",
+    "English_Vocabulary_Test": [
+      "Hào hứng",
+      "Cãi nhau",
+      "Chán chường"
+    ],
+    "Fill_Blank": "He felt ______ after a long day at work.",
+    "Mistakes": [
+      "Annoyed",
+      "Have a quarrel",
+      "Have a computer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.40",
+    "English": "Tiring",
+    "Sub_English": "Mệt nhọc",
+    "Example": "The hiking trail was tiring, but the view was worth it.",
+    "English_Vocabulary_Test": [
+      "Trúng số",
+      "Leo núi",
+      "Gây khó chịu"
+    ],
+    "Fill_Blank": "The hiking trail was ______, but the view was worth it.",
+    "Mistakes": [
+      "Embarrassing",
+      "Live in a foreign country",
+      "Write emails"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.41",
+    "English": "Relaxed",
+    "Sub_English": "Thư giãn",
+    "Example": "She felt relaxed after a day at the spa.",
+    "English_Vocabulary_Test": [
+      "Chiến thắng một cuộc thi",
+      "Gây sốc",
+      "Lo ngại"
+    ],
+    "Fill_Blank": "She felt ______ after a day at the spa.",
+    "Mistakes": [
+      "Be offered a job",
+      "Frightening",
+      "Tiring"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.42",
+    "English": "Relaxing",
+    "Sub_English": "Thư thái",
+    "Example": "The gentle music created a relaxing atmosphere in the room.",
+    "English_Vocabulary_Test": [
+      "Thua cuộc",
+      "Gây sốc",
+      "Gặp người nổi tiếng"
+    ],
+    "Fill_Blank": "The gentle music created a ______ atmosphere in the room.",
+    "Mistakes": [
+      "Ride a bike",
+      "Win a lottery",
+      "Depressed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.43",
+    "English": "Shocked",
+    "Sub_English": "Choáng ngợp",
+    "Example": "She was shocked to hear the unexpected news.",
+    "English_Vocabulary_Test": [
+      "Dành thời gian trên Internet",
+      "Thua cuộc",
+      "Đáng sợ"
+    ],
+    "Fill_Blank": "She was ______ to hear the unexpected news.",
+    "Mistakes": [
+      "Be offered a job",
+      "Depressed",
+      "Embarrassed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.44",
+    "English": "Shocking",
+    "Sub_English": "Gây sốc",
+    "Example": "The accident scene was shocking, with debris everywhere.",
+    "English_Vocabulary_Test": [
+      "Nhảy dù",
+      "Khó chịu",
+      "Gây khó chịu"
+    ],
+    "Fill_Blank": "The accident scene was ______, with debris everywhere.",
+    "Mistakes": [
+      "Live in a foreign country",
+      "Have a computer",
+      "Do a parachute jump"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.45",
+    "English": "Worried",
+    "Sub_English": "Lo lắng",
+    "Example": "He felt worried about his upcoming exams.",
+    "English_Vocabulary_Test": [
+      "Trúng số",
+      "Được mời làm việc",
+      "Thú vị"
+    ],
+    "Fill_Blank": "He felt ______ about his upcoming exams.",
+    "Mistakes": [
+      "Meet a famous person",
+      "Pass an exam",
+      "Get lost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.6.46",
+    "English": "Worrying",
+    "Sub_English": "Lo ngại",
+    "Example": "The dark clouds were worrying, indicating a storm.",
+    "English_Vocabulary_Test": [
+      "Đỗ kỳ thi",
+      "Xấu hổ",
+      "Cãi nhau"
+    ],
+    "Fill_Blank": "The dark clouds were ______, indicating a storm.",
+    "Mistakes": [
+      "Stay in an expensive hotel",
+      "Relaxing",
+      "Go scuba diving"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.1",
+    "English": "Air conditioner",
+    "Sub_English": "Máy điều hòa không khí",
+    "Example": "The air conditioner kept the office cool during the hot summer days.",
+    "English_Vocabulary_Test": [
+      "Mực máy in",
+      "Thay đổi mật khẩu thường xuyên",
+      "Máy hủy"
+    ],
+    "Fill_Blank": "The ______ kept the office cool during the hot summer days.",
+    "Mistakes": [
+      "Year planner",
+      "Above",
+      "Elevator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.2",
+    "English": "Bin",
+    "Sub_English": "Thùng rác",
+    "Example": "He emptied the bin when it was full.",
+    "English_Vocabulary_Test": [
+      "Máy điều hòa không khí",
+      "Văn phòng mở",
+      "Phía chống lại"
+    ],
+    "Fill_Blank": "He emptied the ______ when it was full.",
+    "Mistakes": [
+      "Photocopier",
+      "Coffee machine",
+      "Above"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.3",
+    "English": "Coffee machine",
+    "Sub_English": "Máy pha cà phê",
+    "Example": "She brewed a fresh cup of coffee using the coffee machine.",
+    "English_Vocabulary_Test": [
+      "Không hút thuốc tại nơi làm việc",
+      "Bên cạnh",
+      "Sao chụp"
+    ],
+    "Fill_Blank": "She brewed a fresh cup of coffee using the ______.",
+    "Mistakes": [
+      "Coffee machine",
+      "Don’t eat or drink at work",
+      "Beneath"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.4",
+    "English": "Check",
+    "Sub_English": "Kiểm tra",
+    "Example": "He performed a routine check of the equipment.",
+    "English_Vocabulary_Test": [
+      "Fax",
+      "Phía chống lại",
+      "Máy photocopy"
+    ],
+    "Fill_Blank": "He performed a routine ______ of the equipment.",
+    "Mistakes": [
+      "Place trash and paper in proper containers",
+      "Security camera",
+      "Don’t eat or drink at work"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.5",
+    "English": "Elevator",
+    "Sub_English": "Thang máy",
+    "Example": "They took the elevator to the top floor.",
+    "English_Vocabulary_Test": [
+      "Văn phòng mở",
+      "Phía chống lại",
+      "Máy pha cà phê"
+    ],
+    "Fill_Blank": "They took the ______ to the top floor.",
+    "Mistakes": [
+      "Don’t use social networking sites during the worktime",
+      "Shredder",
+      "Ink cartridge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.6",
+    "English": "Fax machine",
+    "Sub_English": "Máy fax",
+    "Example": "He sent the document using the fax machine.",
+    "English_Vocabulary_Test": [
+      "Tắt đèn trước khi rời văn phòng",
+      "Thay đổi mật khẩu thường xuyên",
+      "Máy pha cà phê"
+    ],
+    "Fill_Blank": "He sent the document using the ______.",
+    "Mistakes": [
+      "Scanner",
+      "Against",
+      "Don’t use company equipment for personal reason"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.7",
+    "English": "Fax (v)",
+    "Sub_English": "Fax",
+    "Example": "She faxed the report to the client.",
+    "English_Vocabulary_Test": [
+      "Giữ bàn phím và màn hình sạch sẽ",
+      "Máy quét",
+      "Máy photocopy"
+    ],
+    "Fill_Blank": "She faxed the report to the client.",
+    "Mistakes": [
+      "Place trash and paper in proper containers",
+      "Don’t use company equipment for personal reason",
+      "Check"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.8",
+    "English": "Ink cartridge",
+    "Sub_English": "Mực máy in",
+    "Example": "He replaced the ink cartridge in the printer.",
+    "English_Vocabulary_Test": [
+      "Máy hủy",
+      "Đặt rác và giấy vào thùng đúng cách",
+      "Văn phòng mở"
+    ],
+    "Fill_Blank": "He replaced the ______ in the printer.",
+    "Mistakes": [
+      "Scan",
+      "Fax machine",
+      "Don’t eat or drink at work"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.9",
+    "English": "Open-plan office",
+    "Sub_English": "Văn phòng mở",
+    "Example": "They worked in an open-plan office with no cubicles.",
+    "English_Vocabulary_Test": [
+      "Phía chống lại",
+      "Phía trên",
+      "Giữ bàn phím và màn hình sạch sẽ"
+    ],
+    "Fill_Blank": "They worked in an ______ with no cubicles.",
+    "Mistakes": [
+      "No alcohol or drugs to be used",
+      "Underneath",
+      "Air conditioner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.10",
+    "English": "Photocopy",
+    "Sub_English": "Sao chụp",
+    "Example": "He made photocopies of the documents for the meeting.",
+    "English_Vocabulary_Test": [
+      "Giữ bàn phím và màn hình sạch sẽ",
+      "Không ăn hoặc uống tại nơi làm việc",
+      "Tắt đèn trước khi rời văn phòng"
+    ],
+    "Fill_Blank": "He made photocopies of the documents for the meeting.",
+    "Mistakes": [
+      "Inside",
+      "Scanner",
+      "Don’t use social networking sites during the worktime"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.11",
+    "English": "Photocopier",
+    "Sub_English": "Máy photocopy",
+    "Example": "The photocopier ran out of paper.",
+    "English_Vocabulary_Test": [
+      "Máy pha cà phê",
+      "Phía dưới",
+      "Lịch năm"
+    ],
+    "Fill_Blank": "The ______ ran out of paper.",
+    "Mistakes": [
+      "Photocopy",
+      "Turn off the lights before leaving the office",
+      "Open-plan office"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.12",
+    "English": "Scan",
+    "Sub_English": "Quét",
+    "Example": "She scanned the document for digital storage.",
+    "English_Vocabulary_Test": [
+      "Văn phòng mở",
+      "Thay đổi mật khẩu thường xuyên",
+      "Không sử dụng mạng xã hội trong giờ làm việc"
+    ],
+    "Fill_Blank": "She ______ned the document for digital storage.",
+    "Mistakes": [
+      "Beneath",
+      "Change password frequently",
+      "Below"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.13",
+    "English": "Scanner",
+    "Sub_English": "Máy quét",
+    "Example": "He used the scanner to digitize old photographs.",
+    "English_Vocabulary_Test": [
+      "Thay đổi mật khẩu thường xuyên",
+      "Lịch năm",
+      "Bên cạnh"
+    ],
+    "Fill_Blank": "He used the ______ to digitize old photographs.",
+    "Mistakes": [
+      "Don’t use social networking sites during the worktime",
+      "Photocopy",
+      "No alcohol or drugs to be used"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.14",
+    "English": "Security camera",
+    "Sub_English": "Camera an ninh",
+    "Example": "The security camera monitored the entrance 24/7.",
+    "English_Vocabulary_Test": [
+      "Mực máy in",
+      "Tắt máy tính sau khi làm việc",
+      "Phía dưới"
+    ],
+    "Fill_Blank": "The ______ monitored the entrance 24/7.",
+    "Mistakes": [
+      "Bin",
+      "Change password frequently",
+      "No alcohol or drugs to be used"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.15",
+    "English": "Shredder",
+    "Sub_English": "Máy hủy",
+    "Example": "He shredded the confidential documents using the shredder.",
+    "English_Vocabulary_Test": [
+      "Không sử dụng mạng xã hội trong giờ làm việc",
+      "Máy điều hòa không khí",
+      "Mực máy in"
+    ],
+    "Fill_Blank": "He shredded the confidential documents using the ______.",
+    "Mistakes": [
+      "Inside",
+      "Don’t use company equipment for personal reason",
+      "Ink cartridge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.16",
+    "English": "Year planner",
+    "Sub_English": "Lịch năm",
+    "Example": "She marked important dates on the year planner.",
+    "English_Vocabulary_Test": [
+      "Máy quét",
+      "Không sử dụng mạng xã hội trong giờ làm việc",
+      "Máy hủy"
+    ],
+    "Fill_Blank": "She marked important dates on the ______.",
+    "Mistakes": [
+      "Shredder",
+      "Security camera",
+      "Elevator"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.17",
+    "English": "Change password frequently",
+    "Sub_English": "Thay đổi mật khẩu thường xuyên",
+    "Example": "They were advised to change their passwords frequently for security.",
+    "English_Vocabulary_Test": [
+      "Máy pha cà phê",
+      "Phía chống lại",
+      "Không sử dụng mạng xã hội trong giờ làm việc"
+    ],
+    "Fill_Blank": "They were advised to change their passwords frequently for security.",
+    "Mistakes": [
+      "Don’t eat or drink at work",
+      "Against",
+      "Year planner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.18",
+    "English": "Don’t eat or drink at work",
+    "Sub_English": "Không ăn hoặc uống tại nơi làm việc",
+    "Example": "It was a rule not to eat or drink at the workstation.",
+    "English_Vocabulary_Test": [
+      "Giữ bàn phím và màn hình sạch sẽ",
+      "Máy pha cà phê",
+      "Mực máy in"
+    ],
+    "Fill_Blank": "It was a rule not to eat or drink at the workstation.",
+    "Mistakes": [
+      "Place trash and paper in proper containers",
+      "Change password frequently",
+      "Inside"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.19",
+    "English": "Don’t smoke at workplace",
+    "Sub_English": "Không hút thuốc tại nơi làm việc",
+    "Example": "Smoking was prohibited in the workplace.",
+    "English_Vocabulary_Test": [
+      "Lịch năm",
+      "Phía chống lại",
+      "Máy quét"
+    ],
+    "Fill_Blank": "Smoking was prohibited in the workplace.",
+    "Mistakes": [
+      "Don’t use social networking sites during the worktime",
+      "Bin",
+      "Open-plan office"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.20",
+    "English": "Don’t use company equipment for personal reason",
+    "Sub_English": "Không sử dụng thiết bị của công ty cho mục đích cá nhân",
+    "Example": "Using company equipment for personal reasons was not allowed.",
+    "English_Vocabulary_Test": [
+      "Bên trong",
+      "Phía dưới",
+      "Máy fax"
+    ],
+    "Fill_Blank": "Using company equipment for personal reasons was not allowed.",
+    "Mistakes": [
+      "Shredder",
+      "Beneath",
+      "Above"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.21",
+    "English": "Don’t use social networking sites during the worktime",
+    "Sub_English": "Không sử dụng mạng xã hội trong giờ làm việc",
+    "Example": "They were reminded not to use social networking sites during work hours.",
+    "English_Vocabulary_Test": [
+      "Không ăn hoặc uống tại nơi làm việc",
+      "Phía trên",
+      "Bên ngoài"
+    ],
+    "Fill_Blank": "They were reminded not to use social networking sites during work hours.",
+    "Mistakes": [
+      "Photocopier",
+      "Coffee machine",
+      "Shredder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.22",
+    "English": "No alcohol or drugs to be used",
+    "Sub_English": "Không được sử dụng rượu hoặc ma túy",
+    "Example": "The company had a strict policy against alcohol or drug use.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra",
+      "Máy photocopy",
+      "Camera an ninh"
+    ],
+    "Fill_Blank": "The company had a strict policy against alcohol or drug use.",
+    "Mistakes": [
+      "Underneath",
+      "Photocopy",
+      "Inside"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.23",
+    "English": "Keep your keyboard and screen clean",
+    "Sub_English": "Giữ bàn phím và màn hình sạch sẽ",
+    "Example": "He wiped his keyboard and screen clean every day.",
+    "English_Vocabulary_Test": [
+      "Thùng rác",
+      "Bên trong",
+      "Máy pha cà phê"
+    ],
+    "Fill_Blank": "He wiped his keyboard and screen clean every day.",
+    "Mistakes": [
+      "Beside",
+      "Don’t eat or drink at work",
+      "Below"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.24",
+    "English": "Place trash and paper in proper containers",
+    "Sub_English": "Đặt rác và giấy vào thùng đúng cách",
+    "Example": "They were instructed to dispose of trash and paper in the designated containers.",
+    "English_Vocabulary_Test": [
+      "Phía trên",
+      "Không được sử dụng rượu hoặc ma túy",
+      "Phía chống lại"
+    ],
+    "Fill_Blank": "They were instructed to dispose of trash and paper in the designated containers.",
+    "Mistakes": [
+      "Beneath",
+      "Elevator",
+      "No alcohol or drugs to be used"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.25",
+    "English": "Turn off the lights before leaving the office",
+    "Sub_English": "Tắt đèn trước khi rời văn phòng",
+    "Example": "He made sure to turn off the lights before leaving the office.",
+    "English_Vocabulary_Test": [
+      "Tắt máy tính sau khi làm việc",
+      "Không được sử dụng rượu hoặc ma túy",
+      "Không sử dụng mạng xã hội trong giờ làm việc"
+    ],
+    "Fill_Blank": "He made sure to ______.",
+    "Mistakes": [
+      "Change password frequently",
+      "Check",
+      "Keep your keyboard and screen clean"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.26",
+    "English": "Switch off your computer after work",
+    "Sub_English": "Tắt máy tính sau khi làm việc",
+    "Example": "He always switched off his computer after finishing work.",
+    "English_Vocabulary_Test": [
+      "Phía chống lại",
+      "Máy điều hòa không khí",
+      "Máy quét"
+    ],
+    "Fill_Blank": "He always switched off his computer after finishing work.",
+    "Mistakes": [
+      "Don’t smoke at workplace",
+      "Change password frequently",
+      "Check"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.27",
+    "English": "Above",
+    "Sub_English": "Phía trên",
+    "Example": "The painting hung above the fireplace.",
+    "English_Vocabulary_Test": [
+      "Bên trong",
+      "Không hút thuốc tại nơi làm việc",
+      "Phía chống lại"
+    ],
+    "Fill_Blank": "The painting hung ______ the fireplace.",
+    "Mistakes": [
+      "Change password frequently",
+      "Coffee machine",
+      "Security camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.28",
+    "English": "Against",
+    "Sub_English": "Phía chống lại",
+    "Example": "He leaned against the wall while waiting for the elevator.",
+    "English_Vocabulary_Test": [
+      "Bên cạnh",
+      "Máy fax",
+      "Phía trên"
+    ],
+    "Fill_Blank": "He leaned ______ the wall while waiting for the elevator.",
+    "Mistakes": [
+      "Elevator",
+      "No alcohol or drugs to be used",
+      "Switch off your computer after work"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.29",
+    "English": "Beneath",
+    "Sub_English": "Phía dưới",
+    "Example": "The keys were hidden beneath the doormat.",
+    "English_Vocabulary_Test": [
+      "Máy fax",
+      "Đặt rác và giấy vào thùng đúng cách",
+      "Mực máy in"
+    ],
+    "Fill_Blank": "The keys were hidden ______ the doormat.",
+    "Mistakes": [
+      "Outside",
+      "Inside",
+      "No alcohol or drugs to be used"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.30",
+    "English": "Below",
+    "Sub_English": "Phía dưới",
+    "Example": "The temperature dropped below freezing overnight.",
+    "English_Vocabulary_Test": [
+      "Sao chụp",
+      "Máy pha cà phê",
+      "Không ăn hoặc uống tại nơi làm việc"
+    ],
+    "Fill_Blank": "The temperature dropped ______ freezing overnight.",
+    "Mistakes": [
+      "Security camera",
+      "Photocopy",
+      "Beside"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.31",
+    "English": "Beside",
+    "Sub_English": "Bên cạnh",
+    "Example": "She sat beside her friend during the meeting.",
+    "English_Vocabulary_Test": [
+      "Máy quét",
+      "Không ăn hoặc uống tại nơi làm việc",
+      "Phía dưới"
+    ],
+    "Fill_Blank": "She sat ______ her friend during the meeting.",
+    "Mistakes": [
+      "Underneath",
+      "Bin",
+      "Security camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.32",
+    "English": "Inside",
+    "Sub_English": "Bên trong",
+    "Example": "He left his keys inside the house.",
+    "English_Vocabulary_Test": [
+      "Máy hủy",
+      "Camera an ninh",
+      "Không sử dụng thiết bị của công ty cho mục đích cá nhân"
+    ],
+    "Fill_Blank": "He left his keys ______ the house.",
+    "Mistakes": [
+      "Place trash and paper in proper containers",
+      "Fax machine",
+      "Security camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.33",
+    "English": "Outside",
+    "Sub_English": "Bên ngoài",
+    "Example": "They enjoyed the sunshine outside the office building.",
+    "English_Vocabulary_Test": [
+      "Phía dưới",
+      "Bên trong",
+      "Sao chụp"
+    ],
+    "Fill_Blank": "They enjoyed the sunshine ______ the office building.",
+    "Mistakes": [
+      "Keep your keyboard and screen clean",
+      "Shredder",
+      "Underneath"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.7.34",
+    "English": "Underneath",
+    "Sub_English": "Phía dưới",
+    "Example": "The cat curled up underneath the table.",
+    "English_Vocabulary_Test": [
+      "Bên ngoài",
+      "Không hút thuốc tại nơi làm việc",
+      "Phía trên"
+    ],
+    "Fill_Blank": "The cat curled up ______ the table.",
+    "Mistakes": [
+      "Keep your keyboard and screen clean",
+      "Shredder",
+      "Beside"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.1",
+    "English": "Aluminium",
+    "Sub_English": "Nhôm",
+    "Example": "The frame of the window was made of aluminium.",
+    "English_Vocabulary_Test": [
+      "Mét vuông",
+      "Vàng",
+      "Kính"
+    ],
+    "Fill_Blank": "The frame of the window was made of ______.",
+    "Mistakes": [
+      "Iron",
+      "Sphere - spherical",
+      "Glass"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.2",
+    "English": "Copper",
+    "Sub_English": "Đồng",
+    "Example": "The electrical wires were made of copper.",
+    "English_Vocabulary_Test": [
+      "Hình trụ",
+      "Inch",
+      "Cao su"
+    ],
+    "Fill_Blank": "The electrical wires were made of ______.",
+    "Mistakes": [
+      "Square metre",
+      "Zinc",
+      "Leather"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.3",
+    "English": "Iron",
+    "Sub_English": "Sắt",
+    "Example": "The bridge was constructed with iron beams.",
+    "English_Vocabulary_Test": [
+      "Khối lập phương",
+      "Kẽm",
+      "Thép không gỉ"
+    ],
+    "Fill_Blank": "The bridge was constructed with ______ beams.",
+    "Mistakes": [
+      "Steel",
+      "Cube - cubic",
+      "Mile"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.4",
+    "English": "Glass",
+    "Sub_English": "Kính",
+    "Example": "She admired her reflection in the glass window.",
+    "English_Vocabulary_Test": [
+      "Inch",
+      "Mét vuông",
+      "Kilôgam"
+    ],
+    "Fill_Blank": "She admired her reflection in the ______ window.",
+    "Mistakes": [
+      "Leather",
+      "Iron",
+      "Zinc"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.5",
+    "English": "Gold",
+    "Sub_English": "Vàng",
+    "Example": "She wore a necklace adorned with gold.",
+    "English_Vocabulary_Test": [
+      "Inch",
+      "Cao su",
+      "Mét"
+    ],
+    "Fill_Blank": "She wore a necklace adorned with ______.",
+    "Mistakes": [
+      "Plastic",
+      "Metre",
+      "Semi-circle -semi-circular"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.6",
+    "English": "Leather",
+    "Sub_English": "Da",
+    "Example": "The sofa was upholstered in soft leather.",
+    "English_Vocabulary_Test": [
+      "Nhôm",
+      "Kilôgam",
+      "Vàng"
+    ],
+    "Fill_Blank": "The sofa was upholstered in soft ______.",
+    "Mistakes": [
+      "Iron",
+      "Kilogram",
+      "Wood"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.7",
+    "English": "Metal",
+    "Sub_English": "Kim loại",
+    "Example": "The car body was made of metal for durability.",
+    "English_Vocabulary_Test": [
+      "Khối lập phương",
+      "Kilôgam",
+      "Nhựa"
+    ],
+    "Fill_Blank": "The car body was made of ______ for durability.",
+    "Mistakes": [
+      "Inch",
+      "Aluminium",
+      "Cylinder - cylindrical"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.8",
+    "English": "Plastic",
+    "Sub_English": "Nhựa",
+    "Example": "The water bottle was made of plastic.",
+    "English_Vocabulary_Test": [
+      "Kilôgam",
+      "Kính",
+      "Nửa vòng"
+    ],
+    "Fill_Blank": "The water bottle was made of ______.",
+    "Mistakes": [
+      "Pound",
+      "Inch",
+      "Leather"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.9",
+    "English": "Rubber",
+    "Sub_English": "Cao su",
+    "Example": "The tires of the bicycle were made of rubber.",
+    "English_Vocabulary_Test": [
+      "Vàng",
+      "Gỗ",
+      "Dặm"
+    ],
+    "Fill_Blank": "The tires of the bicycle were made of ______.",
+    "Mistakes": [
+      "Cube - cubic",
+      "Square metre",
+      "Steel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.10",
+    "English": "Steel",
+    "Sub_English": "Thép",
+    "Example": "The skyscraper was built with steel beams.",
+    "English_Vocabulary_Test": [
+      "Sắt",
+      "Cao su",
+      "Inch"
+    ],
+    "Fill_Blank": "The skyscraper was built with ______ beams.",
+    "Mistakes": [
+      "Wood",
+      "Semi-circle -semi-circular",
+      "Iron"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.11",
+    "English": "Stainless steel",
+    "Sub_English": "Thép không gỉ",
+    "Example": "The kitchen sink was made of stainless steel.",
+    "English_Vocabulary_Test": [
+      "Vàng",
+      "Sắt",
+      "Đồng"
+    ],
+    "Fill_Blank": "The kitchen sink was made of ______.",
+    "Mistakes": [
+      "Gold",
+      "Stainless steel",
+      "Semi-circle -semi-circular"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.12",
+    "English": "Wood",
+    "Sub_English": "Gỗ",
+    "Example": "The table was crafted from solid wood.",
+    "English_Vocabulary_Test": [
+      "Đồng",
+      "Da",
+      "Nhựa"
+    ],
+    "Fill_Blank": "The table was crafted from solid ______.",
+    "Mistakes": [
+      "Semi-circle -semi-circular",
+      "Glass",
+      "Metre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.13",
+    "English": "Zinc",
+    "Sub_English": "Kẽm",
+    "Example": "The roof was coated with zinc to prevent corrosion.",
+    "English_Vocabulary_Test": [
+      "Mét vuông",
+      "Nửa vòng",
+      "Nhựa"
+    ],
+    "Fill_Blank": "The roof was coated with ______ to prevent corrosion.",
+    "Mistakes": [
+      "Cylinder - cylindrical",
+      "Zinc",
+      "Pound"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.14",
+    "English": "Cube - cubic",
+    "Sub_English": "Khối lập phương",
+    "Example": "The dice was a perfect cube with six faces.",
+    "English_Vocabulary_Test": [
+      "Mét",
+      "Đồng",
+      "Sắt"
+    ],
+    "Fill_Blank": "The dice was a perfect cube with six faces.",
+    "Mistakes": [
+      "Cube - cubic",
+      "Wood",
+      "Gold"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.15",
+    "English": "Cylinder - cylindrical",
+    "Sub_English": "Hình trụ",
+    "Example": "The column was cylindrical in shape.",
+    "English_Vocabulary_Test": [
+      "Da",
+      "Khối lập phương",
+      "Thép"
+    ],
+    "Fill_Blank": "The column was cylindrical in shape.",
+    "Mistakes": [
+      "Sphere - spherical",
+      "Wood",
+      "Stainless steel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.16",
+    "English": "Inch",
+    "Sub_English": "Inch",
+    "Example": "The length of the screw was measured in inches.",
+    "English_Vocabulary_Test": [
+      "Đồng",
+      "Khối lập phương",
+      "Gỗ"
+    ],
+    "Fill_Blank": "The length of the screw was measured in ______es.",
+    "Mistakes": [
+      "Sphere - spherical",
+      "Steel",
+      "Cube - cubic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.17",
+    "English": "Metre",
+    "Sub_English": "Mét",
+    "Example": "The length of the room was ten meters.",
+    "English_Vocabulary_Test": [
+      "Kính",
+      "Thép",
+      "Pao"
+    ],
+    "Fill_Blank": "The length of the room was ten meters.",
+    "Mistakes": [
+      "Mile",
+      "Cube - cubic",
+      "Square metre"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.18",
+    "English": "Mile",
+    "Sub_English": "Dặm",
+    "Example": "The distance from their house to the beach was five miles.",
+    "English_Vocabulary_Test": [
+      "Mét vuông",
+      "Da",
+      "Sắt"
+    ],
+    "Fill_Blank": "The distance from their house to the beach was five ______s.",
+    "Mistakes": [
+      "Mile",
+      "Leather",
+      "Zinc"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.19",
+    "English": "Kilogram",
+    "Sub_English": "Kilôgam",
+    "Example": "The bag of rice weighed two kilograms.",
+    "English_Vocabulary_Test": [
+      "Thép",
+      "Vàng",
+      "Hình trụ"
+    ],
+    "Fill_Blank": "The bag of rice weighed two ______s.",
+    "Mistakes": [
+      "Metal",
+      "Cube - cubic",
+      "Zinc"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.20",
+    "English": "Pound",
+    "Sub_English": "Pao",
+    "Example": "She bought a pound of apples from the market.",
+    "English_Vocabulary_Test": [
+      "Inch",
+      "Da",
+      "Hình cầu"
+    ],
+    "Fill_Blank": "She bought a ______ of apples from the market.",
+    "Mistakes": [
+      "Leather",
+      "Kilogram",
+      "Copper"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.21",
+    "English": "Semi-circle -semi-circular",
+    "Sub_English": "Nửa vòng",
+    "Example": "The shape of the rug was semi-circular, fitting perfectly in the corner.",
+    "English_Vocabulary_Test": [
+      "Hình cầu",
+      "Khối lập phương",
+      "Sắt"
+    ],
+    "Fill_Blank": "The shape of the rug was semi-circular, fitting perfectly in the corner.",
+    "Mistakes": [
+      "Zinc",
+      "Square metre",
+      "Metal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.22",
+    "English": "Sphere - spherical",
+    "Sub_English": "Hình cầu",
+    "Example": "The Earth is approximately spherical in shape.",
+    "English_Vocabulary_Test": [
+      "Da",
+      "Sắt",
+      "Pao"
+    ],
+    "Fill_Blank": "The Earth is approximately spherical in shape.",
+    "Mistakes": [
+      "Steel",
+      "Leather",
+      "Semi-circle -semi-circular"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.8.23",
+    "English": "Square metre",
+    "Sub_English": "Mét vuông",
+    "Example": "The area of the room was calculated in square meters.",
+    "English_Vocabulary_Test": [
+      "Pao",
+      "Kilôgam",
+      "Kim loại"
+    ],
+    "Fill_Blank": "The area of the room was calculated in square meters.",
+    "Mistakes": [
+      "Leather",
+      "Stainless steel",
+      "Inch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.1",
+    "English": "Season",
+    "Sub_English": "Mùa",
+    "Example": "They enjoyed the beauty of each season throughout the year.",
+    "English_Vocabulary_Test": [
+      "Có bão",
+      "Dự báo thời tiết",
+      "Sương mù"
+    ],
+    "Fill_Blank": "They enjoyed the beauty of each ______ throughout the year.",
+    "Mistakes": [
+      "Spring",
+      "Foggy",
+      "Degree centigrade"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.2",
+    "English": "Spring",
+    "Sub_English": "Mùa xuân",
+    "Example": "The flowers bloomed beautifully in spring.",
+    "English_Vocabulary_Test": [
+      "Mát mẻ",
+      "Ẩm ướt",
+      "Âm u"
+    ],
+    "Fill_Blank": "The flowers bloomed beautifully in ______.",
+    "Mistakes": [
+      "Gloom",
+      "Gloomy",
+      "Snowy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.3",
+    "English": "Summer",
+    "Sub_English": "Mùa hè",
+    "Example": "They went swimming at the beach during the hot summer days.",
+    "English_Vocabulary_Test": [
+      "Phía Đông",
+      "Lạnh giá",
+      "Dự báo thời tiết"
+    ],
+    "Fill_Blank": "They went swimming at the beach during the hot ______ days.",
+    "Mistakes": [
+      "Storm",
+      "Sun",
+      "Rain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.4",
+    "English": "Autumn",
+    "Sub_English": "Mùa thu",
+    "Example": "The leaves turned vibrant shades of red and orange in autumn.",
+    "English_Vocabulary_Test": [
+      "Phía Bắc",
+      "Nóng",
+      "Ấm áp"
+    ],
+    "Fill_Blank": "The leaves turned vibrant shades of red and orange in ______.",
+    "Mistakes": [
+      "The West",
+      "Spend time outdoors",
+      "Rain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.5",
+    "English": "Winter",
+    "Sub_English": "Mùa đông",
+    "Example": "They built a snowman in the yard during the winter holidays.",
+    "English_Vocabulary_Test": [
+      "Sự ôn hòa",
+      "Mùa xuân",
+      "Nặn người tuyết"
+    ],
+    "Fill_Blank": "They built a snowman in the yard during the ______ holidays.",
+    "Mistakes": [
+      "Warm",
+      "Weather forecast",
+      "Fly kites"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.6",
+    "English": "Weather forecast",
+    "Sub_English": "Dự báo thời tiết",
+    "Example": "She checked the weather forecast before planning her outdoor activities.",
+    "English_Vocabulary_Test": [
+      "Ấm áp",
+      "Mưa",
+      "Nhiệt độ"
+    ],
+    "Fill_Blank": "She checked the ______ before planning her outdoor activities.",
+    "Mistakes": [
+      "Snowy",
+      "Cloud",
+      "Sun"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.7",
+    "English": "Temperature",
+    "Sub_English": "Nhiệt độ",
+    "Example": "The temperature dropped below freezing overnight.",
+    "English_Vocabulary_Test": [
+      "Mùa thu",
+      "Âm u",
+      "Hạn hán"
+    ],
+    "Fill_Blank": "The ______ dropped below freezing overnight.",
+    "Mistakes": [
+      "Chilly",
+      "Temperature",
+      "Go on vacations"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.8",
+    "English": "Celsius degree",
+    "Sub_English": "Độ C",
+    "Example": "The temperature was recorded at 25 degrees Celsius.",
+    "English_Vocabulary_Test": [
+      "Thả diều",
+      "Có nắng",
+      "Lạnh"
+    ],
+    "Fill_Blank": "The temperature was recorded at 25 degrees Celsius.",
+    "Mistakes": [
+      "Snow",
+      "Heat",
+      "Winter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.9",
+    "English": "Degree centigrade",
+    "Sub_English": "Độ C",
+    "Example": "The thermometer showed a reading of 30 degrees centigrade.",
+    "English_Vocabulary_Test": [
+      "Cộng",
+      "Mặt trời",
+      "Đám mây"
+    ],
+    "Fill_Blank": "The thermometer showed a reading of 30 degrees centigrade.",
+    "Mistakes": [
+      "Play summer sports",
+      "Snow",
+      "Play winter sports"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.10",
+    "English": "Plus",
+    "Sub_English": "Cộng",
+    "Example": "The temperature was 25 degrees Celsius, plus or minus a few degrees.",
+    "English_Vocabulary_Test": [
+      "Xám",
+      "Thả diều",
+      "Tuyết rơi"
+    ],
+    "Fill_Blank": "The temperature was 25 degrees Celsius, ______ or minus a few degrees.",
+    "Mistakes": [
+      "Fog",
+      "Cool",
+      "Dry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.11",
+    "English": "The East",
+    "Sub_English": "Phía Đông",
+    "Example": "The sun rises in the east and sets in the west.",
+    "English_Vocabulary_Test": [
+      "Thả diều",
+      "Đám mây",
+      "Mùa thu"
+    ],
+    "Fill_Blank": "The sun rises in ______ and sets in the west.",
+    "Mistakes": [
+      "Temperature",
+      "Autumn",
+      "Fly kites"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.12",
+    "English": "The South",
+    "Sub_English": "Phía Nam",
+    "Example": "They traveled south for their summer vacation.",
+    "English_Vocabulary_Test": [
+      "Độ C",
+      "Lạnh",
+      "Mát mẻ"
+    ],
+    "Fill_Blank": "They traveled south for their summer vacation.",
+    "Mistakes": [
+      "Weather forecast",
+      "Rain",
+      "Windy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.13",
+    "English": "The North",
+    "Sub_English": "Phía Bắc",
+    "Example": "The polar bears live in the north, where it's colder.",
+    "English_Vocabulary_Test": [
+      "Dành thời gian ngoài trời",
+      "Mùa hè",
+      "Phía Nam"
+    ],
+    "Fill_Blank": "The polar bears live in ______, where it's colder.",
+    "Mistakes": [
+      "The South",
+      "Degree centigrade",
+      "Warm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.14",
+    "English": "The West",
+    "Sub_English": "Phía Tây",
+    "Example": "They watched the sunset in the west.",
+    "English_Vocabulary_Test": [
+      "Mùa",
+      "Có mưa",
+      "Chơi ngoài trời"
+    ],
+    "Fill_Blank": "They watched the sunset in ______.",
+    "Mistakes": [
+      "Spend time outdoors",
+      "Sun",
+      "Summer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.15",
+    "English": "Cloud",
+    "Sub_English": "Đám mây",
+    "Example": "The sky was filled with fluffy white clouds.",
+    "English_Vocabulary_Test": [
+      "Sự ôn hòa",
+      "Xám",
+      "Ôn hòa"
+    ],
+    "Fill_Blank": "The sky was filled with fluffy white ______s.",
+    "Mistakes": [
+      "Sunny",
+      "Autumn",
+      "Cloudy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.16",
+    "English": "Cold",
+    "Sub_English": "Lạnh",
+    "Example": "They bundled up in warm clothes to protect themselves from the cold.",
+    "English_Vocabulary_Test": [
+      "Thả diều",
+      "Có nắng",
+      "Nhiệt độ"
+    ],
+    "Fill_Blank": "They bundled up in warm clothes to protect themselves from the ______.",
+    "Mistakes": [
+      "The South",
+      "Mildness",
+      "Play summer sports"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.17",
+    "English": "Cool",
+    "Sub_English": "Mát mẻ",
+    "Example": "The breeze from the ocean felt cool on their skin.",
+    "English_Vocabulary_Test": [
+      "Chơi thể thao mùa hè",
+      "Mùa",
+      "Có mây"
+    ],
+    "Fill_Blank": "The breeze from the ocean felt ______ on their skin.",
+    "Mistakes": [
+      "Summer",
+      "The West",
+      "Make a snowman"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.18",
+    "English": "Drought",
+    "Sub_English": "Hạn hán",
+    "Example": "The farmers struggled with the drought that affected their crops.",
+    "English_Vocabulary_Test": [
+      "Phía Tây",
+      "Thả diều",
+      "Đám mây"
+    ],
+    "Fill_Blank": "The farmers struggled with the ______ that affected their crops.",
+    "Mistakes": [
+      "Cloud",
+      "Snowy",
+      "Chilly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.19",
+    "English": "Fog",
+    "Sub_English": "Sương mù",
+    "Example": "They drove carefully through the thick fog.",
+    "English_Vocabulary_Test": [
+      "Có gió",
+      "Hạn hán",
+      "Sự ôn hòa"
+    ],
+    "Fill_Blank": "They drove carefully through the thick ______.",
+    "Mistakes": [
+      "Gloomy",
+      "Mildness",
+      "Chilly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.20",
+    "English": "Gloom",
+    "Sub_English": "Âm u",
+    "Example": "The gloom of the rainy day cast a shadow over their mood.",
+    "English_Vocabulary_Test": [
+      "Leo núi",
+      "Mát",
+      "Dự báo thời tiết"
+    ],
+    "Fill_Blank": "The ______ of the rainy day cast a shadow over their mood.",
+    "Mistakes": [
+      "Cloudy",
+      "Spring",
+      "Warm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.21",
+    "English": "Heat",
+    "Sub_English": "Nhiệt độ",
+    "Example": "The heat of the summer sun made them seek shade.",
+    "English_Vocabulary_Test": [
+      "Ôn hòa",
+      "Chơi ngoài trời",
+      "Sương mù"
+    ],
+    "Fill_Blank": "The ______ of the summer sun made them seek shade.",
+    "Mistakes": [
+      "Temperature",
+      "The North",
+      "The West"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.22",
+    "English": "Mildness",
+    "Sub_English": "Sự ôn hòa",
+    "Example": "The mildness of the weather made it perfect for outdoor activities.",
+    "English_Vocabulary_Test": [
+      "Dành thời gian ngoài trời",
+      "Khô",
+      "Nóng"
+    ],
+    "Fill_Blank": "The ______ of the weather made it perfect for outdoor activities.",
+    "Mistakes": [
+      "Hot",
+      "Season",
+      "Weather forecast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.23",
+    "English": "Rain",
+    "Sub_English": "Mưa",
+    "Example": "They danced in the rain during the summer storm.",
+    "English_Vocabulary_Test": [
+      "Phía Nam",
+      "Nặn người tuyết",
+      "Chơi ngoài trời"
+    ],
+    "Fill_Blank": "They danced in the ______ during the summer storm.",
+    "Mistakes": [
+      "Autumn",
+      "Winter",
+      "Cool"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.24",
+    "English": "Snow",
+    "Sub_English": "Tuyết",
+    "Example": "The children built snowmen in the freshly fallen snow.",
+    "English_Vocabulary_Test": [
+      "Mưa",
+      "Phía Bắc",
+      "Sự ôn hòa"
+    ],
+    "Fill_Blank": "The children built ______men in the freshly fallen ______.",
+    "Mistakes": [
+      "Play outside",
+      "Fog",
+      "Warm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.25",
+    "English": "Storm",
+    "Sub_English": "Bão",
+    "Example": "They took shelter indoors during the fierce storm.",
+    "English_Vocabulary_Test": [
+      "Phía Đông",
+      "Mặt trời",
+      "Phía Tây"
+    ],
+    "Fill_Blank": "They took shelter indoors during the fierce ______.",
+    "Mistakes": [
+      "Sunny",
+      "Plus",
+      "Make a snowman"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.26",
+    "English": "Sun",
+    "Sub_English": "Mặt trời",
+    "Example": "They enjoyed picnics in the warm sun.",
+    "English_Vocabulary_Test": [
+      "Mùa xuân",
+      "Nhiệt độ",
+      "Lạnh giá"
+    ],
+    "Fill_Blank": "They enjoyed picnics in the warm ______.",
+    "Mistakes": [
+      "Storm",
+      "Rainy",
+      "Cloudy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.27",
+    "English": "Warm",
+    "Sub_English": "Ấm áp",
+    "Example": "They snuggled by the fireplace to stay warm on the cold winter night.",
+    "English_Vocabulary_Test": [
+      "Nhiệt độ",
+      "Xám",
+      "Khô"
+    ],
+    "Fill_Blank": "They snuggled by the fireplace to stay ______ on the cold winter night.",
+    "Mistakes": [
+      "Sun",
+      "Fog",
+      "The West"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.28",
+    "English": "Wet",
+    "Sub_English": "Ẩm ướt",
+    "Example": "They got wet from the rain while walking without an umbrella.",
+    "English_Vocabulary_Test": [
+      "Xám",
+      "Có mây",
+      "Có nắng"
+    ],
+    "Fill_Blank": "They got ______ from the rain while walking without an umbrella.",
+    "Mistakes": [
+      "Hot",
+      "The East",
+      "Stormy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.29",
+    "English": "Wind",
+    "Sub_English": "Gió",
+    "Example": "The wind rustled through the trees, creating a soothing sound.",
+    "English_Vocabulary_Test": [
+      "Độ C",
+      "Sương mù",
+      "Nhiệt độ"
+    ],
+    "Fill_Blank": "The ______ rustled through the trees, creating a soothing sound.",
+    "Mistakes": [
+      "Season",
+      "Play summer sports",
+      "Drought"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.30",
+    "English": "Dry",
+    "Sub_English": "Khô",
+    "Example": "The desert climate is characterized by hot and dry conditions.",
+    "English_Vocabulary_Test": [
+      "Nhiệt độ",
+      "Cộng",
+      "Nóng"
+    ],
+    "Fill_Blank": "The desert climate is characterized by hot and ______ conditions.",
+    "Mistakes": [
+      "Autumn",
+      "Play summer sports",
+      "Fly kites"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.31",
+    "English": "Hot",
+    "Sub_English": "Nóng",
+    "Example": "They sought shade to escape the hot sun.",
+    "English_Vocabulary_Test": [
+      "Thả diều",
+      "Mùa hè",
+      "Có mưa"
+    ],
+    "Fill_Blank": "They sought shade to escape the ______ sun.",
+    "Mistakes": [
+      "Drought",
+      "Gloom",
+      "The South"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.32",
+    "English": "Cool",
+    "Sub_English": "Mát",
+    "Example": "The cool breeze provided relief from the sweltering heat.",
+    "English_Vocabulary_Test": [
+      "Có gió",
+      "Tuyết rơi",
+      "Ôn hòa"
+    ],
+    "Fill_Blank": "The ______ breeze provided relief from the sweltering heat.",
+    "Mistakes": [
+      "Drought",
+      "Warm",
+      "Sunny"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.33",
+    "English": "Foggy",
+    "Sub_English": "Sương mù",
+    "Example": "They drove cautiously through the foggy conditions.",
+    "English_Vocabulary_Test": [
+      "Gió",
+      "Lạnh giá",
+      "Dành thời gian ngoài trời"
+    ],
+    "Fill_Blank": "They drove cautiously through the ______ conditions.",
+    "Mistakes": [
+      "Rain",
+      "Storm",
+      "Winter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.34",
+    "English": "Rainy",
+    "Sub_English": "Có mưa",
+    "Example": "They canceled their outdoor plans due to the rainy weather.",
+    "English_Vocabulary_Test": [
+      "Sương mù",
+      "Nhiệt độ",
+      "Sương mù"
+    ],
+    "Fill_Blank": "They canceled their outdoor plans due to the ______ weather.",
+    "Mistakes": [
+      "Heat",
+      "Fog",
+      "Cold"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.35",
+    "English": "Snowy",
+    "Sub_English": "Tuyết rơi",
+    "Example": "The landscape transformed into a winter wonderland after a snowy night.",
+    "English_Vocabulary_Test": [
+      "Thả diều",
+      "Lạnh cóng",
+      "Dành thời gian ngoài trời"
+    ],
+    "Fill_Blank": "The landscape transformed into a winter wonderland after a ______ night.",
+    "Mistakes": [
+      "Cold",
+      "Degree centigrade",
+      "Rainy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.36",
+    "English": "Sunny",
+    "Sub_English": "Có nắng",
+    "Example": "They basked in the warm rays of the sunny day.",
+    "English_Vocabulary_Test": [
+      "Mùa xuân",
+      "Có bão",
+      "Có mưa"
+    ],
+    "Fill_Blank": "They basked in the warm rays of the ______ day.",
+    "Mistakes": [
+      "Snowy",
+      "Warm",
+      "Fly kites"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.37",
+    "English": "Windy",
+    "Sub_English": "Có gió",
+    "Example": "The windy conditions made it difficult to walk straight.",
+    "English_Vocabulary_Test": [
+      "Có mưa",
+      "Phía Bắc",
+      "Mát mẻ"
+    ],
+    "Fill_Blank": "The ______ conditions made it difficult to walk straight.",
+    "Mistakes": [
+      "Autumn",
+      "Cloud",
+      "The North"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.38",
+    "English": "Stormy",
+    "Sub_English": "Có bão",
+    "Example": "They stayed indoors during the stormy weather.",
+    "English_Vocabulary_Test": [
+      "Mùa",
+      "Ấm áp",
+      "Mưa"
+    ],
+    "Fill_Blank": "They stayed indoors during the ______ weather.",
+    "Mistakes": [
+      "Degree centigrade",
+      "Warm",
+      "Rainy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.39",
+    "English": "Gloomy",
+    "Sub_English": "Âm u",
+    "Example": "The gloomy skies matched his melancholic mood.",
+    "English_Vocabulary_Test": [
+      "Gió",
+      "Ẩm ướt",
+      "Mưa"
+    ],
+    "Fill_Blank": "The ______ skies matched his melancholic mood.",
+    "Mistakes": [
+      "Windy",
+      "Mild",
+      "Weather forecast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.40",
+    "English": "Freezing",
+    "Sub_English": "Lạnh cóng",
+    "Example": "They shivered in the freezing temperatures.",
+    "English_Vocabulary_Test": [
+      "Mùa xuân",
+      "Mưa",
+      "Chơi thể thao mùa hè"
+    ],
+    "Fill_Blank": "They shivered in the ______ temperatures.",
+    "Mistakes": [
+      "Make a snowman",
+      "Weather forecast",
+      "Chilly"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.41",
+    "English": "Grey",
+    "Sub_English": "Xám",
+    "Example": "The sky turned grey before the rain started pouring.",
+    "English_Vocabulary_Test": [
+      "Sự ôn hòa",
+      "Ẩm ướt",
+      "Nóng"
+    ],
+    "Fill_Blank": "The sky turned ______ before the rain started pouring.",
+    "Mistakes": [
+      "Autumn",
+      "Chilly",
+      "Play summer sports"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.42",
+    "English": "Warm",
+    "Sub_English": "Ấm áp",
+    "Example": "They wrapped themselves in warm blankets to combat the chilly night.",
+    "English_Vocabulary_Test": [
+      "Xám",
+      "Đi nghỉ mát",
+      "Mặt trời"
+    ],
+    "Fill_Blank": "They wrapped themselves in ______ blankets to combat the chilly night.",
+    "Mistakes": [
+      "Sun",
+      "The South",
+      "Heat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.43",
+    "English": "Mild",
+    "Sub_English": "Ôn hòa",
+    "Example": "The mild weather made it pleasant to spend time outdoors.",
+    "English_Vocabulary_Test": [
+      "Mát mẻ",
+      "Dành thời gian ngoài trời",
+      "Nóng"
+    ],
+    "Fill_Blank": "The ______ weather made it pleasant to spend time outdoors.",
+    "Mistakes": [
+      "Temperature",
+      "Summer",
+      "Rain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.44",
+    "English": "Chilly",
+    "Sub_English": "Lạnh giá",
+    "Example": "They felt chilly in the cool evening breeze.",
+    "English_Vocabulary_Test": [
+      "Chơi ngoài trời",
+      "Chơi thể thao mùa đông",
+      "Có bão"
+    ],
+    "Fill_Blank": "They felt ______ in the cool evening breeze.",
+    "Mistakes": [
+      "Spend time outdoors",
+      "Degree centigrade",
+      "Mildness"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.45",
+    "English": "Cloudy",
+    "Sub_English": "Có mây",
+    "Example": "The weather forecast predicted a cloudy day ahead.",
+    "English_Vocabulary_Test": [
+      "Phía Đông",
+      "Leo núi",
+      "Xám"
+    ],
+    "Fill_Blank": "The weather forecast predicted a ______ day ahead.",
+    "Mistakes": [
+      "Winter",
+      "Play winter sports",
+      "Go on vacations"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.46",
+    "English": "Fly kites",
+    "Sub_English": "Thả diều",
+    "Example": "They enjoyed flying kites in the park on a windy day.",
+    "English_Vocabulary_Test": [
+      "Mát",
+      "Sương mù",
+      "Tuyết rơi"
+    ],
+    "Fill_Blank": "They enjoyed flying kites in the park on a windy day.",
+    "Mistakes": [
+      "Cloudy",
+      "Weather forecast",
+      "Wind"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.47",
+    "English": "Climb a mountain",
+    "Sub_English": "Leo núi",
+    "Example": "They embarked on an adventure to climb the tallest mountain.",
+    "English_Vocabulary_Test": [
+      "Nặn người tuyết",
+      "Xám",
+      "Ẩm ướt"
+    ],
+    "Fill_Blank": "They embarked on an adventure to climb the tallest mountain.",
+    "Mistakes": [
+      "Grey",
+      "Summer",
+      "Go on vacations"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.48",
+    "English": "Make a snowman",
+    "Sub_English": "Nặn người tuyết",
+    "Example": "They rolled snowballs to make a snowman in the yard.",
+    "English_Vocabulary_Test": [
+      "Có gió",
+      "Nhiệt độ",
+      "Dành thời gian ngoài trời"
+    ],
+    "Fill_Blank": "They rolled snowballs to ______ in the yard.",
+    "Mistakes": [
+      "Spend time outdoors",
+      "Degree centigrade",
+      "Warm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.49",
+    "English": "Play outside",
+    "Sub_English": "Chơi ngoài trời",
+    "Example": "The children loved to play outside in the fresh air.",
+    "English_Vocabulary_Test": [
+      "Mùa xuân",
+      "Ôn hòa",
+      "Mát"
+    ],
+    "Fill_Blank": "The children loved to ______ in the fresh air.",
+    "Mistakes": [
+      "Mild",
+      "Rainy",
+      "Heat"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.50",
+    "English": "Spend time outdoors",
+    "Sub_English": "Dành thời gian ngoài trời",
+    "Example": "They spent time outdoors hiking in the mountains.",
+    "English_Vocabulary_Test": [
+      "Sương mù",
+      "Cộng",
+      "Tuyết"
+    ],
+    "Fill_Blank": "They spent time outdoors hiking in the mountains.",
+    "Mistakes": [
+      "Freezing",
+      "Rainy",
+      "Winter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.51",
+    "English": "Go on vacations",
+    "Sub_English": "Đi nghỉ mát",
+    "Example": "They planned to go on vacations to a tropical island.",
+    "English_Vocabulary_Test": [
+      "Sự ôn hòa",
+      "Chơi thể thao mùa hè",
+      "Nhiệt độ"
+    ],
+    "Fill_Blank": "They planned to ______ to a tropical island.",
+    "Mistakes": [
+      "Warm",
+      "Rain",
+      "Weather forecast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.52",
+    "English": "Play winter sports",
+    "Sub_English": "Chơi thể thao mùa đông",
+    "Example": "They enjoyed playing winter sports like skiing and snowboarding.",
+    "English_Vocabulary_Test": [
+      "Có mây",
+      "Thả diều",
+      "Chơi ngoài trời"
+    ],
+    "Fill_Blank": "They enjoyed playing winter sports like skiing and snowboarding.",
+    "Mistakes": [
+      "Fly kites",
+      "Climb a mountain",
+      "Drought"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_2.9.53",
+    "English": "Play summer sports",
+    "Sub_English": "Chơi thể thao mùa hè",
+    "Example": "They engaged in summer sports like swimming and beach volleyball.",
+    "English_Vocabulary_Test": [
+      "Hạn hán",
+      "Bão",
+      "Sương mù"
+    ],
+    "Fill_Blank": "They engaged in summer sports like swimming and beach volleyball.",
+    "Mistakes": [
+      "Play summer sports",
+      "Drought",
+      "Cold"
+    ],
+    "Status": 0
+  }
+]

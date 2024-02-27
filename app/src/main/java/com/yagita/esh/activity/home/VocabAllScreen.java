@@ -25,11 +25,12 @@ public class VocabAllScreen extends AppCompatActivity {
     ImageView btnBackList;
     ArrayAdapter<String> adapter;
     List<Vocabulary> vocabularyAllList;
-    VocabDAO vocabDAO = new VocabDAO(this);
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_vocab_screen);
+        VocabDAO vocabDAO = new VocabDAO(this);
         lvListVocab = findViewById(R.id.lvListVocab);
         btnBackList = findViewById(R.id.btnBackList);
         vocabularyAllList = vocabDAO.getListVocab();

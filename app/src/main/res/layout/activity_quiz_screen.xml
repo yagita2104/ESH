@@ -27,6 +27,14 @@
                 android:text="Trắc nghiệm"
                 android:textColor="@color/black"
                 android:textSize="20sp" />
+            <TextView
+                android:id="@+id/txtQuizInfor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|end"
+                android:text="25/40"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
         </FrameLayout>
     </FrameLayout>
     <LinearLayout

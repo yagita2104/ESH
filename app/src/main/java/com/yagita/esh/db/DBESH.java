@@ -49,6 +49,10 @@ public class DBESH extends SQLiteOpenHelper {
             list_data.add(R.raw.vocab_speak_el);
             list_data.add(R.raw.vocab_write_el);
         } else if (getTableName().equals(Specialize.INFORMATION_TECHNOLOGY.getTenBang())) {
+            list_data.add(R.raw.data_cntt_1);
+            list_data.add(R.raw.data_cntt_2);
+            list_data.add(R.raw.data_cntt_3);
+            list_data.add(R.raw.data_cntt_4);
             list_data.add(R.raw.data_cntt_5);
             list_data.add(R.raw.data_cntt_6);
         }

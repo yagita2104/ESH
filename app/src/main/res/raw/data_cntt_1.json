@@ -1,0 +1,5078 @@
+[
+  {
+    "ID": "English_Information_Technology_1.1.1",
+    "English": "Name",
+    "Sub_English": "Tên",
+    "Example": "My name is Emily.",
+    "English_Vocabulary_Test": [
+      "Tên đệm",
+      "Máy chiếu",
+      "Họ"
+    ],
+    "Fill_Blank": "My ______ is Emily.",
+    "Mistakes": [
+      "Full name",
+      "Desk",
+      "Surname"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.2",
+    "English": "First name",
+    "Sub_English": "Tên đầu tiên",
+    "Example": "My first name is Emily.",
+    "English_Vocabulary_Test": [
+      "Tên đầy đủ",
+      "Bàn ăn",
+      "Tên đệm"
+    ],
+    "Fill_Blank": "My ______ is Emily.",
+    "Mistakes": [
+      "Last name",
+      "Name",
+      "Middle name"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.3",
+    "English": "Surname",
+    "Sub_English": "Họ",
+    "Example": "Her surname is Smith.",
+    "English_Vocabulary_Test": [
+      "Bảng đen",
+      "Tên đầu tiên",
+      "Tên"
+    ],
+    "Fill_Blank": "Her ______ is Smith.",
+    "Mistakes": [
+      "Desk",
+      "Table",
+      "Chalkboard"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.4",
+    "English": "Full name",
+    "Sub_English": "Tên đầy đủ",
+    "Example": "His full name is John Doe.",
+    "English_Vocabulary_Test": [
+      "Tên",
+      "Họ",
+      "Máy chiếu"
+    ],
+    "Fill_Blank": "His ______ is John Doe.",
+    "Mistakes": [
+      "Full name",
+      "Middle name",
+      "Table"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.5",
+    "English": "Spell",
+    "Sub_English": "Đánh vần",
+    "Example": "Can you spell your last name, please?",
+    "English_Vocabulary_Test": [
+      "Bảng đen",
+      "Họ",
+      "Tên đầy đủ"
+    ],
+    "Fill_Blank": "Can you ______ your last name, please?",
+    "Mistakes": [
+      "Full name",
+      "Desk",
+      "Surname"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.6",
+    "English": "Middle name",
+    "Sub_English": "Tên đệm",
+    "Example": "Her middle name is Marie.",
+    "English_Vocabulary_Test": [
+      "Bảng đen",
+      "Đánh vần",
+      "Bàn ăn"
+    ],
+    "Fill_Blank": "Her ______ is Marie.",
+    "Mistakes": [
+      "Middle name",
+      "Spell",
+      "Last name"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.7",
+    "English": "Projector",
+    "Sub_English": "Máy chiếu",
+    "Example": "We use a projector for presentations.",
+    "English_Vocabulary_Test": [
+      "Họ",
+      "Tên đệm",
+      "Bàn làm việc"
+    ],
+    "Fill_Blank": "We use a ______ for presentations.",
+    "Mistakes": [
+      "Middle name",
+      "Full name",
+      "Desk"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.8",
+    "English": "Desk",
+    "Sub_English": "Bàn làm việc",
+    "Example": "She keeps her books on the desk.",
+    "English_Vocabulary_Test": [
+      "Bàn ăn",
+      "Bảng đen",
+      "Tên đầy đủ"
+    ],
+    "Fill_Blank": "She keeps her books on the ______.",
+    "Mistakes": [
+      "Projector",
+      "Middle name",
+      "Spell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.9",
+    "English": "Table",
+    "Sub_English": "Bàn ăn",
+    "Example": "We sit around the table for dinner.",
+    "English_Vocabulary_Test": [
+      "Họ",
+      "Đánh vần",
+      "Bảng đen"
+    ],
+    "Fill_Blank": "We sit around the ______ for dinner.",
+    "Mistakes": [
+      "Full name",
+      "Name",
+      "Table"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.10",
+    "English": "Chalkboard",
+    "Sub_English": "Bảng đen",
+    "Example": "The teacher writes on the chalkboard.",
+    "English_Vocabulary_Test": [
+      "Bàn ăn",
+      "Tên đệm",
+      "Tên đầy đủ"
+    ],
+    "Fill_Blank": "The teacher writes on the ______.",
+    "Mistakes": [
+      "Surname",
+      "Name",
+      "Middle name"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.1.11",
+    "English": "Last name",
+    "Sub_English": "Họ",
+    "Example": "Her last name is Johnson.",
+    "English_Vocabulary_Test": [
+      "Tên đầy đủ",
+      "Đánh vần",
+      "Bàn làm việc"
+    ],
+    "Fill_Blank": "Her ______ is Johnson.",
+    "Mistakes": [
+      "Middle name",
+      "Full name",
+      "First name"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.1",
+    "English": "Hello",
+    "Sub_English": "Xin chào",
+    "Example": "Hello, how are you?",
+    "English_Vocabulary_Test": [
+      "Một",
+      "Mười",
+      "Mười chín"
+    ],
+    "Fill_Blank": "______, how are you?",
+    "Mistakes": [
+      "Seven",
+      "German",
+      "Goodbye"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.2",
+    "English": "Hi",
+    "Sub_English": "Xin chào",
+    "Example": "Hi, it's nice to see you again.",
+    "English_Vocabulary_Test": [
+      "Hai mươi",
+      "Mười một",
+      "Năm"
+    ],
+    "Fill_Blank": "______, it's nice to see you again.",
+    "Mistakes": [
+      "Name",
+      "Four",
+      "Seventy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.3",
+    "English": "Good morning",
+    "Sub_English": "Chào buổi sáng",
+    "Example": "Good morning! How's your day going?",
+    "English_Vocabulary_Test": [
+      "Braxin",
+      "Năm",
+      "Sớm gặp lại bạn"
+    ],
+    "Fill_Blank": "______! How's your day going?",
+    "Mistakes": [
+      "Goodbye",
+      "Fifty",
+      "Ten"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.4",
+    "English": "Good afternoon",
+    "Sub_English": "Chào buổi chiều",
+    "Example": "Good afternoon! Have you had lunch?",
+    "English_Vocabulary_Test": [
+      "Braxin",
+      "Bạn khỏe không?",
+      "Bảy"
+    ],
+    "Fill_Blank": "______! Have you had lunch?",
+    "Mistakes": [
+      "How are you?",
+      "Forty",
+      "And you?"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.5",
+    "English": "Good evening",
+    "Sub_English": "Chào buổi tối",
+    "Example": "Good evening! How was your day?",
+    "English_Vocabulary_Test": [
+      "Xin chào",
+      "Người Đức",
+      "Người Thái Lan"
+    ],
+    "Fill_Blank": "______! How was your day?",
+    "Mistakes": [
+      "Name",
+      "Good evening",
+      "Seventeen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.6",
+    "English": "Nice to meet you.",
+    "Sub_English": "Rất vui được gặp bạn",
+    "Example": "Nice to meet you. I'm Alex.",
+    "English_Vocabulary_Test": [
+      "Ý",
+      "Chín mươi",
+      "Tám"
+    ],
+    "Fill_Blank": "______ I'm Alex.",
+    "Mistakes": [
+      "Nine",
+      "Canadian",
+      "Full name"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.7",
+    "English": "Pleased to see you.",
+    "Sub_English": "Rất vui được gặp bạn",
+    "Example": "Pleased to see you again.",
+    "English_Vocabulary_Test": [
+      "Người Nhật Bản",
+      "Hai",
+      "Chào buổi tối"
+    ],
+    "Fill_Blank": "Pleased to see you again.",
+    "Mistakes": [
+      "Sixteen",
+      "Eighty",
+      "Five"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.8",
+    "English": "How do you do?",
+    "Sub_English": "Chào bạn",
+    "Example": "How do you do? My name is Sarah.",
+    "English_Vocabulary_Test": [
+      "Chúc ngủ ngon",
+      "Mười lăm",
+      "Ba mươi"
+    ],
+    "Fill_Blank": "______ My name is Sarah.",
+    "Mistakes": [
+      "I hope to see you again soon.",
+      "Canadian",
+      "German"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.9",
+    "English": "How are you?",
+    "Sub_English": "Bạn khỏe không?",
+    "Example": "How are you? I'm doing well, thank you.",
+    "English_Vocabulary_Test": [
+      "Tám mươi",
+      "Năm",
+      "Bảy"
+    ],
+    "Fill_Blank": "______ I'm doing well, thank you.",
+    "Mistakes": [
+      "Fifty",
+      "Full name",
+      "Japan"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.10",
+    "English": "And you?",
+    "Sub_English": "Và bạn?",
+    "Example": "I'm good, thank you. And you?",
+    "English_Vocabulary_Test": [
+      "Họ và tên",
+      "Trung Quốc",
+      "Quê quán"
+    ],
+    "Fill_Blank": "I'm good, thank you. ______",
+    "Mistakes": [
+      "And you?",
+      "Fifteen",
+      "German"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.11",
+    "English": "Bye",
+    "Sub_English": "Tạm biệt",
+    "Example": "Bye! Take care.",
+    "English_Vocabulary_Test": [
+      "Chúc ngủ ngon",
+      "Rất mong được gặp lại bạn sớm",
+      "Nhật Bản"
+    ],
+    "Fill_Blank": "______! Take care.",
+    "Mistakes": [
+      "Thai",
+      "Eighty",
+      "Hello"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.12",
+    "English": "Goodbye",
+    "Sub_English": "Tạm biệt",
+    "Example": "Goodbye! See you soon.",
+    "English_Vocabulary_Test": [
+      "Họ và tên",
+      "Đức",
+      "Chào buổi tối"
+    ],
+    "Fill_Blank": "______! See you soon.",
+    "Mistakes": [
+      "Forty",
+      "Seventeen",
+      "Canada"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.13",
+    "English": "Good night",
+    "Sub_English": "Chúc ngủ ngon",
+    "Example": "Good night! Sleep well.",
+    "English_Vocabulary_Test": [
+      "Năm mươi",
+      "Một tỷ",
+      "Không"
+    ],
+    "Fill_Blank": "______! Sleep well.",
+    "Mistakes": [
+      "Thirty",
+      "Eighteen",
+      "Australian"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.14",
+    "English": "Sleep well",
+    "Sub_English": "Chúc ngủ ngon",
+    "Example": "Sleep well! See you tomorrow.",
+    "English_Vocabulary_Test": [
+      "Braxin",
+      "Chào buổi sáng",
+      "Mười một"
+    ],
+    "Fill_Blank": "______! See you tomorrow.",
+    "Mistakes": [
+      "Eight",
+      "One thousand",
+      "One hundred"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.15",
+    "English": "See you again soon.",
+    "Sub_English": "Sớm gặp lại bạn",
+    "Example": "See you again soon. Take care!",
+    "English_Vocabulary_Test": [
+      "Pháp",
+      "Chào buổi chiều",
+      "Chào buổi sáng"
+    ],
+    "Fill_Blank": "______ Take care!",
+    "Mistakes": [
+      "China",
+      "Chinese",
+      "Ninety"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.16",
+    "English": "I hope to see you again soon.",
+    "Sub_English": "Rất mong được gặp lại bạn sớm",
+    "Example": "I hope to see you again soon. Have a great day!",
+    "English_Vocabulary_Test": [
+      "Người Pháp",
+      "Tám mươi",
+      "Thái Lan"
+    ],
+    "Fill_Blank": "______ Have a great day!",
+    "Mistakes": [
+      "See you again soon.",
+      "Fifteen",
+      "Brazil"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.17",
+    "English": "Zero",
+    "Sub_English": "Không",
+    "Example": "The count starts from zero.",
+    "English_Vocabulary_Test": [
+      "Tám mươi",
+      "Mười lăm",
+      "Chín mươi"
+    ],
+    "Fill_Blank": "The count starts from ______.",
+    "Mistakes": [
+      "China",
+      "Thirteen",
+      "Fifteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.18",
+    "English": "One",
+    "Sub_English": "Một",
+    "Example": "I have one pen.",
+    "English_Vocabulary_Test": [
+      "Địa chỉ",
+      "Chúc ngủ ngon",
+      "Ba mươi"
+    ],
+    "Fill_Blank": "I have ______ pen.",
+    "Mistakes": [
+      "Address",
+      "Italian",
+      "Sleep well"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.19",
+    "English": "Two",
+    "Sub_English": "Hai",
+    "Example": "There are two apples on the table.",
+    "English_Vocabulary_Test": [
+      "Mười tám",
+      "Mười sáu",
+      "Chín mươi"
+    ],
+    "Fill_Blank": "There are ______ apples on the table.",
+    "Mistakes": [
+      "Age",
+      "Fourteen",
+      "One million"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.20",
+    "English": "Three",
+    "Sub_English": "Ba",
+    "Example": "She has three cats.",
+    "English_Vocabulary_Test": [
+      "Một trăm",
+      "Năm",
+      "Quê quán"
+    ],
+    "Fill_Blank": "She has ______ cats.",
+    "Mistakes": [
+      "Fifteen",
+      "Sixteen",
+      "Japan"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.21",
+    "English": "Four",
+    "Sub_English": "Bốn",
+    "Example": "There are four seasons in a year.",
+    "English_Vocabulary_Test": [
+      "Xin chào",
+      "Người Trung Quốc",
+      "Rất mong được gặp lại bạn sớm"
+    ],
+    "Fill_Blank": "There are ______ seasons in a year.",
+    "Mistakes": [
+      "Three",
+      "Fifty",
+      "Thirteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.22",
+    "English": "Five",
+    "Sub_English": "Năm",
+    "Example": "I have five fingers on my hand.",
+    "English_Vocabulary_Test": [
+      "Người Thái Lan",
+      "Mười sáu",
+      "Bảy mươi"
+    ],
+    "Fill_Blank": "I have ______ fingers on my hand.",
+    "Mistakes": [
+      "One million",
+      "How do you do?",
+      "Seventy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.23",
+    "English": "Six",
+    "Sub_English": "Sáu",
+    "Example": "There are six chairs in the room.",
+    "English_Vocabulary_Test": [
+      "Tám mươi",
+      "Mười một",
+      "Người Pháp"
+    ],
+    "Fill_Blank": "There are ______ chairs in the room.",
+    "Mistakes": [
+      "Thailand",
+      "Six",
+      "Hometown"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.24",
+    "English": "Seven",
+    "Sub_English": "Bảy",
+    "Example": "There are seven days in a week.",
+    "English_Vocabulary_Test": [
+      "Chào bạn",
+      "Địa chỉ",
+      "Không"
+    ],
+    "Fill_Blank": "There are ______ days in a week.",
+    "Mistakes": [
+      "Age",
+      "Two",
+      "Australia"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.25",
+    "English": "Eight",
+    "Sub_English": "Tám",
+    "Example": "She has eight books on her shelf.",
+    "English_Vocabulary_Test": [
+      "Chào bạn",
+      "Mười hai",
+      "Thái Lan"
+    ],
+    "Fill_Blank": "She has ______ books on her shelf.",
+    "Mistakes": [
+      "Sleep well",
+      "Zero",
+      "Sixteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.26",
+    "English": "Nine",
+    "Sub_English": "Chín",
+    "Example": "There are nine students in the class.",
+    "English_Vocabulary_Test": [
+      "Tạm biệt",
+      "Chào buổi tối",
+      "Không"
+    ],
+    "Fill_Blank": "There are ______ students in the class.",
+    "Mistakes": [
+      "Good afternoon",
+      "Goodbye",
+      "Pleased to see you."
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.27",
+    "English": "Ten",
+    "Sub_English": "Mười",
+    "Example": "I have ten fingers and ten toes.",
+    "English_Vocabulary_Test": [
+      "Chào buổi tối",
+      "Người Trung Quốc",
+      "Sáu"
+    ],
+    "Fill_Blank": "I have ______ fingers and ______ toes.",
+    "Mistakes": [
+      "Five",
+      "Six",
+      "Thailand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.28",
+    "English": "Eleven",
+    "Sub_English": "Mười một",
+    "Example": "There are eleven players on the soccer team.",
+    "English_Vocabulary_Test": [
+      "Bạn khỏe không?",
+      "Năm",
+      "Mười hai"
+    ],
+    "Fill_Blank": "There are ______ players on the soccer team.",
+    "Mistakes": [
+      "Nineteen",
+      "Nice to meet you.",
+      "Good morning"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.29",
+    "English": "Twelve",
+    "Sub_English": "Mười hai",
+    "Example": "There are twelve months in a year.",
+    "English_Vocabulary_Test": [
+      "Một triệu",
+      "Braxin",
+      "Tám mươi"
+    ],
+    "Fill_Blank": "There are ______ months in a year.",
+    "Mistakes": [
+      "One hundred",
+      "Good morning",
+      "Hi"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.30",
+    "English": "Thirteen",
+    "Sub_English": "Mười ba",
+    "Example": "She is thirteen years old.",
+    "English_Vocabulary_Test": [
+      "Pháp",
+      "Ba",
+      "Braxin"
+    ],
+    "Fill_Blank": "She is ______ years old.",
+    "Mistakes": [
+      "South African",
+      "Good afternoon",
+      "Sixty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.31",
+    "English": "Fourteen",
+    "Sub_English": "Mười bốn",
+    "Example": "There are fourteen students in the classroom.",
+    "English_Vocabulary_Test": [
+      "Người Thái Lan",
+      "Chào buổi tối",
+      "Mười một"
+    ],
+    "Fill_Blank": "There are ______ students in the classroom.",
+    "Mistakes": [
+      "Six",
+      "China",
+      "Good evening"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.32",
+    "English": "Fifteen",
+    "Sub_English": "Mười lăm",
+    "Example": "She will turn fifteen next month.",
+    "English_Vocabulary_Test": [
+      "Nam Phi",
+      "Chúc ngủ ngon",
+      "Braxin"
+    ],
+    "Fill_Blank": "She will turn ______ next month.",
+    "Mistakes": [
+      "Fourteen",
+      "Full name",
+      "Thai"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.33",
+    "English": "Sixteen",
+    "Sub_English": "Mười sáu",
+    "Example": "He is sixteen years old.",
+    "English_Vocabulary_Test": [
+      "Bảy",
+      "Đức",
+      "Nam Phi"
+    ],
+    "Fill_Blank": "He is ______ years old.",
+    "Mistakes": [
+      "One",
+      "Seven",
+      "Hello"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.34",
+    "English": "Seventeen",
+    "Sub_English": "Mười bảy",
+    "Example": "There are seventeen students...",
+    "English_Vocabulary_Test": [
+      "Bảy",
+      "Tên",
+      "Sáu"
+    ],
+    "Fill_Blank": "There are ______ students...",
+    "Mistakes": [
+      "Hello",
+      "Germany",
+      "Sixteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.35",
+    "English": "Eighteen",
+    "Sub_English": "Mười tám",
+    "Example": "She will be eighteen next year.",
+    "English_Vocabulary_Test": [
+      "Mười bốn",
+      "Một triệu",
+      "Ý"
+    ],
+    "Fill_Blank": "She will be ______ next year.",
+    "Mistakes": [
+      "England",
+      "Four",
+      "Thailand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.36",
+    "English": "Nineteen",
+    "Sub_English": "Mười chín",
+    "Example": "There are nineteen books...",
+    "English_Vocabulary_Test": [
+      "Braxin",
+      "Một",
+      "Bốn"
+    ],
+    "Fill_Blank": "There are ______ books...",
+    "Mistakes": [
+      "Seventy",
+      "Seventeen",
+      "Eighteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.37",
+    "English": "Twenty",
+    "Sub_English": "Hai mươi",
+    "Example": "There are twenty students...",
+    "English_Vocabulary_Test": [
+      "Mười bảy",
+      "Bạn khỏe không?",
+      "Mười ba"
+    ],
+    "Fill_Blank": "There are ______ students...",
+    "Mistakes": [
+      "Fifty",
+      "Good evening",
+      "Pleased to see you."
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.38",
+    "English": "Thirty",
+    "Sub_English": "Ba mươi",
+    "Example": "She is in her thirties.",
+    "English_Vocabulary_Test": [
+      "Tuổi",
+      "Và bạn?",
+      "Xin chào"
+    ],
+    "Fill_Blank": "She is in her thirties.",
+    "Mistakes": [
+      "Twelve",
+      "Ten",
+      "Australia"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.39",
+    "English": "Forty",
+    "Sub_English": "Bốn mươi",
+    "Example": "There are forty students...",
+    "English_Vocabulary_Test": [
+      "Mười chín",
+      "Xin chào",
+      "Mười ba"
+    ],
+    "Fill_Blank": "There are ______ students...",
+    "Mistakes": [
+      "Fourteen",
+      "Italian",
+      "Forty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.40",
+    "English": "Fifty",
+    "Sub_English": "Năm mươi",
+    "Example": "There are fifty chairs...",
+    "English_Vocabulary_Test": [
+      "Người Đức",
+      "Bốn",
+      "Nam Phi"
+    ],
+    "Fill_Blank": "There are ______ chairs...",
+    "Mistakes": [
+      "One hundred",
+      "Brazil",
+      "Eighty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.41",
+    "English": "Sixty",
+    "Sub_English": "Sáu mươi",
+    "Example": "She will turn sixty next year.",
+    "English_Vocabulary_Test": [
+      "Rất vui được gặp bạn",
+      "Mười tám",
+      "Người Nhật Bản"
+    ],
+    "Fill_Blank": "She will turn ______ next year.",
+    "Mistakes": [
+      "Eight",
+      "Fourteen",
+      "South African"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.42",
+    "English": "Seventy",
+    "Sub_English": "Bảy mươi",
+    "Example": "There are seventy participants..",
+    "English_Vocabulary_Test": [
+      "Bạn khỏe không?",
+      "Tám mươi",
+      "Đức"
+    ],
+    "Fill_Blank": "There are ______ participants..",
+    "Mistakes": [
+      "Thirty",
+      "Japanese",
+      "Chinese"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.43",
+    "English": "Eighty",
+    "Sub_English": "Tám mươi",
+    "Example": "The temperature reached eighty...",
+    "English_Vocabulary_Test": [
+      "Bảy mươi",
+      "Tám",
+      "Mười sáu"
+    ],
+    "Fill_Blank": "The temperature reached ______...",
+    "Mistakes": [
+      "Ninety",
+      "Good night",
+      "Age"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.44",
+    "English": "Ninety",
+    "Sub_English": "Chín mươi",
+    "Example": "There are ninety pages...",
+    "English_Vocabulary_Test": [
+      "Úc",
+      "Họ và tên",
+      "Người Úc"
+    ],
+    "Fill_Blank": "There are ______ pages...",
+    "Mistakes": [
+      "German",
+      "And you?",
+      "One billion"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.45",
+    "English": "One hundred",
+    "Sub_English": "Một trăm",
+    "Example": "There are one hundred chairs...",
+    "English_Vocabulary_Test": [
+      "Tạm biệt",
+      "Mười bảy",
+      "Chào buổi tối"
+    ],
+    "Fill_Blank": "There are ______ chairs...",
+    "Mistakes": [
+      "Age",
+      "Seventeen",
+      "Canada"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.46",
+    "English": "One thousand",
+    "Sub_English": "Một nghìn",
+    "Example": "The population of the town is...",
+    "English_Vocabulary_Test": [
+      "Nam Phi",
+      "Năm mươi",
+      "Người Nhật Bản"
+    ],
+    "Fill_Blank": "The population of the town is...",
+    "Mistakes": [
+      "One thousand",
+      "Good night",
+      "Age"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.47",
+    "English": "One million",
+    "Sub_English": "Một triệu",
+    "Example": "The company earned one million...",
+    "English_Vocabulary_Test": [
+      "Xin chào",
+      "Mười bảy",
+      "Rất vui được gặp bạn"
+    ],
+    "Fill_Blank": "The company earned ______...",
+    "Mistakes": [
+      "Japanese",
+      "Six",
+      "China"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.48",
+    "English": "One billion",
+    "Sub_English": "Một tỷ",
+    "Example": "The national debt is over one...",
+    "English_Vocabulary_Test": [
+      "Chào bạn",
+      "Chúc ngủ ngon",
+      "Năm mươi"
+    ],
+    "Fill_Blank": "The national debt is over one...",
+    "Mistakes": [
+      "England",
+      "Chinese",
+      "Sixteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.49",
+    "English": "China",
+    "Sub_English": "Trung Quốc",
+    "Example": "I visited China last summer.",
+    "English_Vocabulary_Test": [
+      "Rất vui được gặp bạn",
+      "Địa chỉ",
+      "Người Anh"
+    ],
+    "Fill_Blank": "I visited ______ last summer.",
+    "Mistakes": [
+      "See you again soon.",
+      "Goodbye",
+      "Five"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.50",
+    "English": "Chinese",
+    "Sub_English": "Người Trung Quốc",
+    "Example": "He is learning Chinese.",
+    "English_Vocabulary_Test": [
+      "Anh",
+      "Nhật Bản",
+      "Chào bạn"
+    ],
+    "Fill_Blank": "He is learning ______.",
+    "Mistakes": [
+      "Seven",
+      "Pleased to see you.",
+      "How are you?"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.51",
+    "English": "Thailand",
+    "Sub_English": "Thái Lan",
+    "Example": "I enjoyed my vacation in Thailand.",
+    "English_Vocabulary_Test": [
+      "Hai mươi",
+      "Sáu mươi",
+      "Sớm gặp lại bạn"
+    ],
+    "Fill_Blank": "I enjoyed my vacation in ______.",
+    "Mistakes": [
+      "Pleased to see you.",
+      "Fifty",
+      "French"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.52",
+    "English": "Thai",
+    "Sub_English": "Người Thái Lan",
+    "Example": "She is a Thai chef.",
+    "English_Vocabulary_Test": [
+      "Anh",
+      "Ba",
+      "Và bạn?"
+    ],
+    "Fill_Blank": "She is a ______ chef.",
+    "Mistakes": [
+      "Full name",
+      "Japan",
+      "Bye"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.53",
+    "English": "Japan",
+    "Sub_English": "Nhật Bản",
+    "Example": "I studied in Japan for a year.",
+    "English_Vocabulary_Test": [
+      "Năm",
+      "Thái Lan",
+      "Sớm gặp lại bạn"
+    ],
+    "Fill_Blank": "I studied in ______ for a year.",
+    "Mistakes": [
+      "Canada",
+      "French",
+      "How do you do?"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.54",
+    "English": "Japanese",
+    "Sub_English": "Người Nhật Bản",
+    "Example": "My neighbor is Japanese.",
+    "English_Vocabulary_Test": [
+      "Ý",
+      "Chào buổi sáng",
+      "Người Canada"
+    ],
+    "Fill_Blank": "My neighbor is ______.",
+    "Mistakes": [
+      "Sixty",
+      "Ten",
+      "One"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.55",
+    "English": "England",
+    "Sub_English": "Anh",
+    "Example": "I visited England last spring.",
+    "English_Vocabulary_Test": [
+      "Bốn",
+      "Tạm biệt",
+      "Ba"
+    ],
+    "Fill_Blank": "I visited ______ last spring.",
+    "Mistakes": [
+      "Brazil",
+      "Ten",
+      "Good afternoon"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.56",
+    "English": "English",
+    "Sub_English": "Người Anh",
+    "Example": "She speaks English fluently.",
+    "English_Vocabulary_Test": [
+      "Mười tám",
+      "Người Đức",
+      "Địa chỉ"
+    ],
+    "Fill_Blank": "She speaks ______ fluently.",
+    "Mistakes": [
+      "Zero",
+      "Chinese",
+      "Seven"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.57",
+    "English": "France",
+    "Sub_English": "Pháp",
+    "Example": "I visited France last fall.",
+    "English_Vocabulary_Test": [
+      "Đức",
+      "Chào buổi sáng",
+      "Xin chào"
+    ],
+    "Fill_Blank": "I visited ______ last fall.",
+    "Mistakes": [
+      "Italian",
+      "South Africa",
+      "Good night"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.58",
+    "English": "French",
+    "Sub_English": "Người Pháp",
+    "Example": "He is learning French.",
+    "English_Vocabulary_Test": [
+      "Chín mươi",
+      "Mười một",
+      "Người Nhật Bản"
+    ],
+    "Fill_Blank": "He is learning ______.",
+    "Mistakes": [
+      "One hundred",
+      "Age",
+      "And you?"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.59",
+    "English": "Germany",
+    "Sub_English": "Đức",
+    "Example": "I studied in Germany for a...",
+    "English_Vocabulary_Test": [
+      "Người Thái Lan",
+      "Mười",
+      "Một tỷ"
+    ],
+    "Fill_Blank": "I studied in ______ for a...",
+    "Mistakes": [
+      "Six",
+      "Canadian",
+      "Forty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.60",
+    "English": "German",
+    "Sub_English": "Người Đức",
+    "Example": "My colleague is German.",
+    "English_Vocabulary_Test": [
+      "Mười hai",
+      "Mười",
+      "Tạm biệt"
+    ],
+    "Fill_Blank": "My colleague is ______.",
+    "Mistakes": [
+      "Fifteen",
+      "How do you do?",
+      "Thailand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.61",
+    "English": "Italy",
+    "Sub_English": "Ý",
+    "Example": "We enjoyed our vacation in Italy.",
+    "English_Vocabulary_Test": [
+      "Mười chín",
+      "Tám mươi",
+      "Tám"
+    ],
+    "Fill_Blank": "We enjoyed our vacation in ______.",
+    "Mistakes": [
+      "I hope to see you again soon.",
+      "Ten",
+      "Italian"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.62",
+    "English": "Italian",
+    "Sub_English": "Người Ý",
+    "Example": "She is Italian by birth.",
+    "English_Vocabulary_Test": [
+      "Sáu mươi",
+      "Canada",
+      "Mười bốn"
+    ],
+    "Fill_Blank": "She is ______ by birth.",
+    "Mistakes": [
+      "Chinese",
+      "One",
+      "Pleased to see you."
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.63",
+    "English": "Brazil",
+    "Sub_English": "Braxin",
+    "Example": "I have never been to Brazil.",
+    "English_Vocabulary_Test": [
+      "Sớm gặp lại bạn",
+      "Pháp",
+      "Chín"
+    ],
+    "Fill_Blank": "I have never been to ______.",
+    "Mistakes": [
+      "England",
+      "Twenty",
+      "Two"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.64",
+    "English": "South Africa",
+    "Sub_English": "Nam Phi",
+    "Example": "I have friends in South Africa.",
+    "English_Vocabulary_Test": [
+      "Chào buổi sáng",
+      "Hai mươi",
+      "Mười một"
+    ],
+    "Fill_Blank": "I have friends in ______.",
+    "Mistakes": [
+      "Seventy",
+      "Australian",
+      "Fifty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.65",
+    "English": "South African",
+    "Sub_English": "Người Nam Phi",
+    "Example": "She is South African by nationality.",
+    "English_Vocabulary_Test": [
+      "Úc",
+      "Sớm gặp lại bạn",
+      "Người Ý"
+    ],
+    "Fill_Blank": "She is ______ by nationality.",
+    "Mistakes": [
+      "Eighteen",
+      "Ninety",
+      "Bye"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.66",
+    "English": "Canada",
+    "Sub_English": "Canada",
+    "Example": "I visited Canada last winter.",
+    "English_Vocabulary_Test": [
+      "Người Nhật Bản",
+      "Chào bạn",
+      "Tên"
+    ],
+    "Fill_Blank": "I visited ______ last winter.",
+    "Mistakes": [
+      "Bye",
+      "Seven",
+      "Six"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.67",
+    "English": "Canadian",
+    "Sub_English": "Người Canada",
+    "Example": "My cousin is Canadian.",
+    "English_Vocabulary_Test": [
+      "Ba",
+      "Tám",
+      "Mười bốn"
+    ],
+    "Fill_Blank": "My cousin is ______.",
+    "Mistakes": [
+      "Thirteen",
+      "Ten",
+      "Hello"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.68",
+    "English": "Australia",
+    "Sub_English": "Úc",
+    "Example": "They plan to visit Australia next summer.",
+    "English_Vocabulary_Test": [
+      "Rất vui được gặp bạn",
+      "Người Úc",
+      "Trung Quốc"
+    ],
+    "Fill_Blank": "They plan to visit ______ next summer.",
+    "Mistakes": [
+      "Address",
+      "Seventeen",
+      "See you again soon."
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.69",
+    "English": "Australian",
+    "Sub_English": "Người Úc",
+    "Example": "She has an Australian friend.",
+    "English_Vocabulary_Test": [
+      "Mười lăm",
+      "Mười",
+      "Người Anh"
+    ],
+    "Fill_Blank": "She has an ______ friend.",
+    "Mistakes": [
+      "Canada",
+      "See you again soon.",
+      "England"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.70",
+    "English": "Name",
+    "Sub_English": "Tên",
+    "Example": "My name is John.",
+    "English_Vocabulary_Test": [
+      "Mười lăm",
+      "Ba mươi",
+      "Một tỷ"
+    ],
+    "Fill_Blank": "My ______ is John.",
+    "Mistakes": [
+      "Age",
+      "Australian",
+      "See you again soon."
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.71",
+    "English": "Full name",
+    "Sub_English": "Họ và tên",
+    "Example": "Her full name is Emily Johnson.",
+    "English_Vocabulary_Test": [
+      "Năm",
+      "Chào buổi chiều",
+      "Người Đức"
+    ],
+    "Fill_Blank": "Her ______ is Emily Johnson.",
+    "Mistakes": [
+      "Sixty",
+      "Full name",
+      "France"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.72",
+    "English": "Age",
+    "Sub_English": "Tuổi",
+    "Example": "He is 25 years old.",
+    "English_Vocabulary_Test": [
+      "Người Canada",
+      "Năm",
+      "Braxin"
+    ],
+    "Fill_Blank": "He is 25 years old.",
+    "Mistakes": [
+      "Thailand",
+      "One",
+      "Nineteen"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.73",
+    "English": "Address",
+    "Sub_English": "Địa chỉ",
+    "Example": "Their address is 123 Main Street.",
+    "English_Vocabulary_Test": [
+      "Người Trung Quốc",
+      "Tạm biệt",
+      "Mười bốn"
+    ],
+    "Fill_Blank": "Their ______ is 123 Main Street.",
+    "Mistakes": [
+      "Good morning",
+      "English",
+      "Hello"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.2.74",
+    "English": "Hometown",
+    "Sub_English": "Quê quán",
+    "Example": "My hometown is a small village.",
+    "English_Vocabulary_Test": [
+      "Chào bạn",
+      "Tuổi",
+      "Bảy"
+    ],
+    "Fill_Blank": "My ______ is a small village.",
+    "Mistakes": [
+      "South African",
+      "Goodbye",
+      "Fifty"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.1",
+    "English": "Family",
+    "Sub_English": "Gia đình",
+    "Example": "I love spending time with my family.",
+    "English_Vocabulary_Test": [
+      "Chồng",
+      "Ông bà",
+      "Bố"
+    ],
+    "Fill_Blank": "I love spending time with my ______.",
+    "Mistakes": [
+      "Aunt",
+      "Grandson",
+      "Family"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.2",
+    "English": "Grandfather (grandpa)",
+    "Sub_English": "Ông (ông nội)",
+    "Example": "My grandfather tells interesting stories.",
+    "English_Vocabulary_Test": [
+      "Con trai",
+      "Cháu trai",
+      "Ông bà"
+    ],
+    "Fill_Blank": "My grandfather tells interesting stories.",
+    "Mistakes": [
+      "Cousin",
+      "Son",
+      "Niece"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.3",
+    "English": "Grandmother (grandma)",
+    "Sub_English": "Bà (bà nội)",
+    "Example": "I learned to bake from my grandmother.",
+    "English_Vocabulary_Test": [
+      "Cháu nội",
+      "Ông (ông nội)",
+      "Con trai"
+    ],
+    "Fill_Blank": "I learned to bake from my grandmother.",
+    "Mistakes": [
+      "Family",
+      "Wife",
+      "Daughter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.4",
+    "English": "Grandparents",
+    "Sub_English": "Ông bà",
+    "Example": "My grandparents are celebrating their golden anniversary.",
+    "English_Vocabulary_Test": [
+      "Con trai",
+      "Chị em gái",
+      "Anh chị em họ"
+    ],
+    "Fill_Blank": "My ______ are celebrating their golden anniversary.",
+    "Mistakes": [
+      "Aunt",
+      "Mother (mommy)",
+      "Grandparents"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.5",
+    "English": "Father (daddy)",
+    "Sub_English": "Bố",
+    "Example": "My father taught me how to ride a bike.",
+    "English_Vocabulary_Test": [
+      "Ông (ông nội)",
+      "Con gái",
+      "Đã kết hôn"
+    ],
+    "Fill_Blank": "My father taught me how to ride a bike.",
+    "Mistakes": [
+      "Mother (mommy)",
+      "Grandson",
+      "Son"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.6",
+    "English": "Mother (mommy)",
+    "Sub_English": "Mẹ",
+    "Example": "I can always count on my mother for advice.",
+    "English_Vocabulary_Test": [
+      "Ông bà",
+      "Con gái",
+      "Cháu gái"
+    ],
+    "Fill_Blank": "I can always count on my mother for advice.",
+    "Mistakes": [
+      "Mother (mommy)",
+      "Granddaughter",
+      "Husband"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.7",
+    "English": "Parents",
+    "Sub_English": "Ba mẹ",
+    "Example": "My parents are coming to visit next week.",
+    "English_Vocabulary_Test": [
+      "Độc thân",
+      "Cháu gái",
+      "Chú"
+    ],
+    "Fill_Blank": "My ______ are coming to visit next week.",
+    "Mistakes": [
+      "Cousin",
+      "Married",
+      "Aunt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.8",
+    "English": "Husband",
+    "Sub_English": "Chồng",
+    "Example": "My husband is a talented musician.",
+    "English_Vocabulary_Test": [
+      "Anh em trai",
+      "Cháu gái",
+      "Bà (bà nội)"
+    ],
+    "Fill_Blank": "My ______ is a talented musician.",
+    "Mistakes": [
+      "Married",
+      "Grandmother (grandma)",
+      "Grandfather (grandpa)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.9",
+    "English": "Wife",
+    "Sub_English": "Vợ",
+    "Example": "I have been happily married to my wife for 10 years.",
+    "English_Vocabulary_Test": [
+      "Đã kết hôn",
+      "Gia đình",
+      "Dì"
+    ],
+    "Fill_Blank": "I have been happily married to my ______ for 10 years.",
+    "Mistakes": [
+      "Sister",
+      "Son",
+      "In-law"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.10",
+    "English": "Brother",
+    "Sub_English": "Anh em trai",
+    "Example": "My brother is studying engineering.",
+    "English_Vocabulary_Test": [
+      "Cháu trai",
+      "Cháu trai",
+      "Anh chị em họ"
+    ],
+    "Fill_Blank": "My ______ is studying engineering.",
+    "Mistakes": [
+      "Mother (mommy)",
+      "In-law",
+      "Aunt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.11",
+    "English": "Sister",
+    "Sub_English": "Chị em gái",
+    "Example": "I have a younger sister.",
+    "English_Vocabulary_Test": [
+      "Con cái",
+      "Anh em trai",
+      "Cháu gái"
+    ],
+    "Fill_Blank": "I have a younger ______.",
+    "Mistakes": [
+      "Niece",
+      "Sister",
+      "Granddaughter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.12",
+    "English": "Son",
+    "Sub_English": "Con trai",
+    "Example": "My son is starting kindergarten.",
+    "English_Vocabulary_Test": [
+      "Ba mẹ",
+      "Cháu trai",
+      "Chị em gái"
+    ],
+    "Fill_Blank": "My ______ is starting kindergarten.",
+    "Mistakes": [
+      "Cousin",
+      "Mother (mommy)",
+      "Sister"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.13",
+    "English": "Daughter",
+    "Sub_English": "Con gái",
+    "Example": "Our daughter is studying abroad.",
+    "English_Vocabulary_Test": [
+      "Chú",
+      "Gia đình",
+      "Anh chị em họ"
+    ],
+    "Fill_Blank": "Our ______ is studying abroad.",
+    "Mistakes": [
+      "Grandfather (grandpa)",
+      "In-law",
+      "Uncle"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.14",
+    "English": "Children",
+    "Sub_English": "Con cái",
+    "Example": "I love spending time with my children.",
+    "English_Vocabulary_Test": [
+      "Chú",
+      "Nguời nội trợ",
+      "Ba mẹ"
+    ],
+    "Fill_Blank": "I love spending time with my ______.",
+    "Mistakes": [
+      "Aunt",
+      "Parents",
+      "Grandmother (grandma)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.15",
+    "English": "Granddaughter",
+    "Sub_English": "Cháu gái",
+    "Example": "My granddaughter loves to visit during the holidays.",
+    "English_Vocabulary_Test": [
+      "Đã kết hôn",
+      "Chị em gái",
+      "Cháu nội"
+    ],
+    "Fill_Blank": "My ______ loves to visit during the holidays.",
+    "Mistakes": [
+      "Single",
+      "Uncle",
+      "In-law"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.16",
+    "English": "Grandson",
+    "Sub_English": "Cháu trai",
+    "Example": "Our grandson is learning to play the piano.",
+    "English_Vocabulary_Test": [
+      "Độc thân",
+      "Cháu gái",
+      "Chú"
+    ],
+    "Fill_Blank": "Our ______ is learning to play the piano.",
+    "Mistakes": [
+      "Single",
+      "Grandchildren",
+      "Aunt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.17",
+    "English": "Uncle",
+    "Sub_English": "Chú",
+    "Example": "My uncle always brings gifts when he visits.",
+    "English_Vocabulary_Test": [
+      "Ông (ông nội)",
+      "Con trai",
+      "Độc thân"
+    ],
+    "Fill_Blank": "My ______ always brings gifts when he visits.",
+    "Mistakes": [
+      "Brother",
+      "Nephew",
+      "Children"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.18",
+    "English": "Aunt",
+    "Sub_English": "Dì",
+    "Example": "I enjoy spending time with my aunt and her family.",
+    "English_Vocabulary_Test": [
+      "Ông (ông nội)",
+      "Con trai",
+      "Ông bà"
+    ],
+    "Fill_Blank": "I enjoy spending time with my ______ and her family.",
+    "Mistakes": [
+      "Grandfather (grandpa)",
+      "Brother",
+      "Parents"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.19",
+    "English": "Cousin",
+    "Sub_English": "Anh chị em họ",
+    "Example": "My cousin and I grew up together.",
+    "English_Vocabulary_Test": [
+      "Chú",
+      "Ba mẹ",
+      "Bố"
+    ],
+    "Fill_Blank": "My ______ and I grew up together.",
+    "Mistakes": [
+      "Son",
+      "Grandson",
+      "Nephew"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.20",
+    "English": "Nephew",
+    "Sub_English": "Cháu trai",
+    "Example": "My nephew is graduating from college this year.",
+    "English_Vocabulary_Test": [
+      "Độc thân",
+      "Gia đình",
+      "Ông bà"
+    ],
+    "Fill_Blank": "My ______ is graduating from college this year.",
+    "Mistakes": [
+      "Father (daddy)",
+      "Granddaughter",
+      "In-law"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.21",
+    "English": "Niece",
+    "Sub_English": "Cháu gái",
+    "Example": "My niece is very artistic.",
+    "English_Vocabulary_Test": [
+      "Con cái",
+      "Anh em trai",
+      "Con gái"
+    ],
+    "Fill_Blank": "My ______ is very artistic.",
+    "Mistakes": [
+      "In-law",
+      "Son",
+      "Children"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.22",
+    "English": "Married",
+    "Sub_English": "Đã kết hôn",
+    "Example": "She has been happily married for 15 years.",
+    "English_Vocabulary_Test": [
+      "Cháu gái",
+      "Bố",
+      "Anh em trai"
+    ],
+    "Fill_Blank": "She has been happily ______ for 15 years.",
+    "Mistakes": [
+      "Cousin",
+      "Married",
+      "Niece"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.23",
+    "English": "Single",
+    "Sub_English": "Độc thân",
+    "Example": "He enjoys the freedom of being single.",
+    "English_Vocabulary_Test": [
+      "Nguời nội trợ",
+      "Cháu trai",
+      "Đã kết hôn"
+    ],
+    "Fill_Blank": "He enjoys the freedom of being ______.",
+    "Mistakes": [
+      "Uncle",
+      "Wife",
+      "Grandparents"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.24",
+    "English": "In-law",
+    "Sub_English": "Nguời nội trợ",
+    "Example": "My sister-in-law is a fantastic cook.",
+    "English_Vocabulary_Test": [
+      "Mẹ",
+      "Con trai",
+      "Đã kết hôn"
+    ],
+    "Fill_Blank": "My sister-______ is a fantastic cook.",
+    "Mistakes": [
+      "Children",
+      "Wife",
+      "Parents"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.3.25",
+    "English": "Grandchildren",
+    "Sub_English": "Cháu nội",
+    "Example": "Our grandchildren bring so much joy to our lives.",
+    "English_Vocabulary_Test": [
+      "Mẹ",
+      "Ông bà",
+      "Ba mẹ"
+    ],
+    "Fill_Blank": "Our ______ bring so much joy to our lives.",
+    "Mistakes": [
+      "Uncle",
+      "Mother (mommy)",
+      "Children"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.1",
+    "English": "Monday",
+    "Sub_English": "Thứ Hai",
+    "Example": "I have a meeting every Monday morning.",
+    "English_Vocabulary_Test": [
+      "Chải tóc",
+      "Mặc quần áo",
+      "Chơi thể thao"
+    ],
+    "Fill_Blank": "I have a meeting every ______ morning.",
+    "Mistakes": [
+      "Comb hair",
+      "Put on some make-up",
+      "Get up"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.2",
+    "English": "Tuesday",
+    "Sub_English": "Thứ Ba",
+    "Example": "Tuesday is the busiest day at the office for me.",
+    "English_Vocabulary_Test": [
+      "Thứ Tư",
+      "Chải tóc (bằng lược)",
+      "Dọn giường"
+    ],
+    "Fill_Blank": "______ is the busiest day at the office for me.",
+    "Mistakes": [
+      "Wednesday",
+      "Cook lunch",
+      "Saturday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.3",
+    "English": "Wednesday",
+    "Sub_English": "Thứ Tư",
+    "Example": "I have a dance class every Wednesday evening.",
+    "English_Vocabulary_Test": [
+      "Tắm vòi sen",
+      "Xem TV",
+      "Thứ Hai"
+    ],
+    "Fill_Blank": "I have a dance class every ______ evening.",
+    "Mistakes": [
+      "Do exercise",
+      "Have a shower",
+      "Put on some make-up"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.4",
+    "English": "Thursday",
+    "Sub_English": "Thứ Năm",
+    "Example": "Thursday is the deadline for submitting the report.",
+    "English_Vocabulary_Test": [
+      "Trang điểm",
+      "Thứ Tư",
+      "Nghe nhạc"
+    ],
+    "Fill_Blank": "______ is the deadline for submitting the report.",
+    "Mistakes": [
+      "Walk to school",
+      "Monday",
+      "Go home"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.5",
+    "English": "Friday",
+    "Sub_English": "Thứ Sáu",
+    "Example": "We usually go out for dinner on Friday nights.",
+    "English_Vocabulary_Test": [
+      "Đánh răng",
+      "Mặc quần áo",
+      "Nấu ăn sáng"
+    ],
+    "Fill_Blank": "We usually go out for dinner on ______ nights.",
+    "Mistakes": [
+      "Walk to school",
+      "Brush your teeth",
+      "Study/learn"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.6",
+    "English": "Saturday",
+    "Sub_English": "Thứ Bảy",
+    "Example": "Saturday is a great day to relax and unwind.",
+    "English_Vocabulary_Test": [
+      "Nghe nhạc",
+      "Thứ Tư",
+      "Chơi thể thao"
+    ],
+    "Fill_Blank": "______ is a great day to relax and unwind.",
+    "Mistakes": [
+      "Get up",
+      "Cook breakfast",
+      "Do exercise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.7",
+    "English": "Sunday",
+    "Sub_English": "Chủ Nhật",
+    "Example": "We often have a family brunch on Sunday.",
+    "English_Vocabulary_Test": [
+      "Ngày thường",
+      "Chơi thể thao",
+      "Dọn giường"
+    ],
+    "Fill_Blank": "We often have a family brunch on ______.",
+    "Mistakes": [
+      "Friday",
+      "Brush hair",
+      "Go to bed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.8",
+    "English": "Weekend",
+    "Sub_English": "Cuối tuần",
+    "Example": "I love spending time with friends on the weekend.",
+    "English_Vocabulary_Test": [
+      "Ăn sáng",
+      "Thứ Hai",
+      "Học"
+    ],
+    "Fill_Blank": "I love spending time with friends on the ______.",
+    "Mistakes": [
+      "Have a bath",
+      "Cook lunch",
+      "Sunday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.9",
+    "English": "Weekday",
+    "Sub_English": "Ngày thường",
+    "Example": "Weekday mornings are usually hectic with work and meetings.",
+    "English_Vocabulary_Test": [
+      "Chơi thể thao",
+      "Ăn trưa",
+      "Về nhà"
+    ],
+    "Fill_Blank": "______ mornings are usually hectic with work and meetings.",
+    "Mistakes": [
+      "Study/learn",
+      "Watch TV",
+      "Make the bed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.10",
+    "English": "Wake up",
+    "Sub_English": "Thức dậy",
+    "Example": "I usually wake up at 6 AM to start my day.",
+    "English_Vocabulary_Test": [
+      "Thứ Tư",
+      "Xem TV",
+      "Thứ Ba"
+    ],
+    "Fill_Blank": "I usually ______ at 6 AM to start my day.",
+    "Mistakes": [
+      "Saturday",
+      "Wake up",
+      "Weekday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.11",
+    "English": "Get up",
+    "Sub_English": "Dậy",
+    "Example": "It takes me a few minutes to fully get up in the morning.",
+    "English_Vocabulary_Test": [
+      "Đi ngủ",
+      "Đánh răng",
+      "Mặc quần áo"
+    ],
+    "Fill_Blank": "It takes me a few minutes to fully ______ in the morning.",
+    "Mistakes": [
+      "Have dinner",
+      "Shave",
+      "Cook dinner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.12",
+    "English": "Make the bed",
+    "Sub_English": "Dọn giường",
+    "Example": "I prefer to make the bed as soon as I get out of bed.",
+    "English_Vocabulary_Test": [
+      "Mặc quần áo",
+      "Xem TV",
+      "Thứ Tư"
+    ],
+    "Fill_Blank": "I prefer to ______ as soon as I get out of bed.",
+    "Mistakes": [
+      "Saturday",
+      "Tuesday",
+      "Cook breakfast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.13",
+    "English": "Brush your teeth",
+    "Sub_English": "Đánh răng",
+    "Example": "It's important to brush your teeth after every meal.",
+    "English_Vocabulary_Test": [
+      "Đi học",
+      "Ăn trưa",
+      "Nấu ăn trưa"
+    ],
+    "Fill_Blank": "It's important to ______ after every meal.",
+    "Mistakes": [
+      "Shave",
+      "Comb hair",
+      "Get up"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.14",
+    "English": "Shave",
+    "Sub_English": "Cạo râu",
+    "Example": "Some people prefer to shave every morning for a clean look.",
+    "English_Vocabulary_Test": [
+      "Chải tóc (bằng lược)",
+      "Thứ Tư",
+      "Chải tóc"
+    ],
+    "Fill_Blank": "Some people prefer to ______ every morning for a clean look.",
+    "Mistakes": [
+      "Do homework",
+      "Tuesday",
+      "Go to bed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.15",
+    "English": "Comb hair",
+    "Sub_English": "Chải tóc",
+    "Example": "I like to comb my hair before leaving the house.",
+    "English_Vocabulary_Test": [
+      "Thức dậy",
+      "Mặc quần áo",
+      "Tắm bồn"
+    ],
+    "Fill_Blank": "I like to comb my hair before leaving the house.",
+    "Mistakes": [
+      "Play sports",
+      "Wake up",
+      "Saturday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.16",
+    "English": "Brush hair",
+    "Sub_English": "Chải tóc (bằng lược)",
+    "Example": "She always takes time to brush her hair and make it look neat.",
+    "English_Vocabulary_Test": [
+      "Chải tóc",
+      "Thứ Ba",
+      "Mặc quần áo"
+    ],
+    "Fill_Blank": "She always takes time to brush her hair and make it look neat.",
+    "Mistakes": [
+      "Make the bed",
+      "Comb hair",
+      "Thursday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.17",
+    "English": "Put on some make-up",
+    "Sub_English": "Trang điểm",
+    "Example": "She likes to put on some make-up before going to work.",
+    "English_Vocabulary_Test": [
+      "Đi ngủ",
+      "Đánh răng",
+      "Chải tóc (bằng lược)"
+    ],
+    "Fill_Blank": "She likes to ______ before going to work.",
+    "Mistakes": [
+      "Have a shower",
+      "Monday",
+      "Go to bed"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.18",
+    "English": "Get dressed",
+    "Sub_English": "Mặc quần áo",
+    "Example": "I usually get dressed in casual clothes for the weekend.",
+    "English_Vocabulary_Test": [
+      "Ngày thường",
+      "Nghe nhạc",
+      "Nấu ăn tối"
+    ],
+    "Fill_Blank": "I usually ______ in casual clothes for the weekend.",
+    "Mistakes": [
+      "Wednesday",
+      "Sunday",
+      "Brush hair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.19",
+    "English": "Have breakfast",
+    "Sub_English": "Ăn sáng",
+    "Example": "It's important to have breakfast to fuel your body for the day.",
+    "English_Vocabulary_Test": [
+      "Đánh răng",
+      "Thứ Ba",
+      "Thứ Sáu"
+    ],
+    "Fill_Blank": "It's important to ______ to fuel your body for the day.",
+    "Mistakes": [
+      "Brush hair",
+      "Cook dinner",
+      "Have a bath"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.20",
+    "English": "Have lunch",
+    "Sub_English": "Ăn trưa",
+    "Example": "I usually have lunch with my colleagues during the workweek.",
+    "English_Vocabulary_Test": [
+      "Dọn giường",
+      "Nghe nhạc",
+      "Xem TV"
+    ],
+    "Fill_Blank": "I usually ______ with my colleagues during the workweek.",
+    "Mistakes": [
+      "Weekend",
+      "Put on some make-up",
+      "Have a bath"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.21",
+    "English": "Have dinner",
+    "Sub_English": "Ăn tối",
+    "Example": "We often have dinner as a family to catch up on the day.",
+    "English_Vocabulary_Test": [
+      "Nấu ăn sáng",
+      "Chải tóc",
+      "Chơi thể thao"
+    ],
+    "Fill_Blank": "We often ______ as a family to catch up on the day.",
+    "Mistakes": [
+      "Cook breakfast",
+      "Have dinner",
+      "Tuesday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.22",
+    "English": "Do exercise",
+    "Sub_English": "Tập thể dục",
+    "Example": "It's essential to do exercise regularly for a healthy lifestyle.",
+    "English_Vocabulary_Test": [
+      "Cuối tuần",
+      "Thức dậy",
+      "Nấu ăn sáng"
+    ],
+    "Fill_Blank": "It's essential to ______ regularly for a healthy lifestyle.",
+    "Mistakes": [
+      "Do homework",
+      "Go to school",
+      "Get up"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.23",
+    "English": "Go to school",
+    "Sub_English": "Đi học",
+    "Example": "Children usually go to school in the morning and come back in the afternoon.",
+    "English_Vocabulary_Test": [
+      "Đánh răng",
+      "Trang điểm",
+      "Về nhà"
+    ],
+    "Fill_Blank": "Children usually ______ in the morning and come back in the afternoon.",
+    "Mistakes": [
+      "Monday",
+      "Friday",
+      "Have dinner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.24",
+    "English": "Walk to school",
+    "Sub_English": "Đi bộ đến trường",
+    "Example": "Some students prefer to walk to school instead of taking the bus.",
+    "English_Vocabulary_Test": [
+      "Thứ Bảy",
+      "Nấu ăn trưa",
+      "Đi ngủ"
+    ],
+    "Fill_Blank": "Some students prefer to ______ instead of taking the bus.",
+    "Mistakes": [
+      "Have breakfast",
+      "Weekday",
+      "Do homework"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.25",
+    "English": "Study/learn",
+    "Sub_English": "Học",
+    "Example": "Students need to study/learn to succeed in their exams.",
+    "English_Vocabulary_Test": [
+      "Về nhà",
+      "Chải tóc (bằng lược)",
+      "Thứ Tư"
+    ],
+    "Fill_Blank": "Students need to ______ to succeed in their exams.",
+    "Mistakes": [
+      "Cook lunch",
+      "Weekday",
+      "Comb hair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.26",
+    "English": "Do homework",
+    "Sub_English": "Làm bài tập",
+    "Example": "It's essential for students to do homework regularly to reinforce what they've learned.",
+    "English_Vocabulary_Test": [
+      "Đi ngủ",
+      "Dọn giường",
+      "Tập thể dục"
+    ],
+    "Fill_Blank": "It's essential for students to ______ regularly to reinforce what they've learned.",
+    "Mistakes": [
+      "Go to school",
+      "Comb hair",
+      "Friday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.27",
+    "English": "Go home",
+    "Sub_English": "Về nhà",
+    "Example": "After a long day, I like to go home and relax.",
+    "English_Vocabulary_Test": [
+      "Tắm bồn",
+      "Ngày thường",
+      "Thứ Sáu"
+    ],
+    "Fill_Blank": "After a long day, I like to ______ and relax.",
+    "Mistakes": [
+      "Have dinner",
+      "Brush hair",
+      "Sunday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.28",
+    "English": "Play sports",
+    "Sub_English": "Chơi thể thao",
+    "Example": "It's a great way to stay active and healthy if you regularly play sports.",
+    "English_Vocabulary_Test": [
+      "Thức dậy",
+      "Đi bộ đến trường",
+      "Tập thể dục"
+    ],
+    "Fill_Blank": "It's a great way to stay active and healthy if you regularly ______.",
+    "Mistakes": [
+      "Get up",
+      "Go home",
+      "Wake up"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.29",
+    "English": "Have a shower",
+    "Sub_English": "Tắm vòi sen",
+    "Example": "I prefer to have a shower in the morning to start my day fresh.",
+    "English_Vocabulary_Test": [
+      "Cạo râu",
+      "Thứ Hai",
+      "Dậy"
+    ],
+    "Fill_Blank": "I prefer to ______ in the morning to start my day fresh.",
+    "Mistakes": [
+      "Watch TV",
+      "Saturday",
+      "Have a bath"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.30",
+    "English": "Have a bath",
+    "Sub_English": "Tắm bồn",
+    "Example": "After a long day, I like to have a bath to relax my muscles.",
+    "English_Vocabulary_Test": [
+      "Chủ Nhật",
+      "Tắm vòi sen",
+      "Về nhà"
+    ],
+    "Fill_Blank": "After a long day, I like to ______ to relax my muscles.",
+    "Mistakes": [
+      "Weekend",
+      "Cook breakfast",
+      "Listen to music"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.31",
+    "English": "Cook breakfast",
+    "Sub_English": "Nấu ăn sáng",
+    "Example": "Some people like to cook breakfast with their favorite breakfast recipes.",
+    "English_Vocabulary_Test": [
+      "Thứ Năm",
+      "Về nhà",
+      "Thứ Sáu"
+    ],
+    "Fill_Blank": "Some people like to ______ with their favorite breakfast recipes.",
+    "Mistakes": [
+      "Weekday",
+      "Tuesday",
+      "Cook lunch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.32",
+    "English": "Cook lunch",
+    "Sub_English": "Nấu ăn trưa",
+    "Example": "I usually cook lunch for myself during the workweek.",
+    "English_Vocabulary_Test": [
+      "Dậy",
+      "Chải tóc (bằng lược)",
+      "Ăn tối"
+    ],
+    "Fill_Blank": "I usually ______ for myself during the workweek.",
+    "Mistakes": [
+      "Friday",
+      "Cook breakfast",
+      "Play sports"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.33",
+    "English": "Cook dinner",
+    "Sub_English": "Nấu ăn tối",
+    "Example": "She enjoys cooking dinner for her family in the evenings.",
+    "English_Vocabulary_Test": [
+      "Trang điểm",
+      "Thứ Tư",
+      "Nấu ăn trưa"
+    ],
+    "Fill_Blank": "She enjoys cooking dinner for her family in the evenings.",
+    "Mistakes": [
+      "Listen to music",
+      "Cook dinner",
+      "Study/learn"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.34",
+    "English": "Watch TV",
+    "Sub_English": "Xem TV",
+    "Example": "After dinner, I like to watch TV for some entertainment.",
+    "English_Vocabulary_Test": [
+      "Chơi thể thao",
+      "Nghe nhạc",
+      "Dọn giường"
+    ],
+    "Fill_Blank": "After dinner, I like to ______ for some entertainment.",
+    "Mistakes": [
+      "Go to school",
+      "Tuesday",
+      "Comb hair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.35",
+    "English": "Listen to music",
+    "Sub_English": "Nghe nhạc",
+    "Example": "I often listen to music while working to create a pleasant atmosphere.",
+    "English_Vocabulary_Test": [
+      "Thứ Tư",
+      "Mặc quần áo",
+      "Chơi thể thao"
+    ],
+    "Fill_Blank": "I often ______ while working to create a pleasant atmosphere.",
+    "Mistakes": [
+      "Brush your teeth",
+      "Cook dinner",
+      "Sunday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.4.36",
+    "English": "Go to bed",
+    "Sub_English": "Đi ngủ",
+    "Example": "It's important to go to bed early for a good night's sleep.",
+    "English_Vocabulary_Test": [
+      "Học",
+      "Tắm bồn",
+      "Mặc quần áo"
+    ],
+    "Fill_Blank": "It's important to ______ early for a good night's sleep.",
+    "Mistakes": [
+      "Sunday",
+      "Listen to music",
+      "Study/learn"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.1",
+    "English": "Teacher",
+    "Sub_English": "Giáo viên",
+    "Example": "The teacher explained the lesson to the students.",
+    "English_Vocabulary_Test": [
+      "Kỹ thuật viên hỗ trợ",
+      "Làm việc với số liệu",
+      "Công nhân"
+    ],
+    "Fill_Blank": "The ______ explained the lesson to the students.",
+    "Mistakes": [
+      "Treat sick/ ill people",
+      "Software engineer",
+      "Give lectures"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.2",
+    "English": "Farmer",
+    "Sub_English": "Nông dân",
+    "Example": "The farmer planted crops in the field.",
+    "English_Vocabulary_Test": [
+      "Làm việc trong nhà máy",
+      "Viết chương trình máy tính",
+      "Thiết kế trang web"
+    ],
+    "Fill_Blank": "The ______ planted crops in the field.",
+    "Mistakes": [
+      "Receptionist",
+      "Support technician",
+      "Flexitime"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.3",
+    "English": "Worker",
+    "Sub_English": "Công nhân",
+    "Example": "The worker assembled the parts in the factory.",
+    "English_Vocabulary_Test": [
+      "Phúc lợi",
+      "Nông dân",
+      "Giáo viên"
+    ],
+    "Fill_Blank": "The ______ assembled the parts in the factory.",
+    "Mistakes": [
+      "Farmer",
+      "Web designer",
+      "Receptionist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.4",
+    "English": "Nurse",
+    "Sub_English": "Y tá",
+    "Example": "The nurse took care of the patients in the hospital.",
+    "English_Vocabulary_Test": [
+      "Kế toán viên",
+      "Việc làm bán thời gian",
+      "Làm việc trong nhà máy"
+    ],
+    "Fill_Blank": "The ______ took care of the patients in the hospital.",
+    "Mistakes": [
+      "Farmer",
+      "Accountant",
+      "Work in a factory"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.5",
+    "English": "Receptionist",
+    "Sub_English": "Lễ tân",
+    "Example": "The receptionist greeted the guests at the hotel.",
+    "English_Vocabulary_Test": [
+      "Làm việc trong nhà máy",
+      "Viết chương trình máy tính",
+      "Nông dân"
+    ],
+    "Fill_Blank": "The ______ greeted the guests at the hotel.",
+    "Mistakes": [
+      "Foreign company",
+      "Work in a factory",
+      "Accountant"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.6",
+    "English": "Accountant",
+    "Sub_English": "Kế toán viên",
+    "Example": "The accountant managed the company's financial records.",
+    "English_Vocabulary_Test": [
+      "Làm việc trong nhà máy",
+      "Nông dân",
+      "Bác sĩ"
+    ],
+    "Fill_Blank": "The ______ managed the company's financial records.",
+    "Mistakes": [
+      "Treat sick/ ill people",
+      "Write computer programs",
+      "Teacher"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.7",
+    "English": "Shop assistant",
+    "Sub_English": "Nhân viên bán hàng",
+    "Example": "The shop assistant helped customers find products in the store.",
+    "English_Vocabulary_Test": [
+      "Việc làm bán thời gian",
+      "Đồng phục",
+      "Kế toán viên"
+    ],
+    "Fill_Blank": "The ______ helped customers find products in the store.",
+    "Mistakes": [
+      "Web designer",
+      "Hardware engineer",
+      "Work with numbers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.8",
+    "English": "Doctor",
+    "Sub_English": "Bác sĩ",
+    "Example": "The doctor examined the patient and prescribed medicine.",
+    "English_Vocabulary_Test": [
+      "Công ty nước ngoài",
+      "Chữa bệnh cho người ốm",
+      "Việc làm bán thời gian"
+    ],
+    "Fill_Blank": "The ______ examined the patient and prescribed medicine.",
+    "Mistakes": [
+      "Doctor",
+      "Work on a farm/ work in the field",
+      "Nurse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.9",
+    "English": "Software engineer",
+    "Sub_English": "Kỹ sư phần mềm",
+    "Example": "The software engineer developed a new computer program.",
+    "English_Vocabulary_Test": [
+      "Nông dân",
+      "Thời gian nghỉ lễ",
+      "Thiết kế trang web"
+    ],
+    "Fill_Blank": "The ______ developed a new computer program.",
+    "Mistakes": [
+      "Receptionist",
+      "Benefit",
+      "Shop assistant"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.10",
+    "English": "Web designer",
+    "Sub_English": "Nhà thiết kế web",
+    "Example": "The web designer created a visually appealing website.",
+    "English_Vocabulary_Test": [
+      "Nhân viên bán hàng",
+      "Chữa bệnh cho người ốm",
+      "Lễ tân"
+    ],
+    "Fill_Blank": "The ______ created a visually appealing website.",
+    "Mistakes": [
+      "Salary",
+      "Benefit",
+      "Design and develop IT devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.11",
+    "English": "Hardware engineer",
+    "Sub_English": "Kỹ sư phần cứng",
+    "Example": "The hardware engineer designed the circuit for the electronic device.",
+    "English_Vocabulary_Test": [
+      "Viết chương trình máy tính",
+      "Giảng bài",
+      "Việc làm toàn thời gian"
+    ],
+    "Fill_Blank": "The ______ designed the circuit for the electronic device.",
+    "Mistakes": [
+      "Benefit",
+      "Shop assistant",
+      "Worker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.12",
+    "English": "Support technician",
+    "Sub_English": "Kỹ thuật viên hỗ trợ",
+    "Example": "The support technician helped troubleshoot computer issues for the users.",
+    "English_Vocabulary_Test": [
+      "Đồng phục",
+      "Làm việc với số liệu",
+      "Kỹ sư phần cứng"
+    ],
+    "Fill_Blank": "The ______ helped troubleshoot computer issues for the users.",
+    "Mistakes": [
+      "Farmer",
+      "Vacation time",
+      "Help with computer problems"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.13",
+    "English": "Give lectures",
+    "Sub_English": "Giảng bài",
+    "Example": "The professor gives lectures on advanced mathematics.",
+    "English_Vocabulary_Test": [
+      "Làm việc trong nhà máy",
+      "Công ty địa phương",
+      "Kỹ thuật viên hỗ trợ"
+    ],
+    "Fill_Blank": "The professor gives lectures on advanced mathematics.",
+    "Mistakes": [
+      "Software engineer",
+      "Uniform",
+      "Look after patients"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.14",
+    "English": "Work on a farm/ work in the field",
+    "Sub_English": "Làm việc trên nông trại/ trên cánh đồng",
+    "Example": "The farmer works on a farm, involving planting and harvesting crops.",
+    "English_Vocabulary_Test": [
+      "Công ty nước ngoài",
+      "Thời gian làm việc linh hoạt",
+      "Chữa bệnh cho người ốm"
+    ],
+    "Fill_Blank": "The farmer works on a farm, involving planting and harvesting crops.",
+    "Mistakes": [
+      "Help with computer problems",
+      "Customer service",
+      "Salary"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.15",
+    "English": "Work in a factory",
+    "Sub_English": "Làm việc trong nhà máy",
+    "Example": "The workers work in a factory.",
+    "English_Vocabulary_Test": [
+      "Chữa bệnh cho người ốm",
+      "Chăm sóc bệnh nhân",
+      "Y tá"
+    ],
+    "Fill_Blank": "The workers ______.",
+    "Mistakes": [
+      "Look after patients",
+      "Farmer",
+      "Hardware engineer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.16",
+    "English": "Treat sick/ ill people",
+    "Sub_English": "Chữa bệnh cho người ốm",
+    "Example": "The doctor treats sick people in the hospital.",
+    "English_Vocabulary_Test": [
+      "Kỹ sư phần cứng",
+      "Kỹ thuật viên hỗ trợ",
+      "Bác sĩ"
+    ],
+    "Fill_Blank": "The doctor treats sick people in the hospital.",
+    "Mistakes": [
+      "Work in a factory",
+      "Uniform",
+      "Benefit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.17",
+    "English": "Look after patients",
+    "Sub_English": "Chăm sóc bệnh nhân",
+    "Example": "The nurse looks after patients during their recovery.",
+    "English_Vocabulary_Test": [
+      "Giáo viên",
+      "Y tá",
+      "Công nhân"
+    ],
+    "Fill_Blank": "The nurse looks after patients during their recovery.",
+    "Mistakes": [
+      "Customer service",
+      "Vacation time",
+      "Design and develop IT devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.18",
+    "English": "Help people on the phone",
+    "Sub_English": "Giúp đỡ mọi người qua điện thoại",
+    "Example": "The customer service representative helps people on the phone.",
+    "English_Vocabulary_Test": [
+      "Giáo viên",
+      "Bán hàng",
+      "Kế toán viên"
+    ],
+    "Fill_Blank": "The customer service representative helps people on the phone.",
+    "Mistakes": [
+      "Accountant",
+      "Worker",
+      "Nurse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.19",
+    "English": "Work with numbers",
+    "Sub_English": "Làm việc với số liệu",
+    "Example": "The accountant works with numbers to balance financial records.",
+    "English_Vocabulary_Test": [
+      "Thời gian làm việc linh hoạt",
+      "Giảng bài",
+      "Dịch vụ khách hàng"
+    ],
+    "Fill_Blank": "The accountant works with numbers to balance financial records.",
+    "Mistakes": [
+      "Full-time job",
+      "Benefit",
+      "Foreign company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.20",
+    "English": "Sell things",
+    "Sub_English": "Bán hàng",
+    "Example": "The shop assistant sells things to customers in the store.",
+    "English_Vocabulary_Test": [
+      "Việc làm bán thời gian",
+      "Y tá",
+      "Thiết kế trang web"
+    ],
+    "Fill_Blank": "The shop assistant sells things to customers in the store.",
+    "Mistakes": [
+      "Software engineer",
+      "Treat sick/ ill people",
+      "Sell things"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.21",
+    "English": "Write computer programs",
+    "Sub_English": "Viết chương trình máy tính",
+    "Example": "The software engineers write computer programs for applications.",
+    "English_Vocabulary_Test": [
+      "Giúp đỡ mọi người qua điện thoại",
+      "Làm việc trên nông trại/ trên cánh đồng",
+      "Kế toán viên"
+    ],
+    "Fill_Blank": "The software engineers ______ for applications.",
+    "Mistakes": [
+      "Vacation time",
+      "Customer service",
+      "Design and develop IT devices"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.22",
+    "English": "Design websites",
+    "Sub_English": "Thiết kế trang web",
+    "Example": "The web designer designs visually appealing websites.",
+    "English_Vocabulary_Test": [
+      "Viết chương trình máy tính",
+      "Kỹ sư phần cứng",
+      "Giảng bài"
+    ],
+    "Fill_Blank": "The web designer designs visually appealing websites.",
+    "Mistakes": [
+      "Foreign company",
+      "Support technician",
+      "Worker"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.23",
+    "English": "Help with computer problems",
+    "Sub_English": "Hỗ trợ sự cố máy tính",
+    "Example": "The support technicians help with computer problems for users.",
+    "English_Vocabulary_Test": [
+      "Thời gian làm việc linh hoạt",
+      "Giúp đỡ mọi người qua điện thoại",
+      "Việc làm bán thời gian"
+    ],
+    "Fill_Blank": "The support technicians ______ for users.",
+    "Mistakes": [
+      "Help with computer problems",
+      "Doctor",
+      "Customer service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.24",
+    "English": "Design and develop IT devices",
+    "Sub_English": "Thiết kế và phát triển thiết bị CNTT",
+    "Example": "The hardware engineer designs and develops innovative IT devices.",
+    "English_Vocabulary_Test": [
+      "Công ty địa phương",
+      "Bán hàng",
+      "Kỹ sư phần mềm"
+    ],
+    "Fill_Blank": "The hardware engineer designs and develops innovative IT devices.",
+    "Mistakes": [
+      "Worker",
+      "Support technician",
+      "Local company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.25",
+    "English": "Uniform",
+    "Sub_English": "Đồng phục",
+    "Example": "Employees in many professions wear a uniform to maintain a professional appearance.",
+    "English_Vocabulary_Test": [
+      "Thời gian làm việc linh hoạt",
+      "Thiết kế và phát triển thiết bị CNTT",
+      "Lương"
+    ],
+    "Fill_Blank": "Employees in many professions wear a ______ to maintain a professional appearance.",
+    "Mistakes": [
+      "Customer service",
+      "Web designer",
+      "Flexitime"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.26",
+    "English": "Part-time job",
+    "Sub_English": "Việc làm bán thời gian",
+    "Example": "Many students take on a part-time job to support themselves financially during their studies.",
+    "English_Vocabulary_Test": [
+      "Bán hàng",
+      "Thời gian làm việc linh hoạt",
+      "Làm việc với số liệu"
+    ],
+    "Fill_Blank": "Many students take on a ______ to support themselves financially during their studies.",
+    "Mistakes": [
+      "Foreign company",
+      "Nurse",
+      "Work with numbers"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.27",
+    "English": "Full-time job",
+    "Sub_English": "Việc làm toàn thời gian",
+    "Example": "Securing a full-time job with benefits is often a goal for individuals seeking stability in their careers.",
+    "English_Vocabulary_Test": [
+      "Đồng phục",
+      "Dịch vụ khách hàng",
+      "Kế toán viên"
+    ],
+    "Fill_Blank": "Securing a ______ with benefits is often a goal for individuals seeking stability in their careers.",
+    "Mistakes": [
+      "Shop assistant",
+      "Salary",
+      "Farmer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.28",
+    "English": "Local company",
+    "Sub_English": "Công ty địa phương",
+    "Example": "Working for a local company can provide a sense of community and connection to the region.",
+    "English_Vocabulary_Test": [
+      "Kỹ sư phần mềm",
+      "Kế toán viên",
+      "Dịch vụ khách hàng"
+    ],
+    "Fill_Blank": "Working for a ______ can provide a sense of community and connection to the region.",
+    "Mistakes": [
+      "Software engineer",
+      "Treat sick/ ill people",
+      "Sell things"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.29",
+    "English": "Foreign company",
+    "Sub_English": "Công ty nước ngoài",
+    "Example": "Some individuals aspire to work for a foreign company to experience different cultures and practices.",
+    "English_Vocabulary_Test": [
+      "Thiết kế trang web",
+      "Nhà thiết kế web",
+      "Lương"
+    ],
+    "Fill_Blank": "Some individuals aspire to work for a ______ to experience different cultures and practices.",
+    "Mistakes": [
+      "Look after patients",
+      "Nurse",
+      "Teacher"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.30",
+    "English": "Customer service",
+    "Sub_English": "Dịch vụ khách hàng",
+    "Example": "Effective customer service is essential for building and maintaining a positive reputation for a business.",
+    "English_Vocabulary_Test": [
+      "Nhân viên bán hàng",
+      "Bán hàng",
+      "Việc làm toàn thời gian"
+    ],
+    "Fill_Blank": "Effective ______ is essential for building and maintaining a positive reputation for a business.",
+    "Mistakes": [
+      "Look after patients",
+      "Give lectures",
+      "Sell things"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.31",
+    "English": "Salary",
+    "Sub_English": "Lương",
+    "Example": "Negotiating a competitive salary is an important aspect of job interviews and employment discussions.",
+    "English_Vocabulary_Test": [
+      "Nhà thiết kế web",
+      "Thiết kế trang web",
+      "Viết chương trình máy tính"
+    ],
+    "Fill_Blank": "Negotiating a competitive ______ is an important aspect of job interviews and employment discussions.",
+    "Mistakes": [
+      "Web designer",
+      "Accountant",
+      "Receptionist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.32",
+    "English": "Vacation time",
+    "Sub_English": "Thời gian nghỉ lễ",
+    "Example": "Employees often look forward to their vacation time as an opportunity to recharge and relax.",
+    "English_Vocabulary_Test": [
+      "Giúp đỡ mọi người qua điện thoại",
+      "Làm việc với số liệu",
+      "Đồng phục"
+    ],
+    "Fill_Blank": "Employees often look forward to their ______ as an opportunity to recharge and relax.",
+    "Mistakes": [
+      "Write computer programs",
+      "Worker",
+      "Receptionist"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.33",
+    "English": "Benefit",
+    "Sub_English": "Phúc lợi",
+    "Example": "Companies may offer various benefits such as health insurance and retirement plans to attract top talent.",
+    "English_Vocabulary_Test": [
+      "Giáo viên",
+      "Bán hàng",
+      "Nhà thiết kế web"
+    ],
+    "Fill_Blank": "Companies may offer various ______s such as health insurance and retirement plans to attract top talent.",
+    "Mistakes": [
+      "Part-time job",
+      "Vacation time",
+      "Give lectures"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.5.34",
+    "English": "Flexitime",
+    "Sub_English": "Thời gian làm việc linh hoạt",
+    "Example": "Flexitime allows employees to choose their work hours within certain flexible parameters.",
+    "English_Vocabulary_Test": [
+      "Công ty địa phương",
+      "Giảng bài",
+      "Dịch vụ khách hàng"
+    ],
+    "Fill_Blank": "______ allows employees to choose their work hours within certain flexible parameters.",
+    "Mistakes": [
+      "Give lectures",
+      "Help people on the phone",
+      "Help with computer problems"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.1",
+    "English": "Cook",
+    "Sub_English": "Nấu ăn",
+    "Example": "She loves to cook and experiment with new recipes in the kitchen.",
+    "English_Vocabulary_Test": [
+      "Đi xem phim",
+      "Đến câu lạc bộ",
+      "Xem TV"
+    ],
+    "Fill_Blank": "She loves to ______ and experiment with new recipes in the kitchen.",
+    "Mistakes": [
+      "Go camping",
+      "Listen to music",
+      "Take photographs"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.2",
+    "English": "Dance",
+    "Sub_English": "Nhảy múa",
+    "Example": "People often dance at parties and celebrations as a form of joyful expression.",
+    "English_Vocabulary_Test": [
+      "Ăn ở ngoài",
+      "Đi mua sắm",
+      "Tắm nắng"
+    ],
+    "Fill_Blank": "People often ______ at parties and celebrations as a form of joyful expression.",
+    "Mistakes": [
+      "Chat with friends",
+      "Go to the cinema",
+      "Go camping"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.3",
+    "English": "Go shopping",
+    "Sub_English": "Đi mua sắm",
+    "Example": "Many people enjoy going shopping on weekends to explore new fashion trends.",
+    "English_Vocabulary_Test": [
+      "Đi cắm trại",
+      "Tán gẫu với bạn bè",
+      "Xem TV"
+    ],
+    "Fill_Blank": "Many people enjoy going shopping on weekends to explore new fashion trends.",
+    "Mistakes": [
+      "Go sightseeing",
+      "Swim",
+      "Ski"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.4",
+    "English": "Swim",
+    "Sub_English": "Bơi lội",
+    "Example": "During the summer, families often go to the beach to swim and relax by the water.",
+    "English_Vocabulary_Test": [
+      "Nghe nhạc",
+      "Đọc sách",
+      "Đi ngắm cảnh"
+    ],
+    "Fill_Blank": "During the summer, families often go to the beach to ______ and relax by the water.",
+    "Mistakes": [
+      "Chat with friends",
+      "Surf the Internet",
+      "Dance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.5",
+    "English": "Eat out",
+    "Sub_English": "Ăn ở ngoài",
+    "Example": "On special occasions, the family likes to eat out at their favorite restaurant.",
+    "English_Vocabulary_Test": [
+      "Bơi lội",
+      "Trượt tuyết",
+      "Đi xem phim"
+    ],
+    "Fill_Blank": "On special occasions, the family likes to ______ at their favorite restaurant.",
+    "Mistakes": [
+      "Dance",
+      "Go to clubs",
+      "Ski"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.6",
+    "English": "Listen to music",
+    "Sub_English": "Nghe nhạc",
+    "Example": "After a long day, she likes to relax and listen to music to unwind.",
+    "English_Vocabulary_Test": [
+      "Nhảy múa",
+      "Tán gẫu với bạn bè",
+      "Đến câu lạc bộ"
+    ],
+    "Fill_Blank": "After a long day, she likes to relax and ______ to unwind.",
+    "Mistakes": [
+      "Walk",
+      "Go to clubs",
+      "Ski"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.7",
+    "English": "Surf the Internet",
+    "Sub_English": "Truy cập Internet",
+    "Example": "Many people spend their free time surfing the internet to stay updated on news and trends.",
+    "English_Vocabulary_Test": [
+      "Đi mua sắm",
+      "Ăn ở ngoài",
+      "Đi xem phim"
+    ],
+    "Fill_Blank": "Many people spend their free time surfing the internet to stay updated on news and trends.",
+    "Mistakes": [
+      "Surf the Internet",
+      "Swim",
+      "Sunbathe"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.8",
+    "English": "Read books",
+    "Sub_English": "Đọc sách",
+    "Example": "She enjoys spending her evenings reading books to expand her knowledge and imagination.",
+    "English_Vocabulary_Test": [
+      "Đi ngắm cảnh",
+      "Đi bộ",
+      "Đi tập gym"
+    ],
+    "Fill_Blank": "She enjoys spending her evenings reading books to expand her knowledge and imagination.",
+    "Mistakes": [
+      "Chat with friends",
+      "Go to the gym",
+      "Swim"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.9",
+    "English": "Take photographs",
+    "Sub_English": "Chụp ảnh",
+    "Example": "During vacations, he likes to take photographs to capture memorable moments.",
+    "English_Vocabulary_Test": [
+      "Trượt tuyết",
+      "Nghe nhạc",
+      "Nhảy múa"
+    ],
+    "Fill_Blank": "During vacations, he likes to ______ to capture memorable moments.",
+    "Mistakes": [
+      "Take photographs",
+      "Play computer games",
+      "Walk"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.10",
+    "English": "Go to the gym",
+    "Sub_English": "Đi tập gym",
+    "Example": "Maintaining a healthy lifestyle, she goes to the gym regularly for exercise.",
+    "English_Vocabulary_Test": [
+      "Bơi lội",
+      "Ăn ở ngoài",
+      "Đi ngắm cảnh"
+    ],
+    "Fill_Blank": "Maintaining a healthy lifestyle, she goes to the gym regularly for exercise.",
+    "Mistakes": [
+      "Cook",
+      "Sunbathe",
+      "Dance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.11",
+    "English": "Sunbathe",
+    "Sub_English": "Tắm nắng",
+    "Example": "On sunny days, people often sunbathe at the beach to get a tan.",
+    "English_Vocabulary_Test": [
+      "Đi ngắm cảnh",
+      "Trượt tuyết",
+      "Đi bộ"
+    ],
+    "Fill_Blank": "On sunny days, people often ______ at the beach to get a tan.",
+    "Mistakes": [
+      "Go to the cinema",
+      "Swim",
+      "Surf the Internet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.12",
+    "English": "Ski",
+    "Sub_English": "Trượt tuyết",
+    "Example": "During winter, many enthusiasts head to the mountains to ski and enjoy the snow.",
+    "English_Vocabulary_Test": [
+      "Ăn ở ngoài",
+      "Chơi game trên máy tính",
+      "Tán gẫu với bạn bè"
+    ],
+    "Fill_Blank": "During winter, many enthusiasts head to the mountains to ______ and enjoy the snow.",
+    "Mistakes": [
+      "Sunbathe",
+      "Dance",
+      "Swim"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.13",
+    "English": "Go to clubs",
+    "Sub_English": "Đến câu lạc bộ",
+    "Example": "Young adults often go to clubs to socialize and dance with friends.",
+    "English_Vocabulary_Test": [
+      "Đi mua sắm",
+      "Tán gẫu với bạn bè",
+      "Đi ngắm cảnh"
+    ],
+    "Fill_Blank": "Young adults often ______ to socialize and dance with friends.",
+    "Mistakes": [
+      "Watch TV",
+      "Read books",
+      "Go to the gym"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.14",
+    "English": "Chat with friends",
+    "Sub_English": "Tán gẫu với bạn bè",
+    "Example": "In the age of technology, people can easily chat with friends through messaging apps.",
+    "English_Vocabulary_Test": [
+      "Chơi game trên máy tính",
+      "Tắm nắng",
+      "Nấu ăn"
+    ],
+    "Fill_Blank": "In the age of technology, people can easily ______ through messaging apps.",
+    "Mistakes": [
+      "Take photographs",
+      "Go to clubs",
+      "Go shopping"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.15",
+    "English": "Play computer games",
+    "Sub_English": "Chơi game trên máy tính",
+    "Example": "Many individuals enjoy spending their leisure time playing computer games for entertainment.",
+    "English_Vocabulary_Test": [
+      "Đi cắm trại",
+      "Đi xem phim",
+      "Đọc sách"
+    ],
+    "Fill_Blank": "Many individuals enjoy spending their leisure time playing computer games for entertainment.",
+    "Mistakes": [
+      "Play computer games",
+      "Walk",
+      "Read books"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.16",
+    "English": "Go camping",
+    "Sub_English": "Đi cắm trại",
+    "Example": "Nature enthusiasts often go camping to experience the great outdoors and connect with nature.",
+    "English_Vocabulary_Test": [
+      "Chụp ảnh",
+      "Chơi game trên máy tính",
+      "Nhảy múa"
+    ],
+    "Fill_Blank": "Nature enthusiasts often ______ to experience the great outdoors and connect with nature.",
+    "Mistakes": [
+      "Go shopping",
+      "Go to the gym",
+      "Chat with friends"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.17",
+    "English": "Go to the cinema",
+    "Sub_English": "Đi xem phim",
+    "Example": "Cinema-goers enjoy the experience of watching movies on the big screen with surround sound.",
+    "English_Vocabulary_Test": [
+      "Chơi game trên máy tính",
+      "Ăn ở ngoài",
+      "Đến câu lạc bộ"
+    ],
+    "Fill_Blank": "Cinema-goers enjoy the experience of watching movies on the big screen with surround sound.",
+    "Mistakes": [
+      "Listen to music",
+      "Play computer games",
+      "Take photographs"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.18",
+    "English": "Walk",
+    "Sub_English": "Đi bộ",
+    "Example": "Taking a walk in the park is a simple yet effective way to stay physically active.",
+    "English_Vocabulary_Test": [
+      "Chụp ảnh",
+      "Đọc sách",
+      "Nhảy múa"
+    ],
+    "Fill_Blank": "Taking a ______ in the park is a simple yet effective way to stay physically active.",
+    "Mistakes": [
+      "Eat out",
+      "Sunbathe",
+      "Cook"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.19",
+    "English": "Go sightseeing",
+    "Sub_English": "Đi ngắm cảnh",
+    "Example": "When traveling to a new city, many tourists love to go sightseeing and explore its landmarks.",
+    "English_Vocabulary_Test": [
+      "Đi cắm trại",
+      "Nhảy múa",
+      "Nghe nhạc"
+    ],
+    "Fill_Blank": "When traveling to a new city, many tourists love to ______ and explore its landmarks.",
+    "Mistakes": [
+      "Read books",
+      "Take photographs",
+      "Swim"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.6.20",
+    "English": "Watch TV",
+    "Sub_English": "Xem TV",
+    "Example": "After a long day, some people like to relax and watch TV to unwind.",
+    "English_Vocabulary_Test": [
+      "Đọc sách",
+      "Tắm nắng",
+      "Đi bộ"
+    ],
+    "Fill_Blank": "After a long day, some people like to relax and ______ to unwind.",
+    "Mistakes": [
+      "Watch TV",
+      "Go sightseeing",
+      "Eat out"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.1",
+    "English": "Bacon",
+    "Sub_English": "Thịt xông khói",
+    "Example": "The smell of sizzling bacon in the morning is irresistible to many breakfast lovers.",
+    "English_Vocabulary_Test": [
+      "Bánh quy",
+      "Gạo",
+      "Chè"
+    ],
+    "Fill_Blank": "The smell of sizzling ______ in the morning is irresistible to many breakfast lovers.",
+    "Mistakes": [
+      "Sandwich",
+      "Steamed sticky rice",
+      "Broccoli"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.2",
+    "English": "Biscuit",
+    "Sub_English": "Bánh quy",
+    "Example": "Tea time in many cultures is accompanied by the delightful crunch of biscuits or cookies.",
+    "English_Vocabulary_Test": [
+      "Thịt cừu",
+      "Dâu tây",
+      "Mì ống"
+    ],
+    "Fill_Blank": "Tea time in many cultures is accompanied by the delightful crunch of ______s or cookies.",
+    "Mistakes": [
+      "Dragon fruit",
+      "Bacon",
+      "Durian"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.3",
+    "English": "Bread",
+    "Sub_English": "Bánh mì",
+    "Example": "Freshly baked bread with a crispy crust is a staple in many households around the world.",
+    "English_Vocabulary_Test": [
+      "Thịt heo",
+      "Cá hồi",
+      "Bánh mì kẹp"
+    ],
+    "Fill_Blank": "Freshly baked ______ with a crispy crust is a staple in many households around the world.",
+    "Mistakes": [
+      "Dragon fruit",
+      "Kebab rice noodles",
+      "Grapefruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.4",
+    "English": "Broccoli",
+    "Sub_English": "Bông cải xanh",
+    "Example": "Broccoli is a nutritious vegetable that can be steamed, roasted, or added to various dishes.",
+    "English_Vocabulary_Test": [
+      "Xôi",
+      "Bún",
+      "Đậu Hà Lan"
+    ],
+    "Fill_Blank": "______ is a nutritious vegetable that can be steamed, roasted, or added to various dishes.",
+    "Mistakes": [
+      "Spring roll",
+      "Pork",
+      "Lamb"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.5",
+    "English": "Butter",
+    "Sub_English": "Bơ",
+    "Example": "Butter adds a rich and creamy flavor to both sweet and savory dishes.",
+    "English_Vocabulary_Test": [
+      "Chanh xanh",
+      "Bánh chưng",
+      "Gạo"
+    ],
+    "Fill_Blank": "______ adds a rich and creamy flavor to both sweet and savory dishes.",
+    "Mistakes": [
+      "Salad",
+      "Tomato",
+      "Bacon"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.6",
+    "English": "Carrot",
+    "Sub_English": "Cà rốt",
+    "Example": "Carrots are not only crunchy and delicious but also packed with vitamins and nutrients.",
+    "English_Vocabulary_Test": [
+      "Kem",
+      "Bánh mì",
+      "Bún chả"
+    ],
+    "Fill_Blank": "______s are not only crunchy and delicious but also packed with vitamins and nutrients.",
+    "Mistakes": [
+      "Grapefruit",
+      "Chocolate",
+      "Ice-cream"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.7",
+    "English": "Cheese",
+    "Sub_English": "Phô mai",
+    "Example": "A cheese platter with a variety of cheeses is a popular appetizer at many gatherings.",
+    "English_Vocabulary_Test": [
+      "Thịt cừu",
+      "Nhãn",
+      "Khoai tây chiên"
+    ],
+    "Fill_Blank": "A ______ platter with a variety of ______s is a popular appetizer at many gatherings.",
+    "Mistakes": [
+      "Kebab rice noodles",
+      "Carrot",
+      "Cheese"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.8",
+    "English": "Chips",
+    "Sub_English": "Khoai tây chiên",
+    "Example": "Enjoying a movie night often includes snacking on a bowl of crispy chips.",
+    "English_Vocabulary_Test": [
+      "Bánh quy",
+      "Thịt xông khói",
+      "Bánh mì kẹp"
+    ],
+    "Fill_Blank": "Enjoying a movie night often includes snacking on a bowl of crispy ______.",
+    "Mistakes": [
+      "Stuffed pancake",
+      "Chung cake",
+      "Rice noodles"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.9",
+    "English": "Chocolate",
+    "Sub_English": "Sô cô la",
+    "Example": "Indulging in a piece of dark chocolate is a delightful way to satisfy sweet cravings.",
+    "English_Vocabulary_Test": [
+      "Bưởi",
+      "Khoai tây chiên",
+      "Bánh hamburger"
+    ],
+    "Fill_Blank": "Indulging in a piece of dark ______ is a delightful way to satisfy sweet cravings.",
+    "Mistakes": [
+      "Grapefruit",
+      "Chips",
+      "Strawberry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.10",
+    "English": "Hamburger",
+    "Sub_English": "Bánh hamburger",
+    "Example": "A juicy hamburger with all the toppings is a classic choice for a satisfying meal.",
+    "English_Vocabulary_Test": [
+      "Dâu tây",
+      "Bánh mì kẹp",
+      "Nem"
+    ],
+    "Fill_Blank": "A juicy ______ with all the toppings is a classic choice for a satisfying meal.",
+    "Mistakes": [
+      "Rice noodles",
+      "Sweet gruel",
+      "Durian"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.11",
+    "English": "Ice-cream",
+    "Sub_English": "Kem",
+    "Example": "Eating a scoop of creamy ice-cream is a delightful way to cool down on a hot summer day.",
+    "English_Vocabulary_Test": [
+      "Cá hồi",
+      "Bánh mì kẹp",
+      "Nhãn"
+    ],
+    "Fill_Blank": "Eating a scoop of creamy ______ is a delightful way to cool down on a hot summer day.",
+    "Mistakes": [
+      "Sausage",
+      "Longan",
+      "Kebab rice noodles"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.12",
+    "English": "Lamb",
+    "Sub_English": "Thịt cừu",
+    "Example": "Grilled lamb chops with herbs make for a flavorful and delicious dinner option.",
+    "English_Vocabulary_Test": [
+      "Khoai tây",
+      "Đậu Hà Lan",
+      "Sầu riêng"
+    ],
+    "Fill_Blank": "Grilled ______ chops with herbs make for a flavorful and delicious dinner option.",
+    "Mistakes": [
+      "Pizza",
+      "Salad",
+      "Steamed wheat flour cake"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.13",
+    "English": "Onion",
+    "Sub_English": "Hành tây",
+    "Example": "Caramelized onions add a sweet and savory flavor to various dishes, such as burgers and sandwiches.",
+    "English_Vocabulary_Test": [
+      "Bưởi",
+      "Bánh quy",
+      "Mít"
+    ],
+    "Fill_Blank": "Caramelized ______s add a sweet and savory flavor to various dishes, such as burgers and sandwiches.",
+    "Mistakes": [
+      "Butter",
+      "Rice noodles",
+      "Lamb"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.14",
+    "English": "Pasta",
+    "Sub_English": "Mì ống",
+    "Example": "Creamy Alfredo pasta with Parmesan cheese is a comforting and indulgent dish loved by many.",
+    "English_Vocabulary_Test": [
+      "Bánh cuốn",
+      "Mít",
+      "Khoai tây chiên"
+    ],
+    "Fill_Blank": "Creamy Alfredo ______ with Parmesan cheese is a comforting and indulgent dish loved by many.",
+    "Mistakes": [
+      "Kebab rice noodles",
+      "Durian",
+      "Spring roll"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.15",
+    "English": "Pea",
+    "Sub_English": "Đậu Hà Lan",
+    "Example": "Fresh peas add a burst of sweetness and color to salads and various culinary creations.",
+    "English_Vocabulary_Test": [
+      "Sa lát",
+      "Thịt cừu",
+      "Thanh long"
+    ],
+    "Fill_Blank": "Fresh ______s add a burst of sweetness and color to salads and various culinary creations.",
+    "Mistakes": [
+      "Pork",
+      "Stuffed pancake",
+      "Toast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.16",
+    "English": "Pizza",
+    "Sub_English": "Bánh pizza",
+    "Example": "A hot and cheesy pizza is a favorite choice for a casual and satisfying meal.",
+    "English_Vocabulary_Test": [
+      "Chè",
+      "Quả bơ",
+      "Bánh hamburger"
+    ],
+    "Fill_Blank": "A hot and cheesy ______ is a favorite choice for a casual and satisfying meal.",
+    "Mistakes": [
+      "Jackfruit",
+      "Steamed sticky rice",
+      "Onion"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.17",
+    "English": "Pork",
+    "Sub_English": "Thịt heo",
+    "Example": "Grilled pork chops with a flavorful marinade are a delicious and hearty main dish.",
+    "English_Vocabulary_Test": [
+      "Sa lát",
+      "Cà chua",
+      "Bánh quy"
+    ],
+    "Fill_Blank": "Grilled ______ chops with a flavorful marinade are a delicious and hearty main dish.",
+    "Mistakes": [
+      "Pizza",
+      "Pork",
+      "Steamed sticky rice"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.18",
+    "English": "Potato",
+    "Sub_English": "Khoai tây",
+    "Example": "Mashed potatoes with butter and herbs are a classic and comforting side dish.",
+    "English_Vocabulary_Test": [
+      "Kem",
+      "Thịt xông khói",
+      "Thịt bò"
+    ],
+    "Fill_Blank": "Mashed ______es with butter and herbs are a classic and comforting side dish.",
+    "Mistakes": [
+      "Chips",
+      "Starfruit",
+      "Dragon fruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.19",
+    "English": "Rice",
+    "Sub_English": "Gạo",
+    "Example": "Steamed jasmine rice is a versatile and staple ingredient in many Asian cuisines.",
+    "English_Vocabulary_Test": [
+      "Thịt bò",
+      "Xôi",
+      "Bơ"
+    ],
+    "Fill_Blank": "Steamed jasmine ______ is a versatile and staple ingredient in many Asian cuisines.",
+    "Mistakes": [
+      "Pasta",
+      "Hamburger",
+      "Bread"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.20",
+    "English": "Salad",
+    "Sub_English": "Sa lát",
+    "Example": "A crisp and refreshing salad with mixed greens is a healthy choice for a light meal.",
+    "English_Vocabulary_Test": [
+      "Dưa hấu",
+      "Vải",
+      "Sô cô la"
+    ],
+    "Fill_Blank": "A crisp and refreshing ______ with mixed greens is a healthy choice for a light meal.",
+    "Mistakes": [
+      "Bread",
+      "Grapefruit",
+      "Tuna"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.21",
+    "English": "Salmon",
+    "Sub_English": "Cá hồi",
+    "Example": "Grilled salmon with a lemon dill sauce is a flavorful and nutritious seafood dish.",
+    "English_Vocabulary_Test": [
+      "Phô mai",
+      "Cá ngừ",
+      "Bánh bao"
+    ],
+    "Fill_Blank": "Grilled ______ with a lemon dill sauce is a flavorful and nutritious seafood dish.",
+    "Mistakes": [
+      "Bacon",
+      "Sweet gruel",
+      "Guava"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.22",
+    "English": "Sandwich",
+    "Sub_English": "Bánh mì kẹp",
+    "Example": "A classic club sandwich with layers of ham, turkey, and bacon is a satisfying lunch option.",
+    "English_Vocabulary_Test": [
+      "Cà chua",
+      "Khế",
+      "Đậu Hà Lan"
+    ],
+    "Fill_Blank": "A classic club ______ with layers of ham, turkey, and bacon is a satisfying lunch option.",
+    "Mistakes": [
+      "Lime",
+      "Butter",
+      "Jackfruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.23",
+    "English": "Sausage",
+    "Sub_English": "Xúc xích",
+    "Example": "Grilled sausages with mustard and sauerkraut are a popular choice at outdoor barbecues.",
+    "English_Vocabulary_Test": [
+      "Sầu riêng",
+      "Bún chả",
+      "Đậu Hà Lan"
+    ],
+    "Fill_Blank": "Grilled ______s with mustard and sauerkraut are a popular choice at outdoor barbecues.",
+    "Mistakes": [
+      "Stuffed pancake",
+      "Pizza",
+      "Toast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.24",
+    "English": "Strawberry",
+    "Sub_English": "Dâu tây",
+    "Example": "Fresh strawberries with whipped cream are a delightful and sweet dessert option.",
+    "English_Vocabulary_Test": [
+      "Gạo",
+      "Cà rốt",
+      "Bánh bao"
+    ],
+    "Fill_Blank": "Fresh strawberries with whipped cream are a delightful and sweet dessert option.",
+    "Mistakes": [
+      "Lime",
+      "Butter",
+      "Pork"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.25",
+    "English": "Toast",
+    "Sub_English": "Bánh mì nướng",
+    "Example": "Buttered toast with jam is a simple and comforting breakfast choice for many people.",
+    "English_Vocabulary_Test": [
+      "Mì ống",
+      "Bánh cuốn",
+      "Cà chua"
+    ],
+    "Fill_Blank": "Buttered ______ with jam is a simple and comforting breakfast choice for many people.",
+    "Mistakes": [
+      "Pork",
+      "Jackfruit",
+      "Grapefruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.26",
+    "English": "Tomato",
+    "Sub_English": "Cà chua",
+    "Example": "Fresh tomatoes are a versatile ingredient used in salads, sauces, and sandwiches.",
+    "English_Vocabulary_Test": [
+      "Bún",
+      "Chè",
+      "Thịt cừu"
+    ],
+    "Fill_Blank": "Fresh ______es are a versatile ingredient used in salads, sauces, and sandwiches.",
+    "Mistakes": [
+      "Pork",
+      "Lime",
+      "Chocolate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.27",
+    "English": "Tuna",
+    "Sub_English": "Cá ngừ",
+    "Example": "Tuna salad with mayonnaise and celery is a quick and tasty option for a light lunch.",
+    "English_Vocabulary_Test": [
+      "Nhãn",
+      "Bánh cuốn",
+      "Khoai tây chiên"
+    ],
+    "Fill_Blank": "______ salad with mayonnaise and celery is a quick and tasty option for a light lunch.",
+    "Mistakes": [
+      "Grapefruit",
+      "Strawberry",
+      "Steamed sticky rice"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.28",
+    "English": "Watermelon",
+    "Sub_English": "Dưa hấu",
+    "Example": "Slices of juicy watermelon are a refreshing and hydrating treat on a hot summer day.",
+    "English_Vocabulary_Test": [
+      "Khế",
+      "Xúc xích",
+      "Phô mai"
+    ],
+    "Fill_Blank": "Slices of juicy ______ are a refreshing and hydrating treat on a hot summer day.",
+    "Mistakes": [
+      "Sausage",
+      "Beef",
+      "Pizza"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.29",
+    "English": "Beef",
+    "Sub_English": "Thịt bò",
+    "Example": "A grilled beef steak with garlic butter is a savory and satisfying choice for dinner.",
+    "English_Vocabulary_Test": [
+      "Khế",
+      "Quả bơ",
+      "Gạo"
+    ],
+    "Fill_Blank": "A grilled ______ steak with garlic butter is a savory and satisfying choice for dinner.",
+    "Mistakes": [
+      "Jackfruit",
+      "Steamed wheat flour cake",
+      "Toast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.30",
+    "English": "Chung cake",
+    "Sub_English": "Bánh chưng",
+    "Example": "Chung cake, a traditional Vietnamese dish, is often made and enjoyed during the Lunar New Year.",
+    "English_Vocabulary_Test": [
+      "Bánh mì nướng",
+      "Sô cô la",
+      "Chè"
+    ],
+    "Fill_Blank": "______, a traditional Vietnamese dish, is often made and enjoyed during the Lunar New Year.",
+    "Mistakes": [
+      "Jackfruit",
+      "Longan",
+      "Salad"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.31",
+    "English": "Spring roll",
+    "Sub_English": "Nem",
+    "Example": "Fresh and crunchy spring rolls with a tasty dipping sauce are a popular Vietnamese appetizer.",
+    "English_Vocabulary_Test": [
+      "Khoai tây",
+      "Cá hồi",
+      "Bưởi"
+    ],
+    "Fill_Blank": "Fresh and crunchy ______s with a tasty dipping sauce are a popular Vietnamese appetizer.",
+    "Mistakes": [
+      "Carrot",
+      "Tuna",
+      "Biscuit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.32",
+    "English": "Stuffed pancake",
+    "Sub_English": "Bánh cuốn",
+    "Example": "A savory and crispy stuffed pancake filled with shrimp, pork, and bean sprouts is a delicious dish.",
+    "English_Vocabulary_Test": [
+      "Kem",
+      "Hành tây",
+      "Dâu tây"
+    ],
+    "Fill_Blank": "A savory and crispy ______ filled with shrimp, pork, and bean sprouts is a delicious dish.",
+    "Mistakes": [
+      "Bread",
+      "Lamb",
+      "Rice"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.33",
+    "English": "Rice noodles",
+    "Sub_English": "Bún",
+    "Example": "Rice noodles served with grilled meat, fresh herbs, and a flavorful sauce make a tasty and light meal.",
+    "English_Vocabulary_Test": [
+      "Bún chả",
+      "Thịt cừu",
+      "Bánh bao"
+    ],
+    "Fill_Blank": "______ served with grilled meat, fresh herbs, and a flavorful sauce make a tasty and light meal.",
+    "Mistakes": [
+      "Pork",
+      "Strawberry",
+      "Starfruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.34",
+    "English": "Kebab rice noodles",
+    "Sub_English": "Bún chả",
+    "Example": "Kebab rice noodles with grilled pork and a side of dipping sauce are a popular street food in Vietnam.",
+    "English_Vocabulary_Test": [
+      "Thịt heo",
+      "Ổi",
+      "Bánh mì"
+    ],
+    "Fill_Blank": "______ with grilled pork and a side of dipping sauce are a popular street food in Vietnam.",
+    "Mistakes": [
+      "Chips",
+      "Bread",
+      "Lamb"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.35",
+    "English": "Sweet gruel",
+    "Sub_English": "Chè",
+    "Example": "Sweet gruel with mung beans, coconut milk, and glutinous rice balls is a popular Vietnamese dessert.",
+    "English_Vocabulary_Test": [
+      "Quả bơ",
+      "Phô mai",
+      "Kem"
+    ],
+    "Fill_Blank": "______ with mung beans, coconut milk, and glutinous rice balls is a popular Vietnamese dessert.",
+    "Mistakes": [
+      "Kebab rice noodles",
+      "Salmon",
+      "Dragon fruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.36",
+    "English": "Steamed sticky rice",
+    "Sub_English": "Xôi",
+    "Example": "Steamed sticky rice topped with shredded chicken and fried shallots is a traditional and flavorful dish.",
+    "English_Vocabulary_Test": [
+      "Vải",
+      "Sô cô la",
+      "Bánh mì kẹp"
+    ],
+    "Fill_Blank": "______ topped with shredded chicken and fried shallots is a traditional and flavorful dish.",
+    "Mistakes": [
+      "Tuna",
+      "Lamb",
+      "Guava"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.37",
+    "English": "Steamed wheat flour cake",
+    "Sub_English": "Bánh bao",
+    "Example": "Steamed wheat flour cake, a sponge cake with a unique honeycomb pattern, is a popular Vietnamese dessert.",
+    "English_Vocabulary_Test": [
+      "Xôi",
+      "Bưởi",
+      "Bún"
+    ],
+    "Fill_Blank": "______, a sponge cake with a unique honeycomb pattern, is a popular Vietnamese dessert.",
+    "Mistakes": [
+      "Stuffed pancake",
+      "Grapefruit",
+      "Rice noodles"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.38",
+    "English": "Avocado",
+    "Sub_English": "Quả bơ",
+    "Example": "Avocado, with its creamy texture and mild flavor, is a versatile ingredient in salads, smoothies, and dips.",
+    "English_Vocabulary_Test": [
+      "Bánh hamburger",
+      "Sầu riêng",
+      "Hành tây"
+    ],
+    "Fill_Blank": "______, with its creamy texture and mild flavor, is a versatile ingredient in salads, smoothies, and dips.",
+    "Mistakes": [
+      "Rice",
+      "Pasta",
+      "Grapefruit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.39",
+    "English": "Grapefruit",
+    "Sub_English": "Bưởi",
+    "Example": "Fresh and tangy grapefruit segments add a burst of citrus flavor to salads and desserts.",
+    "English_Vocabulary_Test": [
+      "Bánh mì",
+      "Phô mai",
+      "Khoai tây chiên"
+    ],
+    "Fill_Blank": "Fresh and tangy ______ segments add a burst of citrus flavor to salads and desserts.",
+    "Mistakes": [
+      "Rice noodles",
+      "Ice-cream",
+      "Pasta"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.40",
+    "English": "Starfruit",
+    "Sub_English": "Khế",
+    "Example": "Starfruit, also known as carambola, has a unique star shape and a sweet-tart flavor.",
+    "English_Vocabulary_Test": [
+      "Chè",
+      "Thịt bò",
+      "Bông cải xanh"
+    ],
+    "Fill_Blank": "______, also known as carambola, has a unique star shape and a sweet-tart flavor.",
+    "Mistakes": [
+      "Chips",
+      "Lime",
+      "Tuna"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.41",
+    "English": "Jackfruit",
+    "Sub_English": "Mít",
+    "Example": "Jackfruit, a tropical fruit with a fibrous texture, is often used as a meat substitute in vegan dishes.",
+    "English_Vocabulary_Test": [
+      "Bánh mì nướng",
+      "Phô mai",
+      "Bưởi"
+    ],
+    "Fill_Blank": "______, a tropical fruit with a fibrous texture, is often used as a meat substitute in vegan dishes.",
+    "Mistakes": [
+      "Strawberry",
+      "Stuffed pancake",
+      "Chocolate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.42",
+    "English": "Durian",
+    "Sub_English": "Sầu riêng",
+    "Example": "Durian, known as the 'king of fruits,' has a strong odor but a rich and custard-like flavor.",
+    "English_Vocabulary_Test": [
+      "Bưởi",
+      "Dưa hấu",
+      "Đậu Hà Lan"
+    ],
+    "Fill_Blank": "______, known as the 'king of fruits,' has a strong odor but a rich and custard-like flavor.",
+    "Mistakes": [
+      "Bread",
+      "Chocolate",
+      "Lime"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.43",
+    "English": "Grapefruit",
+    "Sub_English": "Bưởi",
+    "Example": "Grapefruit, known as the 'king of fruits,' has a strong odor but a rich and custard-like flavor.",
+    "English_Vocabulary_Test": [
+      "Gạo",
+      "Bánh quy",
+      "Sa lát"
+    ],
+    "Fill_Blank": "______, known as the 'king of fruits,' has a strong odor but a rich and custard-like flavor.",
+    "Mistakes": [
+      "Guava",
+      "Bacon",
+      "Ice-cream"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.44",
+    "English": "Lime",
+    "Sub_English": "Chanh xanh",
+    "Example": "Lime is a citrus fruit known for its sour taste and bright green color.",
+    "English_Vocabulary_Test": [
+      "Bưởi",
+      "Cá hồi",
+      "Bánh mì"
+    ],
+    "Fill_Blank": "______ is a citrus fruit known for its sour taste and bright green color.",
+    "Mistakes": [
+      "Dragon fruit",
+      "Chung cake",
+      "Chips"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.45",
+    "English": "Guava",
+    "Sub_English": "Ổi",
+    "Example": "Guava is a tropical fruit with a sweet and fragrant taste, often eaten fresh or used in beverages and desserts.",
+    "English_Vocabulary_Test": [
+      "Bánh mì nướng",
+      "Xôi",
+      "Khoai tây chiên"
+    ],
+    "Fill_Blank": "______ is a tropical fruit with a sweet and fragrant taste, often eaten fresh or used in beverages and desserts.",
+    "Mistakes": [
+      "Salmon",
+      "Durian",
+      "Bacon"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.46",
+    "English": "Lychee",
+    "Sub_English": "Vải",
+    "Example": "Lychee is a small, sweet fruit with a rough, red outer skin and juicy, white flesh.",
+    "English_Vocabulary_Test": [
+      "Chè",
+      "Dâu tây",
+      "Cà rốt"
+    ],
+    "Fill_Blank": "______ is a small, sweet fruit with a rough, red outer skin and juicy, white flesh.",
+    "Mistakes": [
+      "Grapefruit",
+      "Sausage",
+      "Biscuit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.47",
+    "English": "Longan",
+    "Sub_English": "Nhãn",
+    "Example": "Longan is a tropical fruit similar to lychee, known for its sweet and translucent flesh.",
+    "English_Vocabulary_Test": [
+      "Bưởi",
+      "Bún",
+      "Bánh bao"
+    ],
+    "Fill_Blank": "______ is a tropical fruit similar to lychee, known for its sweet and translucent flesh.",
+    "Mistakes": [
+      "Cheese",
+      "Longan",
+      "Strawberry"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.7.48",
+    "English": "Dragon fruit",
+    "Sub_English": "Thanh long",
+    "Example": "Dragon fruit, or pitaya, is a vibrant and exotic fruit with a mildly sweet flavor and a unique appearance.",
+    "English_Vocabulary_Test": [
+      "Đậu Hà Lan",
+      "Xúc xích",
+      "Bánh cuốn"
+    ],
+    "Fill_Blank": "______, or pitaya, is a vibrant and exotic fruit with a mildly sweet flavor and a unique appearance.",
+    "Mistakes": [
+      "Longan",
+      "Starfruit",
+      "Lychee"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.1",
+    "English": "Windsurfing",
+    "Sub_English": "Lướt ván buồm",
+    "Example": "Windsurfing combines elements of surfing and sailing, using the wind to propel the board across the water.",
+    "English_Vocabulary_Test": [
+      "Quần vợt",
+      "Võ Karate",
+      "Đi bộ đường dài"
+    ],
+    "Fill_Blank": "______ combines elements of surfing and sailing, using the wind to propel the board across the water.",
+    "Mistakes": [
+      "Karate",
+      "Golf",
+      "Tennis"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.2",
+    "English": "Sailing",
+    "Sub_English": "Chèo thuyền",
+    "Example": "Sailing involves navigating a boat by harnessing the power of the wind, making it a popular water sport.",
+    "English_Vocabulary_Test": [
+      "Cầu lông",
+      "Quần vợt",
+      "Trượt băng"
+    ],
+    "Fill_Blank": "______ involves navigating a boat by harnessing the power of the wind, making it a popular water sport.",
+    "Mistakes": [
+      "Baseball",
+      "Yoga",
+      "Basketball"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.3",
+    "English": "Skateboarding",
+    "Sub_English": "Trượt ván",
+    "Example": "Skateboarding involves riding on a flat board with wheels and performing tricks and stunts.",
+    "English_Vocabulary_Test": [
+      "Yoga",
+      "Cử tạ",
+      "Võ Karate"
+    ],
+    "Fill_Blank": "______ involves riding on a flat board with wheels and performing tricks and stunts.",
+    "Mistakes": [
+      "Hiking",
+      "Aerobics",
+      "Badminton"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.4",
+    "English": "Roller-skating",
+    "Sub_English": "Trượt patin",
+    "Example": "Roller-skating is a recreational activity or sport where individuals move on roller skates with wheels.",
+    "English_Vocabulary_Test": [
+      "Bóng chày",
+      "Trượt ván",
+      "Quần vợt"
+    ],
+    "Fill_Blank": "______ is a recreational activity or sport where individuals move on roller skates with wheels.",
+    "Mistakes": [
+      "Jogging",
+      "Aerobics",
+      "Basketball"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.5",
+    "English": "Aerobics",
+    "Sub_English": "Thể dục nhịp điệu",
+    "Example": "Aerobics is a form of exercise that combines rhythmic movements with music to improve cardiovascular fitness.",
+    "English_Vocabulary_Test": [
+      "Cử tạ",
+      "Quyền Anh",
+      "Chạy bộ"
+    ],
+    "Fill_Blank": "______ is a form of exercise that combines rhythmic movements with music to improve cardiovascular fitness.",
+    "Mistakes": [
+      "Sailing",
+      "Ice-skating",
+      "Yoga"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.6",
+    "English": "Basketball",
+    "Sub_English": "Bóng rổ",
+    "Example": "Basketball is a team sport where two teams compete to score points by throwing a ball through the opponent's hoop.",
+    "English_Vocabulary_Test": [
+      "Võ Karate",
+      "Bóng bàn",
+      "Thể dục nhịp điệu"
+    ],
+    "Fill_Blank": "______ is a team sport where two teams compete to score points by throwing a ball through the opponent's hoop.",
+    "Mistakes": [
+      "Karate",
+      "Ice-skating",
+      "Golf"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.7",
+    "English": "Volleyball",
+    "Sub_English": "Bóng chuyền",
+    "Example": "Volleyball is a sport where two teams hit a ball back and forth over a net, trying to score points.",
+    "English_Vocabulary_Test": [
+      "Võ Judo",
+      "Cử tạ",
+      "Chạy bộ"
+    ],
+    "Fill_Blank": "______ is a sport where two teams hit a ball back and forth over a net, trying to score points.",
+    "Mistakes": [
+      "Volleyball",
+      "Cycling",
+      "Ice-skating"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.8",
+    "English": "Baseball",
+    "Sub_English": "Bóng chày",
+    "Example": "Baseball is a bat-and-ball game played between two teams, with the goal of scoring runs by hitting a pitched ball.",
+    "English_Vocabulary_Test": [
+      "Bóng rổ",
+      "Lướt ván buồm",
+      "Đạp xe"
+    ],
+    "Fill_Blank": "______ is a bat-and-ball game played between two teams, with the goal of scoring runs by hitting a pitched ball.",
+    "Mistakes": [
+      "Table tennis",
+      "Judo",
+      "Boxing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.9",
+    "English": "Golf",
+    "Sub_English": "Chơi gôn",
+    "Example": "Golf is a sport in which players use various clubs to hit balls into a series of holes in as few strokes as possible.",
+    "English_Vocabulary_Test": [
+      "Cầu lông",
+      "Lướt ván buồm",
+      "Đạp xe"
+    ],
+    "Fill_Blank": "______ is a sport in which players use various clubs to hit balls into a series of holes in as few strokes as possible.",
+    "Mistakes": [
+      "Boxing",
+      "Hockey",
+      "Baseball"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.10",
+    "English": "Hockey",
+    "Sub_English": "Khúc côn cầu",
+    "Example": "Hockey is a team sport played on grass or artificial turf, in which players use a hockey stick to hit a small, hard ball into the opposing team's goal.",
+    "English_Vocabulary_Test": [
+      "Cầu lông",
+      "Lướt ván buồm",
+      "Cử tạ"
+    ],
+    "Fill_Blank": "______ is a team sport played on grass or artificial turf, in which players use a ______ stick to hit a small, hard ball into the opposing team's goal.",
+    "Mistakes": [
+      "Yoga",
+      "Table tennis",
+      "Sailing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.11",
+    "English": "Jogging",
+    "Sub_English": "Chạy bộ",
+    "Example": "Jogging is a form of running at a slow, steady pace, often done for exercise.",
+    "English_Vocabulary_Test": [
+      "Khúc côn cầu",
+      "Quyền Anh",
+      "Thể dục nhịp điệu"
+    ],
+    "Fill_Blank": "______ is a form of running at a slow, steady pace, often done for exercise.",
+    "Mistakes": [
+      "Jogging",
+      "Cycling",
+      "Badminton"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.12",
+    "English": "Hiking",
+    "Sub_English": "Đi bộ đường dài",
+    "Example": "Hiking is the activity of going for long walks, especially across country areas.",
+    "English_Vocabulary_Test": [
+      "Võ Karate",
+      "Bóng chuyền",
+      "Bóng bàn"
+    ],
+    "Fill_Blank": "______ is the activity of going for long walks, especially across country areas.",
+    "Mistakes": [
+      "Windsurfing",
+      "Aerobics",
+      "Roller-skating"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.13",
+    "English": "Cycling",
+    "Sub_English": "Đạp xe",
+    "Example": "Cycling is the activity of riding a bicycle for pleasure or as a sport.",
+    "English_Vocabulary_Test": [
+      "Võ Karate",
+      "Trượt băng",
+      "Chèo thuyền"
+    ],
+    "Fill_Blank": "______ is the activity of riding a bicycle for pleasure or as a sport.",
+    "Mistakes": [
+      "Hockey",
+      "Boxing",
+      "Yoga"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.14",
+    "English": "Badminton",
+    "Sub_English": "Cầu lông",
+    "Example": "Badminton is a racquet sport played by either two opposing players (singles) or two opposing pairs (doubles), who take positions on opposite halves of a rectangular court divided by a net.",
+    "English_Vocabulary_Test": [
+      "Chèo thuyền",
+      "Bóng chày",
+      "Cử tạ"
+    ],
+    "Fill_Blank": "______ is a racquet sport played by either two opposing players (singles) or two opposing pairs (doubles), who take positions on opposite halves of a rectangular court divided by a net.",
+    "Mistakes": [
+      "Basketball",
+      "Ice-skating",
+      "Volleyball"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.15",
+    "English": "Boxing",
+    "Sub_English": "Quyền Anh",
+    "Example": "Boxing is a combat sport in which two people, usually wearing protective gloves, throw punches at each other for a predetermined amount of time in a boxing ring.",
+    "English_Vocabulary_Test": [
+      "Khúc côn cầu",
+      "Lướt ván buồm",
+      "Trượt patin"
+    ],
+    "Fill_Blank": "______ is a combat sport in which two people, usually wearing protective gloves, throw punches at each other for a predetermined amount of time in a ______ ring.",
+    "Mistakes": [
+      "Hiking",
+      "Windsurfing",
+      "Hockey"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.16",
+    "English": "Karate",
+    "Sub_English": "Võ Karate",
+    "Example": "Karate is a martial art developed in the Ryukyu Islands, influenced by indigenous fighting methods from Okinawa and Chinese martial arts.",
+    "English_Vocabulary_Test": [
+      "Quyền Anh",
+      "Bóng bàn",
+      "Cầu lông"
+    ],
+    "Fill_Blank": "______ is a martial art developed in the Ryukyu Islands, influenced by indigenous fighting methods from Okinawa and Chinese martial arts.",
+    "Mistakes": [
+      "Hockey",
+      "Golf",
+      "Windsurfing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.17",
+    "English": "Judo",
+    "Sub_English": "Võ Judo",
+    "Example": "Judo is a modern martial art and Olympic sport that originated in Japan, emphasizing throws and grappling techniques.",
+    "English_Vocabulary_Test": [
+      "Trượt băng",
+      "Thể dục nhịp điệu",
+      "Võ Karate"
+    ],
+    "Fill_Blank": "______ is a modern martial art and Olympic sport that originated in Japan, emphasizing throws and grappling techniques.",
+    "Mistakes": [
+      "Golf",
+      "Roller-skating",
+      "Table tennis"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.18",
+    "English": "Yoga",
+    "Sub_English": "Yoga",
+    "Example": "Yoga is a physical, mental, and spiritual practice that originated in ancient India, focusing on breath control, meditation, and adopting specific bodily postures.",
+    "English_Vocabulary_Test": [
+      "Chèo thuyền",
+      "Lướt ván buồm",
+      "Võ Karate"
+    ],
+    "Fill_Blank": "______ is a physical, mental, and spiritual practice that originated in ancient India, focusing on breath control, meditation, and adopting specific bodily postures.",
+    "Mistakes": [
+      "Roller-skating",
+      "Skateboarding",
+      "Tennis"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.19",
+    "English": "Weightlifting",
+    "Sub_English": "Cử tạ",
+    "Example": "Weightlifting is a sport in which athletes lift weights, typically in sets of single or compound movements.",
+    "English_Vocabulary_Test": [
+      "Khúc côn cầu",
+      "Đi bộ đường dài",
+      "Võ Judo"
+    ],
+    "Fill_Blank": "______ is a sport in which athletes lift weights, typically in sets of single or compound movements.",
+    "Mistakes": [
+      "Aerobics",
+      "Tennis",
+      "Boxing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.20",
+    "English": "Table tennis",
+    "Sub_English": "Bóng bàn",
+    "Example": "Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using small rackets.",
+    "English_Vocabulary_Test": [
+      "Lướt ván buồm",
+      "Chơi gôn",
+      "Trượt ván"
+    ],
+    "Fill_Blank": "______, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using small rackets.",
+    "Mistakes": [
+      "Hiking",
+      "Hockey",
+      "Skateboarding"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.21",
+    "English": "Ice-skating",
+    "Sub_English": "Trượt băng",
+    "Example": "Ice-skating is the act of moving on ice using ice skates, often done for leisure or as a sport.",
+    "English_Vocabulary_Test": [
+      "Cầu lông",
+      "Chơi gôn",
+      "Yoga"
+    ],
+    "Fill_Blank": "______ is the act of moving on ice using ice skates, often done for leisure or as a sport.",
+    "Mistakes": [
+      "Baseball",
+      "Judo",
+      "Weightlifting"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.8.22",
+    "English": "Tennis",
+    "Sub_English": "Quần vợt",
+    "Example": "Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles).",
+    "English_Vocabulary_Test": [
+      "Chèo thuyền",
+      "Cầu lông",
+      "Chạy bộ"
+    ],
+    "Fill_Blank": "______ is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles).",
+    "Mistakes": [
+      "Hiking",
+      "Weightlifting",
+      "Volleyball"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.1",
+    "English": "January",
+    "Sub_English": "Tháng Một",
+    "Example": "January is the first month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Hai",
+      "Tháng Mười Hai",
+      "Tháng Tám"
+    ],
+    "Fill_Blank": "______ is the first month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "September",
+      "March",
+      "April"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.2",
+    "English": "February",
+    "Sub_English": "Tháng Hai",
+    "Example": "February is the second month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Sáu",
+      "Tháng Một",
+      "Tháng Ba"
+    ],
+    "Fill_Blank": "______ is the second month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "May",
+      "August",
+      "February"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.3",
+    "English": "March",
+    "Sub_English": "Tháng Ba",
+    "Example": "March is the third month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Sáu",
+      "Tháng Tám",
+      "Tháng Mười Một"
+    ],
+    "Fill_Blank": "______ is the third month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "December",
+      "June",
+      "August"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.4",
+    "English": "April",
+    "Sub_English": "Tháng Tư",
+    "Example": "April is the fourth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Bảy",
+      "Tháng Sáu",
+      "Tháng Năm"
+    ],
+    "Fill_Blank": "______ is the fourth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "February",
+      "November",
+      "July"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.5",
+    "English": "May",
+    "Sub_English": "Tháng Năm",
+    "Example": "May is the fifth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Chín",
+      "Tháng Mười Một",
+      "Tháng Hai"
+    ],
+    "Fill_Blank": "______ is the fifth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "March",
+      "April",
+      "May"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.6",
+    "English": "June",
+    "Sub_English": "Tháng Sáu",
+    "Example": "June is the sixth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Ba",
+      "Tháng Năm",
+      "Tháng Tư"
+    ],
+    "Fill_Blank": "______ is the sixth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "January",
+      "July",
+      "November"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.7",
+    "English": "July",
+    "Sub_English": "Tháng Bảy",
+    "Example": "July is the seventh month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Sáu",
+      "Tháng Chín",
+      "Tháng Mười Một"
+    ],
+    "Fill_Blank": "______ is the seventh month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "August",
+      "April",
+      "May"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.8",
+    "English": "August",
+    "Sub_English": "Tháng Tám",
+    "Example": "August is the eighth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Tư",
+      "Tháng Chín",
+      "Tháng Mười Một"
+    ],
+    "Fill_Blank": "______ is the eighth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "August",
+      "July",
+      "March"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.9",
+    "English": "September",
+    "Sub_English": "Tháng Chín",
+    "Example": "September is the ninth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Một",
+      "Tháng Mười Một",
+      "Tháng Năm"
+    ],
+    "Fill_Blank": "______ is the ninth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "January",
+      "December",
+      "August"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.10",
+    "English": "October",
+    "Sub_English": "Tháng Mười",
+    "Example": "October is the tenth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Bảy",
+      "Tháng Mười Một",
+      "Tháng Sáu"
+    ],
+    "Fill_Blank": "______ is the tenth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "July",
+      "November",
+      "September"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.11",
+    "English": "November",
+    "Sub_English": "Tháng Mười Một",
+    "Example": "November is the eleventh month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Năm",
+      "Tháng Bảy",
+      "Tháng Chín"
+    ],
+    "Fill_Blank": "______ is the eleventh month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "August",
+      "November",
+      "December"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Information_Technology_1.9.12",
+    "English": "December",
+    "Sub_English": "Tháng Mười Hai",
+    "Example": "December is the twelfth month of the year in the Gregorian calendar.",
+    "English_Vocabulary_Test": [
+      "Tháng Mười Một",
+      "Tháng Ba",
+      "Tháng Một"
+    ],
+    "Fill_Blank": "______ is the twelfth month of the year in the Gregorian calendar.",
+    "Mistakes": [
+      "October",
+      "June",
+      "March"
+    ],
+    "Status": 0
+  }
+]

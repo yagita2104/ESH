@@ -25,9 +25,12 @@ import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,18 +43,23 @@ import com.yagita.esh.db.VocabDAO;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.lang.reflect.Array;
+import java.util.Objects;
 
 public class HomeFragment extends Fragment{
     Button btnVocabulary, btnExercise, btnStatistics, btnContribute;
     ImageView imgViewProfile, btnEditImg;
     TextView txtSpecialize, txtName;
+    Spinner spnTerm, spnUnit;
+    VocabDAO vocabDAO;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
         getWidget(view);
         addAction();
-        VocabDAO vocabDAO = new VocabDAO(view.getContext());
+        vocabDAO = new VocabDAO(view.getContext());
         return view;
     }
     public void getWidget(View view){
@@ -65,6 +73,17 @@ public class HomeFragment extends Fragment{
         txtName = view.findViewById(R.id.txtName);
         txtSpecialize = view.findViewById(R.id.txtSpecialize);
 
+        spnTerm = view.findViewById(R.id.spnTerm);
+        String[] termList = new String[] {"1", "2", "3", "4", "5", "6"};
+        ArrayAdapter<String> adapterTerm = new ArrayAdapter<>(requireContext(), android.R.layout.simple_spinner_dropdown_item, termList);
+        spnTerm.setAdapter(adapterTerm);
+
+        spnUnit = view.findViewById(R.id.spnUnit);
+        String[] unitList = new String[] {"1", "2", "3", "4", "5", "6", "7", "8"};
+        ArrayAdapter<String> adapterUnit = new ArrayAdapter<>(requireContext(), android.R.layout.simple_spinner_dropdown_item, unitList);
+        spnUnit.setAdapter(adapterUnit);
+
+
         //Nhận dữ liệu tên và chuyên ngành
         // Nhận dữ liệu tên và chuyên ngành từ SharedPreferences
 //        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
@@ -72,10 +91,13 @@ public class HomeFragment extends Fragment{
         SharedPreferences preferences = requireContext().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
         String name = preferences.getString("name", "");
         String specialize = preferences.getString("spec", "");
-        if (!name.isEmpty() && !specialize.isEmpty()) {
+        String term = preferences.getString("term", "");
+
+        if (!name.isEmpty() && !specialize.isEmpty() && !term.isEmpty()) {
             txtName.setText(name);
             specialize = "Khoa " + specialize;
             txtSpecialize.setText(specialize);
+            spnTerm.setSelection(Integer.parseInt(term) - 1);
         }
 
     }
@@ -110,6 +132,40 @@ public class HomeFragment extends Fragment{
             public void onClick(View view) {
                 showEditOptionsDialog();
                 //imageChooser();
+            }
+        });
+        spnUnit.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                String selectedItem = spnUnit.getSelectedItem().toString();
+                System.out.println(selectedItem);
+
+                SharedPreferences sharedPreferences = requireContext().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+                SharedPreferences.Editor editor = sharedPreferences.edit();
+                editor.putString("unit", selectedItem);
+                editor.apply();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+        spnTerm.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                String selectedItem = spnTerm.getSelectedItem().toString();
+                System.out.println(selectedItem);
+
+                SharedPreferences sharedPreferences = requireContext().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
+                SharedPreferences.Editor editor = sharedPreferences.edit();
+                editor.putString("term", selectedItem);
+                editor.apply();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
             }
         });
     }

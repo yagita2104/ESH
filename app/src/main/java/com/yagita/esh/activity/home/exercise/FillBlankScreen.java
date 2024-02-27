@@ -30,7 +30,7 @@ import java.util.Random;
 
 public class FillBlankScreen extends AppCompatActivity {
     ImageView btnBackFillBlank;
-    TextView txtFillblank, txtCountDown;
+    TextView txtFillblank, txtCountDown, txtFillInfor;
     Button btnFillAnswer0, btnFillAnswer1, btnFillAnswer2, btnFillAnswer3, btnNextFill;
     List<Vocabulary> vocabularyList;
     int index = 0;
@@ -38,6 +38,8 @@ public class FillBlankScreen extends AppCompatActivity {
     MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
     VocabDAO vocabDAO;
+    int count = 1;
+    int sum = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,8 +47,11 @@ public class FillBlankScreen extends AppCompatActivity {
         vocabDAO = new VocabDAO(this);
         getWidget();
         vocabularyList = vocabDAO.getListVocab();
+        sum = vocabularyList.size();
         addAction();
         setItem(vocabularyList.get(0));
+        String text = count + "/"+ sum;
+        txtFillInfor.setText(text);
     }
     private void getWidget(){
         btnBackFillBlank = findViewById(R.id.btnBackFillblank);
@@ -55,6 +60,7 @@ public class FillBlankScreen extends AppCompatActivity {
         btnFillAnswer1 = findViewById(R.id.btnFillAnswer1);
         btnFillAnswer2 = findViewById(R.id.btnFillAnswer2);
         btnFillAnswer3 = findViewById(R.id.btnFillAnswer3);
+        txtFillInfor = findViewById(R.id.txtFillInfor);
 
         btnNextFill = findViewById(R.id.btnNextFill);
         txtCountDown = findViewById(R.id.txtCountDownFillBlank);
@@ -116,6 +122,9 @@ public class FillBlankScreen extends AppCompatActivity {
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.bottom_nav)));
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.bottom_nav)));
                     btnNextFill.setVisibility(View.INVISIBLE);
+                    count++;
+                    String text = count + "/" + sum;
+                    txtFillInfor.setText(text);
                 }else {
                     btnNextFill.setText("Bạn đã hoàn thành bài tập hôm nay");
                     startCountdownTimer();

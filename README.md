@@ -16,3 +16,4 @@
 - 09/01/2024: Cập nhật, điều chỉnh lại dữ liệu và 1 số lỗi nhỏ giao diện
 - 18/01/2024: Chỉnh sửa lỗi data
 - 20/01/2024: Chỉnh sửa lỗi phần bài tập và thống kê số lượng từ
+- 27/02/2024: Hoàn thiện phần dữ liệu của CNTT

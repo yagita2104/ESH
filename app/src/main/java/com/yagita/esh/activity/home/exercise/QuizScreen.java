@@ -29,7 +29,7 @@ import java.util.Random;
 
 public class QuizScreen extends AppCompatActivity {
     ImageView btnBackQuiz;
-    TextView txtQuizText, txtCountDown;
+    TextView txtQuizText, txtCountDown, txtQuizInfor;
     Button btnQuizAnswer0, btnQuizAnswer1, btnQuizAnswer2, btnQuizAnswer3, btnNextQuiz;
     int random_number = 0;
     List<Vocabulary> vocabularyList;
@@ -38,6 +38,8 @@ public class QuizScreen extends AppCompatActivity {
     private MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
     VocabDAO vocabDAO;
+    int count = 1;
+    int sum = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,9 +47,11 @@ public class QuizScreen extends AppCompatActivity {
         getWidget();
         vocabDAO = new VocabDAO(getApplicationContext());
         vocabularyList = vocabDAO.getListVocab();
+        sum = vocabularyList.size();
         addAction();
         setItem(vocabularyList.get(0));
-
+        String text = count + "/"+ sum;
+        txtQuizInfor.setText(text);
     }
 
     private void getWidget() {
@@ -61,6 +65,7 @@ public class QuizScreen extends AppCompatActivity {
         btnQuizAnswer3 = findViewById(R.id.btnQuizAnswer3);
 
         txtCountDown = findViewById(R.id.txtCountDownQuiz);
+        txtQuizInfor = findViewById(R.id.txtQuizInfor);
     }
     private void setItem(Vocabulary vocabulary){
         txtQuizText.setText(vocabulary.getEnglish());
@@ -110,7 +115,6 @@ public class QuizScreen extends AppCompatActivity {
             mediaPlayer = MediaPlayer.create(this, R.raw.incorrect_sound);
         }
 
-
         // Bắt đầu phát âm thanh
         mediaPlayer.start();
 
@@ -157,8 +161,11 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.bottom_nav)));
                     btnNextQuiz.setVisibility(View.INVISIBLE);
+                    count++;
+                    String text = count + "/" + sum;
+                    txtQuizInfor.setText(text);
                 }else {
-                    btnNextQuiz.setText("Bạn đã hoàn thành bài tập hôm nay");
+                    btnNextQuiz.setText("Đã hoàn thành hết từ vựng trong unit");
                     startCountdownTimer();
                 }
             }

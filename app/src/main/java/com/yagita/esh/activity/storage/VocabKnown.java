@@ -26,11 +26,12 @@ public class VocabKnown extends AppCompatActivity {
     ArrayAdapter<String> adapter;
     ImageView btnBack;
     List<Vocabulary> vocabularyList;
-    VocabDAO vocabDAO = new VocabDAO(this);
+    VocabDAO vocabDAO;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocab_known);
+        vocabDAO = new VocabDAO(this);
         getWidget();
         addAction();
         vocabularyList = vocabDAO.getListVocab();

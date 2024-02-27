@@ -45,6 +45,7 @@ public class VocabScreen extends AppCompatActivity {
         getWidget();
         setItem(vocabListUnknown.get(0));
         addAction();
+        Toast.makeText(this, vocabDAO.getId(), Toast.LENGTH_SHORT).show();
     }
 
     private void getWidget() {
@@ -107,7 +108,7 @@ public class VocabScreen extends AppCompatActivity {
         btnKnow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(VocabScreen.this, "Đã học", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(VocabScreen.this, "Đã học", Toast.LENGTH_SHORT).show();
                 vocabListUnknown.get(index).setStatus(1);
                 vocabDAO.setStatus(vocabListUnknown.get(index));
                 vocabListUnknown.remove(index);
@@ -121,7 +122,7 @@ public class VocabScreen extends AppCompatActivity {
         btnUnknow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(VocabScreen.this, "Chưa học", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(VocabScreen.this, "Chưa học", Toast.LENGTH_SHORT).show();
                 nextVocab();
             }
         });
