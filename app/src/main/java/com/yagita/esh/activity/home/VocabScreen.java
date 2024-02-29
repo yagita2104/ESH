@@ -3,10 +3,15 @@ package com.yagita.esh.activity.home;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -29,15 +34,23 @@ public class VocabScreen extends AppCompatActivity {
     int index = 0;
     VocabDAO vocabDAO;
     int know = 0, unknown = 0;
+    LinearLayout llNNA;
+    Spinner spnNNA;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocab_screen);
         vocabDAO = new VocabDAO(this);
-        vocabularyAllList = vocabDAO.getListVocab();
-        vocabListKnown = vocabDAO.getListVocabKnown();
-        vocabListUnknown = vocabDAO.getListVocabUnknown();
+        //vocabularyAllList = vocabDAO.getListVocab();
+        if(vocabDAO.getIdNNA().equals("English_English_Language_")){
+            vocabListKnown = vocabDAO.getListVocabKnownNNA("Listen");
+            vocabListUnknown = vocabDAO.getListVocabUnknownNNA("Listen");
+        }else{
+            vocabListKnown = vocabDAO.getListVocabKnown();
+            vocabListUnknown = vocabDAO.getListVocabUnknown();
+        }
+
 
         know = vocabListKnown.size();
         unknown = vocabListUnknown.size();
@@ -45,7 +58,8 @@ public class VocabScreen extends AppCompatActivity {
         getWidget();
         setItem(vocabListUnknown.get(0));
         addAction();
-        Toast.makeText(this, vocabDAO.getId(), Toast.LENGTH_SHORT).show();
+
+
     }
 
     private void getWidget() {
@@ -66,6 +80,17 @@ public class VocabScreen extends AppCompatActivity {
 //        imgIllustration = findViewById(R.id.imgIllustration);
 //        txtSpelling = findViewById(R.id.txtSpelling);
         imgVocabSpeech = findViewById(R.id.imgVocabSpeech);
+
+        llNNA = findViewById(R.id.llNNA);
+        spnNNA = findViewById(R.id.spnNNA);
+        String[] listNNA = {"Listen", "Speak", "Read", "Writing"};
+        ArrayAdapter<String> adapterNNA = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, listNNA);
+        adapterNNA.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spnNNA.setAdapter(adapterNNA);
+        if(vocabDAO.getIdNNA().equals("English_English_Language_")){
+            llNNA.setVisibility(View.VISIBLE);
+            Toast.makeText(this, vocabDAO.getIdNNA(), Toast.LENGTH_SHORT).show();
+        }
     }
     private void nextVocab(){
         if((index + 1) < vocabListUnknown.size()){
@@ -145,6 +170,29 @@ public class VocabScreen extends AppCompatActivity {
 
             }
         });
+        if(vocabDAO.getIdNNA().equals("English_English_Language_")){
+            spnNNA.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                @Override
+                public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                    String str = spnNNA.getSelectedItem().toString();
+                    vocabListKnown = vocabDAO.getListVocabKnownNNA(str);
+                    vocabListUnknown = vocabDAO.getListVocabUnknownNNA(str);
+
+                    setItem(vocabListUnknown.get(0));
+                    know = vocabListKnown.size();
+                    unknown = vocabListUnknown.size();
+
+                    txtAmountVocabKnow.setText(know+"");
+                    txtAmountVocabUnknow.setText(unknown+"");
+                }
+
+                @Override
+                public void onNothingSelected(AdapterView<?> adapterView) {
+
+                }
+            });
+        }
+
     }
 
     private void setItem(Vocabulary a){

@@ -49,10 +49,14 @@ public class StatisticScreen extends AppCompatActivity {
 
         if (tenBang.equals(Specialize.ENGLISH_LANGUAGE.getTenBang())){
             txtNameStatistic.setText("Tiếng anh chuyên ngành Ngôn ngữ anh " + term);
-            list.add(new Statistic("Read", vocabDAO.getVocabWithId("English_English_Language_Read").size()+ "/" + sumVocab));
-            list.add(new Statistic("Listen", vocabDAO.getVocabWithId("English_English_Language_Listen").size()+ "/" + sumVocab));
-            list.add(new Statistic("Speak", vocabDAO.getVocabWithId("English_English_Language_Speak").size()+ "/" + sumVocab));
-            list.add(new Statistic("Writing", vocabDAO.getVocabWithId("English_English_Language_Writing").size()+ "/" + sumVocab));
+            List<Vocabulary> l = new ArrayList<>();
+            l = vocabDAO.getVocabWithId("English_English_Language_%_" + term);
+            int s = l.size();
+            String id = "English_English_Language_";
+            list.add(new Statistic("Read", vocabDAO.getVocabWithId(id + "Read_" + term).size()+ "/" + s));
+            list.add(new Statistic("Listen", vocabDAO.getVocabWithId(id + "Listen_" + term).size()+ "/" + s));
+            list.add(new Statistic("Speak", vocabDAO.getVocabWithId(id + "Speak_" + term).size()+ "/" + s));
+            list.add(new Statistic("Writing", vocabDAO.getVocabWithId(id + "Writing_" + term).size()+ "/" + s));
         } else if (tenBang.equals(Specialize.INFORMATION_TECHNOLOGY.getTenBang())) {
             txtNameStatistic.setText("Tiếng anh Công nghệ thông tin " + term);
             String id = vocabDAO.getIdStatistic();

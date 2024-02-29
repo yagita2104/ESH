@@ -37,7 +37,7 @@ public class WelcomeScreen extends AppCompatActivity {
     EditText edtName;
     Spinner spnSpec, spnWelcomeTerm;
     ImageView imgSelectProfile;
-    String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngôn ngữ Anh" ,"Cơ Khí"};
+    String[] khoaList = {"Khoa", "Công nghệ thông tin", "Điện-Điện tử", "Ngôn ngữ Anh" ,"Cơ Khí", "Thương mại"};
     String[] hocPhanList = {"Học phần", "1", "2", "3", "4", "5", "6"};
     Map<String, String> mapKhoa = new HashMap<>();
     Map<String, String> mapID = new HashMap<>();
@@ -54,12 +54,14 @@ public class WelcomeScreen extends AppCompatActivity {
         mapKhoa.put("Điện-Điện tử", "Tên bảng");
         mapKhoa.put("Ngôn ngữ Anh", Specialize.ENGLISH_LANGUAGE.getTenBang());
         mapKhoa.put("Cơ khí", "Tên bảng");
+        mapKhoa.put("Thương mại", Specialize.ENGLISH_BUSINESS.getTenBang());
 
         mapID.put("Khoa", "ID");
         mapID.put("Công nghệ thông tin", TermID.ID_INFORMATION_TECHNOLOGY.getId());
         mapID.put("Điện-Điện tử", "ID");
         mapID.put("Ngôn ngữ Anh", TermID.ID_ENGLISH_LANGUAGE.getId());
         mapID.put("Cơ khí", "ID");
+        mapID.put("Thương mại", TermID.ID_ENGLISH_BUSINESS.getId());
         if (!isFirstTime) {
             // Giá trị cờ là false, chuyển đến MainActivity và kết thúc WelcomeScreen
             startActivity(new Intent(WelcomeScreen.this, MainActivity.class));

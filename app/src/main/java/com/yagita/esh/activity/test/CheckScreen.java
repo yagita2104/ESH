@@ -5,6 +5,7 @@ import androidx.core.content.ContextCompat;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -24,8 +25,6 @@ public class CheckScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_check_screen);
-
-
         getWidget();
         addAction();
     }
@@ -60,7 +59,7 @@ public class CheckScreen extends AppCompatActivity {
         col1TextView.setText(col1Text);
         col1TextView.setTextColor(Color.BLACK);
         col1TextView.setPadding(8, 8, 8, 8);
-        TableRow.LayoutParams params1 = new TableRow.LayoutParams(0, TableRow.LayoutParams.WRAP_CONTENT, 0.5f);
+        TableRow.LayoutParams params1 = new TableRow.LayoutParams(0, TableRow.LayoutParams.WRAP_CONTENT, 1f);
         col1TextView.setLayoutParams(params1);
         tableRow.addView(col1TextView);
 
@@ -73,7 +72,6 @@ public class CheckScreen extends AppCompatActivity {
         }else {
             col2TextView.setBackgroundResource(R.color.home_color_button_2);
         }
-
         col2TextView.setPadding(8, 8, 8, 8);
         TableRow.LayoutParams params2 = new TableRow.LayoutParams(0, TableRow.LayoutParams.WRAP_CONTENT, 1f);
         col2TextView.setLayoutParams(params2);
@@ -83,13 +81,11 @@ public class CheckScreen extends AppCompatActivity {
         TextView col3TextView = new TextView(this);
         col3TextView.setText(col3Text);
         col3TextView.setTextColor(Color.BLACK);
-
         col3TextView.setBackgroundResource(R.color.home_color_button_1);
         col3TextView.setPadding(8, 8, 8, 8);
         TableRow.LayoutParams params3 = new TableRow.LayoutParams(0, TableRow.LayoutParams.WRAP_CONTENT, 1f);
         col3TextView.setLayoutParams(params3);
         tableRow.addView(col3TextView);
-
         tableLayout.addView(tableRow);
     }
 }

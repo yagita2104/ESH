@@ -38,7 +38,7 @@ public class TestScreen extends AppCompatActivity {
     private CountDownTimer countDownTimer;
     private MediaPlayer mediaPlayer;
     TextToSpeech textToSpeech;
-    VocabDAO vocabDAO = new VocabDAO(this);
+    VocabDAO vocabDAO;
     int index_process = 1;
     List<Vocabulary> listVocabKnown = new ArrayList<>();
     int correct_answer = 0;
@@ -48,6 +48,7 @@ public class TestScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_screen);
+        vocabDAO = new VocabDAO(this);
         getWidget();
         listVocabKnown = vocabDAO.getListVocabKnown();
         setProcess();

@@ -1,0 +1,3602 @@
+[
+  {
+    "ID": "English_Business_4.1.1",
+    "English": "Sector",
+    "Sub_English": "Lĩnh vực",
+    "Example": "The technology sector has seen rapid growth in recent years.",
+    "English_Vocabulary_Test": [
+      "Đối thủ cạnh tranh",
+      "Sự phân phối",
+      "Công ty thương mại"
+    ],
+    "Fill_Blank": "The technology ______ has seen rapid growth in recent years.",
+    "Mistakes": [
+      "Enterprise",
+      "Retailer",
+      "Service Company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.2",
+    "English": "Manufacturer",
+    "Sub_English": "Nhà sản xuất",
+    "Example": "The automobile manufacturer announced a new line of electric cars.",
+    "English_Vocabulary_Test": [
+      "Sự phân phối",
+      "Hàng hoá",
+      "Nhà cung cấp dịch vụ"
+    ],
+    "Fill_Blank": "The automobile ______ announced a new line of electric cars.",
+    "Mistakes": [
+      "Wholesaler",
+      "Annual sales",
+      "Rival"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.3",
+    "English": "Assemble",
+    "Sub_English": "Lắp ráp",
+    "Example": "Workers assembled the components into finished products on the factory floor.",
+    "English_Vocabulary_Test": [
+      "Công ty thương mại",
+      "Cửa hàng bán lẻ",
+      "Cung cấp"
+    ],
+    "Fill_Blank": "Workers ______d the components into finished products on the factory floor.",
+    "Mistakes": [
+      "Trading Company",
+      "Merchandise",
+      "Assembly Line"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.4",
+    "English": "Distribution",
+    "Sub_English": "Sự phân phối",
+    "Example": "The company expanded its distribution network to reach more customers.",
+    "English_Vocabulary_Test": [
+      "Nguyên liệu",
+      "Doanh số hàng năm",
+      "Lĩnh vực"
+    ],
+    "Fill_Blank": "The company expanded its ______ network to reach more customers.",
+    "Mistakes": [
+      "Input",
+      "Rival",
+      "Provide"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.5",
+    "English": "Provide",
+    "Sub_English": "Cung cấp",
+    "Example": "The supermarket chain provides fresh produce to its customers.",
+    "English_Vocabulary_Test": [
+      "Khách hàng mục tiêu",
+      "Thành phần",
+      "Lĩnh vực"
+    ],
+    "Fill_Blank": "The supermarket chain ______s fresh produce to its customers.",
+    "Mistakes": [
+      "Sector",
+      "Rival",
+      "Annual sales"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.6",
+    "English": "Competitor",
+    "Sub_English": "Đối thủ",
+    "Example": "The company closely monitors its competitors' marketing strategies.",
+    "English_Vocabulary_Test": [
+      "Kênh phân phối",
+      "Nhà bán lẻ",
+      "Doanh nghiệp thuộc sở hữu gia đình"
+    ],
+    "Fill_Blank": "The company closely monitors its ______s' marketing strategies.",
+    "Mistakes": [
+      "Enterprise",
+      "Service Provider",
+      "Trading Company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.7",
+    "English": "Process",
+    "Sub_English": "Quy trình",
+    "Example": "The production process was streamlined to increase efficiency.",
+    "English_Vocabulary_Test": [
+      "Đối thủ cạnh tranh",
+      "Cổ đông",
+      "Lắp ráp"
+    ],
+    "Fill_Blank": "The production ______ was streamlined to increase efficiency.",
+    "Mistakes": [
+      "Family-owned business",
+      "Input",
+      "Service Company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.8",
+    "English": "Input",
+    "Sub_English": "Đầu vào",
+    "Example": "Engineers analyzed the input data to improve the system performance.",
+    "English_Vocabulary_Test": [
+      "Hàng hoá",
+      "Đối thủ cạnh tranh",
+      "Kênh phân phối"
+    ],
+    "Fill_Blank": "Engineers analyzed the ______ data to improve the system performance.",
+    "Mistakes": [
+      "Ingredients",
+      "Provide",
+      "Distribution Channel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.9",
+    "English": "Shareholder",
+    "Sub_English": "Cổ đông",
+    "Example": "The shareholders voted on the proposed merger during the annual meeting.",
+    "English_Vocabulary_Test": [
+      "Nhà bán buôn",
+      "Nhà sản xuất",
+      "Nhà cung cấp dịch vụ"
+    ],
+    "Fill_Blank": "The ______s voted on the proposed merger during the annual meeting.",
+    "Mistakes": [
+      "Merchandise",
+      "Distribution",
+      "Provide"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.10",
+    "English": "Enterprise",
+    "Sub_English": "Doanh nghiệp",
+    "Example": "The enterprise focused on sustainable business practices.",
+    "English_Vocabulary_Test": [
+      "Lĩnh vực",
+      "Thành phần",
+      "Đầu vào"
+    ],
+    "Fill_Blank": "The ______ focused on sustainable business practices.",
+    "Mistakes": [
+      "Raw Material",
+      "Trading Company",
+      "Service Provider"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.11",
+    "English": "Retailer",
+    "Sub_English": "Nhà bán lẻ",
+    "Example": "The retailer offered discounts to attract more customers.",
+    "English_Vocabulary_Test": [
+      "Doanh nghiệp thuộc sở hữu gia đình",
+      "Sự phân phối",
+      "Công ty thương mại"
+    ],
+    "Fill_Blank": "The ______ offered discounts to attract more customers.",
+    "Mistakes": [
+      "Enterprise",
+      "Merchandise",
+      "Ingredients"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.12",
+    "English": "Wholesaler",
+    "Sub_English": "Nhà bán buôn",
+    "Example": "The wholesaler supplied goods to small businesses in the area.",
+    "English_Vocabulary_Test": [
+      "Nhà cung cấp dịch vụ",
+      "Nguyên liệu",
+      "Cửa hàng bán lẻ"
+    ],
+    "Fill_Blank": "The ______ supplied goods to small businesses in the area.",
+    "Mistakes": [
+      "Wholesaler",
+      "Assembly Line",
+      "Retailer"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.13",
+    "English": "Merchandise",
+    "Sub_English": "Hàng hoá",
+    "Example": "The store displayed a wide range of merchandise for sale.",
+    "English_Vocabulary_Test": [
+      "Cổ đông",
+      "Khách hàng mục tiêu",
+      "Nhà cung cấp dịch vụ"
+    ],
+    "Fill_Blank": "The store displayed a wide range of ______ for sale.",
+    "Mistakes": [
+      "Target Customer",
+      "Retailer",
+      "Distribution"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.14",
+    "English": "Service Company",
+    "Sub_English": "Công ty dịch vụ",
+    "Example": "The service company provided IT support to businesses in the region.",
+    "English_Vocabulary_Test": [
+      "Kênh phân phối",
+      "Doanh nghiệp",
+      "Quy trình"
+    ],
+    "Fill_Blank": "The ______ provided IT support to businesses in the region.",
+    "Mistakes": [
+      "Service Provider",
+      "Assembly Line",
+      "Input"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.15",
+    "English": "Service Provider",
+    "Sub_English": "Nhà cung cấp dịch vụ",
+    "Example": "The telecommunications company acted as a service provider for internet services.",
+    "English_Vocabulary_Test": [
+      "Thành phần",
+      "Quy trình",
+      "Cửa hàng bán lẻ"
+    ],
+    "Fill_Blank": "The telecommunications company acted as a ______ for internet services.",
+    "Mistakes": [
+      "Trading Company",
+      "Annual sales",
+      "Ingredients"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.16",
+    "English": "Trading Company",
+    "Sub_English": "Công ty thương mại",
+    "Example": "The trading company specialized in importing goods from overseas markets.",
+    "English_Vocabulary_Test": [
+      "Sự phân phối",
+      "Khách hàng mục tiêu",
+      "Quy trình"
+    ],
+    "Fill_Blank": "The ______ specialized in importing goods from overseas markets.",
+    "Mistakes": [
+      "Input",
+      "Distribution Channel",
+      "Family-owned business"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.17",
+    "English": "Raw Material",
+    "Sub_English": "Nguyên liệu",
+    "Example": "The factory sourced raw materials from sustainable suppliers.",
+    "English_Vocabulary_Test": [
+      "Khách hàng mục tiêu",
+      "Lắp ráp",
+      "Kênh phân phối"
+    ],
+    "Fill_Blank": "The factory sourced ______s from sustainable suppliers.",
+    "Mistakes": [
+      "Raw Material",
+      "Assemble",
+      "Retail store"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.18",
+    "English": "Ingredients",
+    "Sub_English": "Thành phần",
+    "Example": "The chef carefully selected fresh ingredients for the recipe.",
+    "English_Vocabulary_Test": [
+      "Vận hành ",
+      "Công ty dịch vụ",
+      "Doanh số hàng năm"
+    ],
+    "Fill_Blank": "The chef carefully selected fresh ______ for the recipe.",
+    "Mistakes": [
+      "Service Provider",
+      "Raw Material",
+      "Sector"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.19",
+    "English": "Assembly Line",
+    "Sub_English": "Dây chuyền lắp ráp",
+    "Example": "The assembly line increased production efficiency in the factory.",
+    "English_Vocabulary_Test": [
+      "Khách hàng mục tiêu",
+      "Công ty dịch vụ",
+      "Nhà cung cấp dịch vụ"
+    ],
+    "Fill_Blank": "The ______ increased production efficiency in the factory.",
+    "Mistakes": [
+      "Competitor",
+      "Distribution",
+      "Consulting firm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.20",
+    "English": "Distribution Channel",
+    "Sub_English": "Kênh phân phối",
+    "Example": "The company explored new distribution channels to reach untapped markets.",
+    "English_Vocabulary_Test": [
+      "Doanh nghiệp thuộc sở hữu gia đình",
+      "Nhà bán lẻ",
+      "Thành phần"
+    ],
+    "Fill_Blank": "The company explored new ______s to reach untapped markets.",
+    "Mistakes": [
+      "Wholesaler",
+      "Input",
+      "Family-owned business"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.21",
+    "English": "Target Customer",
+    "Sub_English": "Khách hàng mục tiêu",
+    "Example": "The marketing team identified the target customers for the new product launch.",
+    "English_Vocabulary_Test": [
+      "Kênh phân phối",
+      "Nguyên liệu",
+      "Đầu vào"
+    ],
+    "Fill_Blank": "The marketing team identified the ______s for the new product launch.",
+    "Mistakes": [
+      "Wholesaler",
+      "Family-owned business",
+      "Ingredients"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.22",
+    "English": "Operate",
+    "Sub_English": "Vận hành ",
+    "Example": "The company operates in multiple countries across the globe.",
+    "English_Vocabulary_Test": [
+      "Nhà bán buôn",
+      "Công ty tư vấn",
+      "Công ty dịch vụ"
+    ],
+    "Fill_Blank": "The company ______s in multiple countries across the globe.",
+    "Mistakes": [
+      "Trading Company",
+      "Retail store",
+      "Competitor"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.23",
+    "English": "Family-owned business",
+    "Sub_English": "Doanh nghiệp thuộc sở hữu gia đình",
+    "Example": "The family-owned business has been passed down through generations.",
+    "English_Vocabulary_Test": [
+      "Cửa hàng bán lẻ",
+      "Thành phần",
+      "Lắp ráp"
+    ],
+    "Fill_Blank": "The ______ has been passed down through generations.",
+    "Mistakes": [
+      "Provide",
+      "Merchandise",
+      "Rival"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.24",
+    "English": "Consulting firm",
+    "Sub_English": "Công ty tư vấn",
+    "Example": "The consulting firm advised companies on strategic business decisions.",
+    "English_Vocabulary_Test": [
+      "Cổ đông",
+      "Doanh nghiệp",
+      "Đầu vào"
+    ],
+    "Fill_Blank": "The ______ advised companies on strategic business decisions.",
+    "Mistakes": [
+      "Merchandise",
+      "Retailer",
+      "Distribution"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.25",
+    "English": "Retail store",
+    "Sub_English": "Cửa hàng bán lẻ",
+    "Example": "The retail store attracted customers with its vibrant displays.",
+    "English_Vocabulary_Test": [
+      "Công ty dịch vụ",
+      "Kênh phân phối",
+      "Doanh số hàng năm"
+    ],
+    "Fill_Blank": "The ______ attracted customers with its vibrant displays.",
+    "Mistakes": [
+      "Service Company",
+      "Shareholder",
+      "Enterprise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.26",
+    "English": "Annual sales",
+    "Sub_English": "Doanh số hàng năm",
+    "Example": "The company reported record-breaking annual sales figures.",
+    "English_Vocabulary_Test": [
+      "Đối thủ",
+      "Cổ đông",
+      "Nhà bán buôn"
+    ],
+    "Fill_Blank": "The company reported record-breaking ______ figures.",
+    "Mistakes": [
+      "Manufacturer",
+      "Raw Material",
+      "Sector"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.1.27",
+    "English": "Rival",
+    "Sub_English": "Đối thủ cạnh tranh",
+    "Example": "The two companies were fierce rivals in the market.",
+    "English_Vocabulary_Test": [
+      "Đầu vào",
+      "Nhà bán lẻ",
+      "Nhà cung cấp dịch vụ"
+    ],
+    "Fill_Blank": "The two companies were fierce ______s in the market.",
+    "Mistakes": [
+      "Enterprise",
+      "Retailer",
+      "Wholesaler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.1",
+    "English": "Product description",
+    "Sub_English": "Mô tả sản phẩm",
+    "Example": "The product description highlighted the key features and benefits.",
+    "English_Vocabulary_Test": [
+      "Gam",
+      "Có sẵn",
+      "Cân nặng"
+    ],
+    "Fill_Blank": "The ______ highlighted the key features and benefits.",
+    "Mistakes": [
+      "Material",
+      "Square (n)",
+      "Kilogram"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.2",
+    "English": "Expiry date",
+    "Sub_English": "Ngày hết hạn",
+    "Example": "Consumers should check the expiry date before purchasing perishable items.",
+    "English_Vocabulary_Test": [
+      "Kim loại",
+      "Chiều rộng",
+      "Nhôm"
+    ],
+    "Fill_Blank": "Consumers should check the ______ before purchasing perishable items.",
+    "Mistakes": [
+      "Triangular",
+      "Length",
+      "Unusual"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.3",
+    "English": "Feature",
+    "Sub_English": "Đặc điểm",
+    "Example": "The smartphone's standout feature is its long-lasting battery life.",
+    "English_Vocabulary_Test": [
+      "Milimét",
+      "Bông",
+      "Hình vuông"
+    ],
+    "Fill_Blank": "The smartphone's standout ______ is its long-lasting battery life.",
+    "Mistakes": [
+      "Model",
+      "Practical",
+      "Metal "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.4",
+    "English": "Design",
+    "Sub_English": "Thiết kế",
+    "Example": "The design of the new car incorporates sleek lines and aerodynamic curves.",
+    "English_Vocabulary_Test": [
+      "Kilôgam",
+      "Mẫu",
+      "Mét"
+    ],
+    "Fill_Blank": "The ______ of the new car incorporates sleek lines and aerodynamic curves.",
+    "Mistakes": [
+      "Practical",
+      "Material",
+      "Cotton"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.5",
+    "English": "Economical",
+    "Sub_English": "Tiết kiệm",
+    "Example": "The hybrid car is an economical choice for fuel-conscious consumers.",
+    "English_Vocabulary_Test": [
+      "Bông",
+      "Hợp thời trang",
+      "Bằng gỗ"
+    ],
+    "Fill_Blank": "The hybrid car is an ______ choice for fuel-conscious consumers.",
+    "Mistakes": [
+      "Unusual",
+      "Aluminium",
+      "Plastic "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.6",
+    "English": "Reliable",
+    "Sub_English": "Đáng tin cậy",
+    "Example": "The brand is known for producing reliable household appliances.",
+    "English_Vocabulary_Test": [
+      "Giao hàng",
+      "Xentimet",
+      "Mét"
+    ],
+    "Fill_Blank": "The brand is known for producing ______ household appliances.",
+    "Mistakes": [
+      "Centimeter",
+      "Aluminium",
+      "Weigh"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.7",
+    "English": "Practical",
+    "Sub_English": "Thực tế",
+    "Example": "The backpack's practical design includes multiple compartments for storage.",
+    "English_Vocabulary_Test": [
+      "Hình tam giác",
+      "Mô tả sản phẩm",
+      "Nhôm"
+    ],
+    "Fill_Blank": "The backpack's ______ design includes multiple compartments for storage.",
+    "Mistakes": [
+      "Weigh",
+      "Design",
+      "Expiry date"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.8",
+    "English": "Material",
+    "Sub_English": "Chất liệu",
+    "Example": "The dress was made from high-quality silk material.",
+    "English_Vocabulary_Test": [
+      "Chiều dài",
+      "Có sẵn",
+      "Chuyển hàng"
+    ],
+    "Fill_Blank": "The dress was made from high-quality silk ______.",
+    "Mistakes": [
+      "Unusual",
+      "Plastic",
+      "Width"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.9",
+    "English": "Deliver",
+    "Sub_English": "Chuyển hàng",
+    "Example": "The courier company promised to deliver the package by noon.",
+    "English_Vocabulary_Test": [
+      "Nhôm",
+      "Tiết kiệm",
+      "Ngày hết hạn"
+    ],
+    "Fill_Blank": "The courier company promised to ______ the package by noon.",
+    "Mistakes": [
+      "Economical",
+      "Wood",
+      "Cotton"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.10",
+    "English": "Delivery",
+    "Sub_English": "Giao hàng",
+    "Example": "The delivery of the furniture was delayed due to bad weather.",
+    "English_Vocabulary_Test": [
+      "Mẫu",
+      "Hình vuông",
+      "Kính"
+    ],
+    "Fill_Blank": "The ______ of the furniture was delayed due to bad weather.",
+    "Mistakes": [
+      "Plastic",
+      "Meter",
+      "Plastic "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.11",
+    "English": "Available",
+    "Sub_English": "Có sẵn",
+    "Example": "The new smartphone model is available for purchase online.",
+    "English_Vocabulary_Test": [
+      "Xentimet",
+      "Hình vuông",
+      "Gỗ"
+    ],
+    "Fill_Blank": "The new smartphone model is ______ for purchase online.",
+    "Mistakes": [
+      "Cotton",
+      "Size",
+      "Fashionable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.12",
+    "English": "Fashionable",
+    "Sub_English": "Hợp thời trang",
+    "Example": "The boutique specializes in selling fashionable clothing for young adults.",
+    "English_Vocabulary_Test": [
+      "Tiết kiệm",
+      "Gỗ",
+      "Nhựa"
+    ],
+    "Fill_Blank": "The boutique specializes in selling ______ clothing for young adults.",
+    "Mistakes": [
+      "Fashionable",
+      "Shape",
+      "Unique"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.13",
+    "English": "Unique",
+    "Sub_English": "Độc đáo",
+    "Example": "The artist's paintings are known for their unique style and creativity.",
+    "English_Vocabulary_Test": [
+      "Nhựa",
+      "Thực tế",
+      "Đặc điểm"
+    ],
+    "Fill_Blank": "The artist's paintings are known for their ______ style and creativity.",
+    "Mistakes": [
+      "Metal",
+      "Millimeter",
+      "Meter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.14",
+    "English": "Unusual",
+    "Sub_English": "Không bình thường",
+    "Example": "The antique shop sells unusual artifacts from around the world.",
+    "English_Vocabulary_Test": [
+      "Hình vuông",
+      "Thiết kế",
+      "Độc đáo"
+    ],
+    "Fill_Blank": "The antique shop sells ______ artifacts from around the world.",
+    "Mistakes": [
+      "Practical",
+      "Wood",
+      "Centimeter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.15",
+    "English": "Millimeter",
+    "Sub_English": "Milimét",
+    "Example": "The width of the paperclip is just a few millimeters.",
+    "English_Vocabulary_Test": [
+      "Kích thước",
+      "Cân nặng",
+      "Kính"
+    ],
+    "Fill_Blank": "The width of the paperclip is just a few ______s.",
+    "Mistakes": [
+      "Deliver",
+      "Length",
+      "Product description"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.16",
+    "English": "Centimeter",
+    "Sub_English": "Xentimet",
+    "Example": "The dressmaker measured the client's waist in centimeters.",
+    "English_Vocabulary_Test": [
+      "Kilôgam",
+      "Mét",
+      "Giao hàng"
+    ],
+    "Fill_Blank": "The dressmaker measured the client's waist in ______s.",
+    "Mistakes": [
+      "Triangular",
+      "Length",
+      "Metal "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.17",
+    "English": "Meter",
+    "Sub_English": "Mét",
+    "Example": "The garden hose is ten meters long.",
+    "English_Vocabulary_Test": [
+      "Nhựa",
+      "Hợp thời trang",
+      "Thiết kế"
+    ],
+    "Fill_Blank": "The garden hose is ten ______s long.",
+    "Mistakes": [
+      "Plastic ",
+      "Unique",
+      "Square (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.18",
+    "English": "Model",
+    "Sub_English": "Mẫu",
+    "Example": "The fashion designer showcased her latest clothing models on the runway.",
+    "English_Vocabulary_Test": [
+      "Ngày hết hạn",
+      "Hình tam giác",
+      "Có sẵn"
+    ],
+    "Fill_Blank": "The fashion designer showcased her latest clothing ______s on the runway.",
+    "Mistakes": [
+      "Triangular",
+      "Available",
+      "Glass"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.19",
+    "English": "Size",
+    "Sub_English": "Kích thước",
+    "Example": "The shoes come in a variety of sizes to fit all foot shapes.",
+    "English_Vocabulary_Test": [
+      "Gam",
+      "Kính",
+      "Hình vuông"
+    ],
+    "Fill_Blank": "The shoes come in a variety of ______s to fit all foot shapes.",
+    "Mistakes": [
+      "Material",
+      "Deliver",
+      "Metal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.20",
+    "English": "Weight",
+    "Sub_English": "Trọng lượng",
+    "Example": "The luggage exceeded the maximum weight allowance for the flight.",
+    "English_Vocabulary_Test": [
+      "Nhựa",
+      "Mẫu",
+      "Kilôgam"
+    ],
+    "Fill_Blank": "The luggage exceeded the maximum ______ allowance for the flight.",
+    "Mistakes": [
+      "Design",
+      "Aluminium",
+      "Reliable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.21",
+    "English": "Width",
+    "Sub_English": "Chiều rộng",
+    "Example": "The width of the table is 1 meter.",
+    "English_Vocabulary_Test": [
+      "Gam",
+      "Có sẵn",
+      "Kích thước"
+    ],
+    "Fill_Blank": "The ______ of the table is 1 meter.",
+    "Mistakes": [
+      "Design",
+      "Plastic",
+      "Deliver"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.22",
+    "English": "Weigh",
+    "Sub_English": "Cân nặng",
+    "Example": "They will weigh the produce before packaging it for sale.",
+    "English_Vocabulary_Test": [
+      "Kính",
+      "Xentimet",
+      "Nhựa"
+    ],
+    "Fill_Blank": "They will ______ the produce before packaging it for sale.",
+    "Mistakes": [
+      "Expiry date",
+      "Material",
+      "Aluminium"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.23",
+    "English": "Kilogram",
+    "Sub_English": "Kilôgam",
+    "Example": "The package weighed over two kilograms.",
+    "English_Vocabulary_Test": [
+      "Chuyển hàng",
+      "Mô tả sản phẩm",
+      "Thiết kế"
+    ],
+    "Fill_Blank": "The package weighed over two ______s.",
+    "Mistakes": [
+      "Available",
+      "Reliable",
+      "Wood"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.24",
+    "English": "Gram",
+    "Sub_English": "Gam",
+    "Example": "The recipe calls for 100 grams of flour.",
+    "English_Vocabulary_Test": [
+      "Hình tam giác",
+      "Hình dạng",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "The recipe calls for 100 ______s of flour.",
+    "Mistakes": [
+      "Length",
+      "Meter",
+      "Model"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.25",
+    "English": "Wood",
+    "Sub_English": "Gỗ",
+    "Example": "The furniture was crafted from reclaimed wood.",
+    "English_Vocabulary_Test": [
+      "Không bình thường",
+      "Có sẵn",
+      "Thực tế"
+    ],
+    "Fill_Blank": "The furniture was crafted from reclaimed ______.",
+    "Mistakes": [
+      "Product description",
+      "Aluminium",
+      "Width"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.26",
+    "English": "Plastic",
+    "Sub_English": "Nhựa",
+    "Example": "The containers are made from durable plastic material.",
+    "English_Vocabulary_Test": [
+      "Kim loại",
+      "Đặc điểm",
+      "Chất liệu"
+    ],
+    "Fill_Blank": "The containers are made from durable ______ material.",
+    "Mistakes": [
+      "Plastic",
+      "Unique",
+      "Length"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.27",
+    "English": "Glass",
+    "Sub_English": "Kính",
+    "Example": "The windows are made of transparent glass.",
+    "English_Vocabulary_Test": [
+      "Thiết kế",
+      "Đặc điểm",
+      "Chuyển hàng"
+    ],
+    "Fill_Blank": "The windows are made of transparent ______.",
+    "Mistakes": [
+      "Delivery",
+      "Practical",
+      "Unusual"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.28",
+    "English": "Metal",
+    "Sub_English": "Kim loại",
+    "Example": "The sculpture was forged from stainless steel metal.",
+    "English_Vocabulary_Test": [
+      "Chuyển hàng",
+      "Hình dạng",
+      "Hình vuông"
+    ],
+    "Fill_Blank": "The sculpture was forged from stainless steel ______.",
+    "Mistakes": [
+      "Wooden",
+      "Weight",
+      "Fashionable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.29",
+    "English": "Cotton",
+    "Sub_English": "Bông",
+    "Example": "The bedsheet is made from soft cotton fabric.",
+    "English_Vocabulary_Test": [
+      "Chiều dài",
+      "Kim loại",
+      "Gỗ"
+    ],
+    "Fill_Blank": "The bedsheet is made from soft ______ fabric.",
+    "Mistakes": [
+      "Fashionable",
+      "Unusual",
+      "Model"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.30",
+    "English": "Aluminium",
+    "Sub_English": "Nhôm",
+    "Example": "The aluminum frame makes the bicycle lightweight and easy to maneuver.",
+    "English_Vocabulary_Test": [
+      "Xentimet",
+      "Mẫu",
+      "Chuyển hàng"
+    ],
+    "Fill_Blank": "The aluminum frame makes the bicycle lightweight and easy to maneuver.",
+    "Mistakes": [
+      "Design",
+      "Fashionable",
+      "Feature"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.31",
+    "English": "Wooden",
+    "Sub_English": "Bằng gỗ",
+    "Example": "The house has a charming wooden staircase.",
+    "English_Vocabulary_Test": [
+      "Nhựa",
+      "Chất liệu",
+      "Nhôm"
+    ],
+    "Fill_Blank": "The house has a charming ______ staircase.",
+    "Mistakes": [
+      "Fashionable",
+      "Practical",
+      "Gram"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.32",
+    "English": "Plastic ",
+    "Sub_English": "Nhựa",
+    "Example": "The plastic packaging is recyclable.",
+    "English_Vocabulary_Test": [
+      "Mét",
+      "Bằng gỗ",
+      "Có sẵn"
+    ],
+    "Fill_Blank": "The ______packaging is recyclable.",
+    "Mistakes": [
+      "Expiry date",
+      "Width",
+      "Model"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.33",
+    "English": "Metal ",
+    "Sub_English": "Kim loại",
+    "Example": "The metal door is sturdy and secure.",
+    "English_Vocabulary_Test": [
+      "Có sẵn",
+      "Độc đáo",
+      "Kính"
+    ],
+    "Fill_Blank": "The ______door is sturdy and secure.",
+    "Mistakes": [
+      "Shape",
+      "Triangular",
+      "Design"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.34",
+    "English": "Aluminium",
+    "Sub_English": "Nhôm",
+    "Example": "The aluminum siding gives the house a modern look.",
+    "English_Vocabulary_Test": [
+      "Bông",
+      "Không bình thường",
+      "Xentimet"
+    ],
+    "Fill_Blank": "The aluminum siding gives the house a modern look.",
+    "Mistakes": [
+      "Expiry date",
+      "Unique",
+      "Metal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.35",
+    "English": "Shape",
+    "Sub_English": "Hình dạng",
+    "Example": "The shape of the vase is cylindrical with a narrow neck.",
+    "English_Vocabulary_Test": [
+      "Tiết kiệm",
+      "Gỗ",
+      "Cân nặng"
+    ],
+    "Fill_Blank": "The ______ of the vase is cylindrical with a narrow neck.",
+    "Mistakes": [
+      "Model",
+      "Wooden",
+      "Practical"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.36",
+    "English": "Rectangular",
+    "Sub_English": "Hình chữ nhật",
+    "Example": "The room had a rectangular table in the center.",
+    "English_Vocabulary_Test": [
+      "Giao hàng",
+      "Không bình thường",
+      "Trọng lượng"
+    ],
+    "Fill_Blank": "The room had a ______ table in the center.",
+    "Mistakes": [
+      "Kilogram",
+      "Design",
+      "Delivery"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.37",
+    "English": "Square (n)",
+    "Sub_English": "Hình vuông",
+    "Example": "The park has a square with benches for relaxation.",
+    "English_Vocabulary_Test": [
+      "Có sẵn",
+      "Cân nặng",
+      "Hình tam giác"
+    ],
+    "Fill_Blank": "The park has a square with benches for relaxation.",
+    "Mistakes": [
+      "Wooden",
+      "Unusual",
+      "Square (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.38",
+    "English": "Length",
+    "Sub_English": "Chiều dài",
+    "Example": "The length of the rope is 10 meters.",
+    "English_Vocabulary_Test": [
+      "Nhựa",
+      "Độc đáo",
+      "Có sẵn"
+    ],
+    "Fill_Blank": "The ______ of the rope is 10 meters.",
+    "Mistakes": [
+      "Design",
+      "Rectangular",
+      "Aluminium"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.2.39",
+    "English": "Triangular",
+    "Sub_English": "Hình tam giác",
+    "Example": "The pizza slice is triangular in shape.",
+    "English_Vocabulary_Test": [
+      "Kính",
+      "Kim loại",
+      "Mẫu"
+    ],
+    "Fill_Blank": "The pizza slice is ______ in shape.",
+    "Mistakes": [
+      "Available",
+      "Meter",
+      "Plastic"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.1",
+    "English": "Assist",
+    "Sub_English": "Hỗ trợ",
+    "Example": "The customer service team is always ready to assist customers.",
+    "English_Vocabulary_Test": [
+      "Công ty logistics",
+      "Khuyến nghị (động từ)",
+      "Nhượng quyền"
+    ],
+    "Fill_Blank": "The customer service team is always ready to ______ customers.",
+    "Mistakes": [
+      "Babysitting service",
+      "Technical support service",
+      "Tourist agent"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.2",
+    "English": "Represent (business English)",
+    "Sub_English": "Đại diện (tiếng kinh doanh)",
+    "Example": "The lawyer will represent the company in legal proceedings.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ hỗ trợ kỹ thuật",
+      "Dịch vụ trông trẻ",
+      "Dịch vụ tuyển dụng"
+    ],
+    "Fill_Blank": "The lawyer will represent the company in legal proceedings.",
+    "Mistakes": [
+      "Cleaning service",
+      "Assist",
+      "Represent (business English)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.3",
+    "English": "Recommend (v)",
+    "Sub_English": "Khuyến nghị (động từ)",
+    "Example": "The consultant will recommend the best investment options.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ hỗ trợ kỹ thuật",
+      "Đại diện (tiếng kinh doanh)",
+      "Dịch vụ bảo hiểm"
+    ],
+    "Fill_Blank": "The consultant will recommend the best investment options.",
+    "Mistakes": [
+      "Investment service",
+      "Innovative (adj)",
+      "Event manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.4",
+    "English": "Reputation",
+    "Sub_English": "Uy tín",
+    "Example": "The company has built a strong reputation for quality and reliability.",
+    "English_Vocabulary_Test": [
+      "Hợp lý",
+      "Người quản lý sự kiện",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "The company has built a strong ______ for quality and reliability.",
+    "Mistakes": [
+      "Event manager",
+      "Cleaning service",
+      "Reasonable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.5",
+    "English": "Convenient",
+    "Sub_English": "Tiện lợi",
+    "Example": "The online booking system is convenient for busy travelers.",
+    "English_Vocabulary_Test": [
+      "Người quản lý sự kiện",
+      "Dịch vụ trang trí",
+      "Dịch vụ đầu tư"
+    ],
+    "Fill_Blank": "The online booking system is ______ for busy travelers.",
+    "Mistakes": [
+      "Investment service",
+      "Tourist agent",
+      "Innovative (adj)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.6",
+    "English": "Reliable",
+    "Sub_English": "Đáng tin cậy",
+    "Example": "The brand is known for its reliable products and services.",
+    "English_Vocabulary_Test": [
+      "Hợp lý",
+      "Dịch vụ bảo hiểm",
+      "Dịch vụ trang trí"
+    ],
+    "Fill_Blank": "The brand is known for its ______ products and services.",
+    "Mistakes": [
+      "Franchise",
+      "Recruitment service",
+      "Technical support service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.7",
+    "English": "Reasonable",
+    "Sub_English": "Hợp lý",
+    "Example": "The hotel offers reasonable rates for its accommodations.",
+    "English_Vocabulary_Test": [
+      "Nhượng quyền",
+      "Dịch vụ bảo hiểm",
+      "Dịch vụ trông trẻ"
+    ],
+    "Fill_Blank": "The hotel offers ______ rates for its accommodations.",
+    "Mistakes": [
+      "Represent (business English)",
+      "Tourist agent",
+      "Furnishing service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.8",
+    "English": "Innovative (adj)",
+    "Sub_English": "Sáng tạo (tính từ)",
+    "Example": "The tech company is known for its innovative approach to product development.",
+    "English_Vocabulary_Test": [
+      "Khuyến nghị (động từ)",
+      "Nhượng quyền",
+      "Dịch vụ tổ chức tiệc"
+    ],
+    "Fill_Blank": "The tech company is known for its innovative approach to product development.",
+    "Mistakes": [
+      "Telecommunication company",
+      "Recruitment service",
+      "Logistics company"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.9",
+    "English": "Franchise",
+    "Sub_English": "Nhượng quyền",
+    "Example": "They opened a franchise of the popular fast-food chain.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ hỗ trợ kỹ thuật",
+      "Dịch vụ trang trí",
+      "Tiện lợi"
+    ],
+    "Fill_Blank": "They opened a ______ of the popular fast-food chain.",
+    "Mistakes": [
+      "Event manager",
+      "Catering service",
+      "Innovative (adj)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.10",
+    "English": "Event manager",
+    "Sub_English": "Người quản lý sự kiện",
+    "Example": "The event manager ensured that everything ran smoothly at the conference.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ tiệc",
+      "Dịch vụ chuyển phát",
+      "Dịch vụ đầu tư"
+    ],
+    "Fill_Blank": "The ______ ensured that everything ran smoothly at the conference.",
+    "Mistakes": [
+      "Franchise",
+      "Party service",
+      "Convenient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.11",
+    "English": "Babysitting service",
+    "Sub_English": "Dịch vụ trông trẻ",
+    "Example": "They hired a babysitting service for their date night.",
+    "English_Vocabulary_Test": [
+      "Hợp lý",
+      "Nhượng quyền",
+      "Công ty logistics"
+    ],
+    "Fill_Blank": "They hired a ______ for their date night.",
+    "Mistakes": [
+      "Translation service",
+      "Innovative (adj)",
+      "Reasonable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.12",
+    "English": "Catering service",
+    "Sub_English": "Dịch vụ tiệc",
+    "Example": "The catering service provided delicious food for the wedding reception.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ chuyển phát",
+      "Công ty logistics",
+      "Dịch vụ trông trẻ"
+    ],
+    "Fill_Blank": "The ______ provided delicious food for the wedding reception.",
+    "Mistakes": [
+      "Telecommunication company",
+      "Assist",
+      "Cleaning service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.13",
+    "English": "Cleaning service",
+    "Sub_English": "Dịch vụ lau dọn",
+    "Example": "The cleaning service tidied up the office space every evening.",
+    "English_Vocabulary_Test": [
+      "Sáng tạo (tính từ)",
+      "Nhượng quyền",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "The ______ tidied up the office space every evening.",
+    "Mistakes": [
+      "Party service",
+      "Babysitting service",
+      "Innovative (adj)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.14",
+    "English": "Courier service",
+    "Sub_English": "Dịch vụ chuyển phát",
+    "Example": "The courier service delivered the package on time.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ dịch thuật",
+      "Khuyến nghị (động từ)",
+      "Uy tín"
+    ],
+    "Fill_Blank": "The ______ delivered the package on time.",
+    "Mistakes": [
+      "Investment service",
+      "Party service",
+      "Event manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.15",
+    "English": "Furnishing service",
+    "Sub_English": "Dịch vụ trang trí",
+    "Example": "The furnishing service decorated the venue beautifully for the event.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ trông trẻ",
+      "Nhượng quyền",
+      "Hỗ trợ"
+    ],
+    "Fill_Blank": "The ______ decorated the venue beautifully for the event.",
+    "Mistakes": [
+      "Tourist agent",
+      "Recommend (v)",
+      "Babysitting service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.16",
+    "English": "Insurance service",
+    "Sub_English": "Dịch vụ bảo hiểm",
+    "Example": "They purchased insurance service to protect their assets.",
+    "English_Vocabulary_Test": [
+      "Đại diện (tiếng kinh doanh)",
+      "Tiện lợi",
+      "Dịch vụ dịch thuật"
+    ],
+    "Fill_Blank": "They purchased ______ to protect their assets.",
+    "Mistakes": [
+      "Convenient",
+      "Recruitment service",
+      "Recommend (v)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.17",
+    "English": "Investment service",
+    "Sub_English": "Dịch vụ đầu tư",
+    "Example": "The investment service offered a diverse range of financial products.",
+    "English_Vocabulary_Test": [
+      "Công ty viễn thông",
+      "Dịch vụ dịch thuật",
+      "Dịch vụ hỗ trợ kỹ thuật"
+    ],
+    "Fill_Blank": "The ______ offered a diverse range of financial products.",
+    "Mistakes": [
+      "Cleaning service",
+      "Technical support service",
+      "Investment service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.18",
+    "English": "Logistics company",
+    "Sub_English": "Công ty logistics",
+    "Example": "The logistics company managed the transportation of goods efficiently.",
+    "English_Vocabulary_Test": [
+      "Đại diện (tiếng kinh doanh)",
+      "Nhượng quyền",
+      "Dịch vụ đầu tư"
+    ],
+    "Fill_Blank": "The ______ managed the transportation of goods efficiently.",
+    "Mistakes": [
+      "Event manager",
+      "Innovative (adj)",
+      "Technical support service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.19",
+    "English": "Party service",
+    "Sub_English": "Dịch vụ tổ chức tiệc",
+    "Example": "The party service organized a memorable birthday celebration.",
+    "English_Vocabulary_Test": [
+      "Hợp lý",
+      "Đáng tin cậy",
+      "Dịch vụ trông trẻ"
+    ],
+    "Fill_Blank": "The ______ organized a memorable birthday celebration.",
+    "Mistakes": [
+      "Cleaning service",
+      "Logistics company",
+      "Reasonable"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.20",
+    "English": "Recruitment service",
+    "Sub_English": "Dịch vụ tuyển dụng",
+    "Example": "The recruitment service helped match candidates with suitable job positions.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ tổ chức tiệc",
+      "Đại diện (tiếng kinh doanh)",
+      "Người quản lý sự kiện"
+    ],
+    "Fill_Blank": "The ______ helped match candidates with suitable job positions.",
+    "Mistakes": [
+      "Telecommunication company",
+      "Insurance service",
+      "Event manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.21",
+    "English": "Technical support service",
+    "Sub_English": "Dịch vụ hỗ trợ kỹ thuật",
+    "Example": "The technical support service assisted customers with troubleshooting.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ đầu tư",
+      "Dịch vụ tổ chức tiệc",
+      "Uy tín"
+    ],
+    "Fill_Blank": "The ______ assisted customers with troubleshooting.",
+    "Mistakes": [
+      "Technical support service",
+      "Convenient",
+      "Recommend (v)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.22",
+    "English": "Telecommunication company",
+    "Sub_English": "Công ty viễn thông",
+    "Example": "The telecommunication company offers internet and phone services.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ trang trí",
+      "Đại lý du lịch",
+      "Dịch vụ chuyển phát"
+    ],
+    "Fill_Blank": "The ______ offers internet and phone services.",
+    "Mistakes": [
+      "Represent (business English)",
+      "Recruitment service",
+      "Catering service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.23",
+    "English": "Tourist agent",
+    "Sub_English": "Đại lý du lịch",
+    "Example": "The tourist agent arranged an unforgettable vacation for the family.",
+    "English_Vocabulary_Test": [
+      "Hỗ trợ",
+      "Dịch vụ tổ chức tiệc",
+      "Dịch vụ trang trí"
+    ],
+    "Fill_Blank": "The ______ arranged an unforgettable vacation for the family.",
+    "Mistakes": [
+      "Cleaning service",
+      "Reliable",
+      "Catering service"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.3.24",
+    "English": "Translation service",
+    "Sub_English": "Dịch vụ dịch thuật",
+    "Example": "The translation service provided accurate translations for the legal document.",
+    "English_Vocabulary_Test": [
+      "Dịch vụ chuyển phát",
+      "Hợp lý",
+      "Dịch vụ tổ chức tiệc"
+    ],
+    "Fill_Blank": "The ______ provided accurate translations for the legal document.",
+    "Mistakes": [
+      "Franchise",
+      "Reasonable",
+      "Tourist agent"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.1",
+    "English": "Discount",
+    "Sub_English": "Giảm giá",
+    "Example": "The store offered a 20% discount on all items during the sale.",
+    "English_Vocabulary_Test": [
+      "Hoa hồng",
+      "Địa điểm giao hàng",
+      "Mã sản phẩm"
+    ],
+    "Fill_Blank": "The store offered a 20% ______ on all items during the sale.",
+    "Mistakes": [
+      "Credit card",
+      "Refund",
+      "Method of payment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.2",
+    "English": "Order",
+    "Sub_English": "Đặt hàng",
+    "Example": "The customer placed an order for a new laptop online.",
+    "English_Vocabulary_Test": [
+      "Kho",
+      "Trao đổi",
+      "Hoa hồng"
+    ],
+    "Fill_Blank": "The customer placed an ______ for a new laptop online.",
+    "Mistakes": [
+      "Method of payment",
+      "Guarantee",
+      "Catalogue"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.3",
+    "English": "Credit card",
+    "Sub_English": "Thẻ tín dụng",
+    "Example": "He paid for the furniture using his credit card.",
+    "English_Vocabulary_Test": [
+      "Tài khoản",
+      "Bán trực tuyến",
+      "Mặc cả"
+    ],
+    "Fill_Blank": "He paid for the furniture using his ______.",
+    "Mistakes": [
+      "Guarantee",
+      "Signed order",
+      "Bargain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.4",
+    "English": "On sale",
+    "Sub_English": "Đang giảm giá",
+    "Example": "The winter jackets are on sale for half price.",
+    "English_Vocabulary_Test": [
+      "Bảo hành",
+      "Kho",
+      "Giảm giá"
+    ],
+    "Fill_Blank": "The winter jackets are ______ for half price.",
+    "Mistakes": [
+      "Method of payment",
+      "Credit card",
+      "Warehouse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.5",
+    "English": "Refund",
+    "Sub_English": "Hoàn tiền",
+    "Example": "She requested a refund for the damaged item.",
+    "English_Vocabulary_Test": [
+      "Trao đổi",
+      "Danh mục sản phẩm",
+      "Đơn đặt hàng ký tên"
+    ],
+    "Fill_Blank": "She requested a ______ for the damaged item.",
+    "Mistakes": [
+      "Shipment",
+      "Warehouse",
+      "Method of payment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.6",
+    "English": "Account",
+    "Sub_English": "Tài khoản",
+    "Example": "The funds were transferred to his bank account.",
+    "English_Vocabulary_Test": [
+      "Kho",
+      "Mặc cả",
+      "Lô hàng"
+    ],
+    "Fill_Blank": "The funds were transferred to his bank ______.",
+    "Mistakes": [
+      "On sale",
+      "Place of delivery",
+      "Method of payment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.7",
+    "English": "Guarantee",
+    "Sub_English": "Bảo hành",
+    "Example": "The manufacturer offers a one-year guarantee on all products.",
+    "English_Vocabulary_Test": [
+      "Phương thức thanh toán",
+      "Bán trực tuyến",
+      "Nhà cung cấp"
+    ],
+    "Fill_Blank": "The manufacturer offers a one-year ______ on all products.",
+    "Mistakes": [
+      "Place of delivery",
+      "Discount",
+      "Supplier (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.8",
+    "English": "Contract (n)",
+    "Sub_English": "Hợp đồng",
+    "Example": "They signed a contract for the sale of the property.",
+    "English_Vocabulary_Test": [
+      "Phương thức thanh toán",
+      "Hoa hồng",
+      "Mã sản phẩm"
+    ],
+    "Fill_Blank": "They signed a contract for the sale of the property.",
+    "Mistakes": [
+      "Commission",
+      "On sale",
+      "Contract (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.9",
+    "English": "Shipment",
+    "Sub_English": "Lô hàng",
+    "Example": "The shipment of goods arrived at the warehouse.",
+    "English_Vocabulary_Test": [
+      "Địa điểm giao hàng",
+      "Thẻ tín dụng",
+      "Mã sản phẩm"
+    ],
+    "Fill_Blank": "The ______ of goods arrived at the warehouse.",
+    "Mistakes": [
+      "Method of payment",
+      "Product code",
+      "Bargain (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.10",
+    "English": "Supplier (n)",
+    "Sub_English": "Nhà cung cấp",
+    "Example": "The company switched to a new supplier for better quality materials.",
+    "English_Vocabulary_Test": [
+      "Thẻ tín dụng",
+      "Lô hàng",
+      "Mặc cả"
+    ],
+    "Fill_Blank": "The company switched to a new supplier for better quality materials.",
+    "Mistakes": [
+      "Place of delivery",
+      "Bargain (n)",
+      "Catalogue"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.11",
+    "English": "Catalogue",
+    "Sub_English": "Danh mục sản phẩm",
+    "Example": "She browsed through the catalogue to choose a birthday gift.",
+    "English_Vocabulary_Test": [
+      "Hoàn tiền",
+      "Đặt hàng",
+      "Nhà cung cấp"
+    ],
+    "Fill_Blank": "She browsed through the ______ to choose a birthday gift.",
+    "Mistakes": [
+      "Method of payment",
+      "Bargain (n)",
+      "Bargain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.12",
+    "English": "Bargain",
+    "Sub_English": "Mặc cả",
+    "Example": "He negotiated a bargain price for the antique vase.",
+    "English_Vocabulary_Test": [
+      "Kho",
+      "Hợp đồng",
+      "Nhà cung cấp"
+    ],
+    "Fill_Blank": "He negotiated a ______ price for the antique vase.",
+    "Mistakes": [
+      "Supplier (n)",
+      "On sale",
+      "Method of payment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.13",
+    "English": "Bargain (n)",
+    "Sub_English": "Mặc cả",
+    "Example": "The flea market is known for its great bargains on vintage items.",
+    "English_Vocabulary_Test": [
+      "Đơn đặt hàng ký tên",
+      "Lô hàng",
+      "Hợp đồng"
+    ],
+    "Fill_Blank": "The flea market is known for its great bargains on vintage items.",
+    "Mistakes": [
+      "Signed order",
+      "Product code",
+      "Shipment"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.14",
+    "English": "Commission",
+    "Sub_English": "Hoa hồng",
+    "Example": "The salesperson earns a commission for each successful sale.",
+    "English_Vocabulary_Test": [
+      "Đặt hàng",
+      "Bảo hành",
+      "Phương thức thanh toán"
+    ],
+    "Fill_Blank": "The salesperson earns a ______ for each successful sale.",
+    "Mistakes": [
+      "On sale",
+      "Account",
+      "Warehouse"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.15",
+    "English": "Exchange",
+    "Sub_English": "Trao đổi",
+    "Example": "The store allows customers to exchange items within 30 days of purchase.",
+    "English_Vocabulary_Test": [
+      "Danh mục sản phẩm",
+      "Bán trực tuyến",
+      "Nhà cung cấp"
+    ],
+    "Fill_Blank": "The store allows customers to ______ items within 30 days of purchase.",
+    "Mistakes": [
+      "Discount",
+      "On sale",
+      "Supplier (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.16",
+    "English": "Method of payment",
+    "Sub_English": "Phương thức thanh toán",
+    "Example": "Cash is the preferred method of payment for small transactions.",
+    "English_Vocabulary_Test": [
+      "Đơn đặt hàng ký tên",
+      "Tài khoản",
+      "Địa điểm giao hàng"
+    ],
+    "Fill_Blank": "Cash is the preferred ______ for small transactions.",
+    "Mistakes": [
+      "Supplier (n)",
+      "Bargain (n)",
+      "Catalogue"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.17",
+    "English": "Place of delivery",
+    "Sub_English": "Địa điểm giao hàng",
+    "Example": "The customer specified a different place of delivery for the package.",
+    "English_Vocabulary_Test": [
+      "Mặc cả",
+      "Hoàn tiền",
+      "Trao đổi"
+    ],
+    "Fill_Blank": "The customer specified a different ______ for the package.",
+    "Mistakes": [
+      "Bargain (n)",
+      "Credit card",
+      "Guarantee"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.18",
+    "English": "Product code",
+    "Sub_English": "Mã sản phẩm",
+    "Example": "Please provide the product code when making inquiries about the item.",
+    "English_Vocabulary_Test": [
+      "Lô hàng",
+      "Mặc cả",
+      "Nhà cung cấp"
+    ],
+    "Fill_Blank": "Please provide the ______ when making inquiries about the item.",
+    "Mistakes": [
+      "Warehouse",
+      "Exchange",
+      "Bargain (n)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.19",
+    "English": "Selling online",
+    "Sub_English": "Bán trực tuyến",
+    "Example": "The company expanded its business by selling products online.",
+    "English_Vocabulary_Test": [
+      "Hoàn tiền",
+      "Kho",
+      "Hoa hồng"
+    ],
+    "Fill_Blank": "The company expanded its business by selling products online.",
+    "Mistakes": [
+      "Discount",
+      "Warehouse",
+      "Credit card"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.20",
+    "English": "Signed order",
+    "Sub_English": "Đơn đặt hàng ký tên",
+    "Example": "The signed order confirmed the terms of the agreement between the parties.",
+    "English_Vocabulary_Test": [
+      "Giảm giá",
+      "Tài khoản",
+      "Thẻ tín dụng"
+    ],
+    "Fill_Blank": "The ______ confirmed the terms of the agreement between the parties.",
+    "Mistakes": [
+      "Warehouse",
+      "Refund",
+      "Order"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.4.21",
+    "English": "Warehouse",
+    "Sub_English": "Kho",
+    "Example": "The warehouse stores inventory until it's ready to be shipped.",
+    "English_Vocabulary_Test": [
+      "Lô hàng",
+      "Đơn đặt hàng ký tên",
+      "Giảm giá"
+    ],
+    "Fill_Blank": "The ______ stores inventory until it's ready to be shipped.",
+    "Mistakes": [
+      "Order",
+      "Shipment",
+      "Bargain"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.1",
+    "English": "Negotiate",
+    "Sub_English": "Đàm phán",
+    "Example": "The two parties agreed to negotiate the terms of the contract.",
+    "English_Vocabulary_Test": [
+      "Khẩn cấp",
+      "Phí",
+      "Cờ"
+    ],
+    "Fill_Blank": "The two parties agreed to ______ the terms of the contract.",
+    "Mistakes": [
+      "Instruction Manual",
+      "Flag",
+      "Illegible"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.2",
+    "English": "Charge",
+    "Sub_English": "Phí",
+    "Example": "The hotel will charge an additional fee for late check-out.",
+    "English_Vocabulary_Test": [
+      "Thư chuyển phát nhanh",
+      "Cờ",
+      "Còn hàng"
+    ],
+    "Fill_Blank": "The hotel will ______ an additional fee for late check-out.",
+    "Mistakes": [
+      "Out of order",
+      "Urgent",
+      "Compromise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.3",
+    "English": "Compromise",
+    "Sub_English": "Thỏa hiệp",
+    "Example": "They reached a compromise on the final price of the car.",
+    "English_Vocabulary_Test": [
+      "Không đọc được",
+      "Phí",
+      "Dạo qua"
+    ],
+    "Fill_Blank": "They reached a ______ on the final price of the car.",
+    "Mistakes": [
+      "Charge",
+      "Inconvenience",
+      "Express mail"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.4",
+    "English": "Inconvenience",
+    "Sub_English": "Bất tiện",
+    "Example": "We apologize for any inconvenience caused during the maintenance.",
+    "English_Vocabulary_Test": [
+      "Cử chỉ",
+      "Dạo qua",
+      "Cờ"
+    ],
+    "Fill_Blank": "We apologize for any ______ caused during the maintenance.",
+    "Mistakes": [
+      "Out of stock",
+      "Compromise",
+      "Straight away"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.5",
+    "English": "Gesture",
+    "Sub_English": "Cử chỉ",
+    "Example": "His gesture of goodwill was appreciated by everyone at the meeting.",
+    "English_Vocabulary_Test": [
+      "Không đọc được",
+      "Hỏng",
+      "Đàm phán"
+    ],
+    "Fill_Blank": "His ______ of goodwill was appreciated by everyone at the meeting.",
+    "Mistakes": [
+      "Gesture",
+      "Flag",
+      "Charge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.6",
+    "English": "Out of order",
+    "Sub_English": "Hỏng",
+    "Example": "The vending machine is out of order, please use another one.",
+    "English_Vocabulary_Test": [
+      "Đàm phán",
+      "Mô tả",
+      "Cờ"
+    ],
+    "Fill_Blank": "The vending machine is ______, please use another one.",
+    "Mistakes": [
+      "Gesture",
+      "Flag",
+      "Out of stock"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.7",
+    "English": "Straight away",
+    "Sub_English": "Ngay lập tức",
+    "Example": "The manager will address your concerns straight away.",
+    "English_Vocabulary_Test": [
+      "Phí",
+      "Cờ",
+      "Còn hàng"
+    ],
+    "Fill_Blank": "The manager will address your concerns ______.",
+    "Mistakes": [
+      "Out of order",
+      "Straight away",
+      "Negotiate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.8",
+    "English": "Dispatch",
+    "Sub_English": "Gửi đi",
+    "Example": "The courier will dispatch the package to your address tomorrow.",
+    "English_Vocabulary_Test": [
+      "Còn hàng",
+      "Thỏa hiệp",
+      "Bất tiện"
+    ],
+    "Fill_Blank": "The courier will ______ the package to your address tomorrow.",
+    "Mistakes": [
+      "Flag",
+      "Browse",
+      "Urgent"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.9",
+    "English": "Browse",
+    "Sub_English": "Dạo qua",
+    "Example": "Customers can browse through the online catalog to view products.",
+    "English_Vocabulary_Test": [
+      "Khẩn cấp",
+      "Gửi đi",
+      "Không đọc được"
+    ],
+    "Fill_Blank": "Customers can ______ through the online catalog to view products.",
+    "Mistakes": [
+      "Out of stock",
+      "Browse",
+      "Express mail"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.10",
+    "English": "Description",
+    "Sub_English": "Mô tả",
+    "Example": "The product description provides detailed information about its features.",
+    "English_Vocabulary_Test": [
+      "Thư chuyển phát nhanh",
+      "Bất tiện",
+      "Đàm phán"
+    ],
+    "Fill_Blank": "The product ______ provides detailed information about its features.",
+    "Mistakes": [
+      "Out of order",
+      "Description",
+      "Instruction Manual"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.11",
+    "English": "Express mail",
+    "Sub_English": "Thư chuyển phát nhanh",
+    "Example": "He sent the important documents via express mail for speedy delivery.",
+    "English_Vocabulary_Test": [
+      "Thỏa hiệp",
+      "Ngay lập tức",
+      "Không đọc được"
+    ],
+    "Fill_Blank": "He sent the important documents via ______ for speedy delivery.",
+    "Mistakes": [
+      "Out of order",
+      "Flag",
+      "Dispatch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.12",
+    "English": "Flag",
+    "Sub_English": "Cờ",
+    "Example": "The flag at the top of the building fluttered in the wind.",
+    "English_Vocabulary_Test": [
+      "Thư chuyển phát nhanh",
+      "Đàm phán",
+      "Thỏa hiệp"
+    ],
+    "Fill_Blank": "The ______ at the top of the building fluttered in the wind.",
+    "Mistakes": [
+      "Urgent",
+      "Illegible",
+      "Description"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.13",
+    "English": "Illegible",
+    "Sub_English": "Không đọc được",
+    "Example": "The handwriting on the document was illegible and hard to decipher.",
+    "English_Vocabulary_Test": [
+      "Bất tiện",
+      "Thỏa hiệp",
+      "Còn hàng"
+    ],
+    "Fill_Blank": "The handwriting on the document was ______ and hard to decipher.",
+    "Mistakes": [
+      "Gesture",
+      "In stock",
+      "Negotiate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.14",
+    "English": "In stock",
+    "Sub_English": "Còn hàng",
+    "Example": "The popular item is currently in stock and available for purchase.",
+    "English_Vocabulary_Test": [
+      "Hết hàng",
+      "Phí",
+      "Gửi đi"
+    ],
+    "Fill_Blank": "The popular item is currently ______ and available for purchase.",
+    "Mistakes": [
+      "Urgent",
+      "Illegible",
+      "Instruction Manual"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.15",
+    "English": "Instruction Manual",
+    "Sub_English": "Sách hướng dẫn",
+    "Example": "The instruction manual provides step-by-step guidance on assembly.",
+    "English_Vocabulary_Test": [
+      "Không đọc được",
+      "Hết hàng",
+      "Cờ"
+    ],
+    "Fill_Blank": "The ______ provides step-by-step guidance on assembly.",
+    "Mistakes": [
+      "Dispatch",
+      "Illegible",
+      "Urgent"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.16",
+    "English": "Out of stock",
+    "Sub_English": "Hết hàng",
+    "Example": "We apologize, but the item you requested is currently out of stock.",
+    "English_Vocabulary_Test": [
+      "Mô tả",
+      "Phí",
+      "Ngay lập tức"
+    ],
+    "Fill_Blank": "We apologize, but the item you requested is currently ______.",
+    "Mistakes": [
+      "Inconvenience",
+      "Dispatch",
+      "Compromise"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.5.17",
+    "English": "Urgent",
+    "Sub_English": "Khẩn cấp",
+    "Example": "Please attend to this matter as it is urgent and requires immediate action.",
+    "English_Vocabulary_Test": [
+      "Hết hàng",
+      "Dạo qua",
+      "Ngay lập tức"
+    ],
+    "Fill_Blank": "Please attend to this matter as it is ______ and requires immediate action.",
+    "Mistakes": [
+      "Description",
+      "Dispatch",
+      "Charge"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.1",
+    "English": "Interpreter",
+    "Sub_English": "Phiên dịch viên",
+    "Example": "The interpreter translated the speaker's words from English to French.",
+    "English_Vocabulary_Test": [
+      "Phiên hỏi đáp",
+      "Ngắt lời",
+      "Sự gián đoạn"
+    ],
+    "Fill_Blank": "The ______ translated the speaker's words from English to French.",
+    "Mistakes": [
+      "Move on to",
+      "Chair (a meeting)",
+      "Call on"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.2",
+    "English": "Projector",
+    "Sub_English": "Máy chiếu",
+    "Example": "The presenter used a projector to display the slides during the meeting.",
+    "English_Vocabulary_Test": [
+      "Phiên dịch viên",
+      "Nội dung cuộc họp",
+      "Từ chối"
+    ],
+    "Fill_Blank": "The presenter used a ______ to display the slides during the meeting.",
+    "Mistakes": [
+      "Minutes",
+      "Chair (a meeting)",
+      "Interrupt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.3",
+    "English": "Venue",
+    "Sub_English": "Địa điểm tổ chức",
+    "Example": "The venue for the conference was a luxurious hotel in the city center.",
+    "English_Vocabulary_Test": [
+      "Chủ tịch",
+      "Tóm tắt",
+      "Phiên dịch viên"
+    ],
+    "Fill_Blank": "The ______ for the conference was a luxurious hotel in the city center.",
+    "Mistakes": [
+      "Agenda",
+      "Cover",
+      "Move on to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.4",
+    "English": "Agenda",
+    "Sub_English": "Nội dung cuộc họp",
+    "Example": "The agenda for the meeting includes discussions on budget allocation.",
+    "English_Vocabulary_Test": [
+      "Gọi tên",
+      "Điểm hành động",
+      "Phiên hỏi đáp"
+    ],
+    "Fill_Blank": "The ______ for the meeting includes discussions on budget allocation.",
+    "Mistakes": [
+      "Interrupt",
+      "Venue",
+      "Interruption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.5",
+    "English": "Reject",
+    "Sub_English": "Từ chối",
+    "Example": "The committee decided to reject the proposal due to budget constraints.",
+    "English_Vocabulary_Test": [
+      "Điểm hành động",
+      "Nội dung cuộc họp",
+      "Chuyển sang"
+    ],
+    "Fill_Blank": "The committee decided to ______ the proposal due to budget constraints.",
+    "Mistakes": [
+      "Interrupt",
+      "Chair (a meeting)",
+      "Agenda"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.6",
+    "English": "Cover",
+    "Sub_English": "Đề cập",
+    "Example": "The report will cover various aspects of the company's financial performance.",
+    "English_Vocabulary_Test": [
+      "Biên bản họp",
+      "Chủ tịch",
+      "Phiên hỏi đáp"
+    ],
+    "Fill_Blank": "The report will ______ various aspects of the company's financial performance.",
+    "Mistakes": [
+      "Move on to",
+      "Agenda",
+      "Summarize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.7",
+    "English": "Action point",
+    "Sub_English": "Điểm hành động",
+    "Example": "The action point from the last meeting was to finalize the budget proposal.",
+    "English_Vocabulary_Test": [
+      "Gọi tên",
+      "Ngắt lời",
+      "Chủ trì cuộc họp"
+    ],
+    "Fill_Blank": "The ______ from the last meeting was to finalize the budget proposal.",
+    "Mistakes": [
+      "Move on to",
+      "Get down to business",
+      "Interruption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.8",
+    "English": "Call on",
+    "Sub_English": "Gọi tên",
+    "Example": "The chairperson called on the next speaker to give their presentation.",
+    "English_Vocabulary_Test": [
+      "Chủ tịch",
+      "Chuyển sang",
+      "Điểm hành động"
+    ],
+    "Fill_Blank": "The chairperson called on the next speaker to give their presentation.",
+    "Mistakes": [
+      "Cover",
+      "Agenda",
+      "Minutes"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.9",
+    "English": "Chairperson",
+    "Sub_English": "Chủ tịch",
+    "Example": "The chairperson facilitated the discussion during the board meeting.",
+    "English_Vocabulary_Test": [
+      "Gọi tên",
+      "Điểm hành động",
+      "Từ chối"
+    ],
+    "Fill_Blank": "The ______ facilitated the discussion during the board meeting.",
+    "Mistakes": [
+      "Interpreter",
+      "Interruption",
+      "Q&A session"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.10",
+    "English": "Interrupt",
+    "Sub_English": "Ngắt lời",
+    "Example": "Please do not interrupt the speaker while they are presenting.",
+    "English_Vocabulary_Test": [
+      "Nội dung cuộc họp",
+      "Chủ trì cuộc họp",
+      "Điểm hành động"
+    ],
+    "Fill_Blank": "Please do not ______ the speaker while they are presenting.",
+    "Mistakes": [
+      "Interruption",
+      "Minutes",
+      "Reject"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.11",
+    "English": "Interruption",
+    "Sub_English": "Sự gián đoạn",
+    "Example": "The interruption during the presentation caused some confusion among attendees.",
+    "English_Vocabulary_Test": [
+      "Gọi tên",
+      "Chủ trì cuộc họp",
+      "Phiên hỏi đáp"
+    ],
+    "Fill_Blank": "The ______ during the presentation caused some confusion among attendees.",
+    "Mistakes": [
+      "Interruption",
+      "Reject",
+      "Chairperson"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.12",
+    "English": "Minutes",
+    "Sub_English": "Biên bản họp",
+    "Example": "The secretary took detailed minutes of the meeting for future reference.",
+    "English_Vocabulary_Test": [
+      "Từ chối",
+      "Phiên hỏi đáp",
+      "Tóm tắt"
+    ],
+    "Fill_Blank": "The secretary took detailed ______ of the meeting for future reference.",
+    "Mistakes": [
+      "Interrupt",
+      "Call on",
+      "Summarize"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.13",
+    "English": "Move on to",
+    "Sub_English": "Chuyển sang",
+    "Example": "Let's move on to the next item on the agenda.",
+    "English_Vocabulary_Test": [
+      "Phiên dịch viên",
+      "Sự gián đoạn",
+      "Địa điểm tổ chức"
+    ],
+    "Fill_Blank": "Let's ______ the next item on the agenda.",
+    "Mistakes": [
+      "Minutes",
+      "Reject",
+      "Interruption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.14",
+    "English": "Q&A session",
+    "Sub_English": "Phiên hỏi đáp",
+    "Example": "The Q&A session at the end of the presentation allowed for audience participation.",
+    "English_Vocabulary_Test": [
+      "Ngắt lời",
+      "Tóm tắt",
+      "Đề cập"
+    ],
+    "Fill_Blank": "The ______ at the end of the presentation allowed for audience participation.",
+    "Mistakes": [
+      "Minutes",
+      "Get down to business",
+      "Move on to"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.15",
+    "English": "Summarize",
+    "Sub_English": "Tóm tắt",
+    "Example": "The manager will summarize the key points discussed during the meeting.",
+    "English_Vocabulary_Test": [
+      "Đề cập",
+      "Biên bản họp",
+      "Chủ tịch"
+    ],
+    "Fill_Blank": "The manager will ______ the key points discussed during the meeting.",
+    "Mistakes": [
+      "Cover",
+      "Agenda",
+      "Interruption"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.16",
+    "English": "Get down to business",
+    "Sub_English": "Bắt đầu làm việc",
+    "Example": "Let's get down to business and discuss the project deadlines.",
+    "English_Vocabulary_Test": [
+      "Sự gián đoạn",
+      "Gọi tên",
+      "Điểm hành động"
+    ],
+    "Fill_Blank": "Let's ______ and discuss the project deadlines.",
+    "Mistakes": [
+      "Agenda",
+      "Summarize",
+      "Venue"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.6.17",
+    "English": "Chair (a meeting)",
+    "Sub_English": "Chủ trì cuộc họp",
+    "Example": "The vice president will chair the meeting in the absence of the president.",
+    "English_Vocabulary_Test": [
+      "Nội dung cuộc họp",
+      "Biên bản họp",
+      "Chuyển sang"
+    ],
+    "Fill_Blank": "The vice president will chair the meeting in the absence of the president.",
+    "Mistakes": [
+      "Summarize",
+      "Reject",
+      "Chair (a meeting)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.1",
+    "English": "Informal",
+    "Sub_English": "Phi cảnh cáo",
+    "Example": "The informal tone of the email made it easy to read and understand.",
+    "English_Vocabulary_Test": [
+      "Mạng xã hội",
+      "Gửi tin nhắn",
+      "Múi giờ"
+    ],
+    "Fill_Blank": "The ______ tone of the email made it easy to read and understand.",
+    "Mistakes": [
+      "Reinforce",
+      "Reply",
+      "Spam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.2",
+    "English": "Formal",
+    "Sub_English": "Chính thức",
+    "Example": "The formal dress code for the event required guests to wear suits and ties.",
+    "English_Vocabulary_Test": [
+      "Gửi tin nhắn",
+      "Qua",
+      "Giữ liên lạc với"
+    ],
+    "Fill_Blank": "The ______ dress code for the event required guests to wear suits and ties.",
+    "Mistakes": [
+      "Switch on",
+      "Informal",
+      "Video conference/ Videoconferencing"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.3",
+    "English": "Polite",
+    "Sub_English": "Lịch sự",
+    "Example": "It's polite to say \"please\" and \"thank you\" when making a request.",
+    "English_Vocabulary_Test": [
+      "Liên hệ",
+      "Thực hiện cuộc gọi",
+      "Giữ liên lạc với"
+    ],
+    "Fill_Blank": "It's ______ to say \"please\" and \"thank you\" when making a request.",
+    "Mistakes": [
+      "Informal",
+      "Facial expression",
+      "Contact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.4",
+    "English": "Spam",
+    "Sub_English": "Thư rác",
+    "Example": "The email filter automatically moved the spam messages to the junk folder.",
+    "English_Vocabulary_Test": [
+      "Điện thoại/ gọi",
+      "Tin nhắn",
+      "Yêu cầu"
+    ],
+    "Fill_Blank": "The email filter automatically moved the ______ messages to the junk folder.",
+    "Mistakes": [
+      "Video conference/ Videoconferencing",
+      "Require",
+      "Social media"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.5",
+    "English": "Social media",
+    "Sub_English": "Mạng xã hội",
+    "Example": "She shared the photos on social media to keep her friends updated.",
+    "English_Vocabulary_Test": [
+      "Tốn thời gian",
+      "Lịch sự",
+      "Điện thoại/ gọi"
+    ],
+    "Fill_Blank": "She shared the photos on ______ to keep her friends updated.",
+    "Mistakes": [
+      "Text a message",
+      "Spam",
+      "Time zone"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.6",
+    "English": "Access",
+    "Sub_English": "Truy cập",
+    "Example": "Employees have access to the company's internal network for work purposes.",
+    "English_Vocabulary_Test": [
+      "Bật máy",
+      "Mạng xã hội",
+      "Điện thoại/ gọi"
+    ],
+    "Fill_Blank": "Employees have ______ to the company's internal network for work purposes.",
+    "Mistakes": [
+      "Reply",
+      "Require",
+      "Facial expression"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.7",
+    "English": "Text",
+    "Sub_English": "Tin nhắn",
+    "Example": "She sent a quick text to her friend to let her know about the change of plans.",
+    "English_Vocabulary_Test": [
+      "Thực hiện cuộc gọi",
+      "Qua",
+      "Biểu cảm khuôn mặt"
+    ],
+    "Fill_Blank": "She sent a quick ______ to her friend to let her know about the change of plans.",
+    "Mistakes": [
+      "Spam",
+      "Text a message",
+      "Phone/ call"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.8",
+    "English": "Text a message",
+    "Sub_English": "Gửi tin nhắn",
+    "Example": "He texted a message to his colleague to remind them of the meeting.",
+    "English_Vocabulary_Test": [
+      "Chính thức",
+      "Tin nhắn",
+      "Mạng xã hội"
+    ],
+    "Fill_Blank": "He texted a message to his colleague to remind them of the meeting.",
+    "Mistakes": [
+      "Make a phone call",
+      "Reinforce",
+      "Facial expression"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.9",
+    "English": "Phone/ call",
+    "Sub_English": "Điện thoại/ gọi",
+    "Example": "She decided to phone her parents to wish them a happy anniversary.",
+    "English_Vocabulary_Test": [
+      "Mạng xã hội",
+      "Củng cố",
+      "Chính thức"
+    ],
+    "Fill_Blank": "She decided to phone her parents to wish them a happy anniversary.",
+    "Mistakes": [
+      "Spam",
+      "Require",
+      "Polite"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.10",
+    "English": "Reply",
+    "Sub_English": "Trả lời",
+    "Example": "Please reply to this email by the end of the day with your availability.",
+    "English_Vocabulary_Test": [
+      "Bật máy",
+      "Phi cảnh cáo",
+      "Biểu cảm khuôn mặt"
+    ],
+    "Fill_Blank": "Please ______ to this email by the end of the day with your availability.",
+    "Mistakes": [
+      "Text a message",
+      "Reply",
+      "Require"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.11",
+    "English": "Keep in touch with",
+    "Sub_English": "Giữ liên lạc với",
+    "Example": "She promised to keep in touch with her college friends after graduation.",
+    "English_Vocabulary_Test": [
+      "Trả lời",
+      "Tốn thời gian",
+      "Củng cố"
+    ],
+    "Fill_Blank": "She promised to ______ her college friends after graduation.",
+    "Mistakes": [
+      "Make a phone call",
+      "Access",
+      "Spam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.12",
+    "English": "Require",
+    "Sub_English": "Yêu cầu",
+    "Example": "The job description will specify the qualifications required for the role.",
+    "English_Vocabulary_Test": [
+      "Truyền",
+      "Điện thoại/ gọi",
+      "Thư rác"
+    ],
+    "Fill_Blank": "The job description will specify the qualifications ______d for the role.",
+    "Mistakes": [
+      "Keep in touch with",
+      "Social media",
+      "Informal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.13",
+    "English": "Make a phone call",
+    "Sub_English": "Thực hiện cuộc gọi",
+    "Example": "He decided to make a phone call instead of sending an email for clarity.",
+    "English_Vocabulary_Test": [
+      "Qua",
+      "Hội nghị trực tuyến",
+      "Điện thoại/ gọi"
+    ],
+    "Fill_Blank": "He decided to ______ instead of sending an email for clarity.",
+    "Mistakes": [
+      "Text a message",
+      "Contact",
+      "Social media"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.14",
+    "English": "Switch on",
+    "Sub_English": "Bật máy",
+    "Example": "Remember to switch on the lights when you enter the room.",
+    "English_Vocabulary_Test": [
+      "Tin nhắn",
+      "Chính thức",
+      "Tốn thời gian"
+    ],
+    "Fill_Blank": "Remember to ______ the lights when you enter the room.",
+    "Mistakes": [
+      "Via",
+      "Time-consuming",
+      "Transmit"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.15",
+    "English": "Facial expression",
+    "Sub_English": "Biểu cảm khuôn mặt",
+    "Example": "His facial expression showed that he was unhappy with the decision.",
+    "English_Vocabulary_Test": [
+      "Mạng xã hội",
+      "Lịch sự",
+      "Trả lời"
+    ],
+    "Fill_Blank": "His ______ showed that he was unhappy with the decision.",
+    "Mistakes": [
+      "Switch on",
+      "Formal",
+      "Facial expression"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.16",
+    "English": "Reinforce",
+    "Sub_English": "Củng cố",
+    "Example": "The manager used positive feedback to reinforce good performance.",
+    "English_Vocabulary_Test": [
+      "Múi giờ",
+      "Tốn thời gian",
+      "Qua"
+    ],
+    "Fill_Blank": "The manager used positive feedback to ______ good performance.",
+    "Mistakes": [
+      "Spam",
+      "Reinforce",
+      "Contact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.17",
+    "English": "Time-consuming",
+    "Sub_English": "Tốn thời gian",
+    "Example": "Manual data entry can be time-consuming and prone to errors.",
+    "English_Vocabulary_Test": [
+      "Thực hiện cuộc gọi",
+      "Lịch sự",
+      "Giữ liên lạc với"
+    ],
+    "Fill_Blank": "Manual data entry can be ______ and prone to errors.",
+    "Mistakes": [
+      "Switch on",
+      "Informal",
+      "Via"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.18",
+    "English": "Time zone",
+    "Sub_English": "Múi giờ",
+    "Example": "The conference call had participants from different time zones.",
+    "English_Vocabulary_Test": [
+      "Mạng xã hội",
+      "Phi cảnh cáo",
+      "Thực hiện cuộc gọi"
+    ],
+    "Fill_Blank": "The conference call had participants from different ______s.",
+    "Mistakes": [
+      "Transmit",
+      "Formal",
+      "Text a message"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.19",
+    "English": "Transmit",
+    "Sub_English": "Truyền",
+    "Example": "The satellite dish transmits signals to the communication tower.",
+    "English_Vocabulary_Test": [
+      "Chính thức",
+      "Tốn thời gian",
+      "Yêu cầu"
+    ],
+    "Fill_Blank": "The satellite dish ______s signals to the communication tower.",
+    "Mistakes": [
+      "Text a message",
+      "Keep in touch with",
+      "Spam"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.20",
+    "English": "Via",
+    "Sub_English": "Qua",
+    "Example": "You can send the documents via email for faster processing.",
+    "English_Vocabulary_Test": [
+      "Thư rác",
+      "Thực hiện cuộc gọi",
+      "Truy cập"
+    ],
+    "Fill_Blank": "You can send the documents ______ email for faster processing.",
+    "Mistakes": [
+      "Polite",
+      "Facial expression",
+      "Informal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.21",
+    "English": "Video conference/ Videoconferencing",
+    "Sub_English": "Hội nghị trực tuyến",
+    "Example": "They conducted the meeting via video conference due to travel restrictions.",
+    "English_Vocabulary_Test": [
+      "Tin nhắn",
+      "Phi cảnh cáo",
+      "Bật máy"
+    ],
+    "Fill_Blank": "They conducted the meeting via video conference due to travel restrictions.",
+    "Mistakes": [
+      "Switch on",
+      "Video conference/ Videoconferencing",
+      "Time-consuming"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.7.22",
+    "English": "Contact",
+    "Sub_English": "Liên hệ",
+    "Example": "Please contact our customer service team for assistance.",
+    "English_Vocabulary_Test": [
+      "Tin nhắn",
+      "Trả lời",
+      "Biểu cảm khuôn mặt"
+    ],
+    "Fill_Blank": "Please ______ our customer service team for assistance.",
+    "Mistakes": [
+      "Keep in touch with",
+      "Reply",
+      "Time-consuming"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.1",
+    "English": "Ambitious",
+    "Sub_English": "Có tham vọng",
+    "Example": "She is highly ambitious and aims to climb the corporate ladder quickly.",
+    "English_Vocabulary_Test": [
+      "Nộp đơn xin",
+      "Kiên nhẫn",
+      "Đầy nhiệt huyết"
+    ],
+    "Fill_Blank": "She is highly ______ and aims to climb the corporate ladder quickly.",
+    "Mistakes": [
+      "Self-confident",
+      "Communicative",
+      "Numeracy skill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.2",
+    "English": "Candidate",
+    "Sub_English": "Ứng viên",
+    "Example": "The company interviewed several candidates for the position.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng tính toán",
+      "Thư giới thiệu",
+      "Kiên nhẫn"
+    ],
+    "Fill_Blank": "The company interviewed several ______s for the position.",
+    "Mistakes": [
+      "Motivated",
+      "Creative",
+      "Patient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.3",
+    "English": "Cover letter",
+    "Sub_English": "Thư xin việc",
+    "Example": "He attached his cover letter along with his resume when applying for the job.",
+    "English_Vocabulary_Test": [
+      "Bằng cấp",
+      "Đào tạo chuyên môn",
+      "Thư giới thiệu"
+    ],
+    "Fill_Blank": "He attached his ______ along with his resume when applying for the job.",
+    "Mistakes": [
+      "Driver’s license",
+      "Strength",
+      "Reference letter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.4",
+    "English": "Creative",
+    "Sub_English": "Sáng tạo",
+    "Example": "She demonstrated her creative skills through her innovative project ideas.",
+    "English_Vocabulary_Test": [
+      "Bằng đại học",
+      "Kỹ năng đánh máy",
+      "Có khả năng giao tiếp"
+    ],
+    "Fill_Blank": "She demonstrated her ______ skills through her innovative project ideas.",
+    "Mistakes": [
+      "Leadership skill",
+      "Ambitious",
+      "Curriculum vitae (CV)/ résumé"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.5",
+    "English": "Communication skill",
+    "Sub_English": "Kỹ năng giao tiếp",
+    "Example": "Effective communication skills are essential in any workplace.",
+    "English_Vocabulary_Test": [
+      "Sơ yếu lý lịch",
+      "Sơ yếu lý lịch",
+      "Tính cách dễ chịu"
+    ],
+    "Fill_Blank": "Effective ______s are essential in any workplace.",
+    "Mistakes": [
+      "School-leaving certificate",
+      "Patient",
+      "Communicative"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.6",
+    "English": "Communicative",
+    "Sub_English": "Có khả năng giao tiếp",
+    "Example": "She is a highly communicative person who can easily engage with others.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng đàm phán",
+      "Thư xin việc",
+      "Bằng cấp"
+    ],
+    "Fill_Blank": "She is a highly ______ person who can easily engage with others.",
+    "Mistakes": [
+      "Organizing ability",
+      "Time management skill",
+      "Motivated"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.7",
+    "English": "Patient",
+    "Sub_English": "Kiên nhẫn",
+    "Example": "Dealing with difficult customers requires a lot of patience.",
+    "English_Vocabulary_Test": [
+      "Ứng viên",
+      "Đầy nhiệt huyết",
+      "Điểm mạnh"
+    ],
+    "Fill_Blank": "Dealing with difficult customers requires a lot of patience.",
+    "Mistakes": [
+      "Specialist training",
+      "Reference letter",
+      "Resume (AE)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.8",
+    "English": "Pleasant personality",
+    "Sub_English": "Tính cách dễ chịu",
+    "Example": "She has a pleasant personality that makes her easy to work with.",
+    "English_Vocabulary_Test": [
+      "Điểm mạnh",
+      "Đáng tin cậy",
+      "Kỹ năng đánh máy"
+    ],
+    "Fill_Blank": "She has a ______ that makes her easy to work with.",
+    "Mistakes": [
+      "Curriculum vitae (CV)/ résumé",
+      "Apply for",
+      "Qualification"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.9",
+    "English": "Reference letter",
+    "Sub_English": "Thư giới thiệu",
+    "Example": "He provided a reference letter from his previous employer to support his application.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng giao tiếp",
+      "Bằng cấp",
+      "Tính cách dễ chịu"
+    ],
+    "Fill_Blank": "He provided a ______ from his previous employer to support his application.",
+    "Mistakes": [
+      "Weakness",
+      "Work experience",
+      "Pleasant personality"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.10",
+    "English": "Curriculum vitae (CV)/ résumé",
+    "Sub_English": "Sơ yếu lý lịch",
+    "Example": "Her curriculum vitae outlines her educational background and work experience.",
+    "English_Vocabulary_Test": [
+      "Thư giới thiệu",
+      "Kỹ năng giao tiếp",
+      "Kinh nghiệm làm việc"
+    ],
+    "Fill_Blank": "Her curriculum vitae outlines her educational background and work experience.",
+    "Mistakes": [
+      "Numeracy skill",
+      "Organizing ability",
+      "University degree"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.11",
+    "English": "Qualification",
+    "Sub_English": "Bằng cấp",
+    "Example": "He has the necessary qualifications for the job.",
+    "English_Vocabulary_Test": [
+      "Sơ yếu lý lịch",
+      "Sơ yếu lý lịch",
+      "Kỹ năng lãnh đạo"
+    ],
+    "Fill_Blank": "He has the necessary ______s for the job.",
+    "Mistakes": [
+      "Candidate",
+      "Presentation skill",
+      "Curriculum vitae (CV)/ résumé"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.12",
+    "English": "Strength",
+    "Sub_English": "Điểm mạnh",
+    "Example": "One of her strengths is her ability to work well under pressure.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng lãnh đạo",
+      "Ứng viên",
+      "Kỹ năng tính toán"
+    ],
+    "Fill_Blank": "One of her ______s is her ability to work well under pressure.",
+    "Mistakes": [
+      "Work experience",
+      "Patient",
+      "Strength"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.13",
+    "English": "Weakness",
+    "Sub_English": "Điểm yếu",
+    "Example": "He admitted his weakness in public speaking but highlighted his strengths in writing.",
+    "English_Vocabulary_Test": [
+      "Sơ yếu lý lịch",
+      "Ứng viên",
+      "Kỹ năng đàm phán"
+    ],
+    "Fill_Blank": "He admitted his ______ in public speaking but highlighted his strengths in writing.",
+    "Mistakes": [
+      "Self-confident",
+      "Candidate",
+      "Communicative"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.14",
+    "English": "Motivated",
+    "Sub_English": "Đầy nhiệt huyết",
+    "Example": "She is highly motivated and always eager to take on new challenges.",
+    "English_Vocabulary_Test": [
+      "Khả năng tổ chức",
+      "Chú trọng chi tiết",
+      "Có tham vọng"
+    ],
+    "Fill_Blank": "She is highly ______ and always eager to take on new challenges.",
+    "Mistakes": [
+      "Pleasant personality",
+      "Communicative",
+      "Leadership skill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.15",
+    "English": "Trustworthy",
+    "Sub_English": "Đáng tin cậy",
+    "Example": "He is known for being trustworthy and reliable in his work.",
+    "English_Vocabulary_Test": [
+      "Nộp đơn xin",
+      "Kỹ năng tính toán",
+      "Thư giới thiệu"
+    ],
+    "Fill_Blank": "He is known for being ______ and reliable in his work.",
+    "Mistakes": [
+      "Candidate",
+      "Qualification",
+      "Resume (AE)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.16",
+    "English": "Resume (AE)",
+    "Sub_English": "Sơ yếu lý lịch",
+    "Example": "He updated his resume with his latest work experience.",
+    "English_Vocabulary_Test": [
+      "Điểm yếu",
+      "Đào tạo chuyên môn",
+      "Bề ngoài lịch lãm"
+    ],
+    "Fill_Blank": "He updated his resume with his latest work experience.",
+    "Mistakes": [
+      "Organizing ability",
+      "Patient",
+      "Apply for"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.17",
+    "English": "Driver’s license",
+    "Sub_English": "Giấy phép lái xe",
+    "Example": "A valid driver's license is required for this position.",
+    "English_Vocabulary_Test": [
+      "Khả năng tổ chức",
+      "Tự tin",
+      "Chú trọng chi tiết"
+    ],
+    "Fill_Blank": "A valid driver's license is required for this position.",
+    "Mistakes": [
+      "Typing skill",
+      "Qualification",
+      "Smart appearance"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.18",
+    "English": "Leadership skill",
+    "Sub_English": "Kỹ năng lãnh đạo",
+    "Example": "She demonstrated her leadership skills by effectively leading her team.",
+    "English_Vocabulary_Test": [
+      "Ứng viên",
+      "Kỹ năng quản lý thời gian",
+      "Tự tin"
+    ],
+    "Fill_Blank": "She demonstrated her ______s by effectively leading her team.",
+    "Mistakes": [
+      "Motivated",
+      "Communicative",
+      "School-leaving certificate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.19",
+    "English": "Negotiation skill",
+    "Sub_English": "Kỹ năng đàm phán",
+    "Example": "His strong negotiation skills helped him secure a better deal.",
+    "English_Vocabulary_Test": [
+      "Đào tạo chuyên môn",
+      "Bề ngoài lịch lãm",
+      "Đáng tin cậy"
+    ],
+    "Fill_Blank": "His strong ______s helped him secure a better deal.",
+    "Mistakes": [
+      "University degree",
+      "Organizing ability",
+      "Patient"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.20",
+    "English": "Numeracy skill",
+    "Sub_English": "Kỹ năng tính toán",
+    "Example": "The job requires strong numeracy skills for financial analysis.",
+    "English_Vocabulary_Test": [
+      "Kiên nhẫn",
+      "Bằng cấp",
+      "Kỹ năng thuyết trình"
+    ],
+    "Fill_Blank": "The job requires strong ______s for financial analysis.",
+    "Mistakes": [
+      "Reference letter",
+      "Trustworthy",
+      "Problem solving skill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.21",
+    "English": "Organizing ability",
+    "Sub_English": "Khả năng tổ chức",
+    "Example": "Her organizing ability ensured that the project ran smoothly.",
+    "English_Vocabulary_Test": [
+      "Ứng viên",
+      "Thư xin việc",
+      "Chú trọng chi tiết"
+    ],
+    "Fill_Blank": "Her ______ ensured that the project ran smoothly.",
+    "Mistakes": [
+      "Presentation skill",
+      "Creative",
+      "Self-confident"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.22",
+    "English": "Presentation skill",
+    "Sub_English": "Kỹ năng thuyết trình",
+    "Example": "He impressed the audience with his excellent presentation skills.",
+    "English_Vocabulary_Test": [
+      "Nộp đơn xin",
+      "Kỹ năng đánh máy",
+      "Kỹ năng giải quyết vấn đề"
+    ],
+    "Fill_Blank": "He impressed the audience with his excellent ______s.",
+    "Mistakes": [
+      "Strength",
+      "Organizing ability",
+      "Driver’s license"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.23",
+    "English": "Problem solving skill",
+    "Sub_English": "Kỹ năng giải quyết vấn đề",
+    "Example": "She demonstrated her problem-solving skills by finding innovative solutions.",
+    "English_Vocabulary_Test": [
+      "Bằng cấp",
+      "Kỹ năng đánh máy",
+      "Có khả năng giao tiếp"
+    ],
+    "Fill_Blank": "She demonstrated her problem-solving skills by finding innovative solutions.",
+    "Mistakes": [
+      "Patient",
+      "Problem solving skill",
+      "Organizing ability"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.24",
+    "English": "School-leaving certificate",
+    "Sub_English": "Bằng tốt nghiệp",
+    "Example": "He provided a copy of his school-leaving certificate as proof of education.",
+    "English_Vocabulary_Test": [
+      "Đáng tin cậy",
+      "Ứng viên",
+      "Bằng đại học"
+    ],
+    "Fill_Blank": "He provided a copy of his ______ as proof of education.",
+    "Mistakes": [
+      "Smart appearance",
+      "Curriculum vitae (CV)/ résumé",
+      "Candidate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.25",
+    "English": "Self-confident",
+    "Sub_English": "Tự tin",
+    "Example": "His self-confidence in interviews helped him land the job.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng tính toán",
+      "Có khả năng giao tiếp",
+      "Nộp đơn xin"
+    ],
+    "Fill_Blank": "His self-confidence in interviews helped him land the job.",
+    "Mistakes": [
+      "Organizing ability",
+      "Smart appearance",
+      "Ambitious"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.26",
+    "English": "Smart appearance",
+    "Sub_English": "Bề ngoài lịch lãm",
+    "Example": "It's important to maintain a smart appearance in professional settings.",
+    "English_Vocabulary_Test": [
+      "Giấy phép lái xe",
+      "Có khả năng giao tiếp",
+      "Tự tin"
+    ],
+    "Fill_Blank": "It's important to maintain a ______ in professional settings.",
+    "Mistakes": [
+      "Motivated",
+      "Negotiation skill",
+      "Resume (AE)"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.27",
+    "English": "Specialist training",
+    "Sub_English": "Đào tạo chuyên môn",
+    "Example": "She underwent specialist training to enhance her skills in the field.",
+    "English_Vocabulary_Test": [
+      "Điểm mạnh",
+      "Bằng cấp",
+      "Kiên nhẫn"
+    ],
+    "Fill_Blank": "She underwent ______ to enhance her skills in the field.",
+    "Mistakes": [
+      "Trustworthy",
+      "Detail-oriented",
+      "Qualification"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.28",
+    "English": "Time management skill",
+    "Sub_English": "Kỹ năng quản lý thời gian",
+    "Example": "Effective time management skills are crucial for meeting deadlines.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng lãnh đạo",
+      "Bằng tốt nghiệp",
+      "Bằng cấp"
+    ],
+    "Fill_Blank": "Effective ______s are crucial for meeting deadlines.",
+    "Mistakes": [
+      "Presentation skill",
+      "Time management skill",
+      "Cover letter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.29",
+    "English": "University degree",
+    "Sub_English": "Bằng đại học",
+    "Example": "He obtained a university degree in economics.",
+    "English_Vocabulary_Test": [
+      "Chú trọng chi tiết",
+      "Kỹ năng đánh máy",
+      "Điểm mạnh"
+    ],
+    "Fill_Blank": "He obtained a ______ in economics.",
+    "Mistakes": [
+      "University degree",
+      "Problem solving skill",
+      "Trustworthy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.30",
+    "English": "Work experience",
+    "Sub_English": "Kinh nghiệm làm việc",
+    "Example": "Her extensive work experience includes roles in both the public and private sectors.",
+    "English_Vocabulary_Test": [
+      "Tự tin",
+      "Kỹ năng đánh máy",
+      "Thư xin việc"
+    ],
+    "Fill_Blank": "Her extensive ______ includes roles in both the public and private sectors.",
+    "Mistakes": [
+      "Self-confident",
+      "Qualification",
+      "Curriculum vitae (CV)/ résumé"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.31",
+    "English": "Apply for",
+    "Sub_English": "Nộp đơn xin",
+    "Example": "He decided to apply for the position after carefully reviewing the job requirements.",
+    "English_Vocabulary_Test": [
+      "Sơ yếu lý lịch",
+      "Điểm mạnh",
+      "Kỹ năng giao tiếp"
+    ],
+    "Fill_Blank": "He decided to ______ the position after carefully reviewing the job requirements.",
+    "Mistakes": [
+      "Problem solving skill",
+      "Work experience",
+      "Numeracy skill"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.32",
+    "English": "Detail-oriented",
+    "Sub_English": "Chú trọng chi tiết",
+    "Example": "Her detail-oriented approach ensured that no errors were overlooked.",
+    "English_Vocabulary_Test": [
+      "Kỹ năng thuyết trình",
+      "Kỹ năng đàm phán",
+      "Kỹ năng quản lý thời gian"
+    ],
+    "Fill_Blank": "Her ______ approach ensured that no errors were overlooked.",
+    "Mistakes": [
+      "Smart appearance",
+      "Ambitious",
+      "Pleasant personality"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_4.8.33",
+    "English": "Typing skill",
+    "Sub_English": "Kỹ năng đánh máy",
+    "Example": "Proficiency in typing skills is required for data entry positions.",
+    "English_Vocabulary_Test": [
+      "Thư giới thiệu",
+      "Đầy nhiệt huyết",
+      "Kỹ năng giao tiếp"
+    ],
+    "Fill_Blank": "Proficiency in ______s is required for data entry positions.",
+    "Mistakes": [
+      "Self-confident",
+      "Time management skill",
+      "Typing skill"
+    ],
+    "Status": 0
+  }
+]

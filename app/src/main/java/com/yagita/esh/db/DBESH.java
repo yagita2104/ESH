@@ -44,10 +44,7 @@ public class DBESH extends SQLiteOpenHelper {
     }
     public void getDataEL(){
         if(getTableName().equals(Specialize.ENGLISH_LANGUAGE.getTenBang())){
-            list_data.add(R.raw.vocab_read_el);
-            list_data.add(R.raw.vocab_listen_el);
-            list_data.add(R.raw.vocab_speak_el);
-            list_data.add(R.raw.vocab_write_el);
+            list_data.add(R.raw.data_nna_5);
         } else if (getTableName().equals(Specialize.INFORMATION_TECHNOLOGY.getTenBang())) {
             list_data.add(R.raw.data_cntt_1);
             list_data.add(R.raw.data_cntt_2);
@@ -55,6 +52,9 @@ public class DBESH extends SQLiteOpenHelper {
             list_data.add(R.raw.data_cntt_4);
             list_data.add(R.raw.data_cntt_5);
             list_data.add(R.raw.data_cntt_6);
+        } else if (getTableName().equals(Specialize.ENGLISH_BUSINESS.getTenBang())) {
+            list_data.add(R.raw.data_tm_3);
+
         }
     }
     public void getData(int file){

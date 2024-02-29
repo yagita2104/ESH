@@ -1,0 +1,2864 @@
+[
+  {
+    "ID": "English_Business_3.1.1",
+    "English": "Air conditioner",
+    "Sub_English": "Máy điều hòa",
+    "Example": "We use the air conditioner to make our office room cooler.",
+    "English_Vocabulary_Test": [
+      "Chuột máy tính",
+      "Băng dính",
+      "Bàn văn phòng"
+    ],
+    "Fill_Blank": "We use the ______ to make our office room cooler.",
+    "Mistakes": [
+      "Diary",
+      "Calendar",
+      "Keyboard"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.2",
+    "English": "Calculator",
+    "Sub_English": "Máy tính",
+    "Example": "Calculator is very necessary for an accountant.",
+    "English_Vocabulary_Test": [
+      "Cái dập ghim",
+      "Bàn phím",
+      "Con dấu"
+    ],
+    "Fill_Blank": "______ is very necessary for an accountant.",
+    "Mistakes": [
+      "Security camera",
+      "Reception desk",
+      "Stapler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.3",
+    "English": "Calendar",
+    "Sub_English": "Lịch",
+    "Example": "Calendar is a table showing the months and days of the year.",
+    "English_Vocabulary_Test": [
+      "Bàn hội nghị",
+      "Quầy lễ tân",
+      "Máy quét"
+    ],
+    "Fill_Blank": "______ is a table showing the months and days of the year.",
+    "Mistakes": [
+      "Check",
+      "Photocopier",
+      "Reception desk"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.4",
+    "English": "Check",
+    "Sub_English": "Kiểm tra",
+    "Example": "We checked the security camera to know what happened in our office.",
+    "English_Vocabulary_Test": [
+      "Bàn văn phòng",
+      "Ghim kẹp giấy",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "We ______ed the security camera to know what happened in our office.",
+    "Mistakes": [
+      "Office desk",
+      "Folder",
+      "fax "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.5",
+    "English": "Coffee machine",
+    "Sub_English": "Máy pha cà phê",
+    "Example": "My company has bought a coffee machine to make coffee for the employees.",
+    "English_Vocabulary_Test": [
+      "Bìa đựng tài liệu",
+      "Bàn phím",
+      "Máy tính"
+    ],
+    "Fill_Blank": "My company has bought a ______ to make coffee for the employees.",
+    "Mistakes": [
+      "Scan",
+      "Calculator",
+      "Scanner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.6",
+    "English": "Coffee table",
+    "Sub_English": "Bàn uống nước",
+    "Example": "I like relaxing at the coffee table after working hours.",
+    "English_Vocabulary_Test": [
+      "Máy quét",
+      "Máy điều hòa",
+      "Con dấu"
+    ],
+    "Fill_Blank": "I like relaxing at the ______ after working hours.",
+    "Mistakes": [
+      "Scanner",
+      "Coffee machine",
+      "Calendar"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.7",
+    "English": "Conference table",
+    "Sub_English": "Bàn hội nghị",
+    "Example": "Our conference table is not wide enough for twenty people.",
+    "English_Vocabulary_Test": [
+      "Tủ đựng hồ sơ",
+      "Hộp mực",
+      "Sao chụp"
+    ],
+    "Fill_Blank": "Our ______ is not wide enough for twenty people.",
+    "Mistakes": [
+      "Stapler",
+      "Security camera",
+      "Highlighter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.8",
+    "English": "Diary",
+    "Sub_English": "Nhật ký",
+    "Example": "I like writing special things in the diary after a working day.",
+    "English_Vocabulary_Test": [
+      "Kiểm tra",
+      "Gửi fax",
+      "Cái dập ghim"
+    ],
+    "Fill_Blank": "I like writing special things in the ______ after a working day.",
+    "Mistakes": [
+      "Coffee table",
+      "Scan",
+      "Paper clip"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.9",
+    "English": "fax ",
+    "Sub_English": "Gửi fax",
+    "Example": "Could you fax me this document?",
+    "English_Vocabulary_Test": [
+      "Ghế văn phòng",
+      "Máy điều hòa",
+      "Chuột máy tính"
+    ],
+    "Fill_Blank": "Could you ______me this document?",
+    "Mistakes": [
+      "Scanner",
+      "Photocopier",
+      "Tape"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.10",
+    "English": "Fax machine",
+    "Sub_English": "Máy fax",
+    "Example": "Please help me, the fax machine does not work.",
+    "English_Vocabulary_Test": [
+      "Gửi fax",
+      "Máy phô tô",
+      "Quầy lễ tân"
+    ],
+    "Fill_Blank": "Please help me, the ______ does not work.",
+    "Mistakes": [
+      "Office chair",
+      "Air conditioner",
+      "Coffee table"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.11",
+    "English": "Filing cabinet",
+    "Sub_English": "Tủ đựng hồ sơ",
+    "Example": "In our office, there are ten filing cabinets to store paper documents.",
+    "English_Vocabulary_Test": [
+      "Ghim kẹp giấy",
+      "Máy quét",
+      "Hộp mực"
+    ],
+    "Fill_Blank": "In our office, there are ten ______s to store paper documents.",
+    "Mistakes": [
+      "Stapler",
+      "Filing cabinet",
+      "Coffee table"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.12",
+    "English": "Folder",
+    "Sub_English": "Bìa đựng tài liệu",
+    "Example": "These folders are full of papers.",
+    "English_Vocabulary_Test": [
+      "Máy quét",
+      "Máy fax",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "These ______s are full of papers.",
+    "Mistakes": [
+      "Mouse",
+      "Scanner",
+      "Office chair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.13",
+    "English": "Highlighter",
+    "Sub_English": "Bút đánh dấu",
+    "Example": "Highlighter helps us mark special information in a document.",
+    "English_Vocabulary_Test": [
+      "Con dấu",
+      "Chuột máy tính",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "______ helps us mark special information in a document.",
+    "Mistakes": [
+      "Tape",
+      "fax ",
+      "Photocopy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.14",
+    "English": "Ink cartridge",
+    "Sub_English": "Hộp mực",
+    "Example": "There are six new ink cartridges on the table.",
+    "English_Vocabulary_Test": [
+      "Máy phô tô",
+      "Máy quay an ninh",
+      "Lịch"
+    ],
+    "Fill_Blank": "There are six new ______s on the table.",
+    "Mistakes": [
+      "Diary",
+      "Scanner",
+      "Tape"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.15",
+    "English": "Keyboard",
+    "Sub_English": "Bàn phím",
+    "Example": "I cannot find the keyboard. I do not remember where I left it.",
+    "English_Vocabulary_Test": [
+      "Con dấu",
+      "Máy hủy tài liệu",
+      "Ghim kẹp giấy"
+    ],
+    "Fill_Blank": "I cannot find the ______. I do not remember where I left it.",
+    "Mistakes": [
+      "Keyboard",
+      "Air conditioner",
+      "Shredder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.16",
+    "English": "Monitor",
+    "Sub_English": "Màn hình máy tính",
+    "Example": "I cannot turn the monitor on. I do not know why.",
+    "English_Vocabulary_Test": [
+      "Chuột máy tính",
+      "Bìa đựng tài liệu",
+      "Máy tính"
+    ],
+    "Fill_Blank": "I cannot turn the ______ on. I do not know why.",
+    "Mistakes": [
+      "Keyboard",
+      "fax ",
+      "Stapler"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.17",
+    "English": "Mouse",
+    "Sub_English": "Chuột máy tính",
+    "Example": "Click the left mouse button twice to highlight the program.",
+    "English_Vocabulary_Test": [
+      "Máy fax",
+      "Nhật ký",
+      "Bàn hội nghị"
+    ],
+    "Fill_Blank": "Click the left ______ button twice to highlight the program.",
+    "Mistakes": [
+      "Monitor",
+      "Air conditioner",
+      "Stamp"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.18",
+    "English": "Office chair",
+    "Sub_English": "Ghế văn phòng",
+    "Example": "Our office chair is not new.",
+    "English_Vocabulary_Test": [
+      "Bút đánh dấu",
+      "Bàn văn phòng",
+      "Quầy lễ tân"
+    ],
+    "Fill_Blank": "Our ______ is not new.",
+    "Mistakes": [
+      "Highlighter",
+      "Coffee table",
+      "Shredder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.19",
+    "English": "Office desk",
+    "Sub_English": "Bàn văn phòng",
+    "Example": "There is a computer on the office desk.",
+    "English_Vocabulary_Test": [
+      "Máy hủy tài liệu",
+      "Quầy lễ tân",
+      "Máy tính"
+    ],
+    "Fill_Blank": "There is a computer on the ______.",
+    "Mistakes": [
+      "Ink cartridge",
+      "Shredder",
+      "Conference table"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.20",
+    "English": "Paper clip",
+    "Sub_English": "Ghim kẹp giấy",
+    "Example": "There are two paper clips on the table.",
+    "English_Vocabulary_Test": [
+      "Sao chụp",
+      "Máy tính",
+      "Màn hình máy tính"
+    ],
+    "Fill_Blank": "There are two ______s on the table.",
+    "Mistakes": [
+      "Stamp",
+      "Folder",
+      "Air conditioner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.21",
+    "English": "Photocopier",
+    "Sub_English": "Máy phô tô",
+    "Example": "Every office needs a photocopier to make copies of documents.",
+    "English_Vocabulary_Test": [
+      "Ghim kẹp giấy",
+      "Sao chụp",
+      "Máy fax"
+    ],
+    "Fill_Blank": "Every office needs a ______ to make copies of documents.",
+    "Mistakes": [
+      "Mouse",
+      "Ink cartridge",
+      "Fax machine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.22",
+    "English": "Photocopy",
+    "Sub_English": "Sao chụp",
+    "Example": "She needs a photocopier to photocopy those documents.",
+    "English_Vocabulary_Test": [
+      "Bàn phím",
+      "Quét",
+      "Cái dập ghim"
+    ],
+    "Fill_Blank": "She needs a photocopier to ______ those documents.",
+    "Mistakes": [
+      "Paper clip",
+      "Coffee table",
+      "Highlighter"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.23",
+    "English": "Reception desk",
+    "Sub_English": "Quầy lễ tân",
+    "Example": "We can ask for information about a company at their reception desk.",
+    "English_Vocabulary_Test": [
+      "Chuột máy tính",
+      "Con dấu",
+      "Tủ đựng hồ sơ"
+    ],
+    "Fill_Blank": "We can ask for information about a company at their ______.",
+    "Mistakes": [
+      "Ink cartridge",
+      "Security camera",
+      "Shredder"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.24",
+    "English": "Scan",
+    "Sub_English": "Quét",
+    "Example": "We need to scan these documents and send them by mail.",
+    "English_Vocabulary_Test": [
+      "Ghế văn phòng",
+      "Máy pha cà phê",
+      "Bàn văn phòng"
+    ],
+    "Fill_Blank": "We need to ______ these documents and send them by mail.",
+    "Mistakes": [
+      "Coffee machine",
+      "Security camera",
+      "Filing cabinet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.25",
+    "English": "Scanner",
+    "Sub_English": "Máy quét",
+    "Example": "Our scanner is too old to scan all of these documents.",
+    "English_Vocabulary_Test": [
+      "Lịch",
+      "Bìa đựng tài liệu",
+      "Ghế văn phòng"
+    ],
+    "Fill_Blank": "Our ______ is too old to scan all of these documents.",
+    "Mistakes": [
+      "Keyboard",
+      "Air conditioner",
+      "Office chair"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.26",
+    "English": "Security camera",
+    "Sub_English": "Máy quay an ninh",
+    "Example": "A company needs security cameras to record everything happens in the office.",
+    "English_Vocabulary_Test": [
+      "Quét",
+      "Bàn văn phòng",
+      "Ghế văn phòng"
+    ],
+    "Fill_Blank": "A company needs ______s to record everything happens in the office.",
+    "Mistakes": [
+      "Scan",
+      "Stapler",
+      "Filing cabinet"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.27",
+    "English": "Shredder",
+    "Sub_English": "Máy hủy tài liệu",
+    "Example": "A shredder is used to destroy confidential documents.",
+    "English_Vocabulary_Test": [
+      "Hộp mực",
+      "Máy quét",
+      "Máy quay an ninh"
+    ],
+    "Fill_Blank": "A ______ is used to destroy confidential documents.",
+    "Mistakes": [
+      "Ink cartridge",
+      "Paper clip",
+      "Photocopy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.28",
+    "English": "Stamp",
+    "Sub_English": "Con dấu",
+    "Example": "Every company has its own stamp.",
+    "English_Vocabulary_Test": [
+      "Máy phô tô",
+      "Sao chụp",
+      "Nhật ký"
+    ],
+    "Fill_Blank": "Every company has its own ______.",
+    "Mistakes": [
+      "Monitor",
+      "Check",
+      "Security camera"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.29",
+    "English": "Stapler",
+    "Sub_English": "Cái dập ghim",
+    "Example": "This stapler is blue.",
+    "English_Vocabulary_Test": [
+      "Máy điều hòa",
+      "Băng dính",
+      "Máy hủy tài liệu"
+    ],
+    "Fill_Blank": "This ______ is blue.",
+    "Mistakes": [
+      "Reception desk",
+      "Calculator",
+      "Coffee machine"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.1.30",
+    "English": "Tape",
+    "Sub_English": "Băng dính",
+    "Example": "We have many tapes in our office.",
+    "English_Vocabulary_Test": [
+      "Bàn hội nghị",
+      "Hộp mực",
+      "Cái dập ghim"
+    ],
+    "Fill_Blank": "We have many ______s in our office.",
+    "Mistakes": [
+      "Scanner",
+      "Fax machine",
+      "Air conditioner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.1",
+    "English": "Customer development manager",
+    "Sub_English": "Giám đốc phát triển khách hàng",
+    "Example": "Customer development director manages sales teams and plans business strategies in a particular area.",
+    "English_Vocabulary_Test": [
+      "Phòng hành chính",
+      "Lập kế hoạch",
+      "Nhân viên"
+    ],
+    "Fill_Blank": "Customer development director manages sales teams and plans business strategies in a particular area.",
+    "Mistakes": [
+      "Finance Department",
+      "Advertise",
+      "Cafeteria"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.2",
+    "English": "Employee",
+    "Sub_English": "Nhân viên",
+    "Example": "Employee is a person working in an organization.",
+    "English_Vocabulary_Test": [
+      "Thuê, tuyển dụng",
+      "Lập kế hoạch",
+      "Giám đốc phát triển khách hàng"
+    ],
+    "Fill_Blank": "______ is a person working in an organization.",
+    "Mistakes": [
+      "Conference room",
+      "Employee",
+      "Marketing Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.3",
+    "English": "Client",
+    "Sub_English": "Khách hàng",
+    "Example": "Salespeople need to talk to clients every day.",
+    "English_Vocabulary_Test": [
+      "Giám đốc kinh doanh, giám đốc bán hàng",
+      "Giám đốc vận tải",
+      "Nhân viên"
+    ],
+    "Fill_Blank": "Salespeople need to talk to ______s every day.",
+    "Mistakes": [
+      "Client",
+      "Marketing Department",
+      "Develop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.4",
+    "English": "Department",
+    "Sub_English": "Phòng ban",
+    "Example": "Department is a location in an organization with specific responsibilities.",
+    "English_Vocabulary_Test": [
+      "Giám đốc phát triển khách hàng",
+      "Thuê, tuyển dụng",
+      "Xử lý, giải quyết"
+    ],
+    "Fill_Blank": "______ is a location in an organization with specific responsibilities.",
+    "Mistakes": [
+      "Plan",
+      "Purchasing department",
+      "Research and Development department "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.5",
+    "English": "Purchasing department",
+    "Sub_English": "Phòng mua hàng",
+    "Example": "In a purchasing department, employees search for products in many different locations.",
+    "English_Vocabulary_Test": [
+      "Giám đốc vận tải",
+      "Phòng hành chính",
+      "Phòng nghiên cứu và phát triển"
+    ],
+    "Fill_Blank": "In a ______, employees search for products in many different locations.",
+    "Mistakes": [
+      "Conference room",
+      "Hire",
+      "Finance Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.6",
+    "English": "Sales department",
+    "Sub_English": "Phòng bán hàng",
+    "Example": "In the sales department, people deal with customers’ needs and introduce new products.",
+    "English_Vocabulary_Test": [
+      "Phòng nhân sự",
+      "Phòng Marketing",
+      "Giám đốc vận tải"
+    ],
+    "Fill_Blank": "In the ______, people deal with customers’ needs and introduce new products.",
+    "Mistakes": [
+      "Reception",
+      "Customer development manager",
+      "Administration Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.7",
+    "English": "Conference room",
+    "Sub_English": "Phòng hội thảo",
+    "Example": "Conference room is a room for business events and meetings.",
+    "English_Vocabulary_Test": [
+      "Giám đốc phát triển khách hàng",
+      "Phòng nghiên cứu và phát triển",
+      "Phòng bán hàng"
+    ],
+    "Fill_Blank": "______ is a room for business events and meetings.",
+    "Mistakes": [
+      "Finance Department",
+      "Reception",
+      "Plan"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.8",
+    "English": "Cafeteria",
+    "Sub_English": "Khu vực tự phục vụ cho nhân viên",
+    "Example": "Cafeteria is a location with a lot of food and drinks for employees in the company.",
+    "English_Vocabulary_Test": [
+      "Phòng tài chính",
+      "Phát triển",
+      "Lễ tân"
+    ],
+    "Fill_Blank": "______ is a location with a lot of food and drinks for employees in the company.",
+    "Mistakes": [
+      "Reception",
+      "Finance manager",
+      "Customer development manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.9",
+    "English": "Reception",
+    "Sub_English": "Lễ tân",
+    "Example": "There is a reception desk over there.",
+    "English_Vocabulary_Test": [
+      "Phòng nhân sự",
+      "Phòng Marketing",
+      "Nhân viên"
+    ],
+    "Fill_Blank": "There is a ______ desk over there.",
+    "Mistakes": [
+      "Colleague",
+      "Develop",
+      "Client"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.10",
+    "English": "Manage",
+    "Sub_English": "Quản lý",
+    "Example": "I'm sure Sarah and Max will manage to attend the meeting tomorrow.",
+    "English_Vocabulary_Test": [
+      "Khu vực tự phục vụ cho nhân viên",
+      "Lập kế hoạch",
+      "Lễ tân"
+    ],
+    "Fill_Blank": "I'm sure Sarah and Max will ______ to attend the meeting tomorrow.",
+    "Mistakes": [
+      "Cafeteria",
+      "Purchasing department",
+      "Human resources Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.11",
+    "English": "Hire",
+    "Sub_English": "Thuê, tuyển dụng",
+    "Example": "Last year, this company hired 100 employees for a new strategy.",
+    "English_Vocabulary_Test": [
+      "Phát triển",
+      "Giám đốc kinh doanh, giám đốc bán hàng",
+      "Phòng sản xuất"
+    ],
+    "Fill_Blank": "Last year, this company ______d 100 employees for a new strategy.",
+    "Mistakes": [
+      "Human resources Department",
+      "Logistics manager",
+      "Develop"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.12",
+    "English": "Advertise",
+    "Sub_English": "Quảng cáo",
+    "Example": "They use a picture of flowers to advertise their new product.",
+    "English_Vocabulary_Test": [
+      "Lễ tân",
+      "Giám đốc kinh doanh, giám đốc bán hàng",
+      "Giám đốc phát triển khách hàng"
+    ],
+    "Fill_Blank": "They use a picture of flowers to ______ their new product.",
+    "Mistakes": [
+      "Manage",
+      "Employee",
+      "Deal with"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.13",
+    "English": "Plan",
+    "Sub_English": "Lập kế hoạch",
+    "Example": "She is planning to open her own shop.",
+    "English_Vocabulary_Test": [
+      "Quản lý",
+      "Phòng hành chính",
+      "Quảng cáo"
+    ],
+    "Fill_Blank": "She is ______ning to open her own shop.",
+    "Mistakes": [
+      "Colleague",
+      "Administration Department",
+      "Finance Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.14",
+    "English": "Develop",
+    "Sub_English": "Phát triển",
+    "Example": "Our company wants to develop a customer base in the countryside.",
+    "English_Vocabulary_Test": [
+      "Phòng sản xuất",
+      "Khu vực tự phục vụ cho nhân viên",
+      "Phòng bán hàng"
+    ],
+    "Fill_Blank": "Our company wants to ______ a customer base in the countryside.",
+    "Mistakes": [
+      "Plan",
+      "Develop",
+      "Employee"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.15",
+    "English": "Deal with",
+    "Sub_English": "Xử lý, giải quyết",
+    "Example": "Customer service officers have to deal with all customers’ problems.",
+    "English_Vocabulary_Test": [
+      "Phòng hội thảo",
+      "Khu vực tự phục vụ cho nhân viên",
+      "Phát triển"
+    ],
+    "Fill_Blank": "Customer service officers have to ______ all customers’ problems.",
+    "Mistakes": [
+      "Sales department",
+      "Hire",
+      "Plan"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.16",
+    "English": "Human resources Department",
+    "Sub_English": "Phòng nhân sự",
+    "Example": "The Human Resources Department is responsible for recruiting new staff.",
+    "English_Vocabulary_Test": [
+      "Đồng nghiệp",
+      "Giám đốc kinh doanh, giám đốc bán hàng",
+      "Quản lý"
+    ],
+    "Fill_Blank": "The ______ is responsible for recruiting new staff.",
+    "Mistakes": [
+      "Reception",
+      "Employee",
+      "Finance Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.17",
+    "English": "Finance Department",
+    "Sub_English": "Phòng tài chính",
+    "Example": "Finance Department is an important part of a company because it deals with financial figures.",
+    "English_Vocabulary_Test": [
+      "Phòng hành chính",
+      "Giám đốc vận tải",
+      "Lập kế hoạch"
+    ],
+    "Fill_Blank": "______ is an important part of a company because it deals with financial figures.",
+    "Mistakes": [
+      "Administration Department",
+      "Human resources Department",
+      "Employee"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.18",
+    "English": "Administration Department",
+    "Sub_English": "Phòng hành chính",
+    "Example": "The Administration Department is responsible for providing administrative and logistical assistance to all departments of the organization.",
+    "English_Vocabulary_Test": [
+      "Phòng hội thảo",
+      "Đồng nghiệp",
+      "Phòng Marketing"
+    ],
+    "Fill_Blank": "The ______ is responsible for providing administrative and logistical assistance to all departments of the organization.",
+    "Mistakes": [
+      "Logistics manager",
+      "Reception",
+      "Administration Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.19",
+    "English": "Production department",
+    "Sub_English": "Phòng sản xuất",
+    "Example": "The production department is responsible for converting raw materials and other inputs into finished goods or services.",
+    "English_Vocabulary_Test": [
+      "Quản lý",
+      "Giám đốc tài chính",
+      "Giám đốc kinh doanh, giám đốc bán hàng"
+    ],
+    "Fill_Blank": "The ______ is responsible for converting raw materials and other inputs into finished goods or services.",
+    "Mistakes": [
+      "Human resources Department",
+      "Reception",
+      "Logistics manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.20",
+    "English": "Colleague",
+    "Sub_English": "Đồng nghiệp",
+    "Example": "She has many friendly colleagues.",
+    "English_Vocabulary_Test": [
+      "Phòng hội thảo",
+      "Phòng nhân sự",
+      "Phát triển"
+    ],
+    "Fill_Blank": "She has many friendly ______s.",
+    "Mistakes": [
+      "Research and Development department ",
+      "Cafeteria",
+      "Manage"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.21",
+    "English": "Finance manager",
+    "Sub_English": "Giám đốc tài chính",
+    "Example": "Finance manager is in charge of financial results and tax planning.",
+    "English_Vocabulary_Test": [
+      "Giám đốc vận tải",
+      "Quảng cáo",
+      "Lễ tân"
+    ],
+    "Fill_Blank": "______ is in charge of financial results and tax planning.",
+    "Mistakes": [
+      "Sales department",
+      "Marketing Department",
+      "Logistics manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.22",
+    "English": "Logistics manager",
+    "Sub_English": "Giám đốc vận tải",
+    "Example": "Logistics manager often deals with the movement of products between factories.",
+    "English_Vocabulary_Test": [
+      "Thuê, tuyển dụng",
+      "Đồng nghiệp",
+      "Phòng nghiên cứu và phát triển"
+    ],
+    "Fill_Blank": "______ often deals with the movement of products between factories.",
+    "Mistakes": [
+      "Sales manager",
+      "Finance manager",
+      "Cafeteria"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.23",
+    "English": "Marketing Department",
+    "Sub_English": "Phòng Marketing",
+    "Example": "We work in the marketing department so we often have campaigns to introduce our new products.",
+    "English_Vocabulary_Test": [
+      "Phòng nhân sự",
+      "Lễ tân",
+      "Khu vực tự phục vụ cho nhân viên"
+    ],
+    "Fill_Blank": "We work in the ______ so we often have campaigns to introduce our new products.",
+    "Mistakes": [
+      "Colleague",
+      "Marketing Department",
+      "Cafeteria"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.24",
+    "English": "Sales manager",
+    "Sub_English": "Giám đốc kinh doanh, giám đốc bán hàng",
+    "Example": "A sales manager is responsible for overseeing and leading a team of sales representatives to achieve revenue and sales goals for a company or organization.",
+    "English_Vocabulary_Test": [
+      "Phòng nhân sự",
+      "Giám đốc vận tải",
+      "Quản lý"
+    ],
+    "Fill_Blank": "A ______ is responsible for overseeing and leading a team of sales representatives to achieve revenue and sales goals for a company or organization.",
+    "Mistakes": [
+      "Sales manager",
+      "Customer development manager",
+      "Logistics manager"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.2.25",
+    "English": "Research and Development department ",
+    "Sub_English": "Phòng nghiên cứu và phát triển",
+    "Example": "R&D department needs to innovate and introduce new products and services.",
+    "English_Vocabulary_Test": [
+      "Lập kế hoạch",
+      "Phòng bán hàng",
+      "Phòng sản xuất"
+    ],
+    "Fill_Blank": "R&D department needs to innovate and introduce new products and services.",
+    "Mistakes": [
+      "Cafeteria",
+      "Sales department",
+      "Human resources Department"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.1",
+    "English": "Branch",
+    "Sub_English": "chi nhánh, công ty con",
+    "Example": "Lam Thao company is one of the branches of Vinachem group.",
+    "English_Vocabulary_Test": [
+      "doanh thu",
+      "xuất khẩu",
+      "Sản xuất"
+    ],
+    "Fill_Blank": "Lam Thao company is one of the ______es of Vinachem group.",
+    "Mistakes": [
+      "Branch",
+      "Specialize in",
+      "Sell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.2",
+    "English": "Turnover ",
+    "Sub_English": "doanh thu",
+    "Example": "Its worldwide turnover was 5 million dollars last year.",
+    "English_Vocabulary_Test": [
+      "xuất khẩu",
+      "chi nhánh, công ty con",
+      "thành lập"
+    ],
+    "Fill_Blank": "Its worldwide ______was 5 million dollars last year.",
+    "Mistakes": [
+      "Brand",
+      "Turnover ",
+      "be based in"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.3",
+    "English": "Brand",
+    "Sub_English": "thương hiệu, nhãn hàng",
+    "Example": "Unilever’s food brands include Knorr, Lipton, Flora, etc.",
+    "English_Vocabulary_Test": [
+      "nhập khẩu",
+      "doanh thu",
+      "xuất khẩu"
+    ],
+    "Fill_Blank": "Unilever’s food ______s include Knorr, Lipton, Flora, etc.",
+    "Mistakes": [
+      "be based in",
+      "Produce",
+      "Export"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.4",
+    "English": "Sales",
+    "Sub_English": "Doanh số",
+    "Example": "Orion companies have total sales of about $3 billion a year.",
+    "English_Vocabulary_Test": [
+      "phòng ban",
+      "Sản xuất",
+      "chi nhánh, công ty con"
+    ],
+    "Fill_Blank": "Orion companies have total ______ of about $3 billion a year.",
+    "Mistakes": [
+      "Head office ",
+      "Branch",
+      "Sell"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.5",
+    "English": "Establish",
+    "Sub_English": "thành lập",
+    "Example": "It  was established in 1983.",
+    "English_Vocabulary_Test": [
+      "tuyển dụng",
+      "chuyên về",
+      "thương hiệu, nhãn hàng"
+    ],
+    "Fill_Blank": "It  was ______ed in 1983.",
+    "Mistakes": [
+      "Brand",
+      "Provide ",
+      "Division"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.6",
+    "English": "Employ",
+    "Sub_English": "tuyển dụng",
+    "Example": "Last year, the company employed about 500 people working for the group.",
+    "English_Vocabulary_Test": [
+      "cung cấp",
+      "nhập khẩu",
+      "thị phần"
+    ],
+    "Fill_Blank": "Last year, the company ______ed about 500 people working for the group.",
+    "Mistakes": [
+      "Import",
+      "Brand",
+      "Produce"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.7",
+    "English": "Provide ",
+    "Sub_English": "cung cấp",
+    "Example": "KPMG provides audits and financial advisory services.",
+    "English_Vocabulary_Test": [
+      "chuyên về",
+      "thành lập",
+      "thị phần"
+    ],
+    "Fill_Blank": "KPMG provides audits and financial advisory services.",
+    "Mistakes": [
+      "Import",
+      "Head office ",
+      "Employ"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.8",
+    "English": "Import",
+    "Sub_English": "nhập khẩu",
+    "Example": "Honda imports car steel from Japan.",
+    "English_Vocabulary_Test": [
+      "bán",
+      "chuyên về",
+      "phòng ban"
+    ],
+    "Fill_Blank": "Honda ______s car steel from Japan.",
+    "Mistakes": [
+      "be based in",
+      "Specialize in",
+      "Head office "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.9",
+    "English": "Export",
+    "Sub_English": "xuất khẩu",
+    "Example": "Samsung exports millions of mobile phones to Europe every year.",
+    "English_Vocabulary_Test": [
+      "thương hiệu, nhãn hàng",
+      "được đặt ở",
+      "trụ sở chính"
+    ],
+    "Fill_Blank": "Samsung ______s millions of mobile phones to Europe every year.",
+    "Mistakes": [
+      "Manufacture",
+      "Brand",
+      "Employ"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.10",
+    "English": "Head office ",
+    "Sub_English": "trụ sở chính",
+    "Example": "Vin Group's head office is in Hanoi.",
+    "English_Vocabulary_Test": [
+      "thị phần",
+      "phòng ban",
+      "xuất khẩu"
+    ],
+    "Fill_Blank": "Vin Group's ______is in Hanoi.",
+    "Mistakes": [
+      "Establish",
+      "Export",
+      "Employ"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.11",
+    "English": "be based in",
+    "Sub_English": "được đặt ở",
+    "Example": "The head office is based in France.",
+    "English_Vocabulary_Test": [
+      "xuất khẩu",
+      "tuyển dụng",
+      "trụ sở chính"
+    ],
+    "Fill_Blank": "The head office is based in France.",
+    "Mistakes": [
+      "Turnover ",
+      "Division",
+      "Branch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.12",
+    "English": "Division",
+    "Sub_English": "phòng ban",
+    "Example": "The company has 5 main divisions.",
+    "English_Vocabulary_Test": [
+      "doanh thu",
+      "chuyên về",
+      "trụ sở chính"
+    ],
+    "Fill_Blank": "The company has 5 main ______s.",
+    "Mistakes": [
+      "Brand",
+      "Sell",
+      "Import"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.13",
+    "English": "Market share",
+    "Sub_English": "thị phần",
+    "Example": "Vinamilk has a 20% market share in Vietnam.",
+    "English_Vocabulary_Test": [
+      "cung cấp",
+      "doanh thu",
+      "Doanh số"
+    ],
+    "Fill_Blank": "Vinamilk has a 20% ______ in Vietnam.",
+    "Mistakes": [
+      "Export",
+      "Produce",
+      "Brand"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.14",
+    "English": "Manufacture",
+    "Sub_English": "Sản xuất",
+    "Example": "Our company manufactures all kinds of smart phones' accessories.",
+    "English_Vocabulary_Test": [
+      "bán",
+      "nhập khẩu",
+      "thị phần"
+    ],
+    "Fill_Blank": "Our company ______s all kinds of smart phones' accessories.",
+    "Mistakes": [
+      "Manufacture",
+      "Head office ",
+      "Import"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.15",
+    "English": "Produce",
+    "Sub_English": "Sản xuất",
+    "Example": "France produces a great deal of wine for export.",
+    "English_Vocabulary_Test": [
+      "thương hiệu, nhãn hàng",
+      "doanh thu",
+      "chi nhánh, công ty con"
+    ],
+    "Fill_Blank": "France ______s a great deal of wine for export.",
+    "Mistakes": [
+      "Brand",
+      "Specialize in",
+      "Establish"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.16",
+    "English": "Sell",
+    "Sub_English": "bán",
+    "Example": "He sells oranges.",
+    "English_Vocabulary_Test": [
+      "thị phần",
+      "phòng ban",
+      "được đặt ở"
+    ],
+    "Fill_Blank": "He ______s oranges.",
+    "Mistakes": [
+      "Specialize in",
+      "Employ",
+      "Turnover "
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.3.17",
+    "English": "Specialize in",
+    "Sub_English": "chuyên về",
+    "Example": "This restaurant specializes in traditional food, so I go there very often.",
+    "English_Vocabulary_Test": [
+      "cung cấp",
+      "doanh thu",
+      "Sản xuất"
+    ],
+    "Fill_Blank": "This restaurant specializes in traditional food, so I go there very often.",
+    "Mistakes": [
+      "Sell",
+      "Manufacture",
+      "Branch"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.1",
+    "English": "Etiquette",
+    "Sub_English": "quy tắc ứng xử",
+    "Example": "Etiquette requires you to go out before taking a telephone during a meeting.",
+    "English_Vocabulary_Test": [
+      "cử chỉ",
+      "Ngắt lời",
+      "Có trách nhiệm"
+    ],
+    "Fill_Blank": "______ requires you to go out before taking a telephone during a meeting.",
+    "Mistakes": [
+      "Distract",
+      "Inappropriate",
+      "Punctual"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.2",
+    "English": "Manner",
+    "Sub_English": "cử chỉ",
+    "Example": "He had the bad manners not to greet any colleagues.",
+    "English_Vocabulary_Test": [
+      "Không phù hợp",
+      "xúc phạm",
+      "nghe lén"
+    ],
+    "Fill_Blank": "He had the bad ______s not to greet any colleagues.",
+    "Mistakes": [
+      "Punctual",
+      "Respect",
+      "Etiquette"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.3",
+    "English": "Impression",
+    "Sub_English": "ấn tượng",
+    "Example": "Using proper office etiquette will help new employees make a good impression on your boss.",
+    "English_Vocabulary_Test": [
+      "buôn chuyện",
+      "tôn trọng",
+      "Chuyên nghiệp"
+    ],
+    "Fill_Blank": "Using proper office etiquette will help new employees make a good ______ on your boss.",
+    "Mistakes": [
+      "Etiquette",
+      "Vibrate",
+      "Responsible"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.4",
+    "English": "Punctual",
+    "Sub_English": "Đúng giờ",
+    "Example": "Having a punctual personality is a must for a tour leader.",
+    "English_Vocabulary_Test": [
+      "Ngắt lời",
+      "quy tắc ứng xử",
+      "chế độ rung"
+    ],
+    "Fill_Blank": "Having a ______ personality is a must for a tour leader.",
+    "Mistakes": [
+      "Dress code",
+      "Responsible",
+      "Distract"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.5",
+    "English": "On time",
+    "Sub_English": "Đúng giờ",
+    "Example": "You should be on time for the meeting tomorrow.",
+    "English_Vocabulary_Test": [
+      "cử chỉ",
+      "quy tắc ứng xử",
+      "Có trách nhiệm"
+    ],
+    "Fill_Blank": "You should be ______ for the meeting tomorrow.",
+    "Mistakes": [
+      "Dress code",
+      "Respect",
+      "Distract"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.6",
+    "English": "Responsible",
+    "Sub_English": "Có trách nhiệm",
+    "Example": "He is responsible for making restaurant reservations for his guests.",
+    "English_Vocabulary_Test": [
+      "Riêng tư",
+      "cử chỉ",
+      "xúc phạm"
+    ],
+    "Fill_Blank": "He is ______ for making restaurant reservations for his guests.",
+    "Mistakes": [
+      "Offend",
+      "Eavesdrop",
+      "Distract"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.7",
+    "English": "Respect",
+    "Sub_English": "tôn trọng",
+    "Example": "When talking to your colleagues, you should show your respect to them.",
+    "English_Vocabulary_Test": [
+      "Chuyên nghiệp",
+      "quy tắc ứng xử",
+      "thái độ, quan điểm"
+    ],
+    "Fill_Blank": "When talking to your colleagues, you should show your ______ to them.",
+    "Mistakes": [
+      "Inappropriate",
+      "Etiquette",
+      "Vibrate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.8",
+    "English": "Dress code",
+    "Sub_English": "Quy định về trang phục",
+    "Example": "The company has a strict dress code",
+    "English_Vocabulary_Test": [
+      "Làm sao lãng",
+      "Đúng giờ",
+      "ấn tượng"
+    ],
+    "Fill_Blank": "The company has a strict ______",
+    "Mistakes": [
+      "Offend",
+      "Distract",
+      "Vibrate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.9",
+    "English": "Offend",
+    "Sub_English": "xúc phạm",
+    "Example": "His aggressive behavior offends other coworkers.",
+    "English_Vocabulary_Test": [
+      "Có trách nhiệm",
+      "Ngắt lời",
+      "chế độ rung"
+    ],
+    "Fill_Blank": "His aggressive behavior ______s other coworkers.",
+    "Mistakes": [
+      "Impression",
+      "Respect",
+      "Vibrate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.10",
+    "English": "Distract",
+    "Sub_English": "Làm sao lãng",
+    "Example": "Using cellphones can distract you while you’re working.",
+    "English_Vocabulary_Test": [
+      "thái độ, quan điểm",
+      "chế độ rung",
+      "Quy định về trang phục"
+    ],
+    "Fill_Blank": "Using cellphones can ______ you while you’re working.",
+    "Mistakes": [
+      "Dress code",
+      "Inappropriate",
+      "Manner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.11",
+    "English": "Attitude",
+    "Sub_English": "thái độ, quan điểm",
+    "Example": "Dressing inappropriately can make other people around you uncomfortable and can reflect your attitude towards the job.",
+    "English_Vocabulary_Test": [
+      "xúc phạm",
+      "quy tắc ứng xử",
+      "Không phù hợp"
+    ],
+    "Fill_Blank": "Dressing inappropriately can make other people around you uncomfortable and can reflect your ______ towards the job.",
+    "Mistakes": [
+      "Professional",
+      "Respect",
+      "Attitude"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.12",
+    "English": "Professional",
+    "Sub_English": "Chuyên nghiệp",
+    "Example": "Our company ensures to create a professional working environment.",
+    "English_Vocabulary_Test": [
+      "Ngắt lời",
+      "Làm sao lãng",
+      "quy tắc ứng xử"
+    ],
+    "Fill_Blank": "Our company ensures to create a ______ working environment.",
+    "Mistakes": [
+      "Vibrate",
+      "Professional",
+      "Respect"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.13",
+    "English": "Inappropriate",
+    "Sub_English": "Không phù hợp",
+    "Example": "Punishment is not the best way for a manager to deal with employees’ inappropriate behaviour.",
+    "English_Vocabulary_Test": [
+      "Đúng giờ",
+      "thái độ, quan điểm",
+      "Đúng giờ"
+    ],
+    "Fill_Blank": "Punishment is not the best way for a manager to deal with employees’ ______ behaviour.",
+    "Mistakes": [
+      "Interrupt",
+      "Distract",
+      "Gossip"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.14",
+    "English": "Vibrate",
+    "Sub_English": "chế độ rung",
+    "Example": "I'm going to put my phone on vibrate.",
+    "English_Vocabulary_Test": [
+      "nghe lén",
+      "Không phù hợp",
+      "Ngắt lời"
+    ],
+    "Fill_Blank": "I'm going to put my phone on ______.",
+    "Mistakes": [
+      "Etiquette",
+      "Punctual",
+      "Dress code"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.15",
+    "English": "Private",
+    "Sub_English": "Riêng tư",
+    "Example": "You shouldn’t listen to other people’s private conversations.",
+    "English_Vocabulary_Test": [
+      "quy tắc ứng xử",
+      "xúc phạm",
+      "Quy định về trang phục"
+    ],
+    "Fill_Blank": "You shouldn’t listen to other people’s ______ conversations.",
+    "Mistakes": [
+      "Responsible",
+      "Offend",
+      "Manner"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.16",
+    "English": "Interrupt",
+    "Sub_English": "Ngắt lời",
+    "Example": "I'm sorry to interrupt you while you're talking.",
+    "English_Vocabulary_Test": [
+      "Quy định về trang phục",
+      "Riêng tư",
+      "Đúng giờ"
+    ],
+    "Fill_Blank": "I'm sorry to ______ you while you're talking.",
+    "Mistakes": [
+      "Private",
+      "On time",
+      "Respect"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.17",
+    "English": "Gossip",
+    "Sub_English": "buôn chuyện",
+    "Example": "The manager doesn’t encourage employees to gossip about coworkers’ personal lives.",
+    "English_Vocabulary_Test": [
+      "Làm sao lãng",
+      "nghe lén",
+      "Không phù hợp"
+    ],
+    "Fill_Blank": "The manager doesn’t encourage employees to ______ about coworkers’ personal lives.",
+    "Mistakes": [
+      "Attitude",
+      "Manner",
+      "Interrupt"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.4.18",
+    "English": "Eavesdrop",
+    "Sub_English": "nghe lén",
+    "Example": "My co-worker eavesdropped on my phone calls.",
+    "English_Vocabulary_Test": [
+      "quy tắc ứng xử",
+      "buôn chuyện",
+      "Đúng giờ"
+    ],
+    "Fill_Blank": "My co-worker ______ped on my phone calls.",
+    "Mistakes": [
+      "Dress code",
+      "Inappropriate",
+      "Etiquette"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.1",
+    "English": "Broken",
+    "Sub_English": "bị hỏng",
+    "Example": "The printer in my office is broken.",
+    "English_Vocabulary_Test": [
+      "hóa đơn",
+      "hỏng, không hoạt động",
+      "lỡ, trượt, lệch"
+    ],
+    "Fill_Blank": "The printer in my office is ______.",
+    "Mistakes": [
+      "Heavy",
+      "Late",
+      "Leave the office"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.2",
+    "English": "Incorrect",
+    "Sub_English": "không chính xác",
+    "Example": "The information in such kind of document is incorrect.",
+    "English_Vocabulary_Test": [
+      "bị hỏng",
+      "ngừng hoạt động, hỏng",
+      "chật hẹp"
+    ],
+    "Fill_Blank": "The information in such kind of document is ______.",
+    "Mistakes": [
+      "Out of order",
+      "Crashed",
+      "Slow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.3",
+    "English": "Flexible",
+    "Sub_English": "linh động, linh hoạt",
+    "Example": "We enjoy flexible working hours.",
+    "English_Vocabulary_Test": [
+      "nguy hiểm",
+      "hóa đơn",
+      "rời khỏi văn phòng, tan sở"
+    ],
+    "Fill_Blank": "We enjoy ______ working hours.",
+    "Mistakes": [
+      "Messy",
+      "Invoice",
+      "Narrow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.4",
+    "English": "Instruction",
+    "Sub_English": "hướng dẫn",
+    "Example": "I can't use this photocopier because its instruction is not clear.",
+    "English_Vocabulary_Test": [
+      "chật hẹp",
+      "lộn xộn, không gọn gàng",
+      "lộn xộn, bừa bãi"
+    ],
+    "Fill_Blank": "I can't use this photocopier because its ______ is not clear.",
+    "Mistakes": [
+      "Soft",
+      "Late",
+      "Untidy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.5",
+    "English": "Heavy",
+    "Sub_English": "nặng",
+    "Example": "These folders are too heavy for me to carry.",
+    "English_Vocabulary_Test": [
+      "muộn",
+      "nguy hiểm",
+      "rời khỏi văn phòng, tan sở"
+    ],
+    "Fill_Blank": "These folders are too ______ for me to carry.",
+    "Mistakes": [
+      "Leave the office",
+      "Narrow",
+      "Broken"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.6",
+    "English": "Slow",
+    "Sub_English": "chậm",
+    "Example": "This printer is too slow to print all the documents.",
+    "English_Vocabulary_Test": [
+      "ngừng hoạt động, hỏng",
+      "linh động, linh hoạt",
+      "chật hẹp"
+    ],
+    "Fill_Blank": "This printer is too ______ to print all the documents.",
+    "Mistakes": [
+      "Tidy",
+      "Out of order",
+      "Late"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.7",
+    "English": "Safe",
+    "Sub_English": "an toàn",
+    "Example": "The shredder is not safe enough to use because there’s something wrong with it.",
+    "English_Vocabulary_Test": [
+      "không chính xác",
+      "chật hẹp",
+      "nặng"
+    ],
+    "Fill_Blank": "The shredder is not ______ enough to use because there’s something wrong with it.",
+    "Mistakes": [
+      "Invoice",
+      "Instruction",
+      "Incorrect"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.8",
+    "English": "Soft",
+    "Sub_English": "mềm",
+    "Example": "This office chair is so soft.",
+    "English_Vocabulary_Test": [
+      "hướng dẫn",
+      "lộn xộn, bừa bãi",
+      "chật hẹp"
+    ],
+    "Fill_Blank": "This office chair is so ______.",
+    "Mistakes": [
+      "Soft",
+      "Internet connection",
+      "Flexible"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.9",
+    "English": "Invoice",
+    "Sub_English": "hóa đơn",
+    "Example": "Invoices are necessary for accounting.",
+    "English_Vocabulary_Test": [
+      "nặng",
+      "chậm",
+      "hướng dẫn"
+    ],
+    "Fill_Blank": "______s are necessary for accounting.",
+    "Mistakes": [
+      "Incorrect",
+      "Late",
+      "Narrow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.10",
+    "English": "Dangerous",
+    "Sub_English": "nguy hiểm",
+    "Example": "It's very dangerous to go home from work too late.",
+    "English_Vocabulary_Test": [
+      "hóa đơn",
+      "kết nối Internet",
+      "mềm"
+    ],
+    "Fill_Blank": "It's very ______ to go home from work too late.",
+    "Mistakes": [
+      "Incorrect",
+      "Invoice",
+      "Meet the deadline"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.11",
+    "English": "Late",
+    "Sub_English": "muộn",
+    "Example": "She is always late for meetings.",
+    "English_Vocabulary_Test": [
+      "chật hẹp",
+      "linh động, linh hoạt",
+      "lộn xộn, không gọn gàng"
+    ],
+    "Fill_Blank": "She is always ______ for meetings.",
+    "Mistakes": [
+      "Incorrect",
+      "Leave the office",
+      "Messy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.12",
+    "English": "Narrow",
+    "Sub_English": "chật hẹp",
+    "Example": "This room is too narrow to put 40 chairs in.",
+    "English_Vocabulary_Test": [
+      "hỏng, không hoạt động",
+      "an toàn",
+      "kết nối Internet"
+    ],
+    "Fill_Blank": "This room is too ______ to put 40 chairs in.",
+    "Mistakes": [
+      "Tidy",
+      "Miss",
+      "Out of order"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.13",
+    "English": "Vending machine",
+    "Sub_English": "Máy bán hàng tự động",
+    "Example": "Use the vending machine when you want a snack.",
+    "English_Vocabulary_Test": [
+      "hóa đơn",
+      "hướng dẫn",
+      "nguy hiểm"
+    ],
+    "Fill_Blank": "Use the ______ when you want a snack.",
+    "Mistakes": [
+      "Untidy",
+      "Vending machine",
+      "Meet the deadline"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.14",
+    "English": "Internet connection",
+    "Sub_English": "kết nối Internet",
+    "Example": "There's always something you can do to improve your internet connection in offices.",
+    "English_Vocabulary_Test": [
+      "lỡ, trượt, lệch",
+      "không chính xác",
+      "mềm"
+    ],
+    "Fill_Blank": "There's always something you can do to improve your ______ in offices.",
+    "Mistakes": [
+      "Miss",
+      "Out of order",
+      "Soft"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.15",
+    "English": "Leave the office",
+    "Sub_English": "rời khỏi văn phòng, tan sở",
+    "Example": "Leave the office on time and don't take your work home!",
+    "English_Vocabulary_Test": [
+      "lộn xộn, bừa bãi",
+      "không chính xác",
+      "gọn gàng, ngăn nắp"
+    ],
+    "Fill_Blank": "______ on time and don't take your work home!",
+    "Mistakes": [
+      "Meet the deadline",
+      "Late",
+      "Heavy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.16",
+    "English": "Tidy",
+    "Sub_English": "gọn gàng, ngăn nắp",
+    "Example": "When your workplace is clean and tidy, it creates a more pleasant environment.",
+    "English_Vocabulary_Test": [
+      "lộn xộn, bừa bãi",
+      "Máy bán hàng tự động",
+      "bị hỏng"
+    ],
+    "Fill_Blank": "When your workplace is clean and ______, it creates a more pleasant environment.",
+    "Mistakes": [
+      "Vending machine",
+      "Slow",
+      "Meet the deadline"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.17",
+    "English": "Untidy",
+    "Sub_English": "lộn xộn, không gọn gàng",
+    "Example": "Having an untidy workspace can increase stress levels.",
+    "English_Vocabulary_Test": [
+      "muộn",
+      "linh động, linh hoạt",
+      "gọn gàng, ngăn nắp"
+    ],
+    "Fill_Blank": "Having an ______ workspace can increase stress levels.",
+    "Mistakes": [
+      "Untidy",
+      "Late",
+      "Invoice"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.18",
+    "English": "Messy",
+    "Sub_English": "lộn xộn, bừa bãi",
+    "Example": "Jane was always too busy to clean her house so her house was always messy.",
+    "English_Vocabulary_Test": [
+      "Máy bán hàng tự động",
+      "hướng dẫn",
+      "mềm"
+    ],
+    "Fill_Blank": "Jane was always too busy to clean her house so her house was always ______.",
+    "Mistakes": [
+      "Late",
+      "Vending machine",
+      "Internet connection"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.19",
+    "English": "Meet the deadline",
+    "Sub_English": "Hoàn thành đúng hạn",
+    "Example": "I'm trying to meet a deadline on 22nd this month.",
+    "English_Vocabulary_Test": [
+      "lỡ, trượt, lệch",
+      "lộn xộn, bừa bãi",
+      "hỏng, không hoạt động"
+    ],
+    "Fill_Blank": "I'm trying to meet a deadline on 22nd this month.",
+    "Mistakes": [
+      "Leave the office",
+      "Safe",
+      "Instruction"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.20",
+    "English": "Miss",
+    "Sub_English": "lỡ, trượt, lệch",
+    "Example": "When you miss a deadline, you had better provide a clear explanation.",
+    "English_Vocabulary_Test": [
+      "nguy hiểm",
+      "chậm",
+      "hướng dẫn"
+    ],
+    "Fill_Blank": "When you ______ a deadline, you had better provide a clear explanation.",
+    "Mistakes": [
+      "Vending machine",
+      "Internet connection",
+      "Leave the office"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.21",
+    "English": "Out of order",
+    "Sub_English": "hỏng, không hoạt động",
+    "Example": "The elevator is out of order, then you should use the stairs.",
+    "English_Vocabulary_Test": [
+      "rời khỏi văn phòng, tan sở",
+      "hướng dẫn",
+      "lộn xộn, không gọn gàng"
+    ],
+    "Fill_Blank": "The elevator is ______, then you should use the stairs.",
+    "Mistakes": [
+      "Internet connection",
+      "Dangerous",
+      "Narrow"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.5.22",
+    "English": "Crashed",
+    "Sub_English": "ngừng hoạt động, hỏng",
+    "Example": "We have to call technical support because the laptop is crashed again.",
+    "English_Vocabulary_Test": [
+      "nặng",
+      "chậm",
+      "lỡ, trượt, lệch"
+    ],
+    "Fill_Blank": "We have to call technical support because the laptop is ______ again.",
+    "Mistakes": [
+      "Soft",
+      "Internet connection",
+      "Invoice"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.1",
+    "English": "Cancel",
+    "Sub_English": "Hủy bỏ",
+    "Example": "They want to cancel the flight to Hanoi.",
+    "English_Vocabulary_Test": [
+      "Có sẵn",
+      "Thuận tiện",
+      "Trì hoãn"
+    ],
+    "Fill_Blank": "They want to ______ the flight to Hanoi.",
+    "Mistakes": [
+      "Appointment",
+      "Change",
+      "Schedule"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.2",
+    "English": "Postpone",
+    "Sub_English": "Trì hoãn",
+    "Example": "We postponed the meeting yesterday afternoon.",
+    "English_Vocabulary_Test": [
+      "Xoay sở được",
+      "Gắn kèm",
+      "Thuận tiện"
+    ],
+    "Fill_Blank": "We ______d the meeting yesterday afternoon.",
+    "Mistakes": [
+      "Fix",
+      "Cancel",
+      "Arrangement"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.3",
+    "English": "Change",
+    "Sub_English": "Thay đổi",
+    "Example": "We change our arrangement from 9.30 a.m. to 11.00 a.m.",
+    "English_Vocabulary_Test": [
+      "Thảo luận",
+      "Thuận tiện",
+      "Trì hoãn"
+    ],
+    "Fill_Blank": "We ______ our arrangement from 9.30 a.m. to 11.00 a.m.",
+    "Mistakes": [
+      "Attach",
+      "Disapprove",
+      "Postpone"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.4",
+    "English": "Appointment",
+    "Sub_English": "Cuộc hẹn",
+    "Example": "Kathy has an appointment with the Sales manager today.",
+    "English_Vocabulary_Test": [
+      "Hủy bỏ",
+      "Có sẵn",
+      "Thời gian biểu"
+    ],
+    "Fill_Blank": "Kathy has an ______ with the Sales manager today.",
+    "Mistakes": [
+      "Attach",
+      "Fix",
+      "Available"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.5",
+    "English": "Manage",
+    "Sub_English": "Xoay sở được",
+    "Example": "I'm sure Sarah and Max will manage to attend the meeting tomorrow.",
+    "English_Vocabulary_Test": [
+      "chốt",
+      "Thời gian biểu",
+      "Thảo luận"
+    ],
+    "Fill_Blank": "I'm sure Sarah and Max will ______ to attend the meeting tomorrow.",
+    "Mistakes": [
+      "Discuss",
+      "Hesitate",
+      "Cancel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.6",
+    "English": "Arrangement",
+    "Sub_English": "Sự sắp xếp",
+    "Example": "The secretary is in charge of making arrangements for the meeting.",
+    "English_Vocabulary_Test": [
+      "Thảo luận",
+      "Liên lạc",
+      "lịch trình"
+    ],
+    "Fill_Blank": "The secretary is in charge of making ______s for the meeting.",
+    "Mistakes": [
+      "Change",
+      "Discuss",
+      "Available"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.7",
+    "English": "Contact",
+    "Sub_English": "Liên lạc",
+    "Example": "There is little contact between the two organizations.",
+    "English_Vocabulary_Test": [
+      "Thay đổi",
+      "Gắn kèm",
+      "Cuộc hẹn"
+    ],
+    "Fill_Blank": "There is little ______ between the two organizations.",
+    "Mistakes": [
+      "Arrangement",
+      "Attach",
+      "Schedule"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.8",
+    "English": "Hesitate",
+    "Sub_English": "Do dự",
+    "Example": "Tom hesitates to complain about the product he bought last week.",
+    "English_Vocabulary_Test": [
+      "Thay đổi",
+      "lịch trình",
+      "Cuộc hẹn"
+    ],
+    "Fill_Blank": "Tom ______s to complain about the product he bought last week.",
+    "Mistakes": [
+      "Disapprove",
+      "Fix",
+      "Cancel"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.9",
+    "English": "Discuss",
+    "Sub_English": "Thảo luận",
+    "Example": "They are discussing their next project in the meeting room.",
+    "English_Vocabulary_Test": [
+      "lịch trình",
+      "Xác nhận",
+      "Thay đổi"
+    ],
+    "Fill_Blank": "They are ______ing their next project in the meeting room.",
+    "Mistakes": [
+      "Change",
+      "Contact",
+      "Fix"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.10",
+    "English": "Confirm",
+    "Sub_English": "Xác nhận",
+    "Example": "Can you confirm what happened?",
+    "English_Vocabulary_Test": [
+      "Xoay sở được",
+      "lịch trình",
+      "Gắn kèm"
+    ],
+    "Fill_Blank": "Can you ______ what happened?",
+    "Mistakes": [
+      "Available",
+      "Contact",
+      "Schedule"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.11",
+    "English": "Attach",
+    "Sub_English": "Gắn kèm",
+    "Example": "I've attached the copy of this document for you.",
+    "English_Vocabulary_Test": [
+      "Phản đối",
+      "Sự sắp xếp",
+      "Xoay sở được"
+    ],
+    "Fill_Blank": "I've ______ed the copy of this document for you.",
+    "Mistakes": [
+      "Manage",
+      "Disapprove",
+      "Arrangement"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.12",
+    "English": "Disapprove",
+    "Sub_English": "Phản đối",
+    "Example": "He always disapproves of any new ideas suggested by anyone below him in the department.",
+    "English_Vocabulary_Test": [
+      "Cuộc hẹn",
+      "Thuận tiện",
+      "Thảo luận"
+    ],
+    "Fill_Blank": "He always ______s of any new ideas suggested by anyone below him in the department.",
+    "Mistakes": [
+      "Contact",
+      "Disapprove",
+      "Discuss"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.13",
+    "English": "Fix",
+    "Sub_English": "chốt",
+    "Example": "Has the date of the next meeting been fixed?",
+    "English_Vocabulary_Test": [
+      "Hủy bỏ",
+      "Cuộc hẹn",
+      "Thảo luận"
+    ],
+    "Fill_Blank": "Has the date of the next meeting been ______ed?",
+    "Mistakes": [
+      "Cancel",
+      "Fix",
+      "Contact"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.14",
+    "English": "Timetable",
+    "Sub_English": "Thời gian biểu",
+    "Example": "I have a busy timetable this week.",
+    "English_Vocabulary_Test": [
+      "Xoay sở được",
+      "Cuộc hẹn",
+      "Thảo luận"
+    ],
+    "Fill_Blank": "I have a busy ______ this week.",
+    "Mistakes": [
+      "Contact",
+      "Fix",
+      "Confirm"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.15",
+    "English": "Schedule",
+    "Sub_English": "lịch trình",
+    "Example": "We're working to a tight schedule (= we have a lot of things to do in a short time).",
+    "English_Vocabulary_Test": [
+      "Thay đổi",
+      "Xác nhận",
+      "Xoay sở được"
+    ],
+    "Fill_Blank": "We're working to a tight ______ (= we have a lot of things to do in a short time).",
+    "Mistakes": [
+      "Timetable",
+      "Disapprove",
+      "Manage"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.16",
+    "English": "Available",
+    "Sub_English": "Có sẵn",
+    "Example": "I’m available on Saturday morning so I can see you then.",
+    "English_Vocabulary_Test": [
+      "Cuộc hẹn",
+      "Thay đổi",
+      "Do dự"
+    ],
+    "Fill_Blank": "I’m ______ on Saturday morning so I can see you then.",
+    "Mistakes": [
+      "Hesitate",
+      "Cancel",
+      "Schedule"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.6.17",
+    "English": "Convenient",
+    "Sub_English": "Thuận tiện",
+    "Example": "Is Tuesday afternoon convenient for you?",
+    "English_Vocabulary_Test": [
+      "Phản đối",
+      "Cuộc hẹn",
+      "Có sẵn"
+    ],
+    "Fill_Blank": "Is Tuesday afternoon ______ for you?",
+    "Mistakes": [
+      "Timetable",
+      "Attach",
+      "Arrangement"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.1",
+    "English": "Research",
+    "Sub_English": "Nghiên cứu",
+    "Example": "The marketing team needs to do some research if they want to meet customers’ demand.",
+    "English_Vocabulary_Test": [
+      "Chiến lược",
+      "Ra mắt",
+      "Đổi mới"
+    ],
+    "Fill_Blank": "The marketing team needs to do some ______ if they want to meet customers’ demand.",
+    "Mistakes": [
+      "Boost",
+      "Launch",
+      "Goal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.2",
+    "English": "Innovation",
+    "Sub_English": "Đổi mới",
+    "Example": "The Canon Lab was established to encourage innovations for new customer solutions.",
+    "English_Vocabulary_Test": [
+      "Mục tiêu",
+      "Ước lượng",
+      "Dự đoán, dự báo"
+    ],
+    "Fill_Blank": "The Canon Lab was established to encourage ______s for new customer solutions.",
+    "Mistakes": [
+      "Forecast",
+      "Goal",
+      "Report"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.3",
+    "English": "Goal",
+    "Sub_English": "Mục tiêu",
+    "Example": "Your company’s goals will only be effective if you have a clear vision of what you want.",
+    "English_Vocabulary_Test": [
+      "Kỳ vọng",
+      "Lựa chọn",
+      "Thúc đẩy"
+    ],
+    "Fill_Blank": "Your company’s ______s will only be effective if you have a clear vision of what you want.",
+    "Mistakes": [
+      "Deadline",
+      "Boost",
+      "Research"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.4",
+    "English": "Success",
+    "Sub_English": "Thành công",
+    "Example": "Her success comes from her dedication.",
+    "English_Vocabulary_Test": [
+      "Dự đoán, dự báo",
+      "Thúc đẩy",
+      "Báo cáo"
+    ],
+    "Fill_Blank": "Her ______ comes from her dedication.",
+    "Mistakes": [
+      "Implement",
+      "Deadline",
+      "Expect"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.5",
+    "English": "Strategy",
+    "Sub_English": "Chiến lược",
+    "Example": "Business strategy is a long-term plan of action designed to achieve a particular goal.",
+    "English_Vocabulary_Test": [
+      "Báo cáo",
+      "Thời hạn",
+      "Đổi mới"
+    ],
+    "Fill_Blank": "Business ______ is a long-term plan of action designed to achieve a particular goal.",
+    "Mistakes": [
+      "Budget",
+      "Innovation",
+      "Implement"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.6",
+    "English": "Option",
+    "Sub_English": "Lựa chọn",
+    "Example": "The team considered 2 options for the new product: red or black.",
+    "English_Vocabulary_Test": [
+      "Nghiên cứu",
+      "Thành công",
+      "Mở rộng"
+    ],
+    "Fill_Blank": "The team considered 2 ______s for the new product: red or black.",
+    "Mistakes": [
+      "Strategy",
+      "Research",
+      "Expect"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.7",
+    "English": "Budget",
+    "Sub_English": "Ngân sách",
+    "Example": "Budget is a plan of costs, revenues and resources over a specified period.",
+    "English_Vocabulary_Test": [
+      "Mở rộng",
+      "Ước lượng",
+      "Kỳ vọng"
+    ],
+    "Fill_Blank": "______ is a plan of costs, revenues and resources over a specified period.",
+    "Mistakes": [
+      "Forecast",
+      "Option",
+      "Research"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.8",
+    "English": "Report",
+    "Sub_English": "Báo cáo",
+    "Example": "A report or account is an informational work, such as writing, speech, television or film, made with the intention of relaying information or recounting events in a presentable form.",
+    "English_Vocabulary_Test": [
+      "Ước lượng",
+      "Chiến lược",
+      "Thúc đẩy"
+    ],
+    "Fill_Blank": "A ______ or account is an informational work, such as writing, speech, television or film, made with the intention of relaying information or recounting events in a presentable form.",
+    "Mistakes": [
+      "Launch",
+      "Goal",
+      "Forecast"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.9",
+    "English": "Implement",
+    "Sub_English": "Thực thi, thực hiện",
+    "Example": "It’s important to develop your market strategy before you implement your marketing plan.",
+    "English_Vocabulary_Test": [
+      "Ngân sách",
+      "Đổi mới",
+      "Thời hạn"
+    ],
+    "Fill_Blank": "It’s important to develop your market strategy before you ______ your marketing plan.",
+    "Mistakes": [
+      "Estimate",
+      "Expect",
+      "Goal"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.10",
+    "English": "Estimate",
+    "Sub_English": "Ước lượng",
+    "Example": "The scientists estimated that the revenue and market share of department stores will increase rapidly in the next quarter.",
+    "English_Vocabulary_Test": [
+      "Đổi mới",
+      "Thành công",
+      "Thời hạn"
+    ],
+    "Fill_Blank": "The scientists ______d that the revenue and market share of department stores will increase rapidly in the next quarter.",
+    "Mistakes": [
+      "Strategy",
+      "Launch",
+      "Option"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.11",
+    "English": "Forecast",
+    "Sub_English": "Dự đoán, dự báo",
+    "Example": "Accurately forecasting sales can help avoid unforeseen cash flow problems.",
+    "English_Vocabulary_Test": [
+      "Kỳ vọng",
+      "Mục tiêu",
+      "Chiến lược"
+    ],
+    "Fill_Blank": "Accurately ______ing sales can help avoid unforeseen cash flow problems.",
+    "Mistakes": [
+      "Strategy",
+      "Success",
+      "Boost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.12",
+    "English": "Boost",
+    "Sub_English": "Thúc đẩy",
+    "Example": "The government tries to boost foreign investment by reducing income tax.",
+    "English_Vocabulary_Test": [
+      "Ước lượng",
+      "Nghiên cứu",
+      "Thời hạn"
+    ],
+    "Fill_Blank": "The government tries to ______ foreign investment by reducing income tax.",
+    "Mistakes": [
+      "Expand",
+      "Goal",
+      "Estimate"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.13",
+    "English": "Launch",
+    "Sub_English": "Ra mắt",
+    "Example": "ABC company is going to launch a new line of products next month in Hanoi.",
+    "English_Vocabulary_Test": [
+      "Thúc đẩy",
+      "Thực thi, thực hiện",
+      "Kỳ vọng"
+    ],
+    "Fill_Blank": "ABC company is going to ______ a new line of products next month in Hanoi.",
+    "Mistakes": [
+      "Expect",
+      "Expand",
+      "Boost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.14",
+    "English": "Expand",
+    "Sub_English": "Mở rộng",
+    "Example": "Samsung will expand their market into Europe next year.",
+    "English_Vocabulary_Test": [
+      "Kỳ vọng",
+      "Báo cáo",
+      "Thời hạn"
+    ],
+    "Fill_Blank": "Samsung will ______ their market into Europe next year.",
+    "Mistakes": [
+      "Innovation",
+      "Implement",
+      "Boost"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.15",
+    "English": "Expect",
+    "Sub_English": "Kỳ vọng",
+    "Example": "The boss expects his employees to work hard for the benefit of the company.",
+    "English_Vocabulary_Test": [
+      "Ra mắt",
+      "Mở rộng",
+      "Thực thi, thực hiện"
+    ],
+    "Fill_Blank": "The boss ______s his employees to work hard for the benefit of the company.",
+    "Mistakes": [
+      "Innovation",
+      "Deadline",
+      "Research"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.7.16",
+    "English": "Deadline",
+    "Sub_English": "Thời hạn",
+    "Example": "The deadline will be extended until October.",
+    "English_Vocabulary_Test": [
+      "Chiến lược",
+      "Thúc đẩy",
+      "Lựa chọn"
+    ],
+    "Fill_Blank": "The ______ will be extended until October.",
+    "Mistakes": [
+      "Implement",
+      "Forecast",
+      "Strategy"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.1",
+    "English": "Maternity leave",
+    "Sub_English": "Nghỉ thai sản",
+    "Example": "She is on maternity leave.",
+    "English_Vocabulary_Test": [
+      "Lương cao",
+      "Tiền thưởng hàng năm",
+      "Giờ linh hoạt"
+    ],
+    "Fill_Blank": "She is on ______.",
+    "Mistakes": [
+      "Paternity leave",
+      "Sick leave",
+      "Company car"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.2",
+    "English": "Paternity leave",
+    "Sub_English": "Nghỉ phép của cha khi có con mới sinh",
+    "Example": "He's on paternity leave in order to look after his baby.",
+    "English_Vocabulary_Test": [
+      "Phát triển sự nghiệp",
+      "Nghỉ ốm",
+      "Tiền thưởng hàng năm"
+    ],
+    "Fill_Blank": "He's on ______ in order to look after his baby.",
+    "Mistakes": [
+      "Sick leave",
+      "Annual bonus",
+      "Flexible hours"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.3",
+    "English": "Sick leave",
+    "Sub_English": "Nghỉ ốm",
+    "Example": "He has been on sick leave for 2 weeks.",
+    "English_Vocabulary_Test": [
+      "Nhà trẻ",
+      "Xe công ty",
+      "Trợ cấp chăm sóc trẻ em"
+    ],
+    "Fill_Blank": "He has been on ______ for 2 weeks.",
+    "Mistakes": [
+      "Flexible hours",
+      "Company car",
+      "Annual bonus"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.4",
+    "English": "Flexible hours",
+    "Sub_English": "Giờ linh hoạt",
+    "Example": "Our company offers us flexible hours.",
+    "English_Vocabulary_Test": [
+      "Trợ cấp chăm sóc trẻ em",
+      "Tiền thưởng hàng năm",
+      "Nghỉ ốm"
+    ],
+    "Fill_Blank": "Our company offers us ______.",
+    "Mistakes": [
+      "Paid holiday",
+      "Sick leave",
+      "Private healthcare"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.5",
+    "English": "Paid holiday",
+    "Sub_English": "Kỳ nghỉ (có hưởng lương)",
+    "Example": "My benefits in the new company include both paid holiday and overseas travel.",
+    "English_Vocabulary_Test": [
+      "Giờ linh hoạt",
+      "Chính sách lương hưu",
+      "Thành viên phòng tập"
+    ],
+    "Fill_Blank": "My benefits in the new company include both ______ and overseas travel.",
+    "Mistakes": [
+      "Flexible hours",
+      "Maternity leave",
+      "Paid holiday"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.6",
+    "English": "Private healthcare",
+    "Sub_English": "Chăm sóc sức khỏe cá nhân",
+    "Example": "My staffs are provided with private healthcare.",
+    "English_Vocabulary_Test": [
+      "Trợ cấp chăm sóc trẻ em",
+      "Nghỉ thai sản",
+      "Xe công ty"
+    ],
+    "Fill_Blank": "My staffs are provided with ______.",
+    "Mistakes": [
+      "Pension scheme",
+      "Company car",
+      "Crèche"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.7",
+    "English": "Gym membership",
+    "Sub_English": "Thành viên phòng tập",
+    "Example": "We both have gym membership cards.",
+    "English_Vocabulary_Test": [
+      "Tiền thưởng hàng năm",
+      "Nghỉ ốm",
+      "Nghỉ thai sản"
+    ],
+    "Fill_Blank": "We both have ______ cards.",
+    "Mistakes": [
+      "Crèche",
+      "Sick leave",
+      "Career development"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.8",
+    "English": "Company car",
+    "Sub_English": "Xe công ty",
+    "Example": "I always drive the company car on business trips.",
+    "English_Vocabulary_Test": [
+      "Thành viên phòng tập",
+      "Nghỉ phép của cha khi có con mới sinh",
+      "Chăm sóc sức khỏe cá nhân"
+    ],
+    "Fill_Blank": "I always drive the ______ on business trips.",
+    "Mistakes": [
+      "Gym membership",
+      "Sick leave",
+      "Paternity leave"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.9",
+    "English": "Annual bonus",
+    "Sub_English": "Tiền thưởng hàng năm",
+    "Example": "Our annual bonus is low.",
+    "English_Vocabulary_Test": [
+      "Thành viên phòng tập",
+      "Nghỉ thai sản",
+      "Chăm sóc sức khỏe cá nhân"
+    ],
+    "Fill_Blank": "Our ______ is low.",
+    "Mistakes": [
+      "Gym membership",
+      "Good pay",
+      "Subsidized childcare"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.10",
+    "English": "Subsidized childcare",
+    "Sub_English": "Trợ cấp chăm sóc trẻ em",
+    "Example": "We take advantage of our subsidized childcare.",
+    "English_Vocabulary_Test": [
+      "Nghỉ phép của cha khi có con mới sinh",
+      "Chính sách lương hưu",
+      "Giờ linh hoạt"
+    ],
+    "Fill_Blank": "We take advantage of our ______.",
+    "Mistakes": [
+      "Gym membership",
+      "Flexible hours",
+      "Paternity leave"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.11",
+    "English": "Pension scheme",
+    "Sub_English": "Chính sách lương hưu",
+    "Example": "They joined the company because of its pension schemes.",
+    "English_Vocabulary_Test": [
+      "Lương cao",
+      "Nhà trẻ",
+      "Kỳ nghỉ (có hưởng lương)"
+    ],
+    "Fill_Blank": "They joined the company because of its ______s.",
+    "Mistakes": [
+      "Maternity leave",
+      "Paid holiday",
+      "Company car"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.12",
+    "English": "Crèche",
+    "Sub_English": "Nhà trẻ",
+    "Example": "My company has a modern crèche.",
+    "English_Vocabulary_Test": [
+      "Nghỉ phép của cha khi có con mới sinh",
+      "Xe công ty",
+      "Thành viên phòng tập"
+    ],
+    "Fill_Blank": "My company has a modern ______.",
+    "Mistakes": [
+      "Pension scheme",
+      "Crèche",
+      "Subsidized childcare"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.13",
+    "English": "Good pay",
+    "Sub_English": "Lương cao",
+    "Example": "He gets good pay from that job.",
+    "English_Vocabulary_Test": [
+      "Nghỉ ốm",
+      "Nhà trẻ",
+      "Chính sách lương hưu"
+    ],
+    "Fill_Blank": "He gets ______ from that job.",
+    "Mistakes": [
+      "Private healthcare",
+      "Maternity leave",
+      "Paternity leave"
+    ],
+    "Status": 0
+  },
+  {
+    "ID": "English_Business_3.8.14",
+    "English": "Career development",
+    "Sub_English": "Phát triển sự nghiệp",
+    "Example": "His wife supports him a lot, that’s why he can focus on his career development.",
+    "English_Vocabulary_Test": [
+      "Tiền thưởng hàng năm",
+      "Trợ cấp chăm sóc trẻ em",
+      "Giờ linh hoạt"
+    ],
+    "Fill_Blank": "His wife supports him a lot, that’s why he can focus on his ______.",
+    "Mistakes": [
+      "Gym membership",
+      "Sick leave",
+      "Good pay"
+    ],
+    "Status": 0
+  }
+]

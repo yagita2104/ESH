@@ -25,13 +25,14 @@
         android:layout_centerInParent="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:stretchColumns="*"
         android:padding="16dp"
         android:layout_gravity="center"
-        android:showDividers="middle|end|beginning"
+        android:showDividers="end"
         android:divider="@color/black"
         android:dividerPadding="5dp"
-        android:id="@+id/tableLayout">
+        android:id="@+id/tableLayout"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
         <!-- Header row -->
         <TableRow>
             <TextView
@@ -39,19 +40,22 @@
                 android:text="Câu hỏi"
                 android:padding="8dp"
                 android:textColor="@color/black"
-                android:layout_weight="1" />
+                android:layout_weight="1"
+                />
             <TextView
                 android:layout_column="1"
                 android:text="Câu trả lời"
                 android:padding="8dp"
                 android:textColor="@color/black"
-                android:layout_weight="2" />
+                android:layout_weight="2"
+                />
             <TextView
                 android:layout_column="2"
                 android:text="Đáp án"
                 android:padding="8dp"
                 android:textColor="@color/black"
-                android:layout_weight="2" />
+                android:layout_weight="2"
+                />
         </TableRow>
     </TableLayout>
 
