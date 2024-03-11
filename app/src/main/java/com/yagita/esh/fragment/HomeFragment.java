@@ -92,12 +92,14 @@ public class HomeFragment extends Fragment{
         String name = preferences.getString("name", "");
         String specialize = preferences.getString("spec", "");
         String term = preferences.getString("term", "");
+        String unit = preferences.getString("unit", "");
 
         if (!name.isEmpty() && !specialize.isEmpty() && !term.isEmpty()) {
             txtName.setText(name);
             specialize = "Khoa " + specialize;
             txtSpecialize.setText(specialize);
             spnTerm.setSelection(Integer.parseInt(term) - 1);
+            spnUnit.setSelection(Integer.parseInt(unit) - 1);
         }
 
     }

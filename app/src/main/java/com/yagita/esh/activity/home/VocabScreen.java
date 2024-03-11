@@ -1,9 +1,10 @@
 package com.yagita.esh.activity.home;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.viewpager2.widget.ViewPager2;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import android.view.View;
@@ -16,6 +17,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.yagita.esh.R;
+import com.yagita.esh.adapter.MyAdapter;
 import com.yagita.esh.db.VocabDAO;
 import com.yagita.esh.model.Vocabulary;
 
@@ -23,8 +25,8 @@ import java.util.List;
 import java.util.Locale;
 
 public class VocabScreen extends AppCompatActivity {
-    ImageView btnBackStorage, btnListVocab, btnBack, btnUnknow, btnKnow, btnNext, imgIllustration, imgVocabSpeech;
-    TextView txtWord, txtWordTranslate, txtSentences, txtAmountVocabUnknow, txtAmountVocabKnow;
+    ImageView btnBackStorage, btnListVocab, btnUnknow, btnKnow, imgIllustration;
+    TextView  txtAmountVocabUnknow, txtAmountVocabKnow;
 //    TextView txtSpelling;
     TextToSpeech textToSpeech;
     //Xử lý json
@@ -36,7 +38,8 @@ public class VocabScreen extends AppCompatActivity {
     int know = 0, unknown = 0;
     LinearLayout llNNA;
     Spinner spnNNA;
-
+    ViewPager2 viewPager2;
+    MyAdapter adapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,7 +59,7 @@ public class VocabScreen extends AppCompatActivity {
         unknown = vocabListUnknown.size();
 
         getWidget();
-        setItem(vocabListUnknown.get(0));
+        viewPager2.setCurrentItem(0);
         addAction();
 
 
@@ -65,13 +68,8 @@ public class VocabScreen extends AppCompatActivity {
     private void getWidget() {
         btnBackStorage = findViewById(R.id.btnBackStorage);
         btnListVocab = findViewById(R.id.btnListVocab);
-        btnBack = findViewById(R.id.btnBack);
         btnUnknow = findViewById(R.id.btnUnknown);
         btnKnow = findViewById(R.id.btnKnow);
-        btnNext = findViewById(R.id.btnNext);
-        txtWord = findViewById(R.id.txtWord);
-        txtWordTranslate = findViewById(R.id.txtWordTranslate);
-        txtSentences = findViewById(R.id.txtSentences);
 
         txtAmountVocabUnknow = findViewById(R.id.txtAmountVocabUnknow);
         txtAmountVocabKnow = findViewById(R.id.txtAmountVocabKnow);
@@ -79,7 +77,6 @@ public class VocabScreen extends AppCompatActivity {
         txtAmountVocabUnknow.setText(unknown+"");
 //        imgIllustration = findViewById(R.id.imgIllustration);
 //        txtSpelling = findViewById(R.id.txtSpelling);
-        imgVocabSpeech = findViewById(R.id.imgVocabSpeech);
 
         llNNA = findViewById(R.id.llNNA);
         spnNNA = findViewById(R.id.spnNNA);
@@ -89,14 +86,62 @@ public class VocabScreen extends AppCompatActivity {
         spnNNA.setAdapter(adapterNNA);
         if(vocabDAO.getIdNNA().equals("English_English_Language_")){
             llNNA.setVisibility(View.VISIBLE);
-            Toast.makeText(this, vocabDAO.getIdNNA(), Toast.LENGTH_SHORT).show();
         }
+
+        viewPager2 = findViewById(R.id.viewPager2);
+        adapter = new MyAdapter(this  , vocabListUnknown);
+        viewPager2.setAdapter(adapter);
+        viewPager2.setPageTransformer(new ViewPager2.PageTransformer() {
+            @Override
+            public void transformPage(@NonNull View page, float position) {
+                float MIN_SCALE = 0.85f;
+                float MIN_ALPHA = 0.5f;
+
+                if (position < -1) { // [-Infinity,-1)
+                    // This page is way off-screen to the left.
+                    page.setAlpha(0);
+                } else if (position <= 1) { // [-1,1]
+                    // Modify the default slide transition to shrink the page as well
+                    float scaleFactor = Math.max(MIN_SCALE, 1 - Math.abs(position));
+                    float verticalMargin = page.getHeight() * (1 - scaleFactor) / 2;
+                    float horizontalMargin = page.getWidth() * (1 - scaleFactor) / 2;
+                    if (position < 0) {
+                        page.setTranslationX(horizontalMargin - verticalMargin / 2);
+                    } else {
+                        page.setTranslationX(-horizontalMargin + verticalMargin / 2);
+                    }
+
+                    // Scale the page down (between MIN_SCALE and 1)
+                    page.setScaleX(scaleFactor);
+                    page.setScaleY(scaleFactor);
+
+                    // Fade the page relative to its size.
+                    page.setAlpha(MIN_ALPHA + (scaleFactor - MIN_SCALE) / (1 - MIN_SCALE) * (1 - MIN_ALPHA));
+                } else { // (1,+Infinity]
+                    // This page is way off-screen to the right.
+                    page.setAlpha(0);
+                }
+            }
+        });
+
     }
+    private void getCurrentVocabulary() {
+        int currentPosition = viewPager2.getCurrentItem();
+        Vocabulary currentVocabulary = ((MyAdapter) viewPager2.getAdapter()).getVocabularyAtPosition(currentPosition);
+        // Bây giờ bạn có thể sử dụng currentVocabulary để làm gì đó
+    }
+
     private void nextVocab(){
-        if((index + 1) < vocabListUnknown.size()){
+        int index = viewPager2.getCurrentItem();
+        if(index < vocabListUnknown.size()){
             index++;
-            setItem(vocabListUnknown.get(index));
-        }else{
+            viewPager2.setCurrentItem(index, true);
+
+        }else if(index == 0){
+            index++;
+            viewPager2.setCurrentItem(index, true);
+        }
+        else{
             Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
         }
     }
@@ -113,35 +158,33 @@ public class VocabScreen extends AppCompatActivity {
                 startActivity(new Intent(VocabScreen.this, VocabAllScreen.class));
             }
         });
-        btnNext.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                nextVocab();
-            }
-        });
-        btnBack.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if(index != 0){
-                    index--;
-                    setItem(vocabListUnknown.get(index));
-                }else{
-                    Toast.makeText(VocabScreen.this, "Không còn từ vựng", Toast.LENGTH_SHORT).show();
-                }
-            }
-        });
         btnKnow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Toast.makeText(VocabScreen.this, "Đã học", Toast.LENGTH_SHORT).show();
-                vocabListUnknown.get(index).setStatus(1);
-                vocabDAO.setStatus(vocabListUnknown.get(index));
-                vocabListUnknown.remove(index);
-                setItem(vocabListUnknown.get(index));
-                know++;
-                unknown--;
-                txtAmountVocabKnow.setText(know+"");
-                txtAmountVocabUnknow.setText(unknown+"");
+                int index = viewPager2.getCurrentItem();
+                if(index > 0){
+                    vocabListUnknown.get(index).setStatus(1);
+                    vocabDAO.setStatus(vocabListUnknown.get(index));
+                    vocabListUnknown.remove(index);
+                    viewPager2.setAdapter(new MyAdapter(VocabScreen.this, vocabListUnknown));
+                    viewPager2.setCurrentItem(index);
+                    know++;
+                    unknown--;
+                    txtAmountVocabKnow.setText(know+"");
+                    txtAmountVocabUnknow.setText(unknown+"");
+                } else if (index == 0) {
+                    vocabListUnknown.get(index).setStatus(1);
+                    vocabDAO.setStatus(vocabListUnknown.get(index));
+                    vocabListUnknown.remove(index);
+                    viewPager2.setAdapter(new MyAdapter(VocabScreen.this, vocabListUnknown));
+                    viewPager2.setCurrentItem(index);
+                    know++;
+                    unknown--;
+                    txtAmountVocabKnow.setText(know+"");
+                    txtAmountVocabUnknow.setText(unknown+"");
+                } else {
+                    Toast.makeText(VocabScreen.this, "Đã hết từ vựng", Toast.LENGTH_SHORT).show();
+                }
             }
         });
         btnUnknow.setOnClickListener(new View.OnClickListener() {
@@ -149,6 +192,7 @@ public class VocabScreen extends AppCompatActivity {
             public void onClick(View view) {
                 //Toast.makeText(VocabScreen.this, "Chưa học", Toast.LENGTH_SHORT).show();
                 nextVocab();
+                viewPager2.setAdapter(new MyAdapter(VocabScreen.this, vocabListUnknown));
             }
         });
         // Text to speech
@@ -163,13 +207,13 @@ public class VocabScreen extends AppCompatActivity {
                 }
             }
         });
-        imgVocabSpeech.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                textToSpeech.speak(txtWord.getText(), TextToSpeech.QUEUE_FLUSH, null, null);
-
-            }
-        });
+//        imgVocabSpeech.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                textToSpeech.speak(txtWord.getText(), TextToSpeech.QUEUE_FLUSH, null, null);
+//
+//            }
+//        });
         if(vocabDAO.getIdNNA().equals("English_English_Language_")){
             spnNNA.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 @Override
@@ -177,8 +221,8 @@ public class VocabScreen extends AppCompatActivity {
                     String str = spnNNA.getSelectedItem().toString();
                     vocabListKnown = vocabDAO.getListVocabKnownNNA(str);
                     vocabListUnknown = vocabDAO.getListVocabUnknownNNA(str);
-
-                    setItem(vocabListUnknown.get(0));
+                    viewPager2.setAdapter(new MyAdapter(VocabScreen.this, vocabListUnknown));
+                    viewPager2.setCurrentItem(0);
                     know = vocabListKnown.size();
                     unknown = vocabListUnknown.size();
 
@@ -192,16 +236,7 @@ public class VocabScreen extends AppCompatActivity {
                 }
             });
         }
-
     }
 
-    private void setItem(Vocabulary a){
-        if (a.getStatus() == 0){
-            txtWord.setText(a.getEnglish());
-//            txtSpelling.setText(a.getEnglish());
-            txtWordTranslate.setText(a.getSub_English());
-            txtSentences.setText(a.getExample());
-        }
-    }
 
 }

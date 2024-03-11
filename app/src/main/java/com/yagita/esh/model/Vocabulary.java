@@ -1,8 +1,9 @@
 package com.yagita.esh.model;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Vocabulary {
+public class Vocabulary implements Serializable {
     private String ID;
     private String English;
     private String Sub_English;
