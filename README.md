@@ -19,3 +19,4 @@
 - 27/02/2024: Hoàn thiện phần dữ liệu của CNTT
 - 29/02/2024: Hoàn thiện code
 - 11/03/2024: Chỉnh sửa phần từ vựng
+- 17/03/2024: Cập nhật lại bottom navigation, tên ứng dụng

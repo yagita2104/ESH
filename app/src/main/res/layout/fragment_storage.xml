@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
     tools:context=".fragment.StorageFragment">
     <ImageView
         android:id="@+id/imgESH"
@@ -10,10 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:layout_marginStart="20dip"
-        android:layout_marginTop="20dip"
-        android:layout_marginEnd="20dip"
-        android:layout_marginBottom="20dip"
+        android:layout_margin="20dp"
         android:src="@drawable/title" />
 
     <ImageView

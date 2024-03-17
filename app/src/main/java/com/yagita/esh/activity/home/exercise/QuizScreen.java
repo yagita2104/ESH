@@ -153,6 +153,10 @@ public class QuizScreen extends AppCompatActivity {
         btnNextQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                btnQuizAnswer0.setEnabled(true);
+                btnQuizAnswer1.setEnabled(true);
+                btnQuizAnswer2.setEnabled(true);
+                btnQuizAnswer3.setEnabled(true);
                 if((index + 1) < vocabularyList.size()){
                     index++;
                     setItem(vocabularyList.get(index));
@@ -179,6 +183,9 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     playSound(true);
+                    btnQuizAnswer1.setEnabled(false);
+                    btnQuizAnswer2.setEnabled(false);
+                    btnQuizAnswer3.setEnabled(false);
                 }
                 else {
                     btnQuizAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
@@ -195,6 +202,10 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnQuizAnswer0.setEnabled(false);
+                    btnQuizAnswer2.setEnabled(false);
+                    btnQuizAnswer3.setEnabled(false);
                 }
                 else {
                     btnQuizAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
@@ -211,6 +222,10 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnQuizAnswer0.setEnabled(false);
+                    btnQuizAnswer1.setEnabled(false);
+                    btnQuizAnswer3.setEnabled(false);
                 }
                 else {
                     btnQuizAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));
@@ -227,6 +242,10 @@ public class QuizScreen extends AppCompatActivity {
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_1)));
                     btnNextQuiz.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnQuizAnswer1.setEnabled(false);
+                    btnQuizAnswer2.setEnabled(false);
+                    btnQuizAnswer0.setEnabled(false);
                 }
                 else {
                     btnQuizAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(QuizScreen.this, R.color.home_color_button_2)));

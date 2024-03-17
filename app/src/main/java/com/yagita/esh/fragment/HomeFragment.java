@@ -60,6 +60,7 @@ public class HomeFragment extends Fragment{
         getWidget(view);
         addAction();
         vocabDAO = new VocabDAO(view.getContext());
+        vocabDAO.getListVocabKnown();
         return view;
     }
     public void getWidget(View view){
@@ -75,12 +76,12 @@ public class HomeFragment extends Fragment{
 
         spnTerm = view.findViewById(R.id.spnTerm);
         String[] termList = new String[] {"1", "2", "3", "4", "5", "6"};
-        ArrayAdapter<String> adapterTerm = new ArrayAdapter<>(requireContext(), android.R.layout.simple_spinner_dropdown_item, termList);
+        ArrayAdapter<String> adapterTerm = new ArrayAdapter<>(requireContext(), R.layout.item_spinner, R.id.spnText, termList);
         spnTerm.setAdapter(adapterTerm);
 
         spnUnit = view.findViewById(R.id.spnUnit);
         String[] unitList = new String[] {"1", "2", "3", "4", "5", "6", "7", "8"};
-        ArrayAdapter<String> adapterUnit = new ArrayAdapter<>(requireContext(), android.R.layout.simple_spinner_dropdown_item, unitList);
+        ArrayAdapter<String> adapterUnit = new ArrayAdapter<>(requireContext(), R.layout.item_spinner, R.id.spnText, unitList);
         spnUnit.setAdapter(adapterUnit);
 
 

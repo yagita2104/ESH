@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
     tools:context=".fragment.SettingsFragment">
     <ImageView
         android:id="@+id/imgESH"
@@ -10,10 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:layout_marginStart="20dip"
-        android:layout_marginTop="20dip"
-        android:layout_marginEnd="20dip"
-        android:layout_marginBottom="20dip"
+        android:layout_margin="20dp"
         android:src="@drawable/title" />
 
     <ImageView
@@ -23,21 +21,22 @@
         android:layout_below="@+id/imgESH"
         android:layout_centerInParent="true"
         android:src="@drawable/title2" />
+
     <LinearLayout
-        android:layout_below="@id/title2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:padding="15dp"
-        android:orientation="vertical">
+        android:layout_height="match_parent"
+        android:layout_below="@id/title2"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="15dp">
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnLanguage"
-            android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dip"
+            android:background="@drawable/rectangle"
+            android:backgroundTint="@color/home_color_button_1"
             android:drawableStart="@drawable/settings_ic_button_1"
             android:drawablePadding="20dip"
             android:gravity="start|center_vertical"
@@ -46,52 +45,55 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnSpecialized"
-            android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="20dip"
             android:layout_margin="10dip"
+            android:background="@drawable/rectangle"
+            android:backgroundTint="@color/home_color_button_2"
             android:drawableStart="@drawable/settings_ic_button_2"
             android:drawablePadding="20dip"
             android:gravity="start|center_vertical"
-            android:text="Chuyên ngành"/>
+            android:padding="20dip"
+            android:text="Chuyên ngành" />
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnNotification"
-            android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="20dip"
             android:layout_margin="10dip"
+            android:background="@drawable/rectangle"
+            android:backgroundTint="@color/home_color_button_3"
             android:drawableLeft="@drawable/settings_ic_button_3"
             android:drawablePadding="20dip"
             android:gravity="left|center_vertical"
-            android:text="Thông báo"/>
+            android:padding="20dip"
+            android:text="Thông báo" />
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnFeedback"
-            android:background="@drawable/rectangle"
-            android:backgroundTint="@color/home_color_button_4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="20dip"
             android:layout_margin="10dip"
+            android:background="@drawable/rectangle"
+            android:backgroundTint="@color/home_color_button_4"
             android:drawableLeft="@drawable/settings_ic_button_4"
             android:drawablePadding="20dip"
             android:gravity="left|center_vertical"
-            android:text="Phản hồi"/>
+            android:padding="20dip"
+            android:text="Phản hồi" />
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnMoreSettings"
-            android:background="@drawable/rectangle"
-            android:backgroundTint="@color/bottom_nav"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="20dip"
             android:layout_margin="10dip"
+            android:background="@drawable/rectangle"
+            android:backgroundTint="@color/bottom_nav"
             android:drawableLeft="@drawable/settings_ic_button_5"
             android:drawablePadding="20dip"
             android:gravity="left|center_vertical"
-            android:text="Cài đặt khác"/>
+            android:padding="20dip"
+            android:text="Cài đặt khác" />
     </LinearLayout>
 
 </RelativeLayout>

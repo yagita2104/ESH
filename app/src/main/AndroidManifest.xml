@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/icon_app"
+        android:icon="@drawable/title"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ESH"
         tools:targetApi="31">
         <activity
+            android:name=".activity.MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".activity.test.CheckScreen"
             android:exported="false" />
         <activity
             android:name=".activity.test.TestScreen"
             android:exported="false" />
+
         <activity
             android:name=".activity.WelcomeScreen"
             android:exported="true">
@@ -29,6 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
             android:name=".activity.home.exercise.FillBlankScreen"
             android:exported="false" />
@@ -70,9 +74,6 @@
             android:exported="false" />
         <activity
             android:name=".activity.home.VocabScreen"
-            android:exported="false" />
-        <activity
-            android:name=".activity.MainActivity"
             android:exported="false" />
     </application>
 

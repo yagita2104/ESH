@@ -114,6 +114,10 @@ public class FillBlankScreen extends AppCompatActivity {
         btnNextFill.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                btnFillAnswer0.setEnabled(true);
+                btnFillAnswer1.setEnabled(true);
+                btnFillAnswer2.setEnabled(true);
+                btnFillAnswer3.setEnabled(true);
                 if((index + 1) < vocabularyList.size()){
                     index++;
                     setItem(vocabularyList.get(index));
@@ -140,6 +144,10 @@ public class FillBlankScreen extends AppCompatActivity {
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnFillAnswer1.setEnabled(false);
+                    btnFillAnswer2.setEnabled(false);
+                    btnFillAnswer3.setEnabled(false);
                 }
                 else {
                     btnFillAnswer0.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
@@ -156,6 +164,10 @@ public class FillBlankScreen extends AppCompatActivity {
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnFillAnswer0.setEnabled(false);
+                    btnFillAnswer2.setEnabled(false);
+                    btnFillAnswer3.setEnabled(false);
                 }
                 else {
                     btnFillAnswer1.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
@@ -172,6 +184,10 @@ public class FillBlankScreen extends AppCompatActivity {
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnFillAnswer0.setEnabled(false);
+                    btnFillAnswer1.setEnabled(false);
+                    btnFillAnswer3.setEnabled(false);
                 }
                 else {
                     btnFillAnswer2.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));
@@ -188,6 +204,10 @@ public class FillBlankScreen extends AppCompatActivity {
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_1)));
                     btnNextFill.setVisibility(View.VISIBLE);
                     playSound(true);
+
+                    btnFillAnswer0.setEnabled(false);
+                    btnFillAnswer1.setEnabled(false);
+                    btnFillAnswer2.setEnabled(false);
                 }
                 else {
                     btnFillAnswer3.setBackgroundTintList(ColorStateList.valueOf(ContextCompat.getColor(FillBlankScreen.this, R.color.home_color_button_2)));

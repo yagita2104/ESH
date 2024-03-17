@@ -132,6 +132,7 @@ public class WelcomeScreen extends AppCompatActivity {
                         }
                     }
                     editor.apply();
+                    Toast.makeText(WelcomeScreen.this, "Vui lòng đợi 5 - 10s để hoàn tất dữ liệu", Toast.LENGTH_LONG).show();
                     startActivity(intent);
                 }
             }

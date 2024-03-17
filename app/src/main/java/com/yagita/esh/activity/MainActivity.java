@@ -2,6 +2,8 @@ package com.yagita.esh.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 import androidx.viewpager2.widget.ViewPager2;
 
@@ -11,65 +13,76 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.etebarian.meowbottomnavigation.MeowBottomNavigation;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 import com.yagita.esh.R;
 import com.yagita.esh.adapter.ViewPagerAdapter;
+import com.yagita.esh.fragment.HomeFragment;
+import com.yagita.esh.fragment.SettingsFragment;
+import com.yagita.esh.fragment.StorageFragment;
+import com.yagita.esh.fragment.TestFragment;
 
 public class MainActivity extends AppCompatActivity {
-    BottomNavigationView bottomNav;
-    ViewPager2 viewPager2;
+    MeowBottomNavigation bottomNavigation;
+    ViewPager2 viewPager;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        bottomNav = findViewById(R.id.bottomNav);
-        viewPager2 = findViewById(R.id.viewPager2);
-        setUpViewPager();
-        bottomNav.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
+
+        bottomNavigation = findViewById(R.id.bottomNav);
+        viewPager = findViewById(R.id.viewPager2);
+
+        setupViewPager();
+        setupBottomNavigation();
+    }
+
+    private void setupViewPager() {
+        viewPager.setAdapter(new ViewPagerAdapter(this));
+        bottomNavigation.show(0, true);
+        bottomNavigation.setOnShowListener(new MeowBottomNavigation.ShowListener() {
             @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                if(item.getItemId() == R.id.mnuHome){
-                    viewPager2.setCurrentItem(0);
-                }else if(item.getItemId() == R.id.mnuStorage){
-                    viewPager2.setCurrentItem(1);
-                } else if (item.getItemId() == R.id.mnuTest) {
-                    viewPager2.setCurrentItem(2);
-                } else if (item.getItemId() == R.id.mnuSettings) {
-                    viewPager2.setCurrentItem(3);
-                }
-                return true;
+            public void onShowItem(MeowBottomNavigation.Model item) {
+
             }
+
         });
     }
 
-    private void setUpViewPager() {
-        ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager(), getLifecycle());
-        viewPager2.setAdapter(viewPagerAdapter);
-        viewPager2.registerOnPageChangeCallback(new ViewPager2.OnPageChangeCallback() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-                super.onPageScrolled(position, positionOffset, positionOffsetPixels);
-            }
+    private void setupBottomNavigation() {
+        bottomNavigation.add(new MeowBottomNavigation.Model(0, R.drawable.home_ic_bottom_nav_1));
+        bottomNavigation.add(new MeowBottomNavigation.Model(1, R.drawable.home_ic_bottom_nav_2));
+        bottomNavigation.add(new MeowBottomNavigation.Model(2, R.drawable.home_ic_bottom_nav_3));
+        bottomNavigation.add(new MeowBottomNavigation.Model(3, R.drawable.home_ic_bottom_nav_4));
 
+        bottomNavigation.setOnClickMenuListener(new MeowBottomNavigation.ClickListener() {
             @Override
-            public void onPageSelected(int position) {
-                switch (position){
+            public void onClickItem(MeowBottomNavigation.Model item) {
+                switch (item.getId()) {
                     case 0:
-                        bottomNav.getMenu().findItem(R.id.mnuHome).setChecked(true);
+                        viewPager.setCurrentItem(0);
                         break;
                     case 1:
-                        bottomNav.getMenu().findItem(R.id.mnuStorage).setChecked(true);
+                        viewPager.setCurrentItem(1);
                         break;
                     case 2:
-                        bottomNav.getMenu().findItem(R.id.mnuTest).setChecked(true);
+                        viewPager.setCurrentItem(2);
                         break;
                     case 3:
-                        bottomNav.getMenu().findItem(R.id.mnuSettings).setChecked(true);
+                        viewPager.setCurrentItem(3);
                         break;
                 }
-
             }
         });
+
+        viewPager.registerOnPageChangeCallback(new ViewPager2.OnPageChangeCallback() {
+            @Override
+            public void onPageSelected(int position) {
+                bottomNavigation.show(position, true);
+            }
+        });
+
+
     }
 }

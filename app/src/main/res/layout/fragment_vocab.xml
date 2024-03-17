@@ -53,25 +53,27 @@
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
+            <ScrollView
+                android:layout_marginTop="-35dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:scrollbarStyle="outsideInset"
+                android:fadeScrollbars="false"
+                android:layout_below="@+id/txtWordTranslate">
+                <TextView
+                    android:id="@+id/txtSentences"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Blockchain is likely to become the key technology behind many central bank digital currencies.fjdsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdddđ"
+                    android:textColor="@color/black"
 
+                    android:textAlignment="center"
+                    android:textSize="18sp"/>
+            </ScrollView>
         </RelativeLayout>
 
     </androidx.cardview.widget.CardView>
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/cardview"
-        android:background="@drawable/rectangle"
-        android:backgroundTint="#fff4b7">
-        <TextView
-            android:id="@+id/txtSentences"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Blockchain is likely to become the key technology behind many central bank digital currencies.fjdsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdddđ"
-            android:textColor="@color/black"
-            android:padding="20dp"
-            android:textAlignment="center"
-            android:textSize="18sp"/>
-    </ScrollView>
+
 
 </RelativeLayout>
